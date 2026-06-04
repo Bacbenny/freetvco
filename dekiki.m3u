@@ -143,8 +143,8 @@ https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3hd" tvg-name="HTV3 HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/HTV3_logo_12-2022.png/revision/latest?cb=20260414043041&path-prefix=vi" group-title="HTV/HTVC",HTV3 HD
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv4hd" tvg-name="HTV4 HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HTV4_2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260424031742&path-prefix=vi" group-title="HTV/HTVC",HTV4 HD
-https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
+https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_Keys
 #EXTINF:-1 tvg-id="htv5hd" tvg-name="HTV5 HD | Bchannel" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/HTV5_Bchannel_logo_02-2026.png/revision/latest?cb=20260510082555&path-prefix=vi" group-title="HTV/HTVC",HTV5 HD | Bchannel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/HTV7_logo_ch%C3%ADnh_31-12-2024.png/revision/latest?cb=20260413042718&path-prefix=vi" group-title="HTV/HTVC",HTV7 HD
