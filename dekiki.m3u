@@ -541,7 +541,6 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus12
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
-#EXTM3U
 #EXTINF:-1 tvg-id="360-anime" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Anime
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-anime/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="360-bundesliga" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Bundesliga
