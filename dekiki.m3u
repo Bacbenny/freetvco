@@ -341,7 +341,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg" group-title="In The Box",Box Movie 1 HD
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png" group-title="In The Box",Box Movie 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
