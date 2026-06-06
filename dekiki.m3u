@@ -605,18 +605,18 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894978&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894979&extension=ts
 #EXTINF:-1 tvg-name="TNT SPORTS 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS 4
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894980&extension=ts
-#EXTINF:-1 tvg-name="ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO SPORT",ZIGGO SPORT 1 HD
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894968&extension=ts
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO SPORT",ZIGGO SPORT 2 HD
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894969&extension=ts
-#EXTINF:-1 tvg-name="ZIGGO SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO SPORT",ZIGGO SPORT 3 HD
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894970&extension=ts
-#EXTINF:-1 tvg-name="ZIGGO SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO SPORT",ZIGGO SPORT 4 HD
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894971&extension=ts
-#EXTINF:-1 tvg-name="ZIGGO SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO SPORT",ZIGGO SPORT 5 HD
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894972&extension=ts
-#EXTINF:-1 tvg-name="ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO SPORT",ZIGGO SPORT 6 HD
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894973&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537597&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 2
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537596&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537595&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537594&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 5
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537593&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 6
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537592&extension=ts
 #EXTINF:-1 tvg-name="FR| Ligue 1+ 1 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 1 ʜᴅ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1567323
 #EXTINF:-1 tvg-name="FR| Ligue 1+ 2 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 2 ʜᴅ
