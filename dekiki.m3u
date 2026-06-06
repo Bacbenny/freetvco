@@ -573,44 +573,6 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus12
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
-#EXTINF:-1 tvg-id="360-anime" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Anime
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-anime/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-bundesliga" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Bundesliga
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-bundesliga/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-c1-chau-au" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 C1 Châu Âu
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c1-chau-au/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-c2-chau-au" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 C2 Châu Âu
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c2-chau-au/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-c3-chau-au" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 C3 Châu Âu
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c3-chau-au/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-cong-thuc-1" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Công Thức 1
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-cong-thuc-1/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-golf" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Golf
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-golf/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Hài -Tình cảm
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hai-tinh-cam/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Hành động Châu Á
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hanh-dong-chau-a/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-hoa-ngu" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Hoa Ngữ
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hoa-ngu/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-k-drama" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 K-Drama
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-k-drama/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Phim Kinh điển
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-phim-kinh-dien/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-tennis" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Tennis
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-the-thao-chau-a" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Thể Thao Châu Á
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-the-thao-chau-a/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="hoat-hinh" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",Hoạt hình
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="lck-roadshow" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",LCK Roadshow
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/lck-roadshow/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="phim-au-my" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",Phim Âu Mỹ
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="phim-viet" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",Phim Việt
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",TV360
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360/KenhCoBan.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=394814&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="CANAL+ SPORT",|FR| CANAL+ SPORT 360 ᵁᴴᴰ
@@ -639,27 +601,27 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170878&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&extension=ts
 #EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 10 FHD
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS ULTIMATE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS ULTIMATE 4K
+#EXTINF:-1 tvg-name="TNT SPORTS ULTIMATE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS ULTIMATE 4K
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:45:42:1E&stream=1174213&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS 1
+#EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894977&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS 2
+#EXTINF:-1 tvg-name="TNT SPORTS 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 2
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894978&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS 3
+#EXTINF:-1 tvg-name="TNT SPORTS 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 3
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894979&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS 4
+#EXTINF:-1 tvg-name="TNT SPORTS 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 4
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894980&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 1
+#EXTINF:-1 tvg-id="" group-title="TNT / ZIGGO SPORT" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 1
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537597&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 2
+#EXTINF:-1 tvg-id="" group-title="TNT / ZIGGO SPORT" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 2
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537596&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 3
+#EXTINF:-1 tvg-id="" group-title="TNT / ZIGGO SPORT" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 3
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537595&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 4
+#EXTINF:-1 tvg-id="" group-title="TNT / ZIGGO SPORT" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 4
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537594&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 5
+#EXTINF:-1 tvg-id="" group-title="TNT / ZIGGO SPORT" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 5
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537593&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Ziggo Sport" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 6
+#EXTINF:-1 tvg-id="" group-title="TNT / ZIGGO SPORT" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 6
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537592&extension=ts
 #EXTINF:-1 tvg-name="FR| Ligue 1+ 1 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="|FR| ✪ LIGUE PLUS LIVE",FR| Ligue 1+ 1 ʜᴅ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1567323
