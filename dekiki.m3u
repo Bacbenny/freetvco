@@ -562,6 +562,24 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus12
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
+#EXTINF:-1 tvg-id="tv360plus13" group-title="Sự kiện TV360" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus13.png",TV360+13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus13
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10022
+#EXTINF:-1 tvg-id="tv360plus14" group-title="Sự kiện TV360" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus14.png",TV360+14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus14
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10023
+#EXTINF:-1 tvg-id="tv360plus15" group-title="Sự kiện TV360" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus15.png",TV360+15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus15
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10024
 #EXTINF:-1 tvg-id="" group-title="Sky Sport" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Football.png?raw=true",Sky Sports Football UK (NOW)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1527635&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Sky Sport" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Premier%20League.png?raw=true",Sky Sports PL UK (NOW)
