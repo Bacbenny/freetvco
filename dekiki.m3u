@@ -121,10 +121,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-name="ON Golf" tvg-logo="https://i.imgur.com/BGF2I58.png" group-title="VTVcab",ON Golf
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png" ,SCTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:adaptive-variant=max
-#EXTVLCOPT:network-caching=5000
-https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv1-hd-7f2aafec
+https://hoiquan.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3
