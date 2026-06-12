@@ -56,7 +56,7 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv9
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv10
-#EXTINF:-1 tvg-name="Vietnam Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",Vietnam Today
+#EXTINF:-1 tvg-name="Vietnam Today" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 Udp
 udp://@225.1.2.249:30120
