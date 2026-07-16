@@ -1,0 +1,102 @@
+name: Fetch & Update IPTV Playlist
+
+on:
+  schedule:
+    # Chạy mỗi 6 tiếng
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'API version (mặc định 1.1.2)'
+        required: false
+        default: '1.1.2'
+      force:
+        description: 'Force commit dù không có thay đổi'
+        required: false
+        default: 'false'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install dependencies
+        working-directory: scripts
+        run: npm ci
+
+      - name: Fetch & decrypt channels
+        working-directory: scripts
+        env:
+          COTIVI_VERSION: ${{ github.event.inputs.version || '1.1.2' }}
+          OUT_DIR: ${{ github.workspace }}/output
+          DEBUG_DIR: ${{ github.workspace }}/debug
+        run: |
+          node fetch.js || echo "::warning::Fetch/decrypt failed — check debug/ folder"
+
+      - name: Show results
+        run: |
+          echo "=== output/ ==="
+          ls -lh output/ 2>/dev/null || echo "(empty)"
+          echo ""
+          echo "=== debug/ ==="
+          ls -lh debug/ 2>/dev/null || echo "(empty)"
+          echo ""
+          if [ -f output/cotivi_all.m3u ]; then
+            echo "=== cotivi_all.m3u (first 30 lines) ==="
+            head -30 output/cotivi_all.m3u
+          fi
+
+      - name: Check decrypt status
+        id: status
+        run: |
+          if [ -f output/cotivi_all.m3u ]; then
+            COUNT=$(grep -c "^#EXTINF" output/cotivi_all.m3u 2>/dev/null || echo 0)
+            echo "channels=$COUNT" >> "$GITHUB_OUTPUT"
+            echo "success=true"    >> "$GITHUB_OUTPUT"
+            echo "✅ Playlist generated: $COUNT channels"
+          else
+            echo "channels=0"   >> "$GITHUB_OUTPUT"
+            echo "success=false" >> "$GITHUB_OUTPUT"
+            echo "❌ No playlist generated"
+          fi
+
+      - name: Commit & push updated playlists
+        if: steps.status.outputs.success == 'true' || github.event.inputs.force == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add output/ debug/ || true
+          
+          CHANGED=$(git diff --cached --name-only | wc -l)
+          if [ "$CHANGED" -gt 0 ] || [ "${{ github.event.inputs.force }}" = "true" ]; then
+            TIMESTAMP=$(TZ=Asia/Ho_Chi_Minh date '+%Y-%m-%d %H:%M %Z')
+            COUNT=${{ steps.status.outputs.channels }}
+            git commit -m "🔄 Auto-update: $COUNT kênh | $TIMESTAMP"
+            git push
+            echo "✅ Committed & pushed $CHANGED changed files"
+          else
+            echo "ℹ️  Không có thay đổi, bỏ qua commit"
+          fi
+
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cotivi-debug-${{ github.run_number }}
+          path: |
+            debug/
+            output/
+          retention-days: 7
