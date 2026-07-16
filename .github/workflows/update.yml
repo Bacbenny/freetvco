@@ -25,15 +25,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
-
-      - name: Install dependencies
-        run: npm ci
+      - name: Install pycryptodome
+        run: pip install pycryptodome --quiet
 
       - name: Fetch & decrypt channels
         env:
@@ -41,7 +34,7 @@ jobs:
           OUT_DIR: ${{ github.workspace }}/output
           DEBUG_DIR: ${{ github.workspace }}/debug
         run: |
-          node fetch.js || echo "::warning::Fetch/decrypt failed — check debug/ folder"
+          python3 fetch.py || echo "::warning::Fetch/decrypt failed — check debug/ folder"
 
       - name: Show results
         run: |
@@ -97,4 +90,5 @@ jobs:
           path: |
             debug/
             output/
+          if-no-files-found: warn
           retention-days: 7

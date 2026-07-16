@@ -2,13 +2,9 @@
   "name": "freetvco",
   "version": "1.0.0",
   "description": "IPTV playlist fetcher for Cò TiVi (api.cotivi.site)",
-  "main": "fetch.js",
   "scripts": {
-    "fetch": "node fetch.js",
-    "start": "node fetch.js"
-  },
-  "dependencies": {
-    "crypto-js": "^4.2.0"
+    "fetch": "python3 fetch.py",
+    "start": "python3 fetch.py"
   },
   "engines": {
     "node": ">=18"
