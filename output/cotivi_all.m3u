@@ -14,9 +14,6 @@ https://test.cotivi.store/tsn.m3u8
 #EXTINF:-1 tvg-id="fussball_uhd" tvg-name="Fussball TV1" tvg-logo="https://s3.vn-hcm-1.vietnix.cloud/apk/logo/fussballtvcc.jpg" group-title="WorldCup Nước Ngoài",Fussball TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://test.cotivi.store/fussball.m3u8
-#EXTINF:-1 tvg-id="cazetv_2" tvg-name="CAZE TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="WorldCup Nước Ngoài",CAZE TV 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 tvg-id="tv360_vtv2" tvg-name="VTV2" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_480_270.png" group-title="World Cup",VTV2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.21D50 (iPhone; U; CPU OS 17_3 like Mac OS X; vi_vn)
 http://rd.locket.top/worldcup/tv360.m3u8?id=vtv2
@@ -328,9 +325,6 @@ https://rd.locket.top/tv360.m3u8?id=gialai
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Hà Nội 2" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_480_270.png" group-title="Địa phương",Hà Nội 2
 https://rd.locket.top/tv360.m3u8?id=hanoi2
-#EXTINF:-1 tvg-id="196" tvg-name="Hà Tĩnh" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png" group-title="Địa phương",Hà Tĩnh
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="Hải Phòng" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293124933/96ed2cfade28_480_270.png" group-title="Địa phương",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
@@ -425,9 +419,6 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
 #EXTINF:-1 tvg-id="145" tvg-name="SCTV9" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-#EXTINF:-1 tvg-id="146" tvg-name="SCTV10" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV10
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
-https://api.cotivi.online/index.m3u8?channel=sctv10-0faf313b
 #EXTINF:-1 tvg-id="147" tvg-name="SCTV11" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
 https://liveatmvng.vtvprime.vn/live/data8/SCTV11/Live_DASHDRM/SCTV11.mpd
@@ -530,13 +521,161 @@ https://api.xemshort.top/cc.m3u8
 #EXTINF:-1 tvg-id="sctvpth" tvg-name="SCTV Phim tổng hợp" tvg-logo="https://s7772.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="SCTV Test",SCTV Phim tổng hợp
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.21D50 (iPhone; U; CPU OS 17_3 like Mac OS X; vi_vn)
 https://rd.locket.top/mytv.m3u8?k=766
-#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKA0rMITWFgqk7Hu3KaxdgMs~" tvg-name="St. Louis City vs Sporting Kansas City [17/07 07:30] – BLV Ngọng" tvg-logo="https://images.keovip88.net/images/teams/st-louis-city.png" group-title="Giờ Vàng",St. Louis City vs Sporting Kansas City [17/07 07:30] – BLV Ngọng
+#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKA0rMITWFgqk7Hu3KaxdgMs~" tvg-name="🔴 LIVE | St. Louis City vs Sporting Kansas City | BLV Ngọng" tvg-logo="https://images.keovip88.net/images/teams/st-louis-city.png" group-title="Giờ Vàng",🔴 LIVE | St. Louis City vs Sporting Kansas City | BLV Ngọng
 https://eqr2hdarxfliv.vcdn.cloud/1784215362_hd/1784215362_hd@720p.m3u8
-#EXTINF:-1 tvg-id="ZH-sFIl36UT4y4xKqrs4dA~~" tvg-name="Miami Heat vs Toronto Raptors [17/07 08:00] – BLV Cận" tvg-logo="https://nba.titan007.com/files/team/1k85fvk13bv.png" group-title="Giờ Vàng",Miami Heat vs Toronto Raptors [17/07 08:00] – BLV Cận
+#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKEJCTOnpkxHeKfYUMwMKP3E~" tvg-name="🔴 LIVE | Seattle Sounders vs Portland Timbers | BLV Ngọng" tvg-logo="https://images.keovip88.net/images/teams/seattle-sounders.png" group-title="Giờ Vàng",🔴 LIVE | Seattle Sounders vs Portland Timbers | BLV Ngọng
+https://eqr2hdarxfliv.vcdn.cloud/1784215383_hd/1784215383_hd@720p.m3u8
+#EXTINF:-1 tvg-id="ZH-sFIl36UT4y4xKqrs4dA~~" tvg-name="🔴 LIVE | Miami Heat vs Toronto Raptors | BLV Cận" tvg-logo="https://nba.titan007.com/files/team/1k85fvk13bv.png" group-title="Giờ Vàng",🔴 LIVE | Miami Heat vs Toronto Raptors | BLV Cận
 https://eqr2hdarxfliv.vcdn.cloud/1784215438_hd/1784215438_hd@720p.m3u8
-#EXTINF:-1 tvg-id="ZypcsXuEWYfLV7KEOgcJAQ~~" tvg-name="Denver Nuggets vs Portland Trail Blazers [17/07 09:00] – BLV Điếc" tvg-logo="https://nba.titan007.com/files/team/1jzvwcf8x72s.png" group-title="Giờ Vàng",Denver Nuggets vs Portland Trail Blazers [17/07 09:00] – BLV Điếc
+#EXTINF:-1 tvg-id="ZypcsXuEWYfLV7KEOgcJAQ~~" tvg-name="🔴 LIVE | Denver Nuggets vs Portland Trail Blazers | BLV Điếc" tvg-logo="https://nba.titan007.com/files/team/1jzvwcf8x72s.png" group-title="Giờ Vàng",🔴 LIVE | Denver Nuggets vs Portland Trail Blazers | BLV Điếc
 https://eqr2hdarxfliv.vcdn.cloud/1784215497_hd/1784215497_hd@720p.m3u8
-#EXTINF:-1 tvg-id="FRag6R7awU8AwJYdEpLjBg~~" tvg-name="USA vs Brazil [17/07 08:00] – BLV Sún" tvg-logo="https://assets.fiba.basketball/image/upload/d_.logoflag--dark--organisation_154.webp/w_400/f_auto/q_auto/.logoflag--dark--organisation_154--competition_208755?buster=20628" group-title="Giờ Vàng",USA vs Brazil [17/07 08:00] – BLV Sún
+#EXTINF:-1 tvg-id="FRag6R7awU8AwJYdEpLjBg~~" tvg-name="🔴 LIVE | USA vs Brazil | BLV Sún" tvg-logo="https://assets.fiba.basketball/image/upload/d_.logoflag--dark--organisation_154.webp/w_400/f_auto/q_auto/.logoflag--dark--organisation_154--competition_208755?buster=20628" group-title="Giờ Vàng",🔴 LIVE | USA vs Brazil | BLV Sún
 https://eqr2hdarxfliv.vcdn.cloud/1784215566_hd/1784215566_hd@720p.m3u8
-#EXTINF:-1 tvg-id="4aa1437d43574b26b25dc9b1c9d1596f" tvg-name="USA  vs Brazil [17/07 08:00] – Trạng Ngố" tvg-logo="https://static.flashscore.com/res/image/data/xpZWyhzB-rZcDn0Ec.png" group-title="Tiếu Lâm",USA  vs Brazil [17/07 08:00] – Trạng Ngố
+#EXTINF:-1 tvg-id="piBSzY_hfOLSUnabtuaQhw~~" tvg-name="⏰ 17/07 11:00 | [17/07 11:00] Cuba vs Argentina | BLV Trĩ" tvg-logo="https://static.flashscore.com/res/image/data/AmSqkKjl-hIzfuNSD.png" group-title="Giờ Vàng",⏰ 17/07 11:00 | [17/07 11:00] Cuba vs Argentina | BLV Trĩ
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=piBSzY_hfOLSUnabtuaQhw~~
+#EXTINF:-1 tvg-id="8MqQpbuLvCJDY_jk1BCGsw~~" tvg-name="⏰ 17/07 13:00 | [17/07 13:00] Việt Nam vs Myanmar | BLV Sún" tvg-logo="https://static.flashscore.com/res/image/data/vNL4gRYA-4I3lSGFh.png" group-title="Giờ Vàng",⏰ 17/07 13:00 | [17/07 13:00] Việt Nam vs Myanmar | BLV Sún
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=8MqQpbuLvCJDY_jk1BCGsw~~
+#EXTINF:-1 tvg-id="GoBLOjZIqYaEop83ygfgUw~~" tvg-name="⏰ 17/07 14:30 | [17/07 14:30] Auckland Tuatara vs Manawatu Jets | BLV Cầy" tvg-logo="https://nba.titan007.com/files/team/1g3b2ne9v1.png" group-title="Giờ Vàng",⏰ 17/07 14:30 | [17/07 14:30] Auckland Tuatara vs Manawatu Jets | BLV Cầy
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=GoBLOjZIqYaEop83ygfgUw~~
+#EXTINF:-1 tvg-id="Ax8QbFl2jJujdT0BVkTCHQ~~" tvg-name="⏰ 17/07 15:00 | [17/07 15:00] FS vs NS | BLV Điếc" tvg-logo="https://liquipedia.net/commons/images/thumb/d/d3/FULL_SENSE_2025_full_lightmode.png/600px-FULL_SENSE_2025_full_lightmode.png" group-title="Giờ Vàng",⏰ 17/07 15:00 | [17/07 15:00] FS vs NS | BLV Điếc
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=Ax8QbFl2jJujdT0BVkTCHQ~~
+#EXTINF:-1 tvg-id="LD61fWuP9GBiGG9yIo101w~~" tvg-name="⏰ 17/07 16:15 | [17/07 16:15] Macau Black Bears vs Converge FiberXers" tvg-logo="https://nba.titan007.com/files/team/1kn0tjb07b2f.png" group-title="Giờ Vàng",⏰ 17/07 16:15 | [17/07 16:15] Macau Black Bears vs Converge FiberXers
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=LD61fWuP9GBiGG9yIo101w~~
+#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKLy67AvLWoYcyw6_4LuD7Mk~" tvg-name="⏰ 17/07 16:30 | [17/07 16:30] Bentleigh Greens vs Dandenong City SC | BLV Bón" tvg-logo="https://images.keovip88.net/images/teams/bentleigh-greens.png" group-title="Giờ Vàng",⏰ 17/07 16:30 | [17/07 16:30] Bentleigh Greens vs Dandenong City SC | BLV Bón
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKLy67AvLWoYcyw6_4LuD7Mk~
+#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKFGTWSoBSzqSKxkGfu1aXRk~" tvg-name="⏰ 17/07 16:30 | [17/07 16:30] Green Gully Cavaliers vs Dandenong Thunder | BLV Trĩ" tvg-logo="https://images.keovip88.net/images/teams/green-gully-cavaliers.png" group-title="Giờ Vàng",⏰ 17/07 16:30 | [17/07 16:30] Green Gully Cavaliers vs Dandenong Thunder | BLV Trĩ
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKFGTWSoBSzqSKxkGfu1aXRk~
+#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKLLYKXk1WaO9whiEQ8oupTI~" tvg-name="⏰ 17/07 16:30 | [17/07 16:30] Sydney FC Youth vs Manly United" tvg-logo="https://images.keovip88.net/images/teams/sydney-fc-youth.png" group-title="Giờ Vàng",⏰ 17/07 16:30 | [17/07 16:30] Sydney FC Youth vs Manly United
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKLLYKXk1WaO9whiEQ8oupTI~
+#EXTINF:-1 tvg-id="yxGVPHm3Uve1SdAvNM884w~~" tvg-name="⏰ 17/07 16:30 | [17/07 16:30] Campbelltown City vs Adelaide Comets | BLV Mason" tvg-logo="https://static.flashscore.com/res/image/data/632Ph0Ar-Umce5aUE.png" group-title="Giờ Vàng",⏰ 17/07 16:30 | [17/07 16:30] Campbelltown City vs Adelaide Comets | BLV Mason
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=yxGVPHm3Uve1SdAvNM884w~~
+#EXTINF:-1 tvg-id="UtiN-9GF9AFid2Ul2yOO5Q~~" tvg-name="⏰ 17/07 17:20 | [17/07 17:20] Japan vs Belgium | BLV Sún" tvg-logo="https://static.flashscore.com/res/image/data/Crg4NaGG-ALs6yNah.png" group-title="Giờ Vàng",⏰ 17/07 17:20 | [17/07 17:20] Japan vs Belgium | BLV Sún
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=UtiN-9GF9AFid2Ul2yOO5Q~~
+#EXTINF:-1 tvg-id="G3fKdOSYCc0_O5qaFL9g5Q~~" tvg-name="⏰ 17/07 18:30 | [17/07 18:30] ONE Friday Fights 162  vs The Inner Circle 22 | BLV Dory" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQAGBtiDICY4gh_kkrMENeHVsOldOMBJZx3kszzPpZfeJgUTMIzcMa_4&s=10" group-title="Giờ Vàng",⏰ 17/07 18:30 | [17/07 18:30] ONE Friday Fights 162  vs The Inner Circle 22 | BLV Dory
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=G3fKdOSYCc0_O5qaFL9g5Q~~
+#EXTINF:-1 tvg-id="XWT8WtyKvS8PsO-Ln3OeWQ~~" tvg-name="⏰ 17/07 23:00 | [17/07 23:00] Klubi-04 vs Haka | BLV Mát" tvg-logo="https://static.flashscore.com/res/image/data/QDxLQzZA-joSKJXz3.png" group-title="Giờ Vàng",⏰ 17/07 23:00 | [17/07 23:00] Klubi-04 vs Haka | BLV Mát
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=XWT8WtyKvS8PsO-Ln3OeWQ~~
+#EXTINF:-1 tvg-id="0jADeEAhk_jwRtxbwYVnMEpCP8EwDIW60_M57rXGUjY~" tvg-name="⏰ 17/07 23:59 | [17/07 23:59] IFK Goteborg vs Brommapojkarna" tvg-logo="https://images.keovip88.net/images/teams/ifk-goteborg.png" group-title="Giờ Vàng",⏰ 17/07 23:59 | [17/07 23:59] IFK Goteborg vs Brommapojkarna
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=0jADeEAhk_jwRtxbwYVnMEpCP8EwDIW60_M57rXGUjY~
+#EXTINF:-1 tvg-id="4KXnh_WVjLIZekJL_cGw_rLKkK0yGz9iiF7JVckY0No~" tvg-name="⏰ 17/07 23:59 | [17/07 23:59] Mjallby AIF vs Vasteras SK" tvg-logo="https://images.keovip88.net/images/teams/mjallby-aif.png" group-title="Giờ Vàng",⏰ 17/07 23:59 | [17/07 23:59] Mjallby AIF vs Vasteras SK
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=4KXnh_WVjLIZekJL_cGw_rLKkK0yGz9iiF7JVckY0No~
+#EXTINF:-1 tvg-id="4KXnh_WVjLIZekJL_cGw_mdgEnjXgym7szGhFp2BJ4Y~" tvg-name="⏰ 18/07 00:15 | [18/07 00:15] Bodo Glimt vs Fredrikstad | BLV Mason" tvg-logo="https://images.keovip88.net/images/teams/bodo-glimt.png" group-title="Giờ Vàng",⏰ 18/07 00:15 | [18/07 00:15] Bodo Glimt vs Fredrikstad | BLV Mason
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=4KXnh_WVjLIZekJL_cGw_mdgEnjXgym7szGhFp2BJ4Y~
+#EXTINF:-1 tvg-id="fnkg6I3sJvZu5xbTXBNJ6w~~" tvg-name="⏰ 18/07 01:00 | [18/07 01:00] Iran vs Slovenia | BLV Mát" tvg-logo="https://static.flashscore.com/res/image/data/xt3pVREa-tWhhL1yr.png" group-title="Giờ Vàng",⏰ 18/07 01:00 | [18/07 01:00] Iran vs Slovenia | BLV Mát
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=fnkg6I3sJvZu5xbTXBNJ6w~~
+#EXTINF:-1 tvg-id="taFEWybcQ0AdG5aOCisxxQ~~" tvg-name="⏰ 18/07 02:15 | [18/07 02:15] Fylkir vs Njardvík" tvg-logo="https://static.flashscore.com/res/image/data/KnsmlsAr-YFWSwCkg.png" group-title="Giờ Vàng",⏰ 18/07 02:15 | [18/07 02:15] Fylkir vs Njardvík
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=taFEWybcQ0AdG5aOCisxxQ~~
+#EXTINF:-1 tvg-id="VYL93vXXuPAlWmSvojRisQ~~" tvg-name="⏰ 18/07 04:00 | [18/07 04:00] China vs Bulgaria | BLV Mát" tvg-logo="https://static.flashscore.com/res/image/data/Cn6GvlxS-4ILatieg.png" group-title="Giờ Vàng",⏰ 18/07 04:00 | [18/07 04:00] China vs Bulgaria | BLV Mát
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=VYL93vXXuPAlWmSvojRisQ~~
+#EXTINF:-1 tvg-id="4Se5FsJDorIXbSZPUUa6Uw~~" tvg-name="⏰ 18/07 06:00 | [18/07 06:00] Atl. Ottawa vs Inter Toronto | BLV Ngọng" tvg-logo="https://static.flashscore.com/res/image/data/fyEr0vHG-6XCPb3ib.png" group-title="Giờ Vàng",⏰ 18/07 06:00 | [18/07 06:00] Atl. Ottawa vs Inter Toronto | BLV Ngọng
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=4Se5FsJDorIXbSZPUUa6Uw~~
+#EXTINF:-1 tvg-id="AycDXVSaVFZivUpGSsznbg~~" tvg-name="⏰ 18/07 06:05 | [18/07 06:05] New York Yankees vs Los Angeles Dodgers | BLV Cầy" tvg-logo="https://static.flashscore.com/res/image/data/plT1Aqil-OpJ5uAOg.png" group-title="Giờ Vàng",⏰ 18/07 06:05 | [18/07 06:05] New York Yankees vs Los Angeles Dodgers | BLV Cầy
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=AycDXVSaVFZivUpGSsznbg~~
+#EXTINF:-1 tvg-id="k-7j_xruuXqsfnLjW9Yzhg~~" tvg-name="⏰ 18/07 06:30 | [18/07 06:30] Indiana Fever vs Seattle Storm" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/2672748dfcca12a59823b97a08ffb22d.png" group-title="Giờ Vàng",⏰ 18/07 06:30 | [18/07 06:30] Indiana Fever vs Seattle Storm
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=k-7j_xruuXqsfnLjW9Yzhg~~
+#EXTINF:-1 tvg-id="hi_tNGrq6a0p_EjuoJqF6g~~" tvg-name="⏰ 18/07 06:30 | [18/07 06:30] Toronto Tempo vs Atlanta Dream | BLV Ben" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/2144aaf701fac7e3c3caf3853aeb9929.png" group-title="Giờ Vàng",⏰ 18/07 06:30 | [18/07 06:30] Toronto Tempo vs Atlanta Dream | BLV Ben
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=hi_tNGrq6a0p_EjuoJqF6g~~
+#EXTINF:-1 tvg-id="OSTSobkeLR91Ry6BKaFSlw~~" tvg-name="⏰ 18/07 06:30 | [18/07 06:30] Chicago Sky vs Los Angeles Sparks | BLV Tôm" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/0a570e6f3972fccc8370091d6ffdef5e.png" group-title="Giờ Vàng",⏰ 18/07 06:30 | [18/07 06:30] Chicago Sky vs Los Angeles Sparks | BLV Tôm
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=OSTSobkeLR91Ry6BKaFSlw~~
+#EXTINF:-1 tvg-id="UOUkVkmtxziGQmMhdm0NYA~~" tvg-name="⏰ 18/07 08:00 | [18/07 08:00] Lessei vs Rabah | BLV Dory" tvg-logo="https://cdn.onefc.com/wp-content/uploads/2023/12/Luke_Lessei-avatar-500x345-1.png" group-title="Giờ Vàng",⏰ 18/07 08:00 | [18/07 08:00] Lessei vs Rabah | BLV Dory
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=UOUkVkmtxziGQmMhdm0NYA~~
+#EXTINF:-1 tvg-id="hGhdd3k17hWE6K3d-suMpT7vSWZx9yy0qCF814eQA3o~" tvg-name="⏰ 18/07 15:00 | [18/07 15:00] South Coast Wolves vs SD Raiders FC | BLV Trĩ" tvg-logo="https://images.keovip88.net/images/teams/wollongong-wolves.png" group-title="Giờ Vàng",⏰ 18/07 15:00 | [18/07 15:00] South Coast Wolves vs SD Raiders FC | BLV Trĩ
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=hGhdd3k17hWE6K3d-suMpT7vSWZx9yy0qCF814eQA3o~
+#EXTINF:-1 tvg-id="iKFGfQZqk8BUddiWjJoFdg~~" tvg-name="⏰ 18/07 15:00 | [18/07 15:00] RRQ vs GE | BLV Điếc" tvg-logo="https://liquipedia.net/commons/images/thumb/1/1e/Rex_Regum_Qeon_allmode.png/70px-Rex_Regum_Qeon_allmode.png" group-title="Giờ Vàng",⏰ 18/07 15:00 | [18/07 15:00] RRQ vs GE | BLV Điếc
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=iKFGfQZqk8BUddiWjJoFdg~~
+#EXTINF:-1 tvg-id="xlO0zhqtgHsbRYx1Q4yB3g~~" tvg-name="⏰ 18/07 16:15 | [18/07 16:15] Terrafirma Dyip vs San Miguel Beermen" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/f2bde459cfd09fe77e8d0996f34a1af0.png" group-title="Giờ Vàng",⏰ 18/07 16:15 | [18/07 16:15] Terrafirma Dyip vs San Miguel Beermen
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=xlO0zhqtgHsbRYx1Q4yB3g~~
+#EXTINF:-1 tvg-id="iCDv6E-kAdMm51QYE3KM9g~~" tvg-name="⏰ 18/07 17:20 | [18/07 17:20] Argentina  vs Italy | BLV Cận" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1xBWyjjkA6vEWopPK3lIPA_96x96.png" group-title="Giờ Vàng",⏰ 18/07 17:20 | [18/07 17:20] Argentina  vs Italy | BLV Cận
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=iCDv6E-kAdMm51QYE3KM9g~~
+#EXTINF:-1 tvg-id="JQK63hORUHB9hUALr5gqknvhAUkgFtcepwQjVaar_wE~" tvg-name="⏰ 18/07 17:30 | [18/07 17:30] Daejeon Citizen vs Ulsan Hyundai | BLV Mason" tvg-logo="https://images.keovip88.net/images/teams/daejeon-citizen.png" group-title="Giờ Vàng",⏰ 18/07 17:30 | [18/07 17:30] Daejeon Citizen vs Ulsan Hyundai | BLV Mason
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=JQK63hORUHB9hUALr5gqknvhAUkgFtcepwQjVaar_wE~
+#EXTINF:-1 tvg-id="JQK63hORUHB9hUALr5gqksRXLzqxRNlVa5aesQNqE2g~" tvg-name="⏰ 18/07 17:30 | [18/07 17:30] Gangwon FC vs Gimcheon Sangmu | BLV Trĩ" tvg-logo="https://images.keovip88.net/images/teams/gangwon-fc.png" group-title="Giờ Vàng",⏰ 18/07 17:30 | [18/07 17:30] Gangwon FC vs Gimcheon Sangmu | BLV Trĩ
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=JQK63hORUHB9hUALr5gqksRXLzqxRNlVa5aesQNqE2g~
+#EXTINF:-1 tvg-id="JQK63hORUHB9hUALr5gqkjMJLcifEPsdc_04mTvDIms~" tvg-name="⏰ 18/07 17:30 | [18/07 17:30] Incheon United FC vs Jeonbuk Hyundai Motors | BLV Bón" tvg-logo="https://images.keovip88.net/images/teams/incheon-united.png" group-title="Giờ Vàng",⏰ 18/07 17:30 | [18/07 17:30] Incheon United FC vs Jeonbuk Hyundai Motors | BLV Bón
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=JQK63hORUHB9hUALr5gqkjMJLcifEPsdc_04mTvDIms~
+#EXTINF:-1 tvg-id="afL_bH_u8Ri2t7kkJ5gdAw~~" tvg-name="⏰ 18/07 17:30 | [18/07 17:30] Formula 1 vs Belgian Grand Prix | BLV Ngu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/F1_logo.svg" group-title="Giờ Vàng",⏰ 18/07 17:30 | [18/07 17:30] Formula 1 vs Belgian Grand Prix | BLV Ngu
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=afL_bH_u8Ri2t7kkJ5gdAw~~
+#EXTINF:-1 tvg-id="2Qz1a_b1bv9kA-vQKCeT2w~~" tvg-name="⏰ 18/07 18:00 | [18/07 18:00] Qingdao West Coast  vs Chengdu Rongcheng | BLV Mát" tvg-logo="https://static.flashscore.com/res/image/data/ddr7VMYA-21BCdP3t.png" group-title="Giờ Vàng",⏰ 18/07 18:00 | [18/07 18:00] Qingdao West Coast  vs Chengdu Rongcheng | BLV Mát
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=2Qz1a_b1bv9kA-vQKCeT2w~~
+#EXTINF:-1 tvg-id="rOBNg1N7zg-1CZ0EzhJl-A~~" tvg-name="⏰ 18/07 18:30 | [18/07 18:30] Rain or Shine Elasto Painters vs Meralco Bolts | BLV Tôm" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/7c67e4f0e2da7d269cf37d496d24f106.png" group-title="Giờ Vàng",⏰ 18/07 18:30 | [18/07 18:30] Rain or Shine Elasto Painters vs Meralco Bolts | BLV Tôm
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=rOBNg1N7zg-1CZ0EzhJl-A~~
+#EXTINF:-1 tvg-id="NCrUASDG1bHKQY9lazjwljNye1cBp6HaG7WjKUGLljc~" tvg-name="⏰ 18/07 19:00 | [18/07 19:00] Wuhan Three Towns vs Shenzhen Xinpengcheng" tvg-logo="https://images.keovip88.net/images/teams/wuhan-three-towns.png" group-title="Giờ Vàng",⏰ 18/07 19:00 | [18/07 19:00] Wuhan Three Towns vs Shenzhen Xinpengcheng
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=NCrUASDG1bHKQY9lazjwljNye1cBp6HaG7WjKUGLljc~
+#EXTINF:-1 tvg-id="Uv0s6m_tgRjK13lozY5n4Q~~" tvg-name="⏰ 18/07 19:00 | [18/07 19:00] ĐTQG Việt Nam vs ĐTQG Myanmar" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png" group-title="Giờ Vàng",⏰ 18/07 19:00 | [18/07 19:00] ĐTQG Việt Nam vs ĐTQG Myanmar
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=Uv0s6m_tgRjK13lozY5n4Q~~
+#EXTINF:-1 tvg-id="fcQNXfVQzuYkM0-0UgQLGQ~~" tvg-name="⏰ 18/07 20:00 | [18/07 20:00] Östersunds FK  vs Landskrona | BLV Mát" tvg-logo="https://static.flashscore.com/res/image/data/K44g7CDa-WnKsn5Ti.png" group-title="Giờ Vàng",⏰ 18/07 20:00 | [18/07 20:00] Östersunds FK  vs Landskrona | BLV Mát
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=fcQNXfVQzuYkM0-0UgQLGQ~~
+#EXTINF:-1 tvg-id="NCrUASDG1bHKQY9lazjwlhB1vIJ3hPLcynJ5mD1qb3o~" tvg-name="⏰ 18/07 21:00 | [18/07 21:00] AC Oulu vs Gnistan" tvg-logo="https://images.keovip88.net/images/teams/ac-oulu.png" group-title="Giờ Vàng",⏰ 18/07 21:00 | [18/07 21:00] AC Oulu vs Gnistan
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=NCrUASDG1bHKQY9lazjwlhB1vIJ3hPLcynJ5mD1qb3o~
+#EXTINF:-1 tvg-id="l-yUzPa171PYcG4WwfkMSQ~~" tvg-name="⏰ 18/07 21:00 | [18/07 21:00] Formula 1 vs Belgian Grand Prix | BLV Ngu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/F1_logo.svg" group-title="Giờ Vàng",⏰ 18/07 21:00 | [18/07 21:00] Formula 1 vs Belgian Grand Prix | BLV Ngu
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=l-yUzPa171PYcG4WwfkMSQ~~
+#EXTINF:-1 tvg-id="l5zVEvEd2eiwsQ71Vc1pkA~~" tvg-name="⏰ 18/07 21:30 | [18/07 21:30] Türkiye  vs Slovenia | BLV Tôm" tvg-logo="https://static.flashscore.com/res/image/data/lAFdyowS-6ys9CWQj.png" group-title="Giờ Vàng",⏰ 18/07 21:30 | [18/07 21:30] Türkiye  vs Slovenia | BLV Tôm
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=l5zVEvEd2eiwsQ71Vc1pkA~~
+#EXTINF:-1 tvg-id="5ummPk4gMfHrxB3pqUukPg~~" tvg-name="⏰ 18/07 22:00 | [18/07 22:00] Öster  vs Brage | BLV Mát" tvg-logo="https://static.flashscore.com/res/image/data/MPSeq4FG-OhPYORgk.png" group-title="Giờ Vàng",⏰ 18/07 22:00 | [18/07 22:00] Öster  vs Brage | BLV Mát
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=5ummPk4gMfHrxB3pqUukPg~~
+#EXTINF:-1 tvg-id="rv-8yCxQgcWfKlMolSva1A~~" tvg-name="⏰ 19/07 04:00 | [19/07 04:00] Du Plessis vs Usman | BLV Dory" tvg-logo="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTDv5o-fX4sQJ9wKG9VJni1cL4b66Mjq_xrkymkF8B8bb0wFCu9mmMRKhygKtnWlyhB7y5_1Aez0SIUP_o" group-title="Giờ Vàng",⏰ 19/07 04:00 | [19/07 04:00] Du Plessis vs Usman | BLV Dory
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=rv-8yCxQgcWfKlMolSva1A~~
+#EXTINF:-1 tvg-id="mFKi12HknDU7mhFqlM2UNh5pYTGBonyxq_ZRnKLNrVU~" tvg-name="⏰ 19/07 04:00 | [19/07 04:00] Pháp vs Anh | Nhà Đài" tvg-logo="https://images.keovip88.net/images/teams/france.png" group-title="Giờ Vàng",⏰ 19/07 04:00 | [19/07 04:00] Pháp vs Anh | Nhà Đài
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=mFKi12HknDU7mhFqlM2UNh5pYTGBonyxq_ZRnKLNrVU~
+#EXTINF:-1 tvg-id="mFKi12HknDU7mhFqlM2UNniMLjIM_VQeaNNn5i8Lo44~" tvg-name="⏰ 20/07 02:00 | [20/07 02:00] Tây Ban Nha vs Argentina | Nhà Đài" tvg-logo="https://images.keovip88.net/images/teams/spain.png" group-title="Giờ Vàng",⏰ 20/07 02:00 | [20/07 02:00] Tây Ban Nha vs Argentina | Nhà Đài
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=mFKi12HknDU7mhFqlM2UNniMLjIM_VQeaNNn5i8Lo44~
+#EXTINF:-1 tvg-id="hvYhIp0oyd_0R5713EpXhg~~" tvg-name="⏰ 24/07 18:30 | [24/07 18:30] ONE Friday Fights 163 vs The Inner Circle 23 | BLV Dory" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQAGBtiDICY4gh_kkrMENeHVsOldOMBJZx3kszzPpZfeJgUTMIzcMa_4&s=10" group-title="Giờ Vàng",⏰ 24/07 18:30 | [24/07 18:30] ONE Friday Fights 163 vs The Inner Circle 23 | BLV Dory
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=hvYhIp0oyd_0R5713EpXhg~~
+#EXTINF:-1 tvg-id="gAf5G9CBpSJ7QNxjtczmZw~~" tvg-name="⏰ 25/07 20:00 | [25/07 20:00]  Ankalaev vs Rountree Jr | BLV Dory" tvg-logo="https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/ANKALAEV_MAGOMED_L_10-26.png?itok=L777PUSb" group-title="Giờ Vàng",⏰ 25/07 20:00 | [25/07 20:00]  Ankalaev vs Rountree Jr | BLV Dory
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=gAf5G9CBpSJ7QNxjtczmZw~~
+#EXTINF:-1 tvg-id="18Fn3kwxnfbg9YY7YydNgQ~~" tvg-name="⏰ 26/07 06:00 | [26/07 06:00]  Jean vs Musaev | BLV Dory" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CIpcqQny0DLfr0-7zE6HrMbe5mOzUU9r3Y_eitGQkA&s=10" group-title="Giờ Vàng",⏰ 26/07 06:00 | [26/07 06:00]  Jean vs Musaev | BLV Dory
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=18Fn3kwxnfbg9YY7YydNgQ~~
+#EXTINF:-1 tvg-id="eODOEUrgaCFJLQhvQ7VzO_ydYty-QDH8mw2IXfXgYn8~" tvg-name="⏰ 16/07 06:30 | [16/07 06:30] Sporting Jax vs Pittsburgh Riverhounds" tvg-logo="https://images.keovip88.net/images/teams/sporting-jax.png" group-title="Giờ Vàng",⏰ 16/07 06:30 | [16/07 06:30] Sporting Jax vs Pittsburgh Riverhounds
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=eODOEUrgaCFJLQhvQ7VzO_ydYty-QDH8mw2IXfXgYn8~
+#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKIMhmE24W6ekjI7GfL8yrDQ~" tvg-name="⏰ 17/07 07:30 | [17/07 07:30] Chicago Fire vs Vancouver Whitecaps FC" tvg-logo="https://images.keovip88.net/images/teams/chicago-fire.png" group-title="Giờ Vàng",⏰ 17/07 07:30 | [17/07 07:30] Chicago Fire vs Vancouver Whitecaps FC
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKIMhmE24W6ekjI7GfL8yrDQ~
+#EXTINF:-1 tvg-id="9Mka8kHMJPAqi9Phk6SjwA~~" tvg-name="⏰ 17/07 08:00 | [17/07 08:00] Dallas Wings vs New York Liberty | BLV Cầy" tvg-logo="https://nba.titan007.com/files/team/1harzp08wx2p.png" group-title="Giờ Vàng",⏰ 17/07 08:00 | [17/07 08:00] Dallas Wings vs New York Liberty | BLV Cầy
+https://pay.locket.top/tv/get.php?source=giovangtv&keys=9Mka8kHMJPAqi9Phk6SjwA~~
+#EXTINF:-1 tvg-id="4aa1437d43574b26b25dc9b1c9d1596f" tvg-name="🔴 LIVE | USA  vs Brazil | Trạng Ngố" tvg-logo="https://static.flashscore.com/res/image/data/xpZWyhzB-rZcDn0Ec.png" group-title="Tiếu Lâm",🔴 LIVE | USA  vs Brazil | Trạng Ngố
 https://pull.asynccdn.com/live/8ffe67be58bf46979204f44a7620fa1e/index.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghndp3em0v" tvg-name="⏰ 17/07 10:10 | [17/07 10:10] Club Tijuana vs Tigres UANL | Trạng Tèo" tvg-logo="https://img.sports-data.online/football/team/6090f28bfc40d2169607b23256e5a151.png" group-title="Tiếu Lâm",⏰ 17/07 10:10 | [17/07 10:10] Club Tijuana vs Tigres UANL | Trạng Tèo
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=4jwq2ghndp3em0v
+#EXTINF:-1 tvg-id="e1a69220be02490a9ed3be64bfe3e574" tvg-name="⏰ 17/07 13:00 | [17/07 13:00] Myanmar vs Việt Nam | Trạng Tồ" tvg-logo="https://static.flashscore.com/res/image/data/pd29lpeM-8xwT7BCP.png" group-title="Tiếu Lâm",⏰ 17/07 13:00 | [17/07 13:00] Myanmar vs Việt Nam | Trạng Tồ
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=e1a69220be02490a9ed3be64bfe3e574
+#EXTINF:-1 tvg-id="jw2r09hk657lrz8" tvg-name="⏰ 17/07 16:30 | [17/07 16:30] Sydney FC Youth vs Manly United | Trạng Tí" tvg-logo="https://img.sports-data.online/football/team/6fb81e8272c1a862f2afe6e9858391af.png" group-title="Tiếu Lâm",⏰ 17/07 16:30 | [17/07 16:30] Sydney FC Youth vs Manly United | Trạng Tí
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=jw2r09hk657lrz8
+#EXTINF:-1 tvg-id="5633cce6611e4d01a5272963426f5cae" tvg-name="⏰ 17/07 17:20 | [17/07 17:20] Japan vs Belgium | Trạng Tồ" tvg-logo="https://static.flashscore.com/res/image/data/f552VMEa-E1YhvyqD.png" group-title="Tiếu Lâm",⏰ 17/07 17:20 | [17/07 17:20] Japan vs Belgium | Trạng Tồ
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=5633cce6611e4d01a5272963426f5cae
+#EXTINF:-1 tvg-id="vjxm8ghe538jr6o" tvg-name="⏰ 17/07 17:30 | [17/07 17:30] Melbourne Knights vs Brunswick City | Trạng Béo" tvg-logo="https://img.sports-data.online/football/team/99fb201f1b3949c2f36e9d87a48f3c7e.png" group-title="Tiếu Lâm",⏰ 17/07 17:30 | [17/07 17:30] Melbourne Knights vs Brunswick City | Trạng Béo
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=vjxm8ghe538jr6o
+#EXTINF:-1 tvg-id="4wyrn4h66lyoq86" tvg-name="⏰ 17/07 18:00 | [17/07 18:00] Qingdao West Coast vs Chengdu Rongcheng | Trạng Tí" tvg-logo="https://img.sports-data.online/football/team/383d42e0d0843463b538bc3367d0c4c9.png" group-title="Tiếu Lâm",⏰ 17/07 18:00 | [17/07 18:00] Qingdao West Coast vs Chengdu Rongcheng | Trạng Tí
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=4wyrn4h66lyoq86
+#EXTINF:-1 tvg-id="1l4rjnh99lnzm7v" tvg-name="⏰ 17/07 18:35 | [17/07 18:35] Beijing Guoan vs Liaoning Tieren | Trạng Tí" tvg-logo="https://img.sports-data.online/football/team/e7af298237651113dfeafc32ff734a24.png" group-title="Tiếu Lâm",⏰ 17/07 18:35 | [17/07 18:35] Beijing Guoan vs Liaoning Tieren | Trạng Tí
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=1l4rjnh99lnzm7v
+#EXTINF:-1 tvg-id="4wyrn4h6w4o9q86" tvg-name="⏰ 17/07 21:00 | [17/07 21:00] Astana B vs Jaiyq | Trạng Béo" tvg-logo="https://img.sports-data.online/football/team/eea48912dacd0411ebfd9749ac55cba9.png" group-title="Tiếu Lâm",⏰ 17/07 21:00 | [17/07 21:00] Astana B vs Jaiyq | Trạng Béo
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=4wyrn4h6w4o9q86
+#EXTINF:-1 tvg-id="15341d3126704be7ab3fcbb0700c3b7f" tvg-name="⏰ 17/07 21:30 | [17/07 21:30] Turkey  vs Ukraine | Trạng Ngố" tvg-logo="https://static.flashscore.com/res/image/data/vsMYAAyB-djLqtupg.png" group-title="Tiếu Lâm",⏰ 17/07 21:30 | [17/07 21:30] Turkey  vs Ukraine | Trạng Ngố
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=15341d3126704be7ab3fcbb0700c3b7f
+#EXTINF:-1 tvg-id="1l4rjnh905nnm7v" tvg-name="⏰ 17/07 22:30 | [17/07 22:30] FC Voluntari vs FC Botosani | Trạng Tồ" tvg-logo="https://img.sports-data.online/football/team/f105da768299b0eece32a15bb3c30574.png" group-title="Tiếu Lâm",⏰ 17/07 22:30 | [17/07 22:30] FC Voluntari vs FC Botosani | Trạng Tồ
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=1l4rjnh905nnm7v
+#EXTINF:-1 tvg-id="pxwrxlhyxj9zryk" tvg-name="⏰ 18/07 00:15 | [18/07 00:15] Bodo Glimt vs Fredrikstad | Trạng Béo" tvg-logo="https://img.sports-data.online/football/team/98854ab97eadf3d2c7c6d657ad99df96.png" group-title="Tiếu Lâm",⏰ 18/07 00:15 | [18/07 00:15] Bodo Glimt vs Fredrikstad | Trạng Béo
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=pxwrxlhyxj9zryk
+#EXTINF:-1 tvg-id="a8da4f47bde94a4092d94bf453acc551" tvg-name="⏰ 18/07 01:00 | [18/07 01:00] Iran vs Slovenia | Trạng Tí" tvg-logo="https://static.flashscore.com/res/image/data/xt3pVREa-tWhhL1yr.png" group-title="Tiếu Lâm",⏰ 18/07 01:00 | [18/07 01:00] Iran vs Slovenia | Trạng Tí
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=a8da4f47bde94a4092d94bf453acc551
+#EXTINF:-1 tvg-id="5fd364f6f87a400793dd779f76d9d851" tvg-name="⏰ 18/07 08:00 | [18/07 08:00] Brazil  vs Poland | Trạng Ngố" tvg-logo="https://static.flashscore.com/res/image/data/OM8Y9ODa-vBKZiE2j.png" group-title="Tiếu Lâm",⏰ 18/07 08:00 | [18/07 08:00] Brazil  vs Poland | Trạng Ngố
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=5fd364f6f87a400793dd779f76d9d851
+#EXTINF:-1 tvg-id="ednm9whwlx3wryo" tvg-name="⏰ 18/07 08:00 | [18/07 08:00] Atletico San Luis vs Cruz Azul | Trạng Béo" tvg-logo="https://img.sports-data.online/football/team/f6c489e1e71d37e301b30df37a43b8a4.png" group-title="Tiếu Lâm",⏰ 18/07 08:00 | [18/07 08:00] Atletico San Luis vs Cruz Azul | Trạng Béo
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=ednm9whwlx3wryo
+#EXTINF:-1 tvg-id="6aef9ccaa6cc4459b22aedd1b0f4cbfb" tvg-name="⏰ 18/07 11:00 | [18/07 11:00] Canada  vs Cuba | Trạng Tồ" tvg-logo="https://static.flashscore.com/res/image/data/x8ugZxyS-QBQPB0xP.png" group-title="Tiếu Lâm",⏰ 18/07 11:00 | [18/07 11:00] Canada  vs Cuba | Trạng Tồ
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=6aef9ccaa6cc4459b22aedd1b0f4cbfb
+#EXTINF:-1 tvg-id="2y8m4zh5pp53ql0" tvg-name="⏰ 18/07 14:00 | [18/07 14:00] Rochedale Rovers vs Brisbane City | Trạng Tí" tvg-logo="https://img.sports-data.online/football/team/030a377635b3ac3fe5cbb49221594110.png" group-title="Tiếu Lâm",⏰ 18/07 14:00 | [18/07 14:00] Rochedale Rovers vs Brisbane City | Trạng Tí
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=2y8m4zh5pp53ql0
+#EXTINF:-1 tvg-id="x7lm7phj3x57m2w" tvg-name="⏰ 18/07 15:30 | [18/07 15:30] St George Saints vs Rockdale City Suns | Trạng Béo" tvg-logo="https://img.sports-data.online/football/team/8467022e5f2d8204773bddb6cb7d8182.png" group-title="Tiếu Lâm",⏰ 18/07 15:30 | [18/07 15:30] St George Saints vs Rockdale City Suns | Trạng Béo
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=x7lm7phj3x57m2w
+#EXTINF:-1 tvg-id="74f9fcaf48bf442dba078a2d01fb610c" tvg-name="⏰ 18/07 17:20 | [18/07 17:20] Argentina vs Italy | Trạng Tèo" tvg-logo="https://static.flashscore.com/res/image/data/UDtAW5e5-nBWCl0De.png" group-title="Tiếu Lâm",⏰ 18/07 17:20 | [18/07 17:20] Argentina vs Italy | Trạng Tèo
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=74f9fcaf48bf442dba078a2d01fb610c
+#EXTINF:-1 tvg-id="3glrw7hn7167qdy" tvg-name="⏰ 18/07 17:30 | [18/07 17:30] Incheon United Club vs Jeonbuk Hyundai Motors | Trạng Ngố" tvg-logo="https://img.sports-data.online/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png" group-title="Tiếu Lâm",⏰ 18/07 17:30 | [18/07 17:30] Incheon United Club vs Jeonbuk Hyundai Motors | Trạng Ngố
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=3glrw7hn7167qdy
+#EXTINF:-1 tvg-id="7b754b4850424b339fee4fd61ec60753" tvg-name="⏰ 18/07 19:00 | [18/07 19:00] VIệt Nam vs Myanmar | Trạng Quỷ" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png" group-title="Tiếu Lâm",⏰ 18/07 19:00 | [18/07 19:00] VIệt Nam vs Myanmar | Trạng Quỷ
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=7b754b4850424b339fee4fd61ec60753
+#EXTINF:-1 tvg-id="99c03333e58a4c6b9ed1860adf29fa73" tvg-name="⏰ 18/07 19:00 | [18/07 19:00] VIệt Nam vs Myanmar | Trạng Pờm" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png" group-title="Tiếu Lâm",⏰ 18/07 19:00 | [18/07 19:00] VIệt Nam vs Myanmar | Trạng Pờm
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=99c03333e58a4c6b9ed1860adf29fa73
+#EXTINF:-1 tvg-id="1l4rjnh9n6zlm7v" tvg-name="⏰ 18/07 20:00 | [18/07 20:00] Zhenis Astana vs Ulytau Zhezkazgan | Trạng Tí" tvg-logo="https://img.sports-data.online/football/team/16ccfd6042d1f791302c69eec646e081.png" group-title="Tiếu Lâm",⏰ 18/07 20:00 | [18/07 20:00] Zhenis Astana vs Ulytau Zhezkazgan | Trạng Tí
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=1l4rjnh9n6zlm7v
+#EXTINF:-1 tvg-id="pxwrxlhyxj1pryk" tvg-name="⏰ 18/07 23:00 | [18/07 23:00] Viking vs Sandefjord | Trạng Tồ" tvg-logo="https://img.sports-data.online/football/team/2fa0840e0cb77fd66f104fa932302a72.png" group-title="Tiếu Lâm",⏰ 18/07 23:00 | [18/07 23:00] Viking vs Sandefjord | Trạng Tồ
+https://pay.locket.top/tv/get.php?source=tieulamtv&keys=pxwrxlhyxj1pryk
