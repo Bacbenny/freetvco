@@ -55,6 +55,13 @@ HEALTH_TIMEOUT  = int(os.environ.get("HEALTH_TIMEOUT", "10"))
 RESOLVE_TIMEOUT = int(os.environ.get("RESOLVE_TIMEOUT", "15"))
 RESOLVE_WORKERS = int(os.environ.get("RESOLVE_WORKERS", "5"))
 
+# Supabase Edge Function that resolves fetchApi → CDN stream URL via 302 redirect.
+# Used for geo-restricted CDNs (asynccdn.com) that block non-VN server IPs.
+EDGE_FUNCTION_URL = os.environ.get(
+    "EDGE_FUNCTION_URL",
+    "https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream",
+)
+
 # AES-256-ECB key for the co-signature header (reverse-engineered from Hermes bytecode)
 SIG_KEY = b"vuongdeptraivuongdeptraivklvkl12"
 
@@ -287,39 +294,33 @@ def check_stream(ch: dict) -> bool:
         return True
 
 
-def fetch_sport_url(ch: dict) -> str:
+def fetch_sport_url(ch: dict) -> tuple:
     """
     Fetch live stream URL from fetchApi.
-    Returns CDN stream URL if accessible, otherwise falls back to fetchApi URL
-    so the player can resolve it at playback time with proper headers.
+    Returns (cdn_url, headers_dict) — cdn_url is "" if unavailable.
+    headers_dict contains Referer/Origin/UA needed to access the CDN (if any).
     """
     fetch_api = ch.get("fetchApi", "")
     if not fetch_api:
-        return ""
+        return "", {}
     try:
         req = urllib.request.Request(fetch_api, headers={"User-Agent": "Cò TiVi/1.1.7"})
         with urllib.request.urlopen(req, timeout=SPORT_TIMEOUT) as r:
             data = json.loads(r.read())
         if not data.get("status"):
-            return ""
+            return "", {}
         default = data.get("default", {})
         url = default.get("url", "")
         if not url:
             links = data.get("streamLink", [])
             url = links[0].get("url", "") if links else ""
         if not url:
-            return ""
-        # Verify CDN URL is accessible; fall back to fetchApi if blocked (403/geo-restricted)
-        try:
-            check = urllib.request.Request(url, method="HEAD")
-            with urllib.request.urlopen(check, timeout=SPORT_TIMEOUT) as r:
-                if r.status == 200:
-                    return url
-        except Exception:
-            pass
-        return fetch_api
+            return "", {}
+        # Return CDN URL + channel headers (for EXTVLCOPT in M3U)
+        ch_headers = ch.get("header", {}) if isinstance(ch.get("header"), dict) else {}
+        return url, ch_headers
     except Exception:
-        return ""
+        return "", {}
 
 
 # ── M3U builders ──────────────────────────────────────────────────────────────
@@ -373,7 +374,7 @@ def make_sports_m3u(data_json: dict) -> tuple:
     print(f"  {len(all_items)} total matches, {len(live_items)} currently live")
 
     # Fetch real stream URLs for live matches in parallel
-    stream_map = {}
+    stream_map = {}   # id(ch) -> (cdn_url, headers_dict)
     if live_items:
         print(f"  Fetching {len(live_items)} live stream URLs...")
         with ThreadPoolExecutor(max_workers=SPORT_WORKERS) as ex:
@@ -381,7 +382,7 @@ def make_sports_m3u(data_json: dict) -> tuple:
             for fut in as_completed(futs):
                 grp, ch = futs[fut]
                 stream_map[id(ch)] = fut.result()
-        ok = sum(1 for u in stream_map.values() if u)
+        ok = sum(1 for v in stream_map.values() if v[0])
         print(f"  ✅ {ok}/{len(live_items)} live streams fetched")
 
     lines = ["#EXTM3U"]
@@ -399,14 +400,36 @@ def make_sports_m3u(data_json: dict) -> tuple:
         t          = (ch.get("onlyTime") or "").strip()
         time_str   = f"{t}-{day}".strip() if t and day else f"{day} {t}".strip()
 
+        cdn_url = ""
+        ch_headers = {}
         if is_live:
-            stream_url = stream_map.get(id(ch), "")
-            if not stream_url:
-                stream_url = ch.get("fetchApi", "")
+            cdn_url, ch_headers = stream_map.get(id(ch), ("", {}))
             live_count += 1
         else:
-            stream_url = ch.get("fetchApi", "")
             upcoming_count += 1
+
+        # Build final stream URL + optional EXTVLCOPT header lines
+        extvlc_lines = []
+        if cdn_url:
+            ref = ch_headers.get("Referer") or ch_headers.get("referer", "")
+            ua  = ch_headers.get("User-Agent") or ch_headers.get("User-agent", "")
+
+            # Geo-restricted CDNs (asynccdn.com) block non-VN IPs at build time.
+            # Use the edge function resolver so any player can follow the 302 redirect
+            # from their own (VN) IP. Also emit EXTVLCOPT for players that support them.
+            if "asynccdn.com" in cdn_url and EDGE_FUNCTION_URL:
+                encoded = urllib.parse.quote(ch.get("fetchApi", ""), safe="")
+                stream_url = f"{EDGE_FUNCTION_URL}?url={encoded}"
+            else:
+                stream_url = cdn_url
+
+            if ref:
+                extvlc_lines.append(f"#EXTVLCOPT:http-referrer={ref}")
+            if ua:
+                extvlc_lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
+        else:
+            # No CDN URL (upcoming match or fetch failed) — use fetchApi as placeholder
+            stream_url = ch.get("fetchApi", "")
 
         if not stream_url:
             continue
@@ -429,6 +452,7 @@ def make_sports_m3u(data_json: dict) -> tuple:
             f'tvg-name="{title}" tvg-logo="{icon}" '
             f'group-title="{grp}",{title}'
         )
+        lines.extend(extvlc_lines)
         lines.append(stream_url)
 
     return "\n".join(lines) + "\n", live_count, upcoming_count

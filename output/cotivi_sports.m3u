@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="piBSzY_hfOLSUnabtuaQhw~~" tvg-name="[11:00-17/07] Cuba - Argentina [BLV Trĩ] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/AmSqkKjl-hIzfuNSD.png" group-title="Giờ Vàng",[11:00-17/07] Cuba - Argentina [BLV Trĩ] - Bóng chuyền Nations League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1784215641_hd/1784215641_hd@720p.m3u8
 #EXTINF:-1 tvg-id="8MqQpbuLvCJDY_jk1BCGsw~~" tvg-name="[13:00-17/07] Việt Nam - Myanmar [BLV Sún] - Bóng chuyền Sea V Cup" tvg-logo="https://static.flashscore.com/res/image/data/vNL4gRYA-4I3lSGFh.png" group-title="Giờ Vàng",[13:00-17/07] Việt Nam - Myanmar [BLV Sún] - Bóng chuyền Sea V Cup
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1784215697_hd/1784215697_hd@720p.m3u8
 #EXTINF:-1 tvg-id="GoBLOjZIqYaEop83ygfgUw~~" tvg-name="[14:30-17/07] Auckland Tuatara - Manawatu Jets [BLV Cầy] - Bóng rổ National Basketball League (New Zealand)" tvg-logo="https://nba.titan007.com/files/team/1g3b2ne9v1.png" group-title="Giờ Vàng",[14:30-17/07] Auckland Tuatara - Manawatu Jets [BLV Cầy] - Bóng rổ National Basketball League (New Zealand)
 https://pay.locket.top/tv/get.php?source=giovangtv&keys=GoBLOjZIqYaEop83ygfgUw~~
@@ -102,7 +106,9 @@ https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKIMh
 #EXTINF:-1 tvg-id="9Mka8kHMJPAqi9Phk6SjwA~~" tvg-name="[08:00-17/07] Dallas Wings - New York Liberty [BLV Cầy] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://nba.titan007.com/files/team/1harzp08wx2p.png" group-title="Giờ Vàng",[08:00-17/07] Dallas Wings - New York Liberty [BLV Cầy] - Bóng rổ Women’s National Basketball Association
 https://pay.locket.top/tv/get.php?source=giovangtv&keys=9Mka8kHMJPAqi9Phk6SjwA~~
 #EXTINF:-1 tvg-id="e1a69220be02490a9ed3be64bfe3e574" tvg-name="[13:00-17/07] Myanmar - Việt Nam [BLV Trạng Tồ] - SEA V.Cup 2026" tvg-logo="https://static.flashscore.com/res/image/data/pd29lpeM-8xwT7BCP.png" group-title="Tiếu Lâm",[13:00-17/07] Myanmar - Việt Nam [BLV Trạng Tồ] - SEA V.Cup 2026
-https://pay.locket.top/tv/get.php?source=tieulamtv&keys=e1a69220be02490a9ed3be64bfe3e574
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3De1a69220be02490a9ed3be64bfe3e574
 #EXTINF:-1 tvg-id="jw2r09hk657lrz8" tvg-name="[16:30-17/07] Sydney FC Youth - Manly United [BLV Trạng Tí] - Australia New South Wales Premier League" tvg-logo="https://img.sports-data.online/football/team/6fb81e8272c1a862f2afe6e9858391af.png" group-title="Tiếu Lâm",[16:30-17/07] Sydney FC Youth - Manly United [BLV Trạng Tí] - Australia New South Wales Premier League
 https://pay.locket.top/tv/get.php?source=tieulamtv&keys=jw2r09hk657lrz8
 #EXTINF:-1 tvg-id="5633cce6611e4d01a5272963426f5cae" tvg-name="[17:20-17/07] Japan - Belgium [BLV Trạng Tồ] - Nations League" tvg-logo="https://static.flashscore.com/res/image/data/f552VMEa-E1YhvyqD.png" group-title="Tiếu Lâm",[17:20-17/07] Japan - Belgium [BLV Trạng Tồ] - Nations League
