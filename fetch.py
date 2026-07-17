@@ -392,11 +392,9 @@ def make_sports_m3u(data_json: dict) -> tuple:
             stream_url = stream_map.get(id(ch), "")
             if not stream_url:
                 stream_url = ch.get("fetchApi", "")
-            status_tag = "🔴 LIVE"
             live_count += 1
         else:
             stream_url = ch.get("fetchApi", "")
-            status_tag = f"⏰ {time_str}" if time_str else "⏰"
             upcoming_count += 1
 
         if not stream_url:
@@ -407,7 +405,15 @@ def make_sports_m3u(data_json: dict) -> tuple:
             title = f"[{time_str}] {display}"
         if blv:
             title += f" | {blv}"
-        title = f"{status_tag} | {title}"
+
+        # Giờ Vàng and Tiếu Lâm: no "🔴 LIVE" prefix for live matches
+        if is_live and grp in ("Giờ Vàng", "Tiếu Lâm"):
+            pass  # title already built above
+        elif is_live:
+            title = f"🔴 LIVE | {title}"
+        else:
+            status_tag = f"⏰ {time_str}" if time_str else "⏰"
+            title = f"{status_tag} | {title}"
 
         ch_id = ch.get("id", "")
         lines.append(
