@@ -422,34 +422,59 @@ def make_sports_m3u(data_json: dict) -> tuple:
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
-GROUP_ORDER_FIRST = ["Giờ Vàng", "Tiếu Lâm"]
-GROUP_ORDER_LAST  = ["Sự Kiện VTVPrime", "Sự Kiện TV360"]
-
+# Explicit group order for cotivi_all.m3u.
+# Merged groups: (target_label, [sources_first, ..., sources_last])
+# Sources are concatenated in the listed order under target_label.
+GROUP_CONFIG = [
+    ("Giờ Vàng",          ["Giờ Vàng"]),
+    ("Tiếu Lâm",          ["Tiếu Lâm"]),
+    ("VTV",               ["VTV"]),
+    ("Thiết Yếu",         ["Thiết Yếu"]),
+    # VTVCab: sports channels first, then regular
+    ("VTVCab",            ["VTVCab Thể Thao", "VTVCab"]),
+    # SCTV: sports channels first, then regular
+    ("SCTV",              ["SCTV Thể Thao", "SCTV"]),
+    ("HTV",               ["HTV"]),
+    ("In The Box",        ["In The Box"]),
+    ("Nước Ngoài",        ["Nước Ngoài"]),
+    # Địa Phương: regular first, THVL at end
+    ("Địa phương",        ["Địa phương", "THVL"]),
+    ("Thử nghiệm",        ["Thử nghiệm"]),
+    ("SCTV Test",         ["SCTV Test"]),
+    ("Sự Kiện VTVPrime",  ["Sự Kiện VTVPrime"]),
+    ("Sự Kiện TV360",     ["Sự Kiện TV360"]),
+]
 
 def reorder_groups(lines: list) -> list:
-    """Reorder M3U entries: Giờ Vàng + Tiếu Lâm first, VTVPrime + TV360 last, rest in middle."""
+    """Reorder and merge M3U groups according to GROUP_CONFIG."""
     if not lines:
         return lines
-    groups: dict[str, list[str]] = {}
+
+    # Bucket raw lines by their original group-title
+    buckets: dict[str, list[str]] = {}
     current_group = None
     for line in lines:
         if line.startswith("#EXTINF"):
             grp_match = re.search(r'group-title="([^"]*)"', line)
             current_group = grp_match.group(1) if grp_match else "Unknown"
-            groups.setdefault(current_group, []).append(line)
-        else:
-            if current_group:
-                groups[current_group].append(line)
+        buckets.setdefault(current_group or "Unknown", []).append(line)
+
+    def relabel(line: str, new_group: str) -> str:
+        """Replace group-title value in an #EXTINF line."""
+        if line.startswith("#EXTINF"):
+            return re.sub(r'group-title="[^"]*"', f'group-title="{new_group}"', line)
+        return line
+
     ordered = []
-    for g in GROUP_ORDER_FIRST:
-        if g in groups:
-            ordered.extend(groups.pop(g))
-    for g in sorted(groups.keys()):
-        if g not in GROUP_ORDER_LAST:
-            ordered.extend(groups[g])
-    for g in GROUP_ORDER_LAST:
-        if g in groups:
-            ordered.extend(groups.pop(g))
+    for target_label, sources in GROUP_CONFIG:
+        for src in sources:
+            for line in buckets.pop(src, []):
+                ordered.append(relabel(line, target_label))
+
+    # Append any unexpected groups not listed in GROUP_CONFIG
+    for grp, remaining in buckets.items():
+        ordered.extend(remaining)
+
     return ordered
 
 
