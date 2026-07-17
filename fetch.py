@@ -68,6 +68,9 @@ SIG_KEY = b"vuongdeptraivuongdeptraivklvkl12"
 # Domains whose URLs need the co-signature header to resolve
 SIGN_DOMAINS = {"rd.locket.top"}
 
+# Groups resolved via edge function in real-time — no workflow needed for fresh links
+REALTIME_GROUPS = {"Giờ Vàng", "Tiếu Lâm"}
+
 ENDPOINTS = [
     {
         "name"    : "channels",
@@ -410,7 +413,23 @@ def make_sports_m3u(data_json: dict) -> tuple:
 
         # Build final stream URL + optional EXTVLCOPT header lines
         extvlc_lines = []
-        if cdn_url:
+        fetch_api_url = ch.get("fetchApi", "")
+
+        if grp in REALTIME_GROUPS and fetch_api_url and EDGE_FUNCTION_URL:
+            # Real-time groups: always proxy through edge function.
+            # Players get a fresh CDN URL on every request — no workflow dependency.
+            # Works instantly when a match goes live (no 30-min workflow wait).
+            encoded = urllib.parse.quote(fetch_api_url, safe="")
+            stream_url = f"{EDGE_FUNCTION_URL}?url={encoded}"
+            # Still emit EXTVLCOPT referrer/UA headers if the live CDN provided them
+            if cdn_url and ch_headers:
+                ref = ch_headers.get("Referer") or ch_headers.get("referer", "")
+                ua  = ch_headers.get("User-Agent") or ch_headers.get("User-agent", "")
+                if ref:
+                    extvlc_lines.append(f"#EXTVLCOPT:http-referrer={ref}")
+                if ua:
+                    extvlc_lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
+        elif cdn_url:
             ref = ch_headers.get("Referer") or ch_headers.get("referer", "")
             ua  = ch_headers.get("User-Agent") or ch_headers.get("User-agent", "")
 
@@ -418,7 +437,7 @@ def make_sports_m3u(data_json: dict) -> tuple:
             # Use the edge function resolver so any player can follow the 302 redirect
             # from their own (VN) IP. Also emit EXTVLCOPT for players that support them.
             if "asynccdn.com" in cdn_url and EDGE_FUNCTION_URL:
-                encoded = urllib.parse.quote(ch.get("fetchApi", ""), safe="")
+                encoded = urllib.parse.quote(fetch_api_url, safe="")
                 stream_url = f"{EDGE_FUNCTION_URL}?url={encoded}"
             else:
                 stream_url = cdn_url
@@ -429,7 +448,7 @@ def make_sports_m3u(data_json: dict) -> tuple:
                 extvlc_lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
         else:
             # No CDN URL (upcoming match or fetch failed) — use fetchApi as placeholder
-            stream_url = ch.get("fetchApi", "")
+            stream_url = fetch_api_url
 
         if not stream_url:
             continue
