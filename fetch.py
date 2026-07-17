@@ -66,11 +66,13 @@ ENDPOINTS = [
 
 # Domains that are IP-restricted to Vietnam — always keep regardless of test result
 VN_CDN_DOMAINS = {
-    "live.fptplay53.net", "live-a.fptplay53.net", "live.fptplay53.net",
+    "live.fptplay53.net", "live-a.fptplay53.net",
     "liveatmvng.vtvprime.vn", "livebytatm.vtvprime.vn", "livezenatm.vtvprime.vn",
-    "liveh34.vtvprime.vn", "live.fptplay53.net",
+    "liveh34.vtvprime.vn",
     "live.baoquangninh.vn", "tv.angiangtv.vn",
     "live.truyenhinhnghean.vn", "vtvgolive-sctv.vtvdigital.vn",
+    "rd.locket.top",
+    "livevlisctcdnw.seenow.vn",
 }
 
 # ── helpers ───────────────────────────────────────────────────────────────────
@@ -160,10 +162,14 @@ def check_stream(ch: dict) -> bool:
     Return True if the channel stream should be kept.
     IP-restricted VN CDN domains always pass.
     HTTP 400/404 and DNS failures are skipped.
+    DRM channels (onDrm / drmOptions) always pass (can't health-check .mpd).
+    Redirectors returning 200 with "error signature" body are skipped.
     """
     url = ch.get("link", "")
     if not url:
         return False
+    if ch.get("onDrm") or ch.get("drmOptions") or ch.get("clearkey"):
+        return True
     from urllib.parse import urlparse
     domain = urlparse(url).netloc
     if domain in VN_CDN_DOMAINS:
@@ -178,18 +184,24 @@ def check_stream(ch: dict) -> bool:
     try:
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=HEALTH_TIMEOUT, context=_ssl_ctx()) as r:
-            r.read(64)
-            return r.status not in (400, 404)
+            body = r.read(256)
+            if r.status in (400, 404):
+                return False
+            low = body.lower()
+            if b"error signature" in low or b"error sign" in low:
+                return False
+            if b"<html" in low and b"#extm3u" not in low and b".m3u8" not in low:
+                return False
+            return True
     except urllib.error.HTTPError as e:
-        return e.code not in (400, 404)
+        return e.code not in (400, 403, 404)
     except urllib.error.URLError as e:
-        # DNS failure (Errno -2) → dead; timeout → keep
         reason = str(e.reason)
         if "Name or service not known" in reason or "Errno -2" in reason:
             return False
-        return True     # timeout or other network → keep
+        return True
     except Exception:
-        return True     # unknown error → keep
+        return True
 
 
 def fetch_sport_url(ch: dict) -> str:
@@ -365,9 +377,8 @@ def main():
             skip_ids: set = set()
             if HEALTH_CHECK:
                 all_chs = [ch for grp in plain.get("Data",[]) for ch in grp.get("List",[])
-                           if ch.get("link","").startswith("http")
-                           and not (ch.get("onDrm") or ch.get("drmOptions") or ch.get("clearkey"))]
-                print(f"  Health checking {len(all_chs)} non-DRM channels...")
+                           if ch.get("link","").startswith("http")]
+                print(f"  Health checking {len(all_chs)} channels...")
                 with ThreadPoolExecutor(max_workers=HEALTH_WORKERS) as ex:
                     futs = {ex.submit(check_stream, ch): ch for ch in all_chs}
                     for fut in as_completed(futs):

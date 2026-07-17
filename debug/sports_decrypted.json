@@ -79,35 +79,6 @@
           }
         },
         {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=ZypcsXuEWYfLV7KEOgcJAQ~~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "ZypcsXuEWYfLV7KEOgcJAQ~~",
-          "src": "hoiquantv",
-          "keys": "ZypcsXuEWYfLV7KEOgcJAQ~~",
-          "home": "Denver Nuggets",
-          "away": "Portland Trail Blazers",
-          "homeLogo": "https://nba.titan007.com/files/team/1jzvwcf8x72s.png",
-          "awayLogo": "https://nba.titan007.com/files/team/1k71f2e7vpg.png",
-          "name": "🏀 Bóng rổ NBA Summer League",
-          "time": null,
-          "onlyTime": "09:00",
-          "onlyDay": "17/07",
-          "blv": "BLV Điếc",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=piBSzY_hfOLSUnabtuaQhw~~",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
           "postApiAuto": "https://api.cotivi.online/api/Extract?version=",

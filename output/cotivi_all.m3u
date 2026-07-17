@@ -444,18 +444,12 @@ https://rd.locket.top/tv360.m3u8?id=gialai
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Hà Nội 2" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_480_270.png" group-title="Địa phương",Hà Nội 2
 https://rd.locket.top/tv360.m3u8?id=hanoi2
-#EXTINF:-1 tvg-id="196" tvg-name="Hà Tĩnh" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png" group-title="Địa phương",Hà Tĩnh
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="Hải Phòng" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293124933/96ed2cfade28_480_270.png" group-title="Địa phương",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="Hải Phòng 3" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_480_270.png" group-title="Địa phương",Hải Phòng 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://rd.locket.top/tv360.m3u8?id=haiphong3
-#EXTINF:-1 tvg-id="193" tvg-name="Huế TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_480_270.png" group-title="Địa phương",Huế TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="Hưng Yên" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/18/14/1689667110643/2aa9348c16ec_480_270.png" group-title="Địa phương",Hưng Yên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
@@ -563,9 +557,6 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-#EXTINF:-1 tvg-id="146" tvg-name="SCTV10" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV10
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
-https://api.cotivi.online/index.m3u8?channel=sctv10-0faf313b
 #EXTINF:-1 tvg-id="147" tvg-name="SCTV11" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -728,8 +719,6 @@ https://api.xemshort.top/cc.m3u8
 https://rd.locket.top/mytv.m3u8?k=766
 #EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKEJCTOnpkxHeKfYUMwMKP3E~" tvg-name="🔴 LIVE | Seattle Sounders vs Portland Timbers | BLV Ngọng" tvg-logo="https://images.keovip88.net/images/teams/seattle-sounders.png" group-title="Giờ Vàng",🔴 LIVE | Seattle Sounders vs Portland Timbers | BLV Ngọng
 https://eqr2hdarxfliv.vcdn.cloud/1784215383_hd/1784215383_hd@720p.m3u8
-#EXTINF:-1 tvg-id="ZypcsXuEWYfLV7KEOgcJAQ~~" tvg-name="🔴 LIVE | Denver Nuggets vs Portland Trail Blazers | BLV Điếc" tvg-logo="https://nba.titan007.com/files/team/1jzvwcf8x72s.png" group-title="Giờ Vàng",🔴 LIVE | Denver Nuggets vs Portland Trail Blazers | BLV Điếc
-https://eqr2hdarxfliv.vcdn.cloud/1784215497_hd/1784215497_hd@720p.m3u8
 #EXTINF:-1 tvg-id="piBSzY_hfOLSUnabtuaQhw~~" tvg-name="🔴 LIVE | Cuba vs Argentina | BLV Trĩ" tvg-logo="https://static.flashscore.com/res/image/data/AmSqkKjl-hIzfuNSD.png" group-title="Giờ Vàng",🔴 LIVE | Cuba vs Argentina | BLV Trĩ
 https://eqr2hdarxfliv.vcdn.cloud/1784215641_hd/1784215641_hd@720p.m3u8
 #EXTINF:-1 tvg-id="8MqQpbuLvCJDY_jk1BCGsw~~" tvg-name="⏰ 17/07 13:00 | [17/07 13:00] Việt Nam vs Myanmar | BLV Sún" tvg-logo="https://static.flashscore.com/res/image/data/vNL4gRYA-4I3lSGFh.png" group-title="Giờ Vàng",⏰ 17/07 13:00 | [17/07 13:00] Việt Nam vs Myanmar | BLV Sún
