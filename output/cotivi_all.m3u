@@ -530,3 +530,13 @@ https://api.xemshort.top/cc.m3u8
 #EXTINF:-1 tvg-id="sctvpth" tvg-name="SCTV Phim tổng hợp" tvg-logo="https://s7772.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="SCTV Test",SCTV Phim tổng hợp
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.21D50 (iPhone; U; CPU OS 17_3 like Mac OS X; vi_vn)
 https://rd.locket.top/mytv.m3u8?k=766
+#EXTINF:-1 tvg-id="Nzv1IUM1yQ3oANd6RFpHKA0rMITWFgqk7Hu3KaxdgMs~" tvg-name="St. Louis City vs Sporting Kansas City" tvg-logo="https://images.keovip88.net/images/teams/st-louis-city.png" group-title="Giờ Vàng",St. Louis City vs Sporting Kansas City
+https://eqr2hdarxfliv.vcdn.cloud/1784215362_hd/1784215362_hd@720p.m3u8
+#EXTINF:-1 tvg-id="ZH-sFIl36UT4y4xKqrs4dA~~" tvg-name="Miami Heat vs Toronto Raptors" tvg-logo="https://nba.titan007.com/files/team/1k85fvk13bv.png" group-title="Giờ Vàng",Miami Heat vs Toronto Raptors
+https://eqr2hdarxfliv.vcdn.cloud/1784215438_hd/1784215438_hd@720p.m3u8
+#EXTINF:-1 tvg-id="ZypcsXuEWYfLV7KEOgcJAQ~~" tvg-name="Denver Nuggets vs Portland Trail Blazers" tvg-logo="https://nba.titan007.com/files/team/1jzvwcf8x72s.png" group-title="Giờ Vàng",Denver Nuggets vs Portland Trail Blazers
+https://eqr2hdarxfliv.vcdn.cloud/1784215497_hd/1784215497_hd@720p.m3u8
+#EXTINF:-1 tvg-id="FRag6R7awU8AwJYdEpLjBg~~" tvg-name="USA vs Brazil" tvg-logo="https://assets.fiba.basketball/image/upload/d_.logoflag--dark--organisation_154.webp/w_400/f_auto/q_auto/.logoflag--dark--organisation_154--competition_208755?buster=20628" group-title="Giờ Vàng",USA vs Brazil
+https://eqr2hdarxfliv.vcdn.cloud/1784215566_hd/1784215566_hd@720p.m3u8
+#EXTINF:-1 tvg-id="4aa1437d43574b26b25dc9b1c9d1596f" tvg-name="USA  vs Brazil" tvg-logo="https://static.flashscore.com/res/image/data/xpZWyhzB-rZcDn0Ec.png" group-title="Tiếu Lâm",USA  vs Brazil
+https://pull.asynccdn.com/live/8ffe67be58bf46979204f44a7620fa1e/index.m3u8
