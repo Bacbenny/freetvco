@@ -290,7 +290,8 @@ def check_stream(ch: dict) -> bool:
 def fetch_sport_url(ch: dict) -> str:
     """
     Fetch live stream URL from fetchApi.
-    Returns stream URL string or "" if not live / unavailable.
+    Returns CDN stream URL if accessible, otherwise falls back to fetchApi URL
+    so the player can resolve it at playback time with proper headers.
     """
     fetch_api = ch.get("fetchApi", "")
     if not fetch_api:
@@ -306,7 +307,17 @@ def fetch_sport_url(ch: dict) -> str:
         if not url:
             links = data.get("streamLink", [])
             url = links[0].get("url", "") if links else ""
-        return url
+        if not url:
+            return ""
+        # Verify CDN URL is accessible; fall back to fetchApi if blocked (403/geo-restricted)
+        try:
+            check = urllib.request.Request(url, method="HEAD")
+            with urllib.request.urlopen(check, timeout=SPORT_TIMEOUT) as r:
+                if r.status == 200:
+                    return url
+        except Exception:
+            pass
+        return fetch_api
     except Exception:
         return ""
 
@@ -386,7 +397,7 @@ def make_sports_m3u(data_json: dict) -> tuple:
         blv        = (ch.get("blv") or "").strip()
         day        = (ch.get("onlyDay") or "").strip()
         t          = (ch.get("onlyTime") or "").strip()
-        time_str   = f"{day} {t}".strip()
+        time_str   = f"{t}-{day}".strip() if t and day else f"{day} {t}".strip()
 
         if is_live:
             stream_url = stream_map.get(id(ch), "")
@@ -400,20 +411,17 @@ def make_sports_m3u(data_json: dict) -> tuple:
         if not stream_url:
             continue
 
-        title = display
-        if time_str and not is_live:
-            title = f"[{time_str}] {display}"
+        # Title format: [HH:MM-DD/MM] Team A - Team B [BLV Name] - League
+        match_name = f"{home} - {away}" if home and away else sport_name
+        title = match_name
         if blv:
-            title += f" | {blv}"
-
-        # Giờ Vàng and Tiếu Lâm: no "🔴 LIVE" prefix for live matches
-        if is_live and grp in ("Giờ Vàng", "Tiếu Lâm"):
-            pass  # title already built above
-        elif is_live:
-            title = f"🔴 LIVE | {title}"
-        else:
-            status_tag = f"⏰ {time_str}" if time_str else "⏰"
-            title = f"{status_tag} | {title}"
+            blv_clean = blv.replace("BLV ", "").replace("BLV", "").strip()
+            title += f" [BLV {blv_clean}]"
+        league = re.sub(r'^[🏐⚽🏀🎾🏏🏐🏈⚾🏸🏉🥊🥋🤿🎣🏌️⛸️🏑🏒🏓🥅🏸🥏🎱🏹]+\s*', '', sport_name).strip()
+        if league and league != match_name:
+            title += f" - {league}"
+        if time_str:
+            title = f"[{time_str}] {title}"
 
         ch_id = ch.get("id", "")
         lines.append(
