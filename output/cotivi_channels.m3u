@@ -14,9 +14,6 @@ https://test.cotivi.store/tsn.m3u8
 #EXTINF:-1 tvg-id="fussball_uhd" tvg-name="Fussball TV1" tvg-logo="https://s3.vn-hcm-1.vietnix.cloud/apk/logo/fussballtvcc.jpg" group-title="WorldCup Nước Ngoài",Fussball TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://test.cotivi.store/fussball.m3u8
-#EXTINF:-1 tvg-id="cazetv_2" tvg-name="CAZE TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="WorldCup Nước Ngoài",CAZE TV 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 tvg-id="tv360_vtv2" tvg-name="VTV2" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_480_270.png" group-title="World Cup",VTV2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.21D50 (iPhone; U; CPU OS 17_3 like Mac OS X; vi_vn)
 http://rd.locket.top/worldcup/tv360.m3u8?id=vtv2
@@ -328,9 +325,6 @@ https://rd.locket.top/tv360.m3u8?id=gialai
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Hà Nội 2" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_480_270.png" group-title="Địa phương",Hà Nội 2
 https://rd.locket.top/tv360.m3u8?id=hanoi2
-#EXTINF:-1 tvg-id="196" tvg-name="Hà Tĩnh" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png" group-title="Địa phương",Hà Tĩnh
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="Hải Phòng" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293124933/96ed2cfade28_480_270.png" group-title="Địa phương",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
@@ -425,9 +419,6 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
 #EXTINF:-1 tvg-id="145" tvg-name="SCTV9" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-#EXTINF:-1 tvg-id="146" tvg-name="SCTV10" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV10
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
-https://api.cotivi.online/index.m3u8?channel=sctv10-0faf313b
 #EXTINF:-1 tvg-id="147" tvg-name="SCTV11" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="SCTV",SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.10 (Linux;Android 12) ExoPlayerLib/2.13.3
 https://liveatmvng.vtvprime.vn/live/data8/SCTV11/Live_DASHDRM/SCTV11.mpd
