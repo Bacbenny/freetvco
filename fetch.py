@@ -53,7 +53,7 @@ HEALTH_WORKERS  = int(os.environ.get("HEALTH_WORKERS", "30"))
 SPORT_TIMEOUT   = int(os.environ.get("SPORT_TIMEOUT",  "12"))
 HEALTH_TIMEOUT  = int(os.environ.get("HEALTH_TIMEOUT", "10"))
 RESOLVE_TIMEOUT = int(os.environ.get("RESOLVE_TIMEOUT", "15"))
-RESOLVE_WORKERS = int(os.environ.get("RESOLVE_WORKERS", "10"))
+RESOLVE_WORKERS = int(os.environ.get("RESOLVE_WORKERS", "5"))
 
 # AES-256-ECB key for the co-signature header (reverse-engineered from Hermes bytecode)
 SIG_KEY = b"vuongdeptraivuongdeptraivklvkl12"
@@ -210,26 +210,34 @@ def resolve_locket_url(ch: dict, signature: str) -> str:
     """
     Resolve a rd.locket.top redirector URL to the real CDN stream URL.
     Fetches the M3U8 with the co-signature header and extracts the first variant URL.
+    Retries up to 3 times on failure (server rate-limits unpredictably).
     Returns the CDN URL, or "" on failure (caller keeps the original link).
     """
     link = ch.get("link", "")
     hdr = ch.get("header", {})
-    headers = {"User-Agent": "Mozilla/5.0", "co-signature": signature}
-    if isinstance(hdr, dict):
-        for k, v in hdr.items():
-            if k.lower() == "user-agent":
-                headers["User-Agent"] = v
-            else:
-                headers[k] = v
-    try:
-        req = urllib.request.Request(link, headers=headers)
-        with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT, context=_ssl_ctx()) as r:
-            body = r.read(4096).decode("utf-8", errors="replace")
-        urls = re.findall(r"(https?://[^\s]+\.m3u8)", body)
-        if urls:
-            return urls[0]
-    except Exception:
-        pass
+    for attempt in range(3):
+        ts = str(int(time.time() * 1000))
+        payload = json.dumps({"ipData": _get_ip_data(), "firtTime": ts, "lastTime": ts})
+        cipher = AES.new(SIG_KEY, AES.MODE_ECB)
+        encrypted = cipher.encrypt(pad(payload.encode("utf-8"), AES.block_size))
+        sig = base64.b64encode(encrypted).decode("utf-8")
+        headers = {"User-Agent": "Mozilla/5.0", "co-signature": sig}
+        if isinstance(hdr, dict):
+            for k, v in hdr.items():
+                if k.lower() == "user-agent":
+                    headers["User-Agent"] = v
+                else:
+                    headers[k] = v
+        try:
+            req = urllib.request.Request(link, headers=headers)
+            with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT, context=_ssl_ctx()) as r:
+                body = r.read(4096).decode("utf-8", errors="replace")
+            urls = re.findall(r"(https?://[^\s]+\.(?:m3u8|mpd))", body)
+            if urls:
+                return urls[0]
+        except Exception:
+            pass
+        time.sleep(1)
     return ""
 
 
