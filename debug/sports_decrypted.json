@@ -50,35 +50,6 @@
       "Sports": true,
       "List": [
         {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKEJCTOnpkxHeKfYUMwMKP3E~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "Nzv1IUM1yQ3oANd6RFpHKEJCTOnpkxHeKfYUMwMKP3E~",
-          "src": "hoiquantv",
-          "keys": "Nzv1IUM1yQ3oANd6RFpHKEJCTOnpkxHeKfYUMwMKP3E~",
-          "home": "Seattle Sounders",
-          "away": "Portland Timbers",
-          "homeLogo": "https://images.keovip88.net/images/teams/seattle-sounders.png",
-          "awayLogo": "https://images.keovip88.net/images/teams/portland-timbers.png",
-          "name": "⚽ MLS Mỹ",
-          "time": null,
-          "onlyTime": "09:30",
-          "onlyDay": "17/07",
-          "blv": "BLV Ngọng",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=piBSzY_hfOLSUnabtuaQhw~~",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
           "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
@@ -123,9 +94,9 @@
           "onlyTime": "13:00",
           "onlyDay": "17/07",
           "blv": "BLV Sún",
-          "live": false,
-          "liveDesc": "Sắp diễn ra",
-          "ColorLive": "red",
+          "live": true,
+          "liveDesc": "Trực tiếp",
+          "ColorLive": "green",
           "autoget": "tugets",
           "headertuget": {
             "referer": "vuongdeptrai"
@@ -326,6 +297,35 @@
           "onlyTime": "16:30",
           "onlyDay": "17/07",
           "blv": "BLV Mason",
+          "live": false,
+          "liveDesc": "Sắp diễn ra",
+          "ColorLive": "red",
+          "autoget": "tugets",
+          "headertuget": {
+            "referer": "vuongdeptrai"
+          },
+          "header": {
+            "origin": "https://giovang.link",
+            "referer": "https://giovang.link",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=8Q3ECzGRnVjLWLgM-W5PEg~~",
+          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "id": "8Q3ECzGRnVjLWLgM-W5PEg~~",
+          "src": "hoiquantv",
+          "keys": "8Q3ECzGRnVjLWLgM-W5PEg~~",
+          "home": "KRX",
+          "away": "DFM",
+          "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/DRX_logo_2023.png/1280px-DRX_logo_2023.png",
+          "awayLogo": "https://i.namu.wiki/i/FKn1Na9dXdNDGUOkxdCQrdH7-pBL39cfukstZMFZHlR-B1taInJcdqX6cM027AXlbuWk5634azwvDU5e7QGFzA.svg",
+          "name": "🎮 VCT Pacific",
+          "time": null,
+          "onlyTime": "17:00",
+          "onlyDay": "17/07",
+          "blv": "BLV Điếc",
           "live": false,
           "liveDesc": "Sắp diễn ra",
           "ColorLive": "red",
@@ -1550,9 +1550,9 @@
           "onlyTime": "13:00",
           "onlyDay": "17/07",
           "blv": "Trạng Tồ",
-          "live": false,
-          "liveDesc": "Sắp diễn ra",
-          "ColorLive": "red",
+          "live": true,
+          "liveDesc": "Trực tiếp",
+          "ColorLive": "green",
           "autoget": "tugets",
           "headertuget": {
             "referer": "vuongdeptrai"
