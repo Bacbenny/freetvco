@@ -422,6 +422,37 @@ def make_sports_m3u(data_json: dict) -> tuple:
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
+GROUP_ORDER_FIRST = ["Giờ Vàng", "Tiếu Lâm"]
+GROUP_ORDER_LAST  = ["Sự Kiện VTVPrime", "Sự Kiện TV360"]
+
+
+def reorder_groups(lines: list) -> list:
+    """Reorder M3U entries: Giờ Vàng + Tiếu Lâm first, VTVPrime + TV360 last, rest in middle."""
+    if not lines:
+        return lines
+    groups: dict[str, list[str]] = {}
+    current_group = None
+    for line in lines:
+        if line.startswith("#EXTINF"):
+            grp_match = re.search(r'group-title="([^"]*)"', line)
+            current_group = grp_match.group(1) if grp_match else "Unknown"
+            groups.setdefault(current_group, []).append(line)
+        else:
+            if current_group:
+                groups[current_group].append(line)
+    ordered = []
+    for g in GROUP_ORDER_FIRST:
+        if g in groups:
+            ordered.extend(groups.pop(g))
+    for g in sorted(groups.keys()):
+        if g not in GROUP_ORDER_LAST:
+            ordered.extend(groups[g])
+    for g in GROUP_ORDER_LAST:
+        if g in groups:
+            ordered.extend(groups.pop(g))
+    return ordered
+
+
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     DBG_DIR.mkdir(parents=True, exist_ok=True)
@@ -501,8 +532,21 @@ def main():
                 all_lines.append(line)
         all_count += count
 
+    # Remove World Cup groups from combined output
+    EXCLUDE_GROUPS = {"World Cup", "WorldCup Nước Ngoài"}
+    filtered_lines = []
+    skip_block = False
+    for line in all_lines:
+        if line.startswith("#EXTINF"):
+            grp_match = re.search(r'group-title="([^"]*)"', line)
+            skip_block = grp_match and grp_match.group(1) in EXCLUDE_GROUPS
+        if not skip_block:
+            filtered_lines.append(line)
+    all_lines = filtered_lines
+    all_count = sum(1 for l in all_lines if l.startswith("#EXTINF"))
+
     if all_count > 0:
-        all_m3u  = "\n".join(all_lines) + "\n"
+        all_m3u  = "\n".join(reorder_groups(all_lines)) + "\n"
         all_path = OUT_DIR / "cotivi_all.m3u"
         all_path.write_text(all_m3u, encoding="utf-8")
         vn_now = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d %H:%M %Z")
