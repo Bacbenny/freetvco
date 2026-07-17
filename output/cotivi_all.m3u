@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-id="XWT8WtyKvS8PsO-Ln3OeWQ~~" tvg-name="[23:00-17/07] Klubi-04 - Haka [BLV Mát] - Finland - Ykkösliiga" tvg-logo="https://static.flashscore.com/res/image/data/QDxLQzZA-joSKJXz3.png" group-title="Giờ Vàng",[23:00-17/07] Klubi-04 - Haka [BLV Mát] - Finland - Ykkösliiga
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXWT8WtyKvS8PsO-Ln3OeWQ~~
 #EXTINF:-1 tvg-id="0jADeEAhk_jwRtxbwYVnMEpCP8EwDIW60_M57rXGUjY~" tvg-name="[23:59-17/07] IFK Goteborg - Brommapojkarna - VĐQG Thụy Điển" tvg-logo="https://images.keovip88.net/images/teams/ifk-goteborg.png" group-title="Giờ Vàng",[23:59-17/07] IFK Goteborg - Brommapojkarna - VĐQG Thụy Điển
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -11,6 +7,8 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D4KXnh_WVjLIZekJL_cGw_rLKkK0yGz9iiF7JVckY0No~
 #EXTINF:-1 tvg-id="fnkg6I3sJvZu5xbTXBNJ6w~~" tvg-name="[01:00-18/07] Iran - Slovenia [BLV Mát] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/xt3pVREa-tWhhL1yr.png" group-title="Giờ Vàng",[01:00-18/07] Iran - Slovenia [BLV Mát] - Bóng chuyền Nations League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dfnkg6I3sJvZu5xbTXBNJ6w~~
 #EXTINF:-1 tvg-id="taFEWybcQ0AdG5aOCisxxQ~~" tvg-name="[02:15-18/07] Fylkir - Njardvík - Iceland - 1. deild karla" tvg-logo="https://static.flashscore.com/res/image/data/KnsmlsAr-YFWSwCkg.png" group-title="Giờ Vàng",[02:15-18/07] Fylkir - Njardvík - Iceland - 1. deild karla
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DtaFEWybcQ0AdG5aOCisxxQ~~
@@ -453,22 +451,22 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
 https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 #EXTINF:-1 tvg-id="28" tvg-name="HTV1" tvg-logo="https://img.hplus.com.vn/226x127/poster/2018/07/16/185783-505482-HTV1.png" group-title="HTV",HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://ec02-pop1-hlc.tv360.vn/bpk-token/nnrao6dxkavxrj5utbtguyqhpbvweb3y/bpk-tv/441/output/441-audio_214835_und_iv_1=214800-video_iv_1=1064800.m3u8
+https://ec02-pop1-hlc.tv360.vn/bpk-token/c5qiismmkkuespxdevlrmyeejelwbbcj/bpk-tv/441/output/441-audio_214835_und_iv_1=214800-video_iv_1=1064800.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="HTV2" tvg-logo="https://img.hplus.com.vn/226x127/poster/2018/06/05/904719-HTV2HD.png" group-title="HTV",HTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://ec04-pop1-hlc.tv360.vn/bpk-token/guobmoijfy5dsa6lrettihawhe2ryfrz/bpk-tv/336/output/336-audio_214835_eng_iv_3=214800-video_iv_3=1064800.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/dqsuy34ac5qg6nvb5vyr2jkmn4ocktdp/bpk-tv/336/output/336-audio_214835_eng_iv_3=214800-video_iv_3=1064800.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="HTV3" tvg-logo="https://img.hplus.com.vn/226x127/poster/2018/06/05/750643-HTV3.png" group-title="HTV",HTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://ec04-pop1-hlc.tv360.vn/bpk-token/tgdd6snewqjutlcrublzrbr7jgmymp2j/bpk-tv/442/output/442-audio_214835_und_iv_1=214800-video_iv_1=1064800.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/gy3r6pd3auzty2vtxyrdony7hq3dohz4/bpk-tv/442/output/442-audio_214835_und_iv_1=214800-video_iv_1=1064800.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="HTV Key" tvg-logo="https://img.hplus.com.vn/226x127/poster/2018/08/14/359584-htv-key-web.png" group-title="HTV",HTV Key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://ec04-pop1-hlc.tv360.vn/bpk-token/derdymuncaidfcpyumwbqir4gimsepbs/bpk-tv/443/output/443-audio_214835_und_iv_1=214800-video_iv_1=1064800.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/7nzgqjdbibccib7wze5pu4tiet5xe2be/bpk-tv/443/output/443-audio_214835_und_iv_1=214800-video_iv_1=1064800.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="HTV7" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/928755-665121-HTV7HD.png" group-title="HTV",HTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://ec01-pop1-hlc.tv360.vn/bpk-token/fxgey3th7zqg45y32nycztcmnyw4ytdo/bpk-tv/157/output/157-audio_208000_eng_iv_4=206000-video_iv_4=1067600.m3u8
+https://ec02-pop1-hlc.tv360.vn/bpk-token/rltwoqsb2vfufutcyzoixz3hikfooz2c/bpk-tv/157/output/157-audio_208000_eng_iv_4=206000-video_iv_4=1067600.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="HTV9" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/422430-665121-HTV9HD.png" group-title="HTV",HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://ec04-pop1-hlc.tv360.vn/bpk-token/srptsqdnnukuapuhuzpjkxzzickf6oka/bpk-tv/158/output/158-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/gucmkeq3g3urff4dmqgdibgfci2qjris/bpk-tv/158/output/158-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="HTV Thể Thao" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/546898-111250-HTVTT.png" group-title="HTV",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -497,7 +495,7 @@ https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="HTV5" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/19/17/1776592892204/faf411a67b05_480_270.png" group-title="HTV",HTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://ec01-pop1-hlc.tv360.vn/bpk-token/ymhoki22htesgbowpi64edxfepbq5zjd/bpk-tv/246/output/246-audio_279600_eng_iv_1=277600-video_iv_1=1067600.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/d5oryucvn4yfb5gyxvhb4xi4kapv2hcq/bpk-tv/246/output/246-audio_279600_eng_iv_1=277600-video_iv_1=1067600.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Box Movie 1" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/BoxMovie1_150x902_1675158875.webp" group-title="In The Box",Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -602,13 +600,13 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="Cần Thơ 1" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/11/05/16/1762336328954/07ecc9b857a5_480_270.png" group-title="Địa phương",Cần Thơ 1
-https://ec01-pop1-hlc.tv360.vn/bpk-token/jyndke3rfamrhsoavigu6grvcnhbunit/bpk-tv/326/output/326-audio_214835_eng_iv_1=214800-video_iv_1=1064800.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/ucxo6zfgtxbwjuzjjz5kdlxpmsqk533e/bpk-tv/326/output/326-audio_214835_eng_iv_1=214800-video_iv_1=1064800.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="Cần Thơ 2" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/11/05/16/176233636246/8ded7c5a9010_480_270.png" group-title="Địa phương",Cần Thơ 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://ec04-pop1-hlc.tv360.vn/bpk-token/2drdgvoo2apvkkzyvrf5dyrtkxioem2v/bpk-tv/397/output/397-audio_214835_eng_iv_4=214800-video_iv_4=1064800.m3u8
+https://ec03-pop1-hlc.tv360.vn/bpk-token/hyqmgb3sclxqof5imimt6igda47cbqyh/bpk-tv/397/output/397-audio_214835_eng_iv_4=214800-video_iv_4=1064800.m3u8
 #EXTINF:-1 tvg-id="192" tvg-name="Cần Thơ 3" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/05/16/1762336060807/7b1128d4e7c7_480_270.png" group-title="Địa phương",Cần Thơ 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://ec05-pop1-hlc.tv360.vn/bpk-token/iuj4iccdeduaqw6ilmleie6ebbcrhrai/bpk-tv/362/output/362-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/j3brahlt6e6b2wklwebu7qyqdvhmgea5/bpk-tv/362/output/362-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="Đà Nẵng 1" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/09/1751337054302/df569bbaeead_480_270.png" group-title="Địa phương",Đà Nẵng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
@@ -621,15 +619,15 @@ https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="98" tvg-name="Điện Biên" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_480_270.png" group-title="Địa phương",Điện Biên
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="93" tvg-name="Đồng Nai 1" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728292646666/9cb8f84c6b6a_480_270.png" group-title="Địa phương",Đồng Nai 1
-https://ec05-pop1-hlc.tv360.vn/bpk-token/z4yx6kaganjsrapk4a3m4ml7fdhtc7zi/bpk-tv/371/output/371-audio_214835_eng_iv_1=214800-video_iv_1=1064800.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/kl7cckf7zqgsq23wqa3fh7rbfbjp4iji/bpk-tv/371/output/371-audio_214835_eng_iv_1=214800-video_iv_1=1064800.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="Đồng Nai 2" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/14/1728286716831/f297eef035cf_480_270.png" group-title="Địa phương",Đồng Nai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Đồng Tháp" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/08/1751331689553/f287ef8d8574_480_270.png" group-title="Địa phương",Đồng Tháp
-https://ec03-pop1-hlc.tv360.vn/bpk-token/mn7sscjojucqtrfewylwe7zjbfrx6kij/bpk-tv/372/output/372-audio_214835_eng_iv_3=214800-video_iv_3=1064800.m3u8
+https://ec02-pop1-hlc.tv360.vn/bpk-token/jljxqghi4fkbqlk33edexu3ydbfng6ay/bpk-tv/372/output/372-audio_214835_eng_iv_3=214800-video_iv_3=1064800.m3u8
 #EXTINF:-1 tvg-id="203" tvg-name="Đồng Tháp 2" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/16/10/1757993795684/45f17a4f3b90_480_270.png" group-title="Địa phương",Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://ec01-pop1-hlc.tv360.vn/bpk-token/7hxdssvn3qkuubjvuzkpr3rzjl464okk/bpk-tv/363/output/363-audio_214835_eng_iv_5=214800-video_iv_5=1064800.m3u8
+https://ec01-pop1-hlc.tv360.vn/bpk-token/7sfmcezxxdwrgiicmag73cwbcp6ivqit/bpk-tv/363/output/363-audio_214835_eng_iv_5=214800-video_iv_5=1064800.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="Gia Lai" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_480_270.png" group-title="Địa phương",Gia Lai
 https://rd.locket.top/tv360.m3u8?id=gialai
 #EXTINF:-1 tvg-id="60" tvg-name="Hà Nội 1" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_480_270.png" group-title="Địa phương",Hà Nội 1
@@ -652,14 +650,14 @@ https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://rd.locket.top/tv360.m3u8?id=khanhhoa1
 #EXTINF:-1 tvg-id="81" tvg-name="Lai Châu" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293379395/ade5683c1b92_480_270.png" group-title="Địa phương",Lai Châu
-https://ec01-pop1-hlc.tv360.vn/bpk-token/oroa65sknyrxmtv5sbuhkxapoz2fyd3w/bpk-tv/374/output/374-audio_198800_eng_iv_3=196800-video_iv_3=1067600.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/bj6k6tivj2bu3axrbzjqw7fpjufhzl2n/bpk-tv/374/output/374-audio_198800_eng_iv_3=196800-video_iv_3=1067600.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="Lào Cai" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/07/1751329203146/5c287ccfa91a_480_270.png" group-title="Địa phương",Lào Cai
 https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Lâm Đồng" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/16/10/1757993571149/e3bbf8cbc985_480_270.png" group-title="Địa phương",Lâm Đồng
-https://ec05-pop1-hlc.tv360.vn/bpk-token/kj3mqngpitsdi2muk4vfg5wigrjhnsbu/bpk-tv/375/output/375-audio_208000_eng_iv_4=206000-video_iv_4=1067600.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/wvzwmkrniffcufp6y42li43gfk2xgzrk/bpk-tv/375/output/375-audio_208000_eng_iv_4=206000-video_iv_4=1067600.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="Lâm Đồng 2" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/16/10/1757993660312/1082b4f9d963_480_270.png" group-title="Địa phương",Lâm Đồng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://ec03-pop1-hlc.tv360.vn/bpk-token/kevg2txqdbau4kgi6jifaktnjzisu3ko/bpk-tv/393/output/393-audio_198800_eng_iv_1=196800-video_iv_1=1067600.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/qf5fmrvijb5emixx65mia6swi2axuvsg/bpk-tv/393/output/393-audio_198800_eng_iv_1=196800-video_iv_1=1067600.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="Lâm Đồng 3" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/16/10/1757993722336/e20a65c17479_480_270.png" group-title="Địa phương",Lâm Đồng 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://rd.locket.top/tv360.m3u8?id=lamdong3
@@ -667,11 +665,11 @@ https://rd.locket.top/tv360.m3u8?id=lamdong3
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="Ninh Bình" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_480_270.png" group-title="Địa phương",Ninh Bình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://ec05-pop1-hlc.tv360.vn/bpk-token/7cfig7zrxcxx7dtjdrq7tcudp74iva37/bpk-tv/376/output/376-audio_214835_eng_iv_1=214800-video_iv_1=1064800.m3u8
+https://ec01-pop1-hlc.tv360.vn/bpk-token/6eti67krcsrx2xvifzr7ajuppxysnd35/bpk-tv/376/output/376-audio_214835_eng_iv_1=214800-video_iv_1=1064800.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Phú Thọ" tvg-logo="https://img-ali1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_480_270.png" group-title="Địa phương",Phú Thọ
 https://liveh34.vtvprime.vn/hls/PHUTHOTV/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Quảng Ngãi" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/14/1751355906827/060a698d477a_480_270.png" group-title="Địa phương",Quảng Ngãi
-https://ec02-pop1-hlc.tv360.vn/bpk-token/fmcrmdjug45a3fxgrejsubiwbuvqkfqn/bpk-tv/366/output/366-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
+https://ec03-pop1-hlc.tv360.vn/bpk-token/xmytgjezampsic57si5lumjtes5tcmze/bpk-tv/366/output/366-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="Quảng Ninh 1" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/b5/51/11/10/0d/d1/b5110-pqungninh1qtv1hd-channel-unkn.png" group-title="Địa phương",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="Quảng Ninh 3" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/c5/56/63/32/2a/a0/c5632-pqungninh3qtv3hd-channel-unkn.png" group-title="Địa phương",Quảng Ninh 3
@@ -687,25 +685,25 @@ https://liveh34.vtvprime.vn/hls/TAYNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="Thái Nguyên" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_480_270.png" group-title="Địa phương",Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="Thanh Hóa" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_480_270.png" group-title="Địa phương",Thanh Hóa
-https://ec05-pop1-hlc.tv360.vn/bpk-token/vi7pqhb4btkbyvw5m4bkwpxydsvd56a4/bpk-tv/383/output/383-audio_214835_eng_iv_3=214800-video_iv_3=1064800.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/y2cnocwyw35qubikoykmpbgxbldijvyk/bpk-tv/383/output/383-audio_214835_eng_iv_3=214800-video_iv_3=1064800.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="Tuyên Quang" tvg-logo="https://img-ali1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_480_270.png" group-title="Địa phương",Tuyên Quang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://rd.locket.top/tv360.m3u8?id=tuyenquang
 #EXTINF:-1 tvg-id="161" tvg-name="THVL1" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png" group-title="Địa phương",THVL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://ec03-pop1-hlc.tv360.vn/bpk-token/jr4zisdcjo4erznbbnle26mujbghtfci/bpk-tv/252/output/252-audio_208000_eng_iv_2=206000-video_iv_2=1067600.m3u8
+https://es5-p1-netcdn.tv360.vn/netcdn-live/252/output/500000-index.m3u8?wmkid=0&uid=263685778&timestamp=1784332941&token=1c267061da545232f988dded40e23524
 #EXTINF:-1 tvg-id="162" tvg-name="THVL2" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png" group-title="Địa phương",THVL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://ec03-pop1-hlc.tv360.vn/bpk-token/3yyhewscajpfuk7i5vcn6mdsllpda4s2/bpk-tv/249/output/249-audio_198800_eng_iv_3=196800-video_iv_3=1067600.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/mfxdk54ylqmxohpisruwa3rvo5qw4nlx/bpk-tv/249/output/249-audio_198800_eng_iv_3=196800-video_iv_3=1067600.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="THVL3" tvg-logo="https://img-ali1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_480_270.png" group-title="Địa phương",THVL3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://ec01-pop1-hlc.tv360.vn/bpk-token/exib2eiy4iyrdqyjqihsjua5ces5ahir/bpk-tv/250/output/250-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
+https://ec01-pop1-hlc.tv360.vn/bpk-token/qwsdezxysypgmsbcsn4ijjbsm2c2imtg/bpk-tv/250/output/250-audio_198800_eng_iv_4=196800-video_iv_4=1067600.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="THVL4" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png" group-title="Địa phương",THVL4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://ec05-pop1-hlc.tv360.vn/bpk-token/2k6ey5hprzqhj63g2nvnhpcmotjlytdu/bpk-tv/251/output/251-audio_198800_eng_iv_3=196800-video_iv_3=1067600.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/ahcnufba633biasdpmfabrg2cqa4jwqu/bpk-tv/251/output/251-audio_198800_eng_iv_3=196800-video_iv_3=1067600.m3u8
 #EXTINF:-1 tvg-id="197" tvg-name="THVL5" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_480_270.png" group-title="Địa phương",THVL5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
-https://ec02-pop1-hlc.tv360.vn/bpk-token/a2l3umbwuwldbz2oeuxapf52gadjporq/bpk-tv/423/output/423-audio_214835_eng_iv_2=214800-video_iv_2=1064800.m3u8
+https://ec03-pop1-hlc.tv360.vn/bpk-token/h3nwiz5a5fegols4yv4t7w3em47nwzdh/bpk-tv/423/output/423-audio_214835_eng_iv_2=214800-video_iv_2=1064800.m3u8
 #EXTINF:-1 tvg-id="giaitri1" tvg-name="Box Movies" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg?width=384&amp;version=10&amp;type=auto&amp;s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="Thử nghiệm",Box Movies
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.21D50 (iPhone; U; CPU OS 17_3 like Mac OS X; vi_vn)
 https://vtvgolive-sctv.vtvdigital.vn/qJS3CdWmGRXsdoQEGOXX-w/1782727802/asdfasdvgas2vtvsctv/9/masterh264.m3u8
