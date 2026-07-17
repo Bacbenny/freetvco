@@ -50,35 +50,6 @@
       "Sports": true,
       "List": [
         {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKA0rMITWFgqk7Hu3KaxdgMs~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "Nzv1IUM1yQ3oANd6RFpHKA0rMITWFgqk7Hu3KaxdgMs~",
-          "src": "hoiquantv",
-          "keys": "Nzv1IUM1yQ3oANd6RFpHKA0rMITWFgqk7Hu3KaxdgMs~",
-          "home": "St. Louis City",
-          "away": "Sporting Kansas City",
-          "homeLogo": "https://images.keovip88.net/images/teams/st-louis-city.png",
-          "awayLogo": "https://images.keovip88.net/images/teams/sporting-kansas-city.png",
-          "name": "⚽ MLS Mỹ",
-          "time": null,
-          "onlyTime": "07:30",
-          "onlyDay": "17/07",
-          "blv": "BLV Ngọng",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=Nzv1IUM1yQ3oANd6RFpHKEJCTOnpkxHeKfYUMwMKP3E~",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
           "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
@@ -94,35 +65,6 @@
           "onlyTime": "09:30",
           "onlyDay": "17/07",
           "blv": "BLV Ngọng",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=ZH-sFIl36UT4y4xKqrs4dA~~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "ZH-sFIl36UT4y4xKqrs4dA~~",
-          "src": "hoiquantv",
-          "keys": "ZH-sFIl36UT4y4xKqrs4dA~~",
-          "home": "Miami Heat",
-          "away": "Toronto Raptors",
-          "homeLogo": "https://nba.titan007.com/files/team/1k85fvk13bv.png",
-          "awayLogo": "https://nba.titan007.com/files/team/1jzvwcf8xr2j.png",
-          "name": "🏀 Bóng rổ NBA Summer League",
-          "time": null,
-          "onlyTime": "08:00",
-          "onlyDay": "17/07",
-          "blv": "BLV Cận",
           "live": true,
           "liveDesc": "Trực tiếp",
           "ColorLive": "green",
@@ -181,9 +123,9 @@
           "onlyTime": "11:00",
           "onlyDay": "17/07",
           "blv": "BLV Trĩ",
-          "live": false,
-          "liveDesc": "Sắp diễn ra",
-          "ColorLive": "red",
+          "live": true,
+          "liveDesc": "Trực tiếp",
+          "ColorLive": "green",
           "autoget": "tugets",
           "headertuget": {
             "referer": "vuongdeptrai"
@@ -1621,84 +1563,6 @@
       "Kenh": "Tiếu Lâm",
       "Sports": true,
       "List": [
-        {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=tieulamtv&keys=4aa1437d43574b26b25dc9b1c9d1596f",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "4aa1437d43574b26b25dc9b1c9d1596f",
-          "src": "hoiquantv",
-          "keys": "4aa1437d43574b26b25dc9b1c9d1596f",
-          "home": "USA ",
-          "away": "Brazil",
-          "homeLogo": "https://static.flashscore.com/res/image/data/xpZWyhzB-rZcDn0Ec.png",
-          "awayLogo": "https://static.flashscore.com/res/image/data/OM8Y9ODa-vBKZiE2j.png",
-          "name": "  Nations League",
-          "time": null,
-          "onlyTime": "08:00",
-          "onlyDay": "17/07",
-          "blv": "Trạng Ngố",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Accept-Language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5",
-            "Connection": "keep-alive",
-            "Origin": "https://sv2.tieulamwc1.net",
-            "Referer": "https://sv2.tieulamwc1.net/",
-            "sec-ch-ua": "\"Chromium\";v=\"139\", \"Not;A=Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?1",
-            "sec-ch-ua-platform": "\"Android\"",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=tieulamtv&keys=4jwq2ghndp3em0v",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "4jwq2ghndp3em0v",
-          "src": "hoiquantv",
-          "keys": "4jwq2ghndp3em0v",
-          "home": "Club Tijuana",
-          "away": "Tigres UANL",
-          "homeLogo": "https://img.sports-data.online/football/team/6090f28bfc40d2169607b23256e5a151.png",
-          "awayLogo": "https://img.sports-data.online/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png",
-          "name": "⚽ Mexico Liga MX",
-          "time": null,
-          "onlyTime": "10:10",
-          "onlyDay": "17/07",
-          "blv": "Trạng Tèo",
-          "live": false,
-          "liveDesc": "Sắp diễn ra",
-          "ColorLive": "red",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Accept-Language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5",
-            "Connection": "keep-alive",
-            "Origin": "https://sv2.tieulamwc1.net",
-            "Referer": "https://sv2.tieulamwc1.net/",
-            "sec-ch-ua": "\"Chromium\";v=\"139\", \"Not;A=Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?1",
-            "sec-ch-ua-platform": "\"Android\"",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
-          }
-        },
         {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=tieulamtv&keys=e1a69220be02490a9ed3be64bfe3e574",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",

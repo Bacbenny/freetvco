@@ -59,6 +59,30 @@ python3 fetch.py
 
 Playlist sẽ được tạo trong `output/`.
 
+## 🔑 DRM / ClearKey
+
+98 kênh trong API `Channels` là MPEG-DASH (`.mpd`) hoặc HLS mã hoá bằng
+**ClearKey**. App gốc trả sẵn cặp `kid`/`k` (base64url 16-byte) trong field
+`clearkey.keys[]` cho 96 kênh; 2 kênh `VTV7`/`VTV8` phải query license server
+`https://api.cotivi.site/drm/a.php?channel=vtv9` runtime.
+
+`fetch.py` tự:
+
+- Decode `clearkey.keys[]` → hex.
+- Với kênh thiếu clearkey (VTV7/VTV8), gọi `drmOptions.licenseServer` để lấy key.
+- Ghi vào M3U theo định dạng Kodi `inputstream.adaptive`:
+
+  ```
+  #KODIPROP:inputstream.adaptive.license_type=clearkey
+  #KODIPROP:inputstream.adaptive.license_key=<kid_hex>:<k_hex>[|<kid2>:<k2>...]
+  ```
+
+  Với kênh có nhiều cặp key (video + audio), các cặp nối bằng `|`.
+
+> ⚠️ Player phải hỗ trợ `inputstream.adaptive` (Kodi 19+ với InputStream
+> Adaptive, hoặc IPTV Smarters Pro / TiviMate mới). VLC thường không chơi
+> được ClearKey-DASH qua M3U.
+
 ## 📁 Cấu trúc
 
 ```

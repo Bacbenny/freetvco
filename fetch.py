@@ -28,6 +28,7 @@ import base64, json, os, ssl, sys, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse
 
 try:
     from Crypto.Cipher import AES
@@ -85,6 +86,66 @@ def decrypt_aes_ecb(b64_data: str, key: bytes) -> dict:
     cipher = AES.new(key, AES.MODE_ECB)
     plain  = unpad(cipher.decrypt(raw), AES.block_size)
     return json.loads(plain.decode("utf-8"))
+
+
+def _b64url_hex(s: str) -> str:
+    """Decode base64url 16-byte key/KID → lowercase hex (no separators)."""
+    if not s:
+        return ""
+    pad = "=" * (-len(s) % 4)
+    return base64.urlsafe_b64decode(s + pad).hex()
+
+
+def fetch_clearkey_license(license_server: str, timeout: int = 10) -> list:
+    """Query a cotivi license server, return list of {kid_hex, k_hex}."""
+    try:
+        req = urllib.request.Request(
+            license_server,
+            headers={"User-Agent": "Cò TiVi/1.1.7", "Referer": "https://giovang.link"},
+        )
+        with urllib.request.urlopen(req, timeout=timeout, context=_ssl_ctx()) as r:
+            data = json.loads(r.read())
+        out = []
+        for k in data.get("keys", []):
+            kid = _b64url_hex(k.get("kid", ""))
+            key = _b64url_hex(k.get("k", ""))
+            if kid and key:
+                out.append({"kid_hex": kid, "k_hex": key})
+        return out
+    except Exception:
+        return []
+
+
+def build_clearkey_props(ch: dict) -> list:
+    """
+    Return list of M3U property lines for a DRM ClearKey channel.
+    Uses embedded clearkey if present; otherwise queries drmOptions.licenseServer.
+    """
+    drm = ch.get("drmOptions") or {}
+    if drm.get("type") != "clearkey":
+        return []
+
+    pairs = []
+    ck = ch.get("clearkey")
+    if isinstance(ck, dict) and ck.get("keys"):
+        for k in ck["keys"]:
+            kid = _b64url_hex(k.get("kid", ""))
+            key = _b64url_hex(k.get("k", ""))
+            if kid and key:
+                pairs.append((kid, key))
+
+    if not pairs and drm.get("licenseServer"):
+        for k in fetch_clearkey_license(drm["licenseServer"]):
+            pairs.append((k["kid_hex"], k["k_hex"]))
+
+    if not pairs:
+        return []
+
+    license_key = "|".join(f"{kid}:{key}" for kid, key in pairs)
+    return [
+        "#KODIPROP:inputstream.adaptive.license_type=clearkey",
+        f"#KODIPROP:inputstream.adaptive.license_key={license_key}",
+    ]
 
 
 def _ssl_ctx():
@@ -181,6 +242,8 @@ def make_channels_m3u(data_json: dict, skip_ids: set) -> tuple:
             )
             if ua:
                 lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
+            for prop in build_clearkey_props(ch):
+                lines.append(prop)
             lines.append(link)
             kept += 1
     return "\n".join(lines) + "\n", kept, skipped
@@ -302,8 +365,9 @@ def main():
             skip_ids: set = set()
             if HEALTH_CHECK:
                 all_chs = [ch for grp in plain.get("Data",[]) for ch in grp.get("List",[])
-                           if ch.get("link","").startswith("http")]
-                print(f"  Health checking {len(all_chs)} channels...")
+                           if ch.get("link","").startswith("http")
+                           and not (ch.get("onDrm") or ch.get("drmOptions") or ch.get("clearkey"))]
+                print(f"  Health checking {len(all_chs)} non-DRM channels...")
                 with ThreadPoolExecutor(max_workers=HEALTH_WORKERS) as ex:
                     futs = {ex.submit(check_stream, ch): ch for ch in all_chs}
                     for fut in as_completed(futs):
