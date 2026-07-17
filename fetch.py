@@ -4,117 +4,171 @@ freetvco – IPTV stream fetcher for Cò TiVi
 ============================================
 Reverse-engineered from APK: com.cofvuong.tivi v1.1.7 (Hermes bytecode)
 
-Encryption (confirmed via hermes-dec disassembly of Fn#11130/11461 'giaimane'):
-  Algorithm : AES-256-ECB
-  Padding   : PKCS7
+Encryption (confirmed via hermes-dec disassembly):
+  Algorithm : AES-256-ECB / PKCS7
   Key/Channels : 6677150266771502cotivichatvkl321  (32 bytes)
   Key/Sports   : 6677150266771502cotivichatvkl999  (32 bytes)
 
 API:
   GET https://api.cotivi.site/api/Channels?version=1.1.2
   GET https://api.cotivi.site/api/Sports?version=1.1.2
-  Response: { "key": "<base64 troll>", "data": "<base64 AES-ECB ciphertext>" }
 
-Sports channels use fetchApi to get live stream URLs dynamically.
-Only items with live=true have active streams.
+Channel health check:
+  - 200 / 206 / 302 / 403 → keep  (403 = IP-restricted CDN, works from Vietnam)
+  - 400 / 404 / DNS-fail  → skip  (genuinely dead)
+  - timeout               → keep  (might be Replit-side issue)
+
+Sports strategy:
+  - ALL matches included (live + upcoming) so users see the full schedule
+  - Live matches: real stream URL fetched from fetchApi
+  - Upcoming matches: fetchApi URL shown (players can retry when match starts)
 """
 
-import base64, json, os, sys, urllib.request
+import base64, json, os, ssl, sys, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
-# ── pycryptodome ──────────────────────────────────────────────────────────────
 try:
     from Crypto.Cipher import AES
     from Crypto.Util.Padding import unpad
 except ImportError:
-    sys.exit("\u274c  pip install pycryptodome")
+    sys.exit("❌  pip install pycryptodome")
 
 # ── config ────────────────────────────────────────────────────────────────────
-API_BASE = "https://api.cotivi.site"
-VERSION  = os.environ.get("COTIVI_VERSION", "1.1.2")
-OUT_DIR  = Path(os.environ.get("OUT_DIR",   "output"))
-DBG_DIR  = Path(os.environ.get("DEBUG_DIR", "debug"))
-SPORT_WORKERS = int(os.environ.get("SPORT_WORKERS", "20"))
-SPORT_TIMEOUT = int(os.environ.get("SPORT_TIMEOUT", "12"))
+API_BASE        = "https://api.cotivi.site"
+VERSION         = os.environ.get("COTIVI_VERSION", "1.1.2")
+OUT_DIR         = Path(os.environ.get("OUT_DIR",   "output"))
+DBG_DIR         = Path(os.environ.get("DEBUG_DIR", "debug"))
+HEALTH_CHECK    = os.environ.get("HEALTH_CHECK", "true").lower() == "true"
+SPORT_WORKERS   = int(os.environ.get("SPORT_WORKERS",  "20"))
+HEALTH_WORKERS  = int(os.environ.get("HEALTH_WORKERS", "30"))
+SPORT_TIMEOUT   = int(os.environ.get("SPORT_TIMEOUT",  "12"))
+HEALTH_TIMEOUT  = int(os.environ.get("HEALTH_TIMEOUT", "10"))
 
-# Keys extracted from Hermes bytecode (fn#11130 'giaimane', fn#11138 '?anon_0_')
 ENDPOINTS = [
     {
         "name"    : "channels",
         "path"    : "/api/Channels",
         "key"     : b"6677150266771502cotivichatvkl321",
         "outFile" : "cotivi_channels.m3u",
-        "label"   : "\U0001f4fa Channels",
+        "label"   : "📺 Channels",
     },
     {
         "name"    : "sports",
         "path"    : "/api/Sports",
         "key"     : b"6677150266771502cotivichatvkl999",
         "outFile" : "cotivi_sports.m3u",
-        "label"   : "\u26bd Sports",
+        "label"   : "⚽ Sports",
     },
 ]
+
+# Domains that are IP-restricted to Vietnam — always keep regardless of test result
+VN_CDN_DOMAINS = {
+    "live.fptplay53.net", "live-a.fptplay53.net", "live.fptplay53.net",
+    "liveatmvng.vtvprime.vn", "livebytatm.vtvprime.vn", "livezenatm.vtvprime.vn",
+    "liveh34.vtvprime.vn", "live.fptplay53.net",
+    "live.baoquangninh.vn", "tv.angiangtv.vn",
+    "live.truyenhinhnghean.vn", "vtvgolive-sctv.vtvdigital.vn",
+}
 
 # ── helpers ───────────────────────────────────────────────────────────────────
 
 def fetch_json(url: str) -> dict:
-    req = urllib.request.Request(url, headers={"User-Agent": "C\xf2 TiVi/1.1.7"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Cò TiVi/1.1.7"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read())
 
 
 def decrypt_aes_ecb(b64_data: str, key: bytes) -> dict:
-    """AES-256-ECB + PKCS7 — matches CryptoJS call in the app's giaimane()."""
     raw    = base64.b64decode(b64_data)
     cipher = AES.new(key, AES.MODE_ECB)
     plain  = unpad(cipher.decrypt(raw), AES.block_size)
     return json.loads(plain.decode("utf-8"))
 
 
-def fetch_sport_stream(ch: dict) -> tuple:
+def _ssl_ctx():
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode    = ssl.CERT_NONE
+    return ctx
+
+
+def check_stream(ch: dict) -> bool:
     """
-    Fetch live stream URL for a sports item via fetchApi.
-    Returns (stream_url, user_agent). Empty strings if not available.
-    
-    Sports items use fetchApi which returns:
-      {"status": true, "default": {"url": "<stream>"}, "streamLink": [...]}
-    Items not yet live return status=False (\u201cCh\u01b0a di\u1ec5n ra tr\u1eadn \u0111\u1ea5u!\u201d).
+    Return True if the channel stream should be kept.
+    IP-restricted VN CDN domains always pass.
+    HTTP 400/404 and DNS failures are skipped.
     """
-    # Only fetch for items marked as live
-    if not ch.get("live"):
-        return "", ""
+    url = ch.get("link", "")
+    if not url:
+        return False
+    from urllib.parse import urlparse
+    domain = urlparse(url).netloc
+    if domain in VN_CDN_DOMAINS:
+        return True            # IP-restricted, works from Vietnam
+    hdr = ch.get("header", {})
+    ua  = (hdr.get("User-agent") or hdr.get("user-agent", "")) if isinstance(hdr, dict) else ""
+    headers = {"User-Agent": ua or "Mozilla/5.0"}
+    if isinstance(hdr, dict):
+        for k, v in hdr.items():
+            if k.lower() not in ("user-agent",):
+                headers[k] = v
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=HEALTH_TIMEOUT, context=_ssl_ctx()) as r:
+            r.read(64)
+            return r.status not in (400, 404)
+    except urllib.error.HTTPError as e:
+        return e.code not in (400, 404)
+    except urllib.error.URLError as e:
+        # DNS failure (Errno -2) → dead; timeout → keep
+        reason = str(e.reason)
+        if "Name or service not known" in reason or "Errno -2" in reason:
+            return False
+        return True     # timeout or other network → keep
+    except Exception:
+        return True     # unknown error → keep
+
+
+def fetch_sport_url(ch: dict) -> str:
+    """
+    Fetch live stream URL from fetchApi.
+    Returns stream URL string or "" if not live / unavailable.
+    """
     fetch_api = ch.get("fetchApi", "")
     if not fetch_api:
-        return "", ""
+        return ""
     try:
-        req = urllib.request.Request(fetch_api, headers={"User-Agent": "C\xf2 TiVi/1.1.7"})
+        req = urllib.request.Request(fetch_api, headers={"User-Agent": "Cò TiVi/1.1.7"})
         with urllib.request.urlopen(req, timeout=SPORT_TIMEOUT) as r:
             data = json.loads(r.read())
         if not data.get("status"):
-            return "", ""
+            return ""
         default = data.get("default", {})
         url = default.get("url", "")
         if not url:
             links = data.get("streamLink", [])
             url = links[0].get("url", "") if links else ""
-        hdr = ch.get("header") or ch.get("headertuget") or {}
-        ua  = (hdr.get("User-agent") or hdr.get("user-agent", "")) if isinstance(hdr, dict) else ""
-        return url, ua
-    except Exception as e:
-        print(f"    \u26a0\ufe0f  fetchApi failed for {ch.get('name', '?')} [{ch.get('id', '')[:20]}]: {e}")
-        return "", ""
+        return url
+    except Exception:
+        return ""
 
 
-def make_channels_m3u(data_json: dict) -> str:
-    """Build M3U for regular channels (direct link field)."""
+# ── M3U builders ──────────────────────────────────────────────────────────────
+
+def make_channels_m3u(data_json: dict, skip_ids: set) -> tuple:
+    """Build M3U for channels, optionally filtering dead streams."""
     lines = ["#EXTM3U"]
+    kept = skipped = 0
     for group in data_json.get("Data", []):
         grp = group.get("Kenh", "Unknown")
         for ch in group.get("List", []):
             link = ch.get("link", "")
             if not link or not link.startswith("http"):
+                continue
+            if ch.get("id", "") in skip_ids:
+                skipped += 1
                 continue
             name = ch.get("name") or ch.get("id", "Unknown")
             icon = ch.get("icon", "")
@@ -128,15 +182,15 @@ def make_channels_m3u(data_json: dict) -> str:
             if ua:
                 lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
             lines.append(link)
-    return "\n".join(lines) + "\n"
+            kept += 1
+    return "\n".join(lines) + "\n", kept, skipped
 
 
-def make_sports_m3u(data_json: dict) -> str:
+def make_sports_m3u(data_json: dict) -> tuple:
     """
-    Build M3U for sports (live matches only).
-    Fetches stream URLs via fetchApi in parallel.
+    Build M3U for sports — ALL matches (live + upcoming).
+    Live matches get real stream URLs; upcoming use fetchApi as placeholder.
     """
-    # Collect all items across groups, keep group reference
     all_items = []
     for group in data_json.get("Data", []):
         grp = group.get("Kenh", "Unknown")
@@ -144,52 +198,65 @@ def make_sports_m3u(data_json: dict) -> str:
             all_items.append((grp, ch))
 
     live_items = [(grp, ch) for grp, ch in all_items if ch.get("live")]
-    total = len(all_items)
-    live  = len(live_items)
-    print(f"  {total} total sport items, {live} currently live — fetching streams...")
+    print(f"  {len(all_items)} total matches, {len(live_items)} currently live")
 
-    if not live_items:
-        print("  \u26a0\ufe0f  No live sport matches right now.")
-        return "#EXTM3U\n"
-
-    # Fetch stream URLs in parallel
-    url_map = {}
-    with ThreadPoolExecutor(max_workers=SPORT_WORKERS) as ex:
-        futs = {ex.submit(fetch_sport_stream, ch): (grp, ch) for grp, ch in live_items}
-        for fut in as_completed(futs):
-            grp, ch = futs[fut]
-            url_map[id(ch)] = (grp,) + fut.result()
-
-    ok = sum(1 for _, u, _ in url_map.values() if u)
-    print(f"  \u2705 {ok}/{live} live streams fetched successfully")
+    # Fetch real stream URLs for live matches in parallel
+    stream_map = {}
+    if live_items:
+        print(f"  Fetching {len(live_items)} live stream URLs...")
+        with ThreadPoolExecutor(max_workers=SPORT_WORKERS) as ex:
+            futs = {ex.submit(fetch_sport_url, ch): (grp, ch) for grp, ch in live_items}
+            for fut in as_completed(futs):
+                grp, ch = futs[fut]
+                stream_map[id(ch)] = fut.result()
+        ok = sum(1 for u in stream_map.values() if u)
+        print(f"  ✅ {ok}/{len(live_items)} live streams fetched")
 
     lines = ["#EXTM3U"]
-    for grp_orig, ch in all_items:
-        entry = url_map.get(id(ch))
-        if not entry:
+    live_count = upcoming_count = 0
+
+    for grp, ch in all_items:
+        is_live    = bool(ch.get("live"))
+        home       = ch.get("home", "")
+        away       = ch.get("away", "")
+        sport_name = (ch.get("name") or "").strip()
+        display    = f"{home} vs {away}" if home and away else sport_name
+        icon       = ch.get("homeLogo") or ch.get("awayLogo") or ch.get("icon", "")
+        blv        = (ch.get("blv") or "").strip()
+        day        = (ch.get("onlyDay") or "").strip()
+        t          = (ch.get("onlyTime") or "").strip()
+        time_str   = f"{day} {t}".strip()
+
+        if is_live:
+            stream_url = stream_map.get(id(ch), "")
+            if not stream_url:
+                stream_url = ch.get("fetchApi", "")
+            status_tag = "🔴 LIVE"
+            live_count += 1
+        else:
+            stream_url = ch.get("fetchApi", "")
+            status_tag = f"⏰ {time_str}" if time_str else "⏰"
+            upcoming_count += 1
+
+        if not stream_url:
             continue
-        grp_fetched, url, ua = entry
-        if not url:
-            continue
-        home = ch.get("home", "")
-        away = ch.get("away", "")
-        name = ch.get("name") or ch.get("id", "Unknown")
-        display = f"{home} vs {away}" if home and away else name
-        icon = ch.get("homeLogo") or ch.get("awayLogo") or ch.get("icon", "")
-        blv  = ch.get("blv", "")
-        time_str = f"{ch.get('onlyDay','')} {ch.get('onlyTime','')}".strip()
-        title = f"{display} [{time_str}]" if time_str else display
+
+        title = display
+        if time_str and not is_live:
+            title = f"[{time_str}] {display}"
         if blv:
-            title += f" – {blv}"
+            title += f" | {blv}"
+        title = f"{status_tag} | {title}"
+
+        ch_id = ch.get("id", "")
         lines.append(
-            f'#EXTINF:-1 tvg-id="{ch.get("id","")}" '
+            f'#EXTINF:-1 tvg-id="{ch_id}" '
             f'tvg-name="{title}" tvg-logo="{icon}" '
-            f'group-title="{grp_orig}",{title}'
+            f'group-title="{grp}",{title}'
         )
-        if ua:
-            lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
-        lines.append(url)
-    return "\n".join(lines) + "\n"
+        lines.append(stream_url)
+
+    return "\n".join(lines) + "\n", live_count, upcoming_count
 
 
 # ── main ──────────────────────────────────────────────────────────────────────
@@ -198,47 +265,59 @@ def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     DBG_DIR.mkdir(parents=True, exist_ok=True)
 
-    vn_now   = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d %H:%M %Z")
     all_lines = ["#EXTM3U"]
     all_count = 0
 
     for ep in ENDPOINTS:
         url = f"{API_BASE}{ep['path']}?version={VERSION}"
-        print(f"\n{ep['label']} \u2192 {url}")
+        print(f"\n{ep['label']} → {url}")
 
         try:
             resp = fetch_json(url)
         except Exception as e:
-            print(f"  \u274c Fetch failed: {e}")
+            print(f"  ❌ Fetch failed: {e}")
             continue
 
         raw_path = DBG_DIR / f"{ep['name']}_raw.json"
         raw_path.write_text(json.dumps(resp, ensure_ascii=False, indent=2), encoding="utf-8")
 
         key_field = base64.b64decode(resp.get("key", "")).decode("utf-8", errors="replace")
-        print(f"  key_field (troll) : {key_field!r}")
-        print(f"  data size         : {len(base64.b64decode(resp['data']))} bytes")
+        print(f"  key_field: {key_field!r} | data: {len(base64.b64decode(resp['data']))} bytes")
 
         try:
             plain = decrypt_aes_ecb(resp["data"], ep["key"])
         except Exception as e:
-            print(f"  \u274c Decrypt failed: {e}")
+            print(f"  ❌ Decrypt failed: {e}")
             continue
 
         dec_path = DBG_DIR / f"{ep['name']}_decrypted.json"
         dec_path.write_text(json.dumps(plain, ensure_ascii=False, indent=2), encoding="utf-8")
 
         if ep["name"] == "sports":
-            m3u_content = make_sports_m3u(plain)
+            m3u_content, live_c, upcoming_c = make_sports_m3u(plain)
+            count = live_c + upcoming_c
+            print(f"  ✅ {live_c} live + {upcoming_c} upcoming = {count} entries → {ep['outFile']}")
         else:
-            m3u_content = make_channels_m3u(plain)
+            # Health check channels
+            skip_ids: set = set()
+            if HEALTH_CHECK:
+                all_chs = [ch for grp in plain.get("Data",[]) for ch in grp.get("List",[])
+                           if ch.get("link","").startswith("http")]
+                print(f"  Health checking {len(all_chs)} channels...")
+                with ThreadPoolExecutor(max_workers=HEALTH_WORKERS) as ex:
+                    futs = {ex.submit(check_stream, ch): ch for ch in all_chs}
+                    for fut in as_completed(futs):
+                        ch = futs[fut]
+                        if not fut.result():
+                            skip_ids.add(ch.get("id",""))
+                print(f"  Filtered {len(skip_ids)} dead channels")
 
-        count = m3u_content.count("#EXTINF")
-        print(f"  \u2705 Generated — {count} entries")
+            m3u_content, kept, skipped = make_channels_m3u(plain, skip_ids)
+            count = kept
+            print(f"  ✅ {kept} alive | {skipped} removed → {ep['outFile']}")
 
         out_path = OUT_DIR / ep["outFile"]
         out_path.write_text(m3u_content, encoding="utf-8")
-        print(f"  \U0001f4c4 {out_path}")
 
         for line in m3u_content.split("\n")[1:]:
             if line.strip():
@@ -249,9 +328,10 @@ def main():
         all_m3u  = "\n".join(all_lines) + "\n"
         all_path = OUT_DIR / "cotivi_all.m3u"
         all_path.write_text(all_m3u, encoding="utf-8")
-        print(f"\n\u2705 Combined: {all_count} total entries \u2192 {all_path}")
+        vn_now = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d %H:%M %Z")
+        print(f"\n✅ Combined: {all_count} entries → {all_path}  [{vn_now}]")
     else:
-        print("\n\u274c No entries generated")
+        print("\n❌ No entries generated")
         sys.exit(1)
 
 
