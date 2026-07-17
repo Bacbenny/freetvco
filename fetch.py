@@ -337,7 +337,9 @@ def fetch_sport_url(ch: dict) -> tuple:
 
 def make_channels_m3u(data_json: dict, skip_ids: set, resolved: dict) -> tuple:
     """Build M3U for channels, optionally filtering dead streams.
-    `resolved` maps channel id → resolved CDN URL for rd.locket.top channels."""
+    `resolved` maps channel id → resolved CDN URL for rd.locket.top channels.
+    If EDGE_FUNCTION_URL is set, SIGN_DOMAIN channels are routed via edge function
+    instead of using the build-time resolved CDN URL (which expires quickly)."""
     lines = ["#EXTM3U"]
     kept = skipped = 0
     for group in data_json.get("Data", []):
@@ -353,8 +355,16 @@ def make_channels_m3u(data_json: dict, skip_ids: set, resolved: dict) -> tuple:
             icon = ch.get("icon", "")
             hdr  = ch.get("header", {})
             ua   = (hdr.get("User-agent") or hdr.get("user-agent", "")) if isinstance(hdr, dict) else ""
-            # Use resolved CDN URL if available, otherwise keep original link
-            stream_url = resolved.get(ch.get("id", ""), link)
+
+            # rd.locket.top channels: route via edge function so players always get
+            # a fresh bpk-token on every request (token expires in minutes, not hours).
+            link_domain = urlparse(link).netloc
+            if link_domain in SIGN_DOMAINS and EDGE_FUNCTION_URL:
+                encoded = urllib.parse.quote(link, safe="")
+                stream_url = f"{EDGE_FUNCTION_URL}?url={encoded}"
+            else:
+                # Use resolved CDN URL if available, otherwise keep original link
+                stream_url = resolved.get(ch.get("id", ""), link)
             lines.append(
                 f'#EXTINF:-1 tvg-id="{ch.get("id","")}" '
                 f'tvg-name="{name}" tvg-logo="{icon}" '
@@ -579,11 +589,15 @@ def main():
             count = live_c + upcoming_c
             print(f"  ✅ {live_c} live + {upcoming_c} upcoming = {count} entries → {ep['outFile']}")
         else:
-            # Resolve rd.locket.top redirector URLs to real CDN URLs
+            # Resolve rd.locket.top redirector URLs to real CDN URLs.
+            # Skipped when EDGE_FUNCTION_URL is set — those channels are routed via
+            # edge function at player request time, so build-time resolution is unnecessary.
             locket_chs = [ch for grp in plain.get("Data",[]) for ch in grp.get("List",[])
                           if "rd.locket.top" in ch.get("link", "")]
             resolved: dict = {}
-            if locket_chs:
+            if locket_chs and EDGE_FUNCTION_URL:
+                print(f"  {len(locket_chs)} rd.locket.top channels → edge function real-time (skip build-time resolve)")
+            elif locket_chs:
                 print(f"  Resolving {len(locket_chs)} rd.locket.top channels...")
                 signature = make_co_signature()
                 with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as ex:
