@@ -8,6 +8,12 @@ Encryption (confirmed via hermes-dec disassembly):
   Algorithm : AES-256-ECB / PKCS7
   Key/Channels : 6677150266771502cotivichatvkl321  (32 bytes)
   Key/Sports   : 6677150266771502cotivichatvkl999  (32 bytes)
+  Key/Signature: vuongdeptraivuongdeptraivklvkl12 (32 bytes)
+
+  The app computes a `co-signature` HTTP header by AES-256-ECB encrypting
+  JSON {ipData, firtTime, lastTime} with the signature key above.
+  rd.locket.top redirector requires this header to return a real M3U8.
+  We resolve the redirect at build time and embed the CDN URL directly.
 
 API:
   GET https://api.cotivi.site/api/Channels?version=1.1.2
@@ -24,7 +30,7 @@ Sports strategy:
   - Upcoming matches: fetchApi URL shown (players can retry when match starts)
 """
 
-import base64, json, os, ssl, sys, urllib.request, urllib.error
+import base64, json, os, re, ssl, sys, time, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
@@ -32,7 +38,7 @@ from urllib.parse import urlparse
 
 try:
     from Crypto.Cipher import AES
-    from Crypto.Util.Padding import unpad
+    from Crypto.Util.Padding import unpad, pad
 except ImportError:
     sys.exit("❌  pip install pycryptodome")
 
@@ -46,6 +52,14 @@ SPORT_WORKERS   = int(os.environ.get("SPORT_WORKERS",  "20"))
 HEALTH_WORKERS  = int(os.environ.get("HEALTH_WORKERS", "30"))
 SPORT_TIMEOUT   = int(os.environ.get("SPORT_TIMEOUT",  "12"))
 HEALTH_TIMEOUT  = int(os.environ.get("HEALTH_TIMEOUT", "10"))
+RESOLVE_TIMEOUT = int(os.environ.get("RESOLVE_TIMEOUT", "15"))
+RESOLVE_WORKERS = int(os.environ.get("RESOLVE_WORKERS", "10"))
+
+# AES-256-ECB key for the co-signature header (reverse-engineered from Hermes bytecode)
+SIG_KEY = b"vuongdeptraivuongdeptraivklvkl12"
+
+# Domains whose URLs need the co-signature header to resolve
+SIGN_DOMAINS = {"rd.locket.top"}
 
 ENDPOINTS = [
     {
@@ -71,8 +85,8 @@ VN_CDN_DOMAINS = {
     "liveh34.vtvprime.vn",
     "live.baoquangninh.vn", "tv.angiangtv.vn",
     "live.truyenhinhnghean.vn", "vtvgolive-sctv.vtvdigital.vn",
-    "rd.locket.top",
     "livevlisctcdnw.seenow.vn",
+    "rd.locket.top",
 }
 
 # ── helpers ───────────────────────────────────────────────────────────────────
@@ -157,6 +171,68 @@ def _ssl_ctx():
     return ctx
 
 
+# ── co-signature & rd.locket.top resolution ───────────────────────────────────
+
+_ip_cache: dict | None = None
+
+
+def _get_ip_data() -> dict:
+    """Fetch IP info once per run (cached)."""
+    global _ip_cache
+    if _ip_cache is not None:
+        return _ip_cache
+    try:
+        req = urllib.request.Request(
+            "https://ipinfo.io/json",
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        with urllib.request.urlopen(req, timeout=10, context=_ssl_ctx()) as r:
+            _ip_cache = json.loads(r.read())
+    except Exception:
+        _ip_cache = {}
+    return _ip_cache
+
+
+def make_co_signature() -> str:
+    """
+    Generate the co-signature header value.
+    AES-256-ECB encrypt JSON {ipData, firtTime, lastTime} with SIG_KEY, return base64.
+    """
+    ip_data = _get_ip_data()
+    ts = str(int(time.time() * 1000))
+    payload = json.dumps({"ipData": ip_data, "firtTime": ts, "lastTime": ts})
+    cipher = AES.new(SIG_KEY, AES.MODE_ECB)
+    encrypted = cipher.encrypt(pad(payload.encode("utf-8"), AES.block_size))
+    return base64.b64encode(encrypted).decode("utf-8")
+
+
+def resolve_locket_url(ch: dict, signature: str) -> str:
+    """
+    Resolve a rd.locket.top redirector URL to the real CDN stream URL.
+    Fetches the M3U8 with the co-signature header and extracts the first variant URL.
+    Returns the CDN URL, or "" on failure (caller keeps the original link).
+    """
+    link = ch.get("link", "")
+    hdr = ch.get("header", {})
+    headers = {"User-Agent": "Mozilla/5.0", "co-signature": signature}
+    if isinstance(hdr, dict):
+        for k, v in hdr.items():
+            if k.lower() == "user-agent":
+                headers["User-Agent"] = v
+            else:
+                headers[k] = v
+    try:
+        req = urllib.request.Request(link, headers=headers)
+        with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT, context=_ssl_ctx()) as r:
+            body = r.read(4096).decode("utf-8", errors="replace")
+        urls = re.findall(r"(https?://[^\s]+\.m3u8)", body)
+        if urls:
+            return urls[0]
+    except Exception:
+        pass
+    return ""
+
+
 def check_stream(ch: dict) -> bool:
     """
     Return True if the channel stream should be kept.
@@ -170,7 +246,6 @@ def check_stream(ch: dict) -> bool:
         return False
     if ch.get("onDrm") or ch.get("drmOptions") or ch.get("clearkey"):
         return True
-    from urllib.parse import urlparse
     domain = urlparse(url).netloc
     if domain in VN_CDN_DOMAINS:
         return True            # IP-restricted, works from Vietnam
@@ -230,8 +305,9 @@ def fetch_sport_url(ch: dict) -> str:
 
 # ── M3U builders ──────────────────────────────────────────────────────────────
 
-def make_channels_m3u(data_json: dict, skip_ids: set) -> tuple:
-    """Build M3U for channels, optionally filtering dead streams."""
+def make_channels_m3u(data_json: dict, skip_ids: set, resolved: dict) -> tuple:
+    """Build M3U for channels, optionally filtering dead streams.
+    `resolved` maps channel id → resolved CDN URL for rd.locket.top channels."""
     lines = ["#EXTM3U"]
     kept = skipped = 0
     for group in data_json.get("Data", []):
@@ -247,6 +323,8 @@ def make_channels_m3u(data_json: dict, skip_ids: set) -> tuple:
             icon = ch.get("icon", "")
             hdr  = ch.get("header", {})
             ua   = (hdr.get("User-agent") or hdr.get("user-agent", "")) if isinstance(hdr, dict) else ""
+            # Use resolved CDN URL if available, otherwise keep original link
+            stream_url = resolved.get(ch.get("id", ""), link)
             lines.append(
                 f'#EXTINF:-1 tvg-id="{ch.get("id","")}" '
                 f'tvg-name="{name}" tvg-logo="{icon}" '
@@ -256,7 +334,7 @@ def make_channels_m3u(data_json: dict, skip_ids: set) -> tuple:
                 lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
             for prop in build_clearkey_props(ch):
                 lines.append(prop)
-            lines.append(link)
+            lines.append(stream_url)
             kept += 1
     return "\n".join(lines) + "\n", kept, skipped
 
@@ -373,6 +451,22 @@ def main():
             count = live_c + upcoming_c
             print(f"  ✅ {live_c} live + {upcoming_c} upcoming = {count} entries → {ep['outFile']}")
         else:
+            # Resolve rd.locket.top redirector URLs to real CDN URLs
+            locket_chs = [ch for grp in plain.get("Data",[]) for ch in grp.get("List",[])
+                          if "rd.locket.top" in ch.get("link", "")]
+            resolved: dict = {}
+            if locket_chs:
+                print(f"  Resolving {len(locket_chs)} rd.locket.top channels...")
+                signature = make_co_signature()
+                with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as ex:
+                    futs = {ex.submit(resolve_locket_url, ch, signature): ch for ch in locket_chs}
+                    for fut in as_completed(futs):
+                        ch = futs[fut]
+                        cdn_url = fut.result()
+                        if cdn_url:
+                            resolved[ch.get("id", "")] = cdn_url
+                print(f"  ✅ Resolved {len(resolved)}/{len(locket_chs)} redirector URLs")
+
             # Health check channels
             skip_ids: set = set()
             if HEALTH_CHECK:
@@ -387,7 +481,7 @@ def main():
                             skip_ids.add(ch.get("id",""))
                 print(f"  Filtered {len(skip_ids)} dead channels")
 
-            m3u_content, kept, skipped = make_channels_m3u(plain, skip_ids)
+            m3u_content, kept, skipped = make_channels_m3u(plain, skip_ids, resolved)
             count = kept
             print(f"  ✅ {kept} alive | {skipped} removed → {ep['outFile']}")
 
