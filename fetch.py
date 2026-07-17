@@ -242,9 +242,16 @@ def resolve_locket_url(ch: dict, signature: str) -> str:
             req = urllib.request.Request(link, headers=headers)
             with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT, context=_ssl_ctx()) as r:
                 body = r.read(4096).decode("utf-8", errors="replace")
-            urls = re.findall(r"(https?://[^\s]+\.(?:m3u8|mpd))", body)
-            if urls:
-                return urls[0]
+            # Khớp cả URL dạng .m3u8/.mpd trực tiếp lẫn dạng query string (?type=m3u8)
+            urls = re.findall(
+                r"(https?://[^\s\"'<>]+(?:\.m3u8|\.mpd)(?:[^\s\"'<>]*)?)"
+                r"|"
+                r"(https?://[^\s\"'<>]+[?&](?:type|format|ext)=(?:m3u8|mpd)[^\s\"'<>]*)",
+                body,
+            )
+            flat = [u for pair in urls for u in pair if u]
+            if flat:
+                return flat[0]
         except Exception:
             pass
         time.sleep(1)

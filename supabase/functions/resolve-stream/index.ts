@@ -1,8 +1,12 @@
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 
+// Whitelist: chỉ cho phép resolve từ các domain đã biết của Cò TiVi.
+// Ngăn chặn SSRF — edge function không thể bị dùng làm proxy tuỳ ý.
+const ALLOWED_HOSTS = new Set(["pay.locket.top"]);
+
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+  "Access-Control-Allow-Methods": "GET, OPTIONS",
   "Access-Control-Allow-Headers": "Content-Type, Authorization, X-Client-Info, Apikey",
 };
 
@@ -11,14 +15,32 @@ Deno.serve(async (req: Request) => {
     return new Response(null, { status: 200, headers: corsHeaders });
   }
 
-  const url = new URL(req.url);
-  const fetchApi = url.searchParams.get("url");
+  const reqUrl = new URL(req.url);
+  const fetchApi = reqUrl.searchParams.get("url");
 
   if (!fetchApi) {
     return new Response(JSON.stringify({ error: "Missing 'url' parameter" }), {
       status: 400,
       headers: { ...corsHeaders, "Content-Type": "application/json" },
     });
+  }
+
+  // Validate URL — chỉ cho phép HTTPS và domain nằm trong whitelist
+  let parsedUrl: URL;
+  try {
+    parsedUrl = new URL(fetchApi);
+  } catch {
+    return new Response(JSON.stringify({ error: "Invalid URL" }), {
+      status: 400,
+      headers: { ...corsHeaders, "Content-Type": "application/json" },
+    });
+  }
+
+  if (parsedUrl.protocol !== "https:" || !ALLOWED_HOSTS.has(parsedUrl.hostname)) {
+    return new Response(
+      JSON.stringify({ error: `Domain not allowed: ${parsedUrl.hostname}` }),
+      { status: 403, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+    );
   }
 
   try {
@@ -43,12 +65,19 @@ Deno.serve(async (req: Request) => {
       });
     }
 
-    // 302 redirect to the CDN stream URL
+    // 302 redirect đến CDN stream URL.
+    // Cache 60 giây: giảm số lần gọi pay.locket.top khi nhiều player cùng xem,
+    // nhưng đủ ngắn để link mới được nhận khi match vừa bắt đầu.
     return new Response(null, {
       status: 302,
-      headers: { ...corsHeaders, Location: streamUrl },
+      headers: {
+        ...corsHeaders,
+        Location: streamUrl,
+        "Cache-Control": "public, max-age=60, s-maxage=60",
+      },
     });
   } catch (e) {
+    console.error("resolve-stream error:", String(e), "url:", fetchApi);
     return new Response(JSON.stringify({ error: String(e) }), {
       status: 502,
       headers: { ...corsHeaders, "Content-Type": "application/json" },

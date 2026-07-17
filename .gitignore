@@ -1,3 +1,9 @@
 node_modules/
 .env
 *.log
+__pycache__/
+*.pyc
+
+# Debug JSON chứa dữ liệu giải mã — không commit lên repo
+# File vẫn được tạo local và upload qua GitHub Actions artifact
+debug/*.json
