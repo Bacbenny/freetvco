@@ -166,35 +166,6 @@
           }
         },
         {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=FRag6R7awU8AwJYdEpLjBg~~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "FRag6R7awU8AwJYdEpLjBg~~",
-          "src": "hoiquantv",
-          "keys": "FRag6R7awU8AwJYdEpLjBg~~",
-          "home": "USA",
-          "away": "Brazil",
-          "homeLogo": "https://assets.fiba.basketball/image/upload/d_.logoflag--dark--organisation_154.webp/w_400/f_auto/q_auto/.logoflag--dark--organisation_154--competition_208755?buster=20628",
-          "awayLogo": "https://static.flashscore.com/res/image/data/hCaVxehl-88LAtdNt.png",
-          "name": "🏐 Bóng chuyền Nations League",
-          "time": null,
-          "onlyTime": "08:00",
-          "onlyDay": "17/07",
-          "blv": "BLV Sún",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=piBSzY_hfOLSUnabtuaQhw~~",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
           "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
