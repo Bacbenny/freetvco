@@ -1,85 +1,76 @@
-# freetvco 📺
+# freetvco 🇻🇳
 
-Tự động lấy danh sách kênh IPTV từ **Cò TiVi** (`api.cotivi.site`) và tạo file M3U playlist.  
-Chạy mỗi 6 tiếng qua GitHub Actions → commit playlist mới vào repo.
+Tự động fetch và giải mã danh sách kênh IPTV từ app **Cò TiVi** (com.cofvuong.tivi v1.1.7).
 
-## Playlist
+## 📺 Playlist
 
-| File | Mô tả |
-|---|---|
-| [`output/cotivi_channels.m3u`](output/cotivi_channels.m3u) | Kênh TV thường |
-| [`output/cotivi_sports.m3u`](output/cotivi_sports.m3u) | Kênh thể thao |
-| [`output/cotivi_all.m3u`](output/cotivi_all.m3u) | Tất cả kênh (gộp) |
+| File | Nội dung |
+|------|----------|
+| [`output/cotivi_all.m3u`](output/cotivi_all.m3u) | Tất cả kênh (Channels + Sports) |
+| [`output/cotivi_channels.m3u`](output/cotivi_channels.m3u) | Chỉ kênh TV |
+| [`output/cotivi_sports.m3u`](output/cotivi_sports.m3u) | Chỉ kênh thể thao |
 
-> Dùng link `raw.githubusercontent.com/...` để import vào VLC, TiviMate, Kodi, v.v.
+> **Cập nhật tự động mỗi 6 tiếng** qua GitHub Actions.
 
----
+## 🔓 Kết quả reverse-engineering APK
 
-## Kỹ thuật
+### Encryption (đã crack)
 
-### Kết quả phân tích APK Cò TiVi v1.1.7
-
-| Thông tin | Chi tiết |
-|---|---|
-| Package | `com.cofvuong.tivi` |
-| Framework | React Native / Expo SDK 52 |
-| Bundle | Hermes bytecode (compiled, không đọc trực tiếp) |
-| API Base | `https://api.cotivi.site` |
-| Runtime Version | `1.1.2` |
-| Player | react-native-video + ExoPlayer |
-| Hỗ trợ stream | HLS (`.m3u8`), RTMP, DASH, SmoothStreaming |
+| Thông số | Giá trị |
+|----------|---------|
+| Algorithm | **AES-256-ECB** |
+| Padding | **PKCS7** |
+| Key (Channels) | `6677150266771502cotivichatvkl321` |
+| Key (Sports) | `6677150266771502cotivichatvkl999` |
 
 ### API
 
 ```
 GET https://api.cotivi.site/api/Channels?version=1.1.2
 GET https://api.cotivi.site/api/Sports?version=1.1.2
-```
 
-**Response:**
-```json
-{
-  "key":  "VHVvaUxvekdpYWlNYU5oZUhqSGo=",
-  "data": "<base64 BlowFish-encrypted JSON>"
+Response: {
+  "key": "VHVvaUxvekdpYWlNYU5oZUhqSGo=",  ← base64 "TuoiLozGiaiMaNheHjHj" (troll key, bỏ qua)
+  "data": "<base64 AES-ECB ciphertext>"
 }
 ```
 
-`key` (base64-decoded) = `TuoiLozGiaiMaNheHjHj` → dùng làm BlowFish key.
+### Cách tìm ra key
 
-**Encryption:** `CryptoJS.Blowfish` · Padding `AnsiX923`  
-*(Xác nhận qua phân tích Hermes string table của bundle)*
+1. Dùng **hermes-dec** để decompile Hermes bytecode (`assets/index.android.bundle` trong APK)
+2. Tìm hàm `giaimane` (fn#11130, fn#11461) — tiếng Việt nghĩa là "giải mã"
+3. Hàm này load `LoadConstString: '6677150266771502cotivichatvkl999'` rồi gọi `CryptoJS.AES.decrypt` với mode ECB, padding Pkcs7
 
-### Tìm hiểu thêm
-
-Bundle `index.android.bundle` là **Hermes bytecode** → cần `hermes-dec` để decompile và
-tìm IV/key hardcoded chính xác. Trong thời gian chờ, workflow tự thử tất cả
-combination mode/padding/IV phổ biến.
-
-**Workaround nếu decrypt vẫn fail:** chạy APK trên Android emulator với `mitmproxy` để
-intercept response đã decrypt ở runtime.
-
----
-
-## Chạy local
-
-```bash
-npm install
-node fetch.js
-# → output/ sẽ có các file .m3u
+```
+Fn #11130 'giaimane':
+  LoadConstString  string_id: 2013  → '6677150266771502cotivichatvkl999'
+  GetById          string_id: 8914  → 'AES'
+  GetById          string_id: 7361  → 'ECB'
+  GetById          string_id: 12647 → 'Pkcs7'
+  GetById          string_id: 15666 → 'decrypt'
 ```
 
-## Cấu trúc
+## 🚀 Tự chạy
+
+```bash
+pip install pycryptodome
+python3 fetch.py
+```
+
+Playlist sẽ được tạo trong `output/`.
+
+## 📁 Cấu trúc
 
 ```
 freetvco/
-├── .github/workflows/update.yml   # GitHub Actions (mỗi 6h)
-├── fetch.js                        # Script chính
-├── package.json
-├── output/                         # Playlist M3U (auto-generated)
+├── fetch.py              # Script chính (AES-256-ECB decrypt)
+├── output/
+│   ├── cotivi_all.m3u    # Playlist tổng hợp
 │   ├── cotivi_channels.m3u
-│   ├── cotivi_sports.m3u
-│   └── cotivi_all.m3u
-└── debug/                          # Raw API response (để debug)
-    ├── channels_raw.json
-    └── sports_raw.json
+│   └── cotivi_sports.m3u
+└── debug/
+    ├── channels_raw.json       # Response mã hoá từ API
+    ├── channels_decrypted.json # JSON đã giải mã
+    ├── sports_raw.json
+    └── sports_decrypted.json
 ```
