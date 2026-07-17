@@ -2,16 +2,19 @@ name: Fetch & Update IPTV Playlist
 
 on:
   schedule:
-    # Chạy mỗi 6 tiếng
-    - cron: '0 */6 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       version:
-        description: 'API version (mặc định 1.1.2)'
+        description: 'API version'
         required: false
         default: '1.1.2'
+      health_check:
+        description: 'Health check kenh (true/false)'
+        required: false
+        default: 'true'
       force:
-        description: 'Force commit dù không có thay đổi'
+        description: 'Force commit'
         required: false
         default: 'false'
 
@@ -22,67 +25,55 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Install pycryptodome
+      - name: Install deps
         run: pip install pycryptodome --quiet
 
-      - name: Fetch & decrypt channels
+      - name: Fetch decrypt health-check
         env:
           COTIVI_VERSION: ${{ github.event.inputs.version || '1.1.2' }}
-          OUT_DIR: ${{ github.workspace }}/output
-          DEBUG_DIR: ${{ github.workspace }}/debug
-        run: |
-          python3 fetch.py || echo "::warning::Fetch/decrypt failed — check debug/ folder"
+          HEALTH_CHECK:   ${{ github.event.inputs.health_check || 'true' }}
+          OUT_DIR:        ${{ github.workspace }}/output
+          DEBUG_DIR:      ${{ github.workspace }}/debug
+          SPORT_WORKERS:  20
+          HEALTH_WORKERS: 30
+          SPORT_TIMEOUT:  12
+          HEALTH_TIMEOUT: 10
+        run: python3 fetch.py
 
-      - name: Show results
-        run: |
-          echo "=== output/ ==="
-          ls -lh output/ 2>/dev/null || echo "(empty)"
-          echo ""
-          echo "=== debug/ ==="
-          ls -lh debug/ 2>/dev/null || echo "(empty)"
-          echo ""
-          if [ -f output/cotivi_all.m3u ]; then
-            echo "=== cotivi_all.m3u (first 30 lines) ==="
-            head -30 output/cotivi_all.m3u
-          fi
-
-      - name: Check decrypt status
+      - name: Check status
         id: status
         run: |
           if [ -f output/cotivi_all.m3u ]; then
-            COUNT=$(grep -c "^#EXTINF" output/cotivi_all.m3u 2>/dev/null || echo 0)
-            echo "channels=$COUNT" >> "$GITHUB_OUTPUT"
-            echo "success=true"    >> "$GITHUB_OUTPUT"
-            echo "✅ Playlist generated: $COUNT channels"
+            CH=$(grep -c "^#EXTINF" output/cotivi_channels.m3u 2>/dev/null || echo 0)
+            SP=$(grep -c "^#EXTINF" output/cotivi_sports.m3u   2>/dev/null || echo 0)
+            ALL=$(grep -c "^#EXTINF" output/cotivi_all.m3u     2>/dev/null || echo 0)
+            echo "channels=$ALL" >> "$GITHUB_OUTPUT"
+            echo "success=true"  >> "$GITHUB_OUTPUT"
+            echo "Channels: $CH | Sports: $SP | Total: $ALL"
           else
             echo "channels=0"    >> "$GITHUB_OUTPUT"
             echo "success=false" >> "$GITHUB_OUTPUT"
-            echo "❌ No playlist generated"
           fi
 
-      - name: Commit & push updated playlists
+      - name: Commit and push
         if: steps.status.outputs.success == 'true' || github.event.inputs.force == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add output/ debug/ || true
-
           CHANGED=$(git diff --cached --name-only | wc -l)
           if [ "$CHANGED" -gt 0 ] || [ "${{ github.event.inputs.force }}" = "true" ]; then
             TIMESTAMP=$(TZ=Asia/Ho_Chi_Minh date '+%Y-%m-%d %H:%M %Z')
             COUNT=${{ steps.status.outputs.channels }}
-            git commit -m "🔄 Auto-update: $COUNT kênh | $TIMESTAMP"
+            git commit -m "Auto-update: $COUNT kenh | $TIMESTAMP"
             git push
-            echo "✅ Committed & pushed $CHANGED changed files"
           else
-            echo "ℹ️  Không có thay đổi, bỏ qua commit"
+            echo "Khong co thay doi"
           fi
 
-      - name: Upload debug artifacts
+      - name: Upload artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
