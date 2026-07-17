@@ -35,7 +35,7 @@ jobs:
           cache: 'pip'
 
       - name: Install deps
-        run: pip install pycryptodome --quiet
+        run: pip install -r requirements.txt --quiet
 
       - name: Fetch decrypt health-check
         env:
