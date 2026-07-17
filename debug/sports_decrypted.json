@@ -50,122 +50,6 @@
       "Sports": true,
       "List": [
         {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=W2m8PNZg-G9C7GgppVcpNQ~~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "W2m8PNZg-G9C7GgppVcpNQ~~",
-          "src": "hoiquantv",
-          "keys": "W2m8PNZg-G9C7GgppVcpNQ~~",
-          "home": "Türkiye",
-          "away": "Ukraine",
-          "homeLogo": "https://static.flashscore.com/res/image/data/jVeCh4Yg-CrPl0Jrc.png",
-          "awayLogo": "https://static.flashscore.com/res/image/data/IyzbKwXg-8KJ0tcMR.png",
-          "name": "🏐 Bóng chuyền Nations League Women",
-          "time": null,
-          "onlyTime": "21:30",
-          "onlyDay": "17/07",
-          "blv": "BLV Tôm",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=HKAupMXKWaYDKeq-4vqE3VMaduetVIkR3uhkO1tzRGM~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "HKAupMXKWaYDKeq-4vqE3VMaduetVIkR3uhkO1tzRGM~",
-          "src": "hoiquantv",
-          "keys": "HKAupMXKWaYDKeq-4vqE3VMaduetVIkR3uhkO1tzRGM~",
-          "home": "Mashal Muborak",
-          "away": "Kuruvchi Kokand Qoqon",
-          "homeLogo": "https://images.keovip88.net/images/teams/mashal-muborak.png",
-          "awayLogo": "https://images.keovip88.net/images/teams/kuruvchi-kokand-qoqon.png",
-          "name": "⚽ Uzbekistan Super League",
-          "time": null,
-          "onlyTime": "22:00",
-          "onlyDay": "17/07",
-          "blv": null,
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=HKAupMXKWaYDKeq-4vqE3UyT8NfFCr2ovaqlOQfDJsA~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "HKAupMXKWaYDKeq-4vqE3UyT8NfFCr2ovaqlOQfDJsA~",
-          "src": "hoiquantv",
-          "keys": "HKAupMXKWaYDKeq-4vqE3UyT8NfFCr2ovaqlOQfDJsA~",
-          "home": "Navbahor Namangan",
-          "away": "OTMK Olmaliq",
-          "homeLogo": "https://images.keovip88.net/images/teams/navbahor-namangan.png",
-          "awayLogo": "https://images.keovip88.net/images/teams/otmk-olmaliq.png",
-          "name": "⚽ Uzbekistan Super League",
-          "time": null,
-          "onlyTime": "22:00",
-          "onlyDay": "17/07",
-          "blv": "BLV Mason",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=HKAupMXKWaYDKeq-4vqE3d-rynuzyOBECRdJq4ohYpg~",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "HKAupMXKWaYDKeq-4vqE3d-rynuzyOBECRdJq4ohYpg~",
-          "src": "hoiquantv",
-          "keys": "HKAupMXKWaYDKeq-4vqE3d-rynuzyOBECRdJq4ohYpg~",
-          "home": "Pakhtakor Tashkent",
-          "away": "Lokomotiv Tashkent",
-          "homeLogo": "https://images.keovip88.net/images/teams/pakhtakor.png",
-          "awayLogo": "https://images.keovip88.net/images/teams/lokomotiv-tashkent.png",
-          "name": "⚽ Uzbekistan Super League",
-          "time": null,
-          "onlyTime": "22:00",
-          "onlyDay": "17/07",
-          "blv": "BLV Trĩ",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "origin": "https://giovang.link",
-            "referer": "https://giovang.link",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-          }
-        },
-        {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=XWT8WtyKvS8PsO-Ln3OeWQ~~",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
           "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
@@ -514,6 +398,35 @@
           }
         },
         {
+          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=DOJkeTJWAB9n3atfuTnR2w~~",
+          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "id": "DOJkeTJWAB9n3atfuTnR2w~~",
+          "src": "hoiquantv",
+          "keys": "DOJkeTJWAB9n3atfuTnR2w~~",
+          "home": "Brazil",
+          "away": "Poland",
+          "homeLogo": "https://static.flashscore.com/res/image/data/hCaVxehl-88LAtdNt.png",
+          "awayLogo": "https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png",
+          "name": "🏐 Bóng chuyền Nations League",
+          "time": null,
+          "onlyTime": "08:00",
+          "onlyDay": "18/07",
+          "blv": "BLV Mason",
+          "live": false,
+          "liveDesc": "Sắp diễn ra",
+          "ColorLive": "red",
+          "autoget": "tugets",
+          "headertuget": {
+            "referer": "vuongdeptrai"
+          },
+          "header": {
+            "origin": "https://giovang.link",
+            "referer": "https://giovang.link",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=UOUkVkmtxziGQmMhdm0NYA~~",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
           "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
@@ -558,6 +471,122 @@
           "onlyTime": "09:00",
           "onlyDay": "18/07",
           "blv": "BLV Điếc",
+          "live": false,
+          "liveDesc": "Sắp diễn ra",
+          "ColorLive": "red",
+          "autoget": "tugets",
+          "headertuget": {
+            "referer": "vuongdeptrai"
+          },
+          "header": {
+            "origin": "https://giovang.link",
+            "referer": "https://giovang.link",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=TUtzJ9tLeR9FFjPRyYYXxg~~",
+          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "id": "TUtzJ9tLeR9FFjPRyYYXxg~~",
+          "src": "hoiquantv",
+          "keys": "TUtzJ9tLeR9FFjPRyYYXxg~~",
+          "home": "Seattle Mariners ",
+          "away": "San Francisco Giants",
+          "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/1280px-Seattle_Mariners_logo_%28low_res%29.svg.png",
+          "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/San_Francisco_Giants_Logo.svg/1280px-San_Francisco_Giants_Logo.svg.png",
+          "name": " MLB",
+          "time": null,
+          "onlyTime": "09:10",
+          "onlyDay": "18/07",
+          "blv": "BLV Ngu",
+          "live": false,
+          "liveDesc": "Sắp diễn ra",
+          "ColorLive": "red",
+          "autoget": "tugets",
+          "headertuget": {
+            "referer": "vuongdeptrai"
+          },
+          "header": {
+            "origin": "https://giovang.link",
+            "referer": "https://giovang.link",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=mlmI31k9hI7wEQfYiZ-LBA~~",
+          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "id": "mlmI31k9hI7wEQfYiZ-LBA~~",
+          "src": "hoiquantv",
+          "keys": "mlmI31k9hI7wEQfYiZ-LBA~~",
+          "home": "Southland Sharks",
+          "away": "Bay Hawks",
+          "homeLogo": "https://nba.titan007.com/files/team/1hs0gmz1ka23.png",
+          "awayLogo": "https://nba.titan007.com/files/team/1ht1ty1hd42r.png",
+          "name": "🏀 Bóng rổ National Basketball League (New Zealand)",
+          "time": null,
+          "onlyTime": "11:00",
+          "onlyDay": "18/07",
+          "blv": "BLV Điếc",
+          "live": false,
+          "liveDesc": "Sắp diễn ra",
+          "ColorLive": "red",
+          "autoget": "tugets",
+          "headertuget": {
+            "referer": "vuongdeptrai"
+          },
+          "header": {
+            "origin": "https://giovang.link",
+            "referer": "https://giovang.link",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=acZXv9hz9PZuV_DQyyYy_A~~",
+          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "id": "acZXv9hz9PZuV_DQyyYy_A~~",
+          "src": "hoiquantv",
+          "keys": "acZXv9hz9PZuV_DQyyYy_A~~",
+          "home": "Canada ",
+          "away": "Cuba",
+          "homeLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/H23oIEP6qK-zNc3O8abnIA_96x96.png",
+          "awayLogo": "https://static.flashscore.com/res/image/data/AmSqkKjl-hIzfuNSD.png",
+          "name": "🏐 Bóng chuyền Nations League",
+          "time": null,
+          "onlyTime": "11:00",
+          "onlyDay": "18/07",
+          "blv": "BLV Trĩ",
+          "live": false,
+          "liveDesc": "Sắp diễn ra",
+          "ColorLive": "red",
+          "autoget": "tugets",
+          "headertuget": {
+            "referer": "vuongdeptrai"
+          },
+          "header": {
+            "origin": "https://giovang.link",
+            "referer": "https://giovang.link",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=EyFyCYeRmmI_873ddEMd9Q~~",
+          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "id": "EyFyCYeRmmI_873ddEMd9Q~~",
+          "src": "hoiquantv",
+          "keys": "EyFyCYeRmmI_873ddEMd9Q~~",
+          "home": "JOPT STARS TABLE",
+          "away": "JOPT 2026 Tokyo #029",
+          "homeLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahhs0fzJOvOCYdK9SuCRzM8K4n7eLD7m-tmGF-JJhfg&s=10",
+          "awayLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahhs0fzJOvOCYdK9SuCRzM8K4n7eLD7m-tmGF-JJhfg&s=10",
+          "name": "🎮 WSOP",
+          "time": null,
+          "onlyTime": "11:15",
+          "onlyDay": "18/07",
+          "blv": "BLV Ngọng",
           "live": false,
           "liveDesc": "Sắp diễn ra",
           "ColorLive": "red",
@@ -790,6 +819,35 @@
           "onlyTime": "14:30",
           "onlyDay": "18/07",
           "blv": "BLV Mát",
+          "live": false,
+          "liveDesc": "Sắp diễn ra",
+          "ColorLive": "red",
+          "autoget": "tugets",
+          "headertuget": {
+            "referer": "vuongdeptrai"
+          },
+          "header": {
+            "origin": "https://giovang.link",
+            "referer": "https://giovang.link",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "fetchApi": "https://pay.locket.top/tv/get.php?source=giovangtv&keys=AUP8Zi8rN7M8HiGQ3noXLg~~",
+          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
+          "id": "AUP8Zi8rN7M8HiGQ3noXLg~~",
+          "src": "hoiquantv",
+          "keys": "AUP8Zi8rN7M8HiGQ3noXLg~~",
+          "home": "Wellington Saints",
+          "away": "Whai",
+          "homeLogo": "https://nba.titan007.com/files/team/1hwcjhd7511h.png",
+          "awayLogo": "https://nba.titan007.com/files/team/1hs0gj835s6.png",
+          "name": "🏀 Bóng rổ National Basketball League (New Zealand)",
+          "time": null,
+          "onlyTime": "14:30",
+          "onlyDay": "18/07",
+          "blv": "BLV Cầy",
           "live": false,
           "liveDesc": "Sắp diễn ra",
           "ColorLive": "red",
@@ -1593,45 +1651,6 @@
       "Sports": true,
       "List": [
         {
-          "fetchApi": "https://pay.locket.top/tv/get.php?source=tieulamtv&keys=15341d3126704be7ab3fcbb0700c3b7f",
-          "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
-          "id": "15341d3126704be7ab3fcbb0700c3b7f",
-          "src": "hoiquantv",
-          "keys": "15341d3126704be7ab3fcbb0700c3b7f",
-          "home": "Turkey ",
-          "away": "Ukraine",
-          "homeLogo": "https://static.flashscore.com/res/image/data/vsMYAAyB-djLqtupg.png",
-          "awayLogo": "https://static.flashscore.com/res/image/data/6VlAeI9r-hpXUM0aT.png",
-          "name": "  Nations League",
-          "time": null,
-          "onlyTime": "21:30",
-          "onlyDay": "17/07",
-          "blv": "Trạng Ngố",
-          "live": true,
-          "liveDesc": "Trực tiếp",
-          "ColorLive": "green",
-          "autoget": "tugets",
-          "headertuget": {
-            "referer": "vuongdeptrai"
-          },
-          "header": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Accept-Language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5",
-            "Connection": "keep-alive",
-            "Origin": "https://sv2.tieulamwc1.net",
-            "Referer": "https://sv2.tieulamwc1.net/",
-            "sec-ch-ua": "\"Chromium\";v=\"139\", \"Not;A=Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?1",
-            "sec-ch-ua-platform": "\"Android\"",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
-          }
-        },
-        {
           "fetchApi": "https://pay.locket.top/tv/get.php?source=tieulamtv&keys=1l4rjnh905nnm7v",
           "fetchApiAuto": "https://api.cotivi.online/api/Extract?version=",
           "postApiAuto": "https://api.cotivi.online/api/Extract?version=",
@@ -1686,9 +1705,9 @@
           "onlyTime": "00:15",
           "onlyDay": "18/07",
           "blv": "Trạng Béo",
-          "live": false,
-          "liveDesc": "Sắp diễn ra",
-          "ColorLive": "red",
+          "live": true,
+          "liveDesc": "Trực tiếp",
+          "ColorLive": "green",
           "autoget": "tugets",
           "headertuget": {
             "referer": "vuongdeptrai"
