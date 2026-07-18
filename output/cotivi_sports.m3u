@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7Mdic1P0I4Zquq9R4cVryg~~" tvg-name="[20:30-18/07] Gen.G - DK [BLV Cận] - 🎮 EWC" tvg-logo="https://static.flashscore.com/res/image/data/rglkqMzB-UJqSxlpo.png" group-title="Giờ Vàng",[20:30-18/07] Gen.G - DK [BLV Cận] - 🎮 EWC
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D7Mdic1P0I4Zquq9R4cVryg~~
 #EXTINF:-1 tvg-id="oOiYkmQGCo4q0YbU4kI4vA~~" tvg-name="[22:00-18/07] Manchester United - Wrexham - World - Club Friendly" tvg-logo="https://static.flashscore.com/res/image/data/nwSRlyWg-h2pPXz3k.png" group-title="Giờ Vàng",[22:00-18/07] Manchester United - Wrexham - World - Club Friendly
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -19,16 +15,20 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D5ummPk4gMfHrxB3pqUukPg~~
-#EXTINF:-1 tvg-id="LVWMRWONOeGlb57NCe8PFA~~" tvg-name="[04:00-18/07] France  - Poland [BLV Sún] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/dnoZORwS-rcthslVl.png" group-title="Giờ Vàng",[04:00-18/07] France  - Poland [BLV Sún] - Bóng chuyền Nations League
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DLVWMRWONOeGlb57NCe8PFA~~
-#EXTINF:-1 tvg-id="qqzNb2pgSUVqPMwXM9koWA~~" tvg-name="[01:00-19/07] Serbia  - Germany [BLV Sún] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/2NUY9fYA-h6SRz2xL.png" group-title="Giờ Vàng",[01:00-19/07] Serbia  - Germany [BLV Sún] - Bóng chuyền Nations League
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DqqzNb2pgSUVqPMwXM9koWA~~
 #EXTINF:-1 tvg-id="ZSTVk401Jt7Lm_BeD0TRcQ~~" tvg-name="[01:00-19/07] Paulista  - Primavera - Copa Paulista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Paulista_Futebol_Clube_Escudo_Oficial.png" group-title="Giờ Vàng",[01:00-19/07] Paulista  - Primavera - Copa Paulista
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DZSTVk401Jt7Lm_BeD0TRcQ~~
+#EXTINF:-1 tvg-id="qqzNb2pgSUVqPMwXM9koWA~~" tvg-name="[01:00-19/07] Serbia  - Germany [BLV Sún] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/2NUY9fYA-h6SRz2xL.png" group-title="Giờ Vàng",[01:00-19/07] Serbia  - Germany [BLV Sún] - Bóng chuyền Nations League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DqqzNb2pgSUVqPMwXM9koWA~~
 #EXTINF:-1 tvg-id="jyyMNdvj5vMzfpkHzF5HRRjHwM_xq-sgXVhDj2J1MbA~" tvg-name="[02:00-19/07] Ponte Preta - Goias - Brazil Serie B" tvg-logo="https://images.keovip88.net/images/teams/ponte-preta.png" group-title="Giờ Vàng",[02:00-19/07] Ponte Preta - Goias - Brazil Serie B
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DjyyMNdvj5vMzfpkHzF5HRRjHwM_xq-sgXVhDj2J1MbA~
-#EXTINF:-1 tvg-id="rv-8yCxQgcWfKlMolSva1A~~" tvg-name="[04:00-19/07] Du Plessis - Usman [BLV Dory] - Võ thuật UFC Fight Night" tvg-logo="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTDv5o-fX4sQJ9wKG9VJni1cL4b66Mjq_xrkymkF8B8bb0wFCu9mmMRKhygKtnWlyhB7y5_1Aez0SIUP_o" group-title="Giờ Vàng",[04:00-19/07] Du Plessis - Usman [BLV Dory] - Võ thuật UFC Fight Night
+#EXTINF:-1 tvg-id="rv-8yCxQgcWfKlMolSva1A~~" tvg-name="[03:59-19/07] Du Plessis - Usman [BLV Cầy] - Võ thuật UFC Fight Night" tvg-logo="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTDv5o-fX4sQJ9wKG9VJni1cL4b66Mjq_xrkymkF8B8bb0wFCu9mmMRKhygKtnWlyhB7y5_1Aez0SIUP_o" group-title="Giờ Vàng",[03:59-19/07] Du Plessis - Usman [BLV Cầy] - Võ thuật UFC Fight Night
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Drv-8yCxQgcWfKlMolSva1A~~
+#EXTINF:-1 tvg-id="LVWMRWONOeGlb57NCe8PFA~~" tvg-name="[04:00-19/07] France  - Poland [BLV Sún] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/dnoZORwS-rcthslVl.png" group-title="Giờ Vàng",[04:00-19/07] France  - Poland [BLV Sún] - Bóng chuyền Nations League
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DLVWMRWONOeGlb57NCe8PFA~~
 #EXTINF:-1 tvg-id="mFKi12HknDU7mhFqlM2UNh5pYTGBonyxq_ZRnKLNrVU~" tvg-name="[04:00-19/07] Pháp - Anh - FIFA World Cup" tvg-logo="https://images.keovip88.net/images/teams/france.png" group-title="Giờ Vàng",[04:00-19/07] Pháp - Anh - FIFA World Cup
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DmFKi12HknDU7mhFqlM2UNh5pYTGBonyxq_ZRnKLNrVU~
 #EXTINF:-1 tvg-id="8eNh-96R8BWUnmkeafLbNGexVJJwCdak0xt8b34lcoo~" tvg-name="[06:30-19/07] Charleston Battery - Sacramento Republic FC [BLV Mát] - USL Championship Mỹ" tvg-logo="https://images.keovip88.net/images/teams/charleston-battery.png" group-title="Giờ Vàng",[06:30-19/07] Charleston Battery - Sacramento Republic FC [BLV Mát] - USL Championship Mỹ
@@ -65,10 +65,6 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DNCrUASDG1bHKQY9lazjwljWKsql3Nqbm68kosfpnJGc~
 #EXTINF:-1 tvg-id="NCrUASDG1bHKQY9lazjwlhB1vIJ3hPLcynJ5mD1qb3o~" tvg-name="[21:00-18/07] AC Oulu - Gnistan - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/ac-oulu.png" group-title="Giờ Vàng",[21:00-18/07] AC Oulu - Gnistan - VĐQG Phần Lan
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DNCrUASDG1bHKQY9lazjwlhB1vIJ3hPLcynJ5mD1qb3o~
-#EXTINF:-1 tvg-id="n54qllhnw47jqvy" tvg-name="[20:30-18/07] FC Basel 1893 - Juventus [BLV Trạng Tí] - International Club Friendly" tvg-logo="https://img.sports-data.online/football/team/85049bb043de13c3f7f63e8066ffed8a.png" group-title="Tiếu Lâm",[20:30-18/07] FC Basel 1893 - Juventus [BLV Trạng Tí] - International Club Friendly
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dn54qllhnw47jqvy
 #EXTINF:-1 tvg-id="vjxm8ghe6847r6o" tvg-name="[23:30-18/07] Zenit St. Petersburg - Spartak Moscow [BLV Trạng Tồ] - Russian Super Cup" tvg-logo="https://img.sports-data.online/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png" group-title="Tiếu Lâm",[23:30-18/07] Zenit St. Petersburg - Spartak Moscow [BLV Trạng Tồ] - Russian Super Cup
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
