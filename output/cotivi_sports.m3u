@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DvzauxJsfPycw80zlSrbsilScC0scT0iji2RSiJXc_Y~" tvg-name="[12:00-18/07] Avondale FC - St Albans Saints [BLV Bón] - NPL Victoria Úc" tvg-logo="https://images.keovip88.net/images/teams/avondale-fc.png" group-title="Giờ Vàng",[12:00-18/07] Avondale FC - St Albans Saints [BLV Bón] - NPL Victoria Úc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDvzauxJsfPycw80zlSrbsilScC0scT0iji2RSiJXc_Y~
 #EXTINF:-1 tvg-id="DvzauxJsfPycw80zlSrbspCZqLfWaBRU8z5jPKnaOS4~" tvg-name="[12:15-18/07] Altona Magic - Heidelberg United - NPL Victoria Úc" tvg-logo="https://images.keovip88.net/images/teams/altona-magic.png" group-title="Giờ Vàng",[12:15-18/07] Altona Magic - Heidelberg United - NPL Victoria Úc
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -11,10 +15,6 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DEyFyCYeRmmI_873ddEMd9Q~~
-#EXTINF:-1 tvg-id="DvzauxJsfPycw80zlSrbshr0lZ5XB00C8IYpx-nXPoQ~" tvg-name="[12:00-18/07] Western Sydney Wanderers AM - A.P.I.A. Leichhardt Tigers - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/western-sydney-wanderers-am.png" group-title="Giờ Vàng",[12:00-18/07] Western Sydney Wanderers AM - A.P.I.A. Leichhardt Tigers - NPL NSW Úc
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDvzauxJsfPycw80zlSrbshr0lZ5XB00C8IYpx-nXPoQ~
-#EXTINF:-1 tvg-id="DvzauxJsfPycw80zlSrbsilScC0scT0iji2RSiJXc_Y~" tvg-name="[12:00-18/07] Avondale FC - St Albans Saints [BLV Bón] - NPL Victoria Úc" tvg-logo="https://images.keovip88.net/images/teams/avondale-fc.png" group-title="Giờ Vàng",[12:00-18/07] Avondale FC - St Albans Saints [BLV Bón] - NPL Victoria Úc
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDvzauxJsfPycw80zlSrbsilScC0scT0iji2RSiJXc_Y~
 #EXTINF:-1 tvg-id="R9Yie16Io_pbnEvXfUcs4IBWd5qui4ppiY4TK9mghTc~" tvg-name="[14:00-18/07] Balcatta  - Stirling Lions - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/sd-raiders-fc.png" group-title="Giờ Vàng",[14:00-18/07] Balcatta  - Stirling Lions - NPL NSW Úc
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DR9Yie16Io_pbnEvXfUcs4IBWd5qui4ppiY4TK9mghTc~
 #EXTINF:-1 tvg-id="R9Yie16Io_pbnEvXfUcs4PbmkBIdhU7sfMDy5mMEOaw~" tvg-name="[14:00-18/07] Dianella White Eagle - Olympic Kingsway - Australia - NPL WA" tvg-logo="https://images.keovip88.net/images/teams/spirit-fc.png" group-title="Giờ Vàng",[14:00-18/07] Dianella White Eagle - Olympic Kingsway - Australia - NPL WA
@@ -105,6 +105,8 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DUOUkVkmtxziGQmMhdm0NYA~~
 #EXTINF:-1 tvg-id="acZXv9hz9PZuV_DQyyYy_A~~" tvg-name="[11:00-18/07] Canada  - Cuba [BLV Trĩ] - Bóng chuyền Nations League" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/H23oIEP6qK-zNc3O8abnIA_96x96.png" group-title="Giờ Vàng",[11:00-18/07] Canada  - Cuba [BLV Trĩ] - Bóng chuyền Nations League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DacZXv9hz9PZuV_DQyyYy_A~~
+#EXTINF:-1 tvg-id="DvzauxJsfPycw80zlSrbshr0lZ5XB00C8IYpx-nXPoQ~" tvg-name="[12:00-18/07] Western Sydney Wanderers AM - A.P.I.A. Leichhardt Tigers - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/western-sydney-wanderers-am.png" group-title="Giờ Vàng",[12:00-18/07] Western Sydney Wanderers AM - A.P.I.A. Leichhardt Tigers - NPL NSW Úc
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDvzauxJsfPycw80zlSrbshr0lZ5XB00C8IYpx-nXPoQ~
 #EXTINF:-1 tvg-id="xlO0zhqtgHsbRYx1Q4yB3g~~" tvg-name="[16:15-18/07] Terrafirma Dyip - San Miguel Beermen - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/f2bde459cfd09fe77e8d0996f34a1af0.png" group-title="Giờ Vàng",[16:15-18/07] Terrafirma Dyip - San Miguel Beermen - Bóng rổ Philippines PBA Governors'' Cup
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DxlO0zhqtgHsbRYx1Q4yB3g~~
 #EXTINF:-1 tvg-id="2Qz1a_b1bv9kA-vQKCeT2w~~" tvg-name="[18:00-18/07] Qingdao West Coast  - Chengdu Rongcheng [BLV Mát] - China - Super League" tvg-logo="https://static.flashscore.com/res/image/data/ddr7VMYA-21BCdP3t.png" group-title="Giờ Vàng",[18:00-18/07] Qingdao West Coast  - Chengdu Rongcheng [BLV Mát] - China - Super League
