@@ -3,11 +3,9 @@ import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 import aesjs from "npm:aes-js@3.1.2";
 
 // ── Whitelist ─────────────────────────────────────────────────────────────────
-// Chỉ cho phép resolve từ các domain đã biết. Ngăn SSRF.
 const ALLOWED_HOSTS = new Set(["pay.locket.top", "rd.locket.top"]);
 
-// ── AES-256-ECB co-signature (reverse-engineered từ Cò TiVi APK) ─────────────
-// Key đã public trong source code APK (Hermes bytecode). Dùng để call rd.locket.top.
+// ── AES-256-ECB co-signature ──────────────────────────────────────────────────
 const SIG_KEY = new TextEncoder().encode("vuongdeptraivuongdeptraivklvkl12");
 
 function pkcs7Pad(data: Uint8Array): Uint8Array {
@@ -62,7 +60,6 @@ Deno.serve(async (req: Request) => {
     });
   }
 
-  // Validate: HTTPS + domain whitelist
   let parsedUrl: URL;
   try {
     parsedUrl = new URL(fetchApi);
@@ -81,31 +78,32 @@ Deno.serve(async (req: Request) => {
   }
 
   // ── Branch A: rd.locket.top ─────────────────────────────────────────────────
-  // Cần co-signature. Trả về master M3U playlist → parse lấy CDN URL đầu tiên.
+  // co-signature → 302 → CDN master M3U → 307 → final M3U → parse HTTPS URL → 302
   if (parsedUrl.hostname === "rd.locket.top") {
     try {
       const ipData = await getIpData();
       const sig = await makeCoSignature(ipData);
 
+      // fetch() tự follow redirect (302 → 307 → 200 master M3U)
       const r = await fetch(fetchApi, {
         headers: {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
           "co-signature": sig,
         },
-        signal: AbortSignal.timeout(10000),
+        signal: AbortSignal.timeout(12000),
       });
 
       const text = await r.text();
 
-      if (text.includes("error signature") || text.includes("error sign")) {
-        console.error("resolve-stream rd.locket: signature rejected", fetchApi);
-        return new Response(JSON.stringify({ error: "Signature rejected by server" }), {
-          status: 403,
-          headers: { ...corsHeaders, "Content-Type": "application/json" },
-        });
+      if (!r.ok || text.includes("error signature") || text.includes("error sign") || !text.includes("#EXTM3U")) {
+        console.error("resolve-stream rd.locket: bad response", r.status, text.slice(0, 120), "url:", fetchApi);
+        return new Response(
+          JSON.stringify({ error: `Upstream error: ${r.status}`, detail: text.slice(0, 120) }),
+          { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+        );
       }
 
-      // Parse master M3U: lấy URL đầu tiên (480p — bandwidth thấp nhất, ổn định nhất)
+      // Parse master M3U: lấy URL HTTPS đầu tiên (variant 480p)
       let streamUrl = "";
       for (const line of text.split("\n")) {
         const trimmed = line.trim();
@@ -116,14 +114,14 @@ Deno.serve(async (req: Request) => {
       }
 
       if (!streamUrl) {
-        console.error("resolve-stream rd.locket: no URL in response", fetchApi, text.slice(0, 200));
-        return new Response(JSON.stringify({ error: "No stream URL found in playlist" }), {
+        console.error("resolve-stream rd.locket: no HTTPS URL in M3U", fetchApi, text.slice(0, 300));
+        return new Response(JSON.stringify({ error: "No stream URL in playlist" }), {
           status: 404,
           headers: { ...corsHeaders, "Content-Type": "application/json" },
         });
       }
 
-      // bpk-token tồn tại vài phút → cache ngắn 30s
+      // bpk-token ngắn hạn → cache 30s
       return new Response(null, {
         status: 302,
         headers: {
@@ -142,7 +140,7 @@ Deno.serve(async (req: Request) => {
   }
 
   // ── Branch B: pay.locket.top ────────────────────────────────────────────────
-  // Trả về JSON {status, default.url} → parse → 302 redirect.
+  // JSON {status, default.url} → 302
   try {
     const r = await fetch(fetchApi, {
       headers: { "User-Agent": "Cò TiVi/1.1.7" },
