@@ -30,7 +30,7 @@ Sports strategy:
   - Upcoming matches: fetchApi URL shown (players can retry when match starts)
 """
 
-import base64, json, os, re, ssl, sys, time, urllib.request, urllib.error
+import base64, http.client, json, os, re, ssl, sys, time, urllib.parse, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
@@ -218,40 +218,51 @@ def make_co_signature() -> str:
 
 def resolve_locket_url(ch: dict, signature: str) -> str:
     """
-    Resolve a rd.locket.top redirector URL to the real CDN stream URL.
-    Fetches the M3U8 with the co-signature header and extracts the first variant URL.
-    Retries up to 3 times on failure (server rate-limits unpredictably).
-    Returns the CDN URL, or "" on failure (caller keeps the original link).
+    Resolve a rd.locket.top redirector URL → CDN URL via single-hop Location grab.
+
+    rd.locket.top responds with HTTP 302 whose Location header IS the real CDN stream
+    URL (tv360/fo-hlc, tv360/ateme, tv360/lsm-g12, mytv, …).  We capture that
+    Location and embed it in the M3U — players follow any remaining hops from their
+    own IP, so geo-restricted CDNs still work.
+
+    Uses http.client per call (thread-safe — no shared opener state).
+    Retries up to 3× on failure.  Returns "" if all attempts fail.
     """
     link = ch.get("link", "")
-    hdr = ch.get("header", {})
+    hdr  = ch.get("header", {})
+    ua   = (
+        (hdr.get("User-agent") or hdr.get("user-agent", ""))
+        if isinstance(hdr, dict) else ""
+    ) or "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
     for attempt in range(3):
-        ts = str(int(time.time() * 1000))
-        payload = json.dumps({"ipData": _get_ip_data(), "firtTime": ts, "lastTime": ts})
-        cipher = AES.new(SIG_KEY, AES.MODE_ECB)
-        encrypted = cipher.encrypt(pad(payload.encode("utf-8"), AES.block_size))
-        sig = base64.b64encode(encrypted).decode("utf-8")
-        headers = {"User-Agent": "Mozilla/5.0", "co-signature": sig}
-        if isinstance(hdr, dict):
-            for k, v in hdr.items():
-                if k.lower() == "user-agent":
-                    headers["User-Agent"] = v
-                else:
-                    headers[k] = v
         try:
-            req = urllib.request.Request(link, headers=headers)
-            with urllib.request.urlopen(req, timeout=RESOLVE_TIMEOUT, context=_ssl_ctx()) as r:
-                body = r.read(4096).decode("utf-8", errors="replace")
-            # Khớp cả URL dạng .m3u8/.mpd trực tiếp lẫn dạng query string (?type=m3u8)
-            urls = re.findall(
-                r"(https?://[^\s\"'<>]+(?:\.m3u8|\.mpd)(?:[^\s\"'<>]*)?)"
-                r"|"
-                r"(https?://[^\s\"'<>]+[?&](?:type|format|ext)=(?:m3u8|mpd)[^\s\"'<>]*)",
-                body,
-            )
-            flat = [u for pair in urls for u in pair if u]
-            if flat:
-                return flat[0]
+            ts = str(int(time.time() * 1000))
+            payload = json.dumps({"ipData": _get_ip_data(), "firtTime": ts, "lastTime": ts})
+            cipher  = AES.new(SIG_KEY, AES.MODE_ECB)
+            sig     = base64.b64encode(cipher.encrypt(pad(payload.encode(), AES.block_size))).decode()
+
+            p    = urllib.parse.urlparse(link)
+            path = p.path + ("?" + p.query if p.query else "")
+            ctx  = _ssl_ctx()
+
+            if p.scheme == "https":
+                conn = http.client.HTTPSConnection(
+                    p.hostname, port=p.port or 443, context=ctx, timeout=RESOLVE_TIMEOUT
+                )
+            else:
+                conn = http.client.HTTPConnection(
+                    p.hostname, port=p.port or 80, timeout=RESOLVE_TIMEOUT
+                )
+
+            conn.request("GET", path, headers={"User-Agent": ua, "co-signature": sig})
+            r = conn.getresponse()
+            r.read()  # drain so connection can be reused / closed cleanly
+
+            if r.status in (301, 302, 303, 307, 308):
+                location = r.getheader("Location", "")
+                if location and location.startswith(("https://", "http://")):
+                    return location
         except Exception:
             pass
         time.sleep(1)
@@ -274,6 +285,8 @@ def check_stream(ch: dict) -> bool:
     domain = urlparse(url).netloc
     if domain in VN_CDN_DOMAINS:
         return True            # IP-restricted, works from Vietnam
+    if domain in SIGN_DOMAINS:
+        return True            # Requires co-signature header — can't health-check without it
     hdr = ch.get("header", {})
     ua  = (hdr.get("User-agent") or hdr.get("user-agent", "")) if isinstance(hdr, dict) else ""
     headers = {"User-Agent": ua or "Mozilla/5.0"}
@@ -338,8 +351,8 @@ def fetch_sport_url(ch: dict) -> tuple:
 def make_channels_m3u(data_json: dict, skip_ids: set, resolved: dict) -> tuple:
     """Build M3U for channels, optionally filtering dead streams.
     `resolved` maps channel id → resolved CDN URL for rd.locket.top channels.
-    If EDGE_FUNCTION_URL is set, SIGN_DOMAIN channels are routed via edge function
-    instead of using the build-time resolved CDN URL (which expires quickly)."""
+    rd.locket.top URLs are ALWAYS resolved at build time (JWT TTL = 6h, workflow = 30min).
+    Channels whose resolution failed are excluded to avoid serving broken URLs."""
     lines = ["#EXTM3U"]
     kept = skipped = 0
     for group in data_json.get("Data", []):
@@ -356,14 +369,16 @@ def make_channels_m3u(data_json: dict, skip_ids: set, resolved: dict) -> tuple:
             hdr  = ch.get("header", {})
             ua   = (hdr.get("User-agent") or hdr.get("user-agent", "")) if isinstance(hdr, dict) else ""
 
-            # rd.locket.top channels: route via edge function so players always get
-            # a fresh bpk-token on every request (token expires in minutes, not hours).
             link_domain = urlparse(link).netloc
-            if link_domain in SIGN_DOMAINS and EDGE_FUNCTION_URL:
-                encoded = urllib.parse.quote(link, safe="")
-                stream_url = f"{EDGE_FUNCTION_URL}?url={encoded}"
+            if link_domain in SIGN_DOMAINS:
+                # Must use the build-time resolved CDN URL.
+                # Raw rd.locket.top URLs require co-signature — players can't use them.
+                # If resolution failed (empty string), skip this channel entirely.
+                stream_url = resolved.get(ch.get("id", ""), "")
+                if not stream_url:
+                    skipped += 1
+                    continue
             else:
-                # Use resolved CDN URL if available, otherwise keep original link
                 stream_url = resolved.get(ch.get("id", ""), link)
             lines.append(
                 f'#EXTINF:-1 tvg-id="{ch.get("id","")}" '
@@ -595,9 +610,7 @@ def main():
             locket_chs = [ch for grp in plain.get("Data",[]) for ch in grp.get("List",[])
                           if "rd.locket.top" in ch.get("link", "")]
             resolved: dict = {}
-            if locket_chs and EDGE_FUNCTION_URL:
-                print(f"  {len(locket_chs)} rd.locket.top channels → edge function real-time (skip build-time resolve)")
-            elif locket_chs:
+            if locket_chs:
                 print(f"  Resolving {len(locket_chs)} rd.locket.top channels...")
                 signature = make_co_signature()
                 with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as ex:
