@@ -97,6 +97,9 @@ VN_CDN_DOMAINS = {
     "live.truyenhinhnghean.vn", "vtvgolive-sctv.vtvdigital.vn",
     "livevlisctcdnw.seenow.vn",
     "rd.locket.top",
+    # TV360 CDN backends (resolved from rd.locket.top) — VN geo-restricted
+    "fo-hlc.tv360.vn", "rr1-ateme.tv360.vn", "lsm-g12.tv360.vn",
+    "tr-netcdn.tv360.vn",
 }
 
 # ── helpers ───────────────────────────────────────────────────────────────────
