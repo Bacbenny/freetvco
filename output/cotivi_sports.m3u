@@ -1,26 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="7aT5Mz5ncdUW_832oUmhFw~~" tvg-name="[23:35-19/07] New York Yankees - Los Angeles Dodgers [BLV Cận] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/plT1Aqil-OpJ5uAOg.png" group-title="Giờ Vàng",[23:35-19/07] New York Yankees - Los Angeles Dodgers [BLV Cận] - MLB
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D7aT5Mz5ncdUW_832oUmhFw~~
+#EXTINF:-1 tvg-id="rEo5TCy3FKI364E-DOmXzw~~" tvg-name="[23:59-19/07] Dallas Wings - Los Angeles Sparks [BLV Cầy] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://nba.titan007.com/files/team/1harzp08wx2p.png" group-title="Giờ Vàng",[23:59-19/07] Dallas Wings - Los Angeles Sparks [BLV Cầy] - Bóng rổ Women’s National Basketball Association
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DrEo5TCy3FKI364E-DOmXzw~~
 #EXTINF:-1 tvg-id="pEfG7vTlMYyhVVlQXumQU326AaxwcYERffEBBhlqTDE~" tvg-name="[22:30-19/07] Jaro - Inter Turku [BLV Mát] - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/jaro.png" group-title="Giờ Vàng",[22:30-19/07] Jaro - Inter Turku [BLV Mát] - VĐQG Phần Lan
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DpEfG7vTlMYyhVVlQXumQU326AaxwcYERffEBBhlqTDE~
-#EXTINF:-1 tvg-id="pEfG7vTlMYyhVVlQXumQUx7oN65n6M8LXDZe0TNhxYA~" tvg-name="[21:30-19/07] Elfsborg - IK Sirius FK [BLV Mason] - VĐQG Thụy Điển" tvg-logo="https://images.keovip88.net/images/teams/elfsborg.png" group-title="Giờ Vàng",[21:30-19/07] Elfsborg - IK Sirius FK [BLV Mason] - VĐQG Thụy Điển
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DpEfG7vTlMYyhVVlQXumQUx7oN65n6M8LXDZe0TNhxYA~
-#EXTINF:-1 tvg-id="QD3kvMKjZBA7uc7ga1zftA~~" tvg-name="[21:30-19/07] Ukraine - Germany [BLV Điếc] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/va0cEUGG-8KJ0tcMR.png" group-title="Giờ Vàng",[21:30-19/07] Ukraine - Germany [BLV Điếc] - Bóng chuyền Nations League
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQD3kvMKjZBA7uc7ga1zftA~~
 #EXTINF:-1 tvg-id="KaiZDU9fBfre6b4LhyteXA~~" tvg-name="[23:00-19/07] KR - Stjarnan - Iceland - Besta deild karla" tvg-logo="https://static.flashscore.com/res/image/data/AkXowoHG-GYYKuYKt.png" group-title="Giờ Vàng",[23:00-19/07] KR - Stjarnan - Iceland - Besta deild karla
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DKaiZDU9fBfre6b4LhyteXA~~
-#EXTINF:-1 tvg-id="7aT5Mz5ncdUW_832oUmhFw~~" tvg-name="[23:35-19/07] New York Yankees - Los Angeles Dodgers [BLV Cận] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/plT1Aqil-OpJ5uAOg.png" group-title="Giờ Vàng",[23:35-19/07] New York Yankees - Los Angeles Dodgers [BLV Cận] - MLB
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D7aT5Mz5ncdUW_832oUmhFw~~
 #EXTINF:-1 tvg-id="KhU8UReG_hOFGFduROr1uA~~" tvg-name="[23:59-19/07] China - Brazil [BLV Sún] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/nc9uS3HG-QDuM2WrS.png" group-title="Giờ Vàng",[23:59-19/07] China - Brazil [BLV Sún] - Bóng chuyền Nations League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DKhU8UReG_hOFGFduROr1uA~~
-#EXTINF:-1 tvg-id="rEo5TCy3FKI364E-DOmXzw~~" tvg-name="[23:59-19/07] Dallas Wings - Los Angeles Sparks [BLV Cầy] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://nba.titan007.com/files/team/1harzp08wx2p.png" group-title="Giờ Vàng",[23:59-19/07] Dallas Wings - Los Angeles Sparks [BLV Cầy] - Bóng rổ Women’s National Basketball Association
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DrEo5TCy3FKI364E-DOmXzw~~
 #EXTINF:-1 tvg-id="0pI3KXzhLSn6GUjO7cJPrw~~" tvg-name="[01:00-20/07] Serbia - Slovenia [BLV Tôm] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/vDiyVxhl-6ys9CWQj.png" group-title="Giờ Vàng",[01:00-20/07] Serbia - Slovenia [BLV Tôm] - Bóng chuyền Nations League Women
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D0pI3KXzhLSn6GUjO7cJPrw~~
 #EXTINF:-1 tvg-id="mFKi12HknDU7mhFqlM2UNniMLjIM_VQeaNNn5i8Lo44~" tvg-name="[02:00-20/07] Tây Ban Nha - Argentina - FIFA World Cup" tvg-logo="https://images.keovip88.net/images/teams/spain.png" group-title="Giờ Vàng",[02:00-20/07] Tây Ban Nha - Argentina - FIFA World Cup
@@ -29,6 +27,12 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DTcBFSR-n_SDgnm36zIkFKQ~~
 #EXTINF:-1 tvg-id="wYqPAxPjxdGYyhUmZ8sxUQ~~" tvg-name="[04:00-20/07] Bulgaria - France [BLV Mát] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/r7q7GrzB-6ys9CWQj.png" group-title="Giờ Vàng",[04:00-20/07] Bulgaria - France [BLV Mát] - Bóng chuyền Nations League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DwYqPAxPjxdGYyhUmZ8sxUQ~~
+#EXTINF:-1 tvg-id="0hcBFWJCpVlBGF00MrVIDQ~~" tvg-name="[15:00-20/07] Imus Agimat - Valenzuela Classics [BLV Lẹo] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1hxdz6r07f2f.png" group-title="Giờ Vàng",[15:00-20/07] Imus Agimat - Valenzuela Classics [BLV Lẹo] - Bóng rổ Philippines MPBL
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D0hcBFWJCpVlBGF00MrVIDQ~~
+#EXTINF:-1 tvg-id="d7rAAxmRvaP4yZ1fhaObjQ~~" tvg-name="[17:00-20/07] Abra Weavers - Bacolod Tubo Slashers [BLV Điếc] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1hwf4b6803v.png" group-title="Giờ Vàng",[17:00-20/07] Abra Weavers - Bacolod Tubo Slashers [BLV Điếc] - Bóng rổ Philippines MPBL
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dd7rAAxmRvaP4yZ1fhaObjQ~~
+#EXTINF:-1 tvg-id="RXMJnEHqIlFFSZXdSWtz9UAPW8AnjZ-R-XBeRWzNcuI~" tvg-name="[22:00-20/07] TPS Turku - Ilves Tampere [BLV Bón] - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/tps-turku.png" group-title="Giờ Vàng",[22:00-20/07] TPS Turku - Ilves Tampere [BLV Bón] - VĐQG Phần Lan
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DRXMJnEHqIlFFSZXdSWtz9UAPW8AnjZ-R-XBeRWzNcuI~
 #EXTINF:-1 tvg-id="hvYhIp0oyd_0R5713EpXhg~~" tvg-name="[18:30-24/07] ONE Friday Fights 163 - The Inner Circle 23 [BLV Dory] - Võ thuật ONE Friday Fights 163 & The Inner Circle 23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQAGBtiDICY4gh_kkrMENeHVsOldOMBJZx3kszzPpZfeJgUTMIzcMa_4&s=10" group-title="Giờ Vàng",[18:30-24/07] ONE Friday Fights 163 - The Inner Circle 23 [BLV Dory] - Võ thuật ONE Friday Fights 163 & The Inner Circle 23
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DhvYhIp0oyd_0R5713EpXhg~~
 #EXTINF:-1 tvg-id="gAf5G9CBpSJ7QNxjtczmZw~~" tvg-name="[20:00-25/07]  Ankalaev - Rountree Jr [BLV Dory] - Võ thuật UFC Fight Night" tvg-logo="https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/ANKALAEV_MAGOMED_L_10-26.png?itok=L777PUSb" group-title="Giờ Vàng",[20:00-25/07]  Ankalaev - Rountree Jr [BLV Dory] - Võ thuật UFC Fight Night
@@ -37,14 +41,6 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D18Fn3kwxnfbg9YY7YydNgQ~~
 #EXTINF:-1 tvg-id="-HV66-pMgDf1do05jNfJxg~~" tvg-name="[06:00-20/07] Phoenix Mercury - Connecticut Sun - Bóng rổ Women’s National Basketball Association" tvg-logo="https://nba.titan007.com/files/team/1kne7m1hp6.png" group-title="Giờ Vàng",[06:00-20/07] Phoenix Mercury - Connecticut Sun - Bóng rổ Women’s National Basketball Association
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D-HV66-pMgDf1do05jNfJxg~~
-#EXTINF:-1 tvg-id="318q66hxp28eqo9" tvg-name="[21:00-19/07] FC Universitatea Cluj - Farul Constanta [BLV Trạng Béo] - Romanian Super Liga" tvg-logo="https://img.sports-data.online/football/team/74c37787bcf9656e1372913981f69859.png" group-title="Tiếu Lâm",[21:00-19/07] FC Universitatea Cluj - Farul Constanta [BLV Trạng Béo] - Romanian Super Liga
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D318q66hxp28eqo9
-#EXTINF:-1 tvg-id="b300eb4014094bf2924c78d6f7b48238" tvg-name="[21:30-19/07] Ukraine - Germany [BLV Trạng Tồ] - Nations League" tvg-logo="https://static.flashscore.com/res/image/data/va0cEUGG-8KJ0tcMR.png" group-title="Tiếu Lâm",[21:30-19/07] Ukraine - Germany [BLV Trạng Tồ] - Nations League
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Db300eb4014094bf2924c78d6f7b48238
 #EXTINF:-1 tvg-id="17d57b179e3549b9b6be0d12855b0839" tvg-name="[02:00-20/07] Spain - Argentina [BLV Trạng Ngố] - FIFA World Cup" tvg-logo="https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png" group-title="Tiếu Lâm",[02:00-20/07] Spain - Argentina [BLV Trạng Ngố] - FIFA World Cup
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D17d57b179e3549b9b6be0d12855b0839
 #EXTINF:-1 tvg-id="26c211993f7641eb83dd30f0cd20e41e" tvg-name="[02:00-20/07] Spain -  Argentina [BLV Trạng Quỷ] - FIFA World Cup" tvg-logo="https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png" group-title="Tiếu Lâm",[02:00-20/07] Spain -  Argentina [BLV Trạng Quỷ] - FIFA World Cup
