@@ -1,25 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="g8TplxKlcLpVB4cKBC2BPA~~" tvg-name="[15:00-19/07] NS - GEN.G [BLV Ngu] - 🎮 VCT Pacific" tvg-logo="https://static.flashscore.com/res/image/data/fsLmL8ZA-K2mdw3oq.png" group-title="Giờ Vàng",[15:00-19/07] NS - GEN.G [BLV Ngu] - 🎮 VCT Pacific
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dg8TplxKlcLpVB4cKBC2BPA~~
-#EXTINF:-1 tvg-id="EyFyCYeRmmI_873ddEMd9Q~~" tvg-name="[11:40-19/07] Main Event Day 2  - JOPT 2026 ＃02 [BLV Ngọng] - 🎮 WSOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahhs0fzJOvOCYdK9SuCRzM8K4n7eLD7m-tmGF-JJhfg&s=10" group-title="Giờ Vàng",[11:40-19/07] Main Event Day 2  - JOPT 2026 ＃02 [BLV Ngọng] - 🎮 WSOP
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DEyFyCYeRmmI_873ddEMd9Q~~
 #EXTINF:-1 tvg-id="nWUmLd5zq2AN2JGtFbFHIQ~~" tvg-name="[16:15-19/07] Talk N Text Tropang Texters - Macau Black Bears [BLV Điếc] - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://nba.titan007.com/files/team/1k76hc0vfy1r.png" group-title="Giờ Vàng",[16:15-19/07] Talk N Text Tropang Texters - Macau Black Bears [BLV Điếc] - Bóng rổ Philippines PBA Governors'' Cup
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DnWUmLd5zq2AN2JGtFbFHIQ~~
-#EXTINF:-1 tvg-id="PRDtvOT-q3MmmIeXW73VYA~~" tvg-name="[17:00-19/07] T1 - Gen.G [BLV Tôm] - 🎮 EWC" tvg-logo="https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png" group-title="Giờ Vàng",[17:00-19/07] T1 - Gen.G [BLV Tôm] - 🎮 EWC
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DPRDtvOT-q3MmmIeXW73VYA~~
-#EXTINF:-1 tvg-id="XfWmSW7o09BOF_iJvch7HQ~~" tvg-name="[17:20-19/07] Japan - Argentina [BLV Sún] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/8G7efUAr-vX32SaDf.png" group-title="Giờ Vàng",[17:20-19/07] Japan - Argentina [BLV Sún] - Bóng chuyền Nations League
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXfWmSW7o09BOF_iJvch7HQ~~
+#EXTINF:-1 tvg-id="EyFyCYeRmmI_873ddEMd9Q~~" tvg-name="[11:40-19/07] Main Event Day 2  - JOPT 2026 ＃02 [BLV Ngọng] - 🎮 WSOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahhs0fzJOvOCYdK9SuCRzM8K4n7eLD7m-tmGF-JJhfg&s=10" group-title="Giờ Vàng",[11:40-19/07] Main Event Day 2  - JOPT 2026 ＃02 [BLV Ngọng] - 🎮 WSOP
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DEyFyCYeRmmI_873ddEMd9Q~~
 #EXTINF:-1 tvg-id="DstaqoBNgpHkY8bIaPHiwVKvzJ_N_y3jr7CAxaxtXe8~" tvg-name="[17:30-19/07] FC Anyang - Gwangju FC [BLV Bón] - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/fc-anyang.png" group-title="Giờ Vàng",[17:30-19/07] FC Anyang - Gwangju FC [BLV Bón] - K-League Hàn Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDstaqoBNgpHkY8bIaPHiwVKvzJ_N_y3jr7CAxaxtXe8~
 #EXTINF:-1 tvg-id="DstaqoBNgpHkY8bIaPHiwTEnPUw9tsJ8vTP-6woRbbo~" tvg-name="[17:30-19/07] Bucheon FC 1995 - FC Seoul [BLV Mason] - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/bucheon-fc-1995.png" group-title="Giờ Vàng",[17:30-19/07] Bucheon FC 1995 - FC Seoul [BLV Mason] - K-League Hàn Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDstaqoBNgpHkY8bIaPHiwTEnPUw9tsJ8vTP-6woRbbo~
+#EXTINF:-1 tvg-id="PRDtvOT-q3MmmIeXW73VYA~~" tvg-name="[17:00-19/07] T1 - Gen.G [BLV Tôm] - 🎮 EWC" tvg-logo="https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png" group-title="Giờ Vàng",[17:00-19/07] T1 - Gen.G [BLV Tôm] - 🎮 EWC
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DPRDtvOT-q3MmmIeXW73VYA~~
+#EXTINF:-1 tvg-id="XfWmSW7o09BOF_iJvch7HQ~~" tvg-name="[17:20-19/07] Japan - Argentina [BLV Sún] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/8G7efUAr-vX32SaDf.png" group-title="Giờ Vàng",[17:20-19/07] Japan - Argentina [BLV Sún] - Bóng chuyền Nations League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXfWmSW7o09BOF_iJvch7HQ~~
 #EXTINF:-1 tvg-id="0hDcMgF5Ed8nvFTBV5D3Dg~~" tvg-name="[18:00-19/07] Turkey - Iran [BLV Trĩ] - Bóng chuyền Nations League" tvg-logo="https://static.flashscore.com/res/image/data/Q7zzy7HG-Cfuwb3yH.png" group-title="Giờ Vàng",[18:00-19/07] Turkey - Iran [BLV Trĩ] - Bóng chuyền Nations League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D0hDcMgF5Ed8nvFTBV5D3Dg~~
 #EXTINF:-1 tvg-id="X8wo4Kjxa1mcl44wvCGrlQ~~" tvg-name="[18:30-19/07] Barangay Ginebra Kings - Phoenix Fuel Masters [BLV Lẹo] - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://nba.titan007.com/files/team/1hfghwkryr3.png" group-title="Giờ Vàng",[18:30-19/07] Barangay Ginebra Kings - Phoenix Fuel Masters [BLV Lẹo] - Bóng rổ Philippines PBA Governors'' Cup
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DX8wo4Kjxa1mcl44wvCGrlQ~~
@@ -78,10 +84,16 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D1f2b8c89cf984a69adcb8942df9829fe
 #EXTINF:-1 tvg-id="eeb3583e223e4f918dac248c00a5ca59" tvg-name="[17:20-19/07] Japan  - Argentina [BLV Trạng Tí] - Nations League" tvg-logo="https://static.flashscore.com/res/image/data/8G7efUAr-vX32SaDf.png" group-title="Tiếu Lâm",[17:20-19/07] Japan  - Argentina [BLV Trạng Tí] - Nations League
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Deeb3583e223e4f918dac248c00a5ca59
 #EXTINF:-1 tvg-id="vjxm8ghelgl6r6o" tvg-name="[17:30-19/07] Bucheon FC 1995 - Football Club Seoul [BLV Trạng Béo] - Korean K League 1" tvg-logo="https://img.sports-data.online/football/team/640f8c62cb294e1cc308a44ed2a62891.png" group-title="Tiếu Lâm",[17:30-19/07] Bucheon FC 1995 - Football Club Seoul [BLV Trạng Béo] - Korean K League 1
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dvjxm8ghelgl6r6o
 #EXTINF:-1 tvg-id="x7lm7phjdnwwm2w" tvg-name="[18:00-19/07] Thai Nguyen T&T Women - Ho Chi Minh City B Women [BLV Trạng Tồ] - Women's National League" tvg-logo="https://img.sports-data.online/football/team/761b47aa242b8e4a5bf183da184304d7.png" group-title="Tiếu Lâm",[18:00-19/07] Thai Nguyen T&T Women - Ho Chi Minh City B Women [BLV Trạng Tồ] - Women's National League
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dx7lm7phjdnwwm2w
 #EXTINF:-1 tvg-id="3glrw7hn4wjjqdy" tvg-name="[19:00-19/07] Altay FK - FK Aktobe Lento [BLV Trạng Ngố] - Kazakhstan Premier League" tvg-logo="https://img.sports-data.online/football/team/96717524f82fb5d1366bd0d22c485956.png" group-title="Tiếu Lâm",[19:00-19/07] Altay FK - FK Aktobe Lento [BLV Trạng Ngố] - Kazakhstan Premier League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D3glrw7hn4wjjqdy
