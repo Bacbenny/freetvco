@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RXMJnEHqIlFFSZXdSWtz9UAPW8AnjZ-R-XBeRWzNcuI~" tvg-name="[22:00-20/07] TPS Turku - Ilves Tampere [BLV Bón] - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/tps-turku.png" group-title="Giờ Vàng",[22:00-20/07] TPS Turku - Ilves Tampere [BLV Bón] - VĐQG Phần Lan
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DRXMJnEHqIlFFSZXdSWtz9UAPW8AnjZ-R-XBeRWzNcuI~
-#EXTINF:-1 tvg-id="RXMJnEHqIlFFSZXdSWtz9c2hMkAroB0qXVXGw3fK0Lk~" tvg-name="[23:00-20/07] IFK Mariehamn - Lahti - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/ifk-mariehamn.png" group-title="Giờ Vàng",[23:00-20/07] IFK Mariehamn - Lahti - VĐQG Phần Lan
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DRXMJnEHqIlFFSZXdSWtz9c2hMkAroB0qXVXGw3fK0Lk~
 #EXTINF:-1 tvg-id="Fz2-DJOeAEcocsISSDGj7w~~" tvg-name="[23:30-20/07] Rotor Volgograd  - SKA Khabarovsk [BLV Mason] - Russia - FNL" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/NBKG7NeyT8Yewbxdmqzwrg_96x96.png" group-title="Giờ Vàng",[23:30-20/07] Rotor Volgograd  - SKA Khabarovsk [BLV Mason] - Russia - FNL
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DFz2-DJOeAEcocsISSDGj7w~~
+#EXTINF:-1 tvg-id="g46hfOQTPFE5kAKfdKtnkQ~~" tvg-name="[00:00-21/07] Norrby  - GIF Sundsvall [BLV Mát] - Sweden - Superettan" tvg-logo="https://static.flashscore.com/res/image/data/0KwbO1Ca-UTQ3ZLRc.png" group-title="Giờ Vàng",[00:00-21/07] Norrby  - GIF Sundsvall [BLV Mát] - Sweden - Superettan
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dg46hfOQTPFE5kAKfdKtnkQ~~
+#EXTINF:-1 tvg-id="RTGUmHg-ourSrVNhaKwvyw~~" tvg-name="[02:15-21/07] Keflavik  - ÍA [BLV Ngọng] - Iceland - Besta deild karla" tvg-logo="https://static.flashscore.com/res/image/data/vJ8KBvDr-bF7g2MXI.png" group-title="Giờ Vàng",[02:15-21/07] Keflavik  - ÍA [BLV Ngọng] - Iceland - Besta deild karla
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DRTGUmHg-ourSrVNhaKwvyw~~
+#EXTINF:-1 tvg-id="Gpnzmfs7V-RXakqfV2MkNQ~~" tvg-name="[02:15-21/07] FH  - Breidablik [BLV Mason] - Iceland - Besta deild karla" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yIRw7qBR3pRJVmC186si0A_96x96.png" group-title="Giờ Vàng",[02:15-21/07] FH  - Breidablik [BLV Mason] - Iceland - Besta deild karla
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DGpnzmfs7V-RXakqfV2MkNQ~~
+#EXTINF:-1 tvg-id="hwN31IOqnpi0Xi8A_ZPLmA~~" tvg-name="[06:05-21/07] New York Yankees  - Pittsburgh Pỉrates [BLV Cầy] - MLB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/kNiURsT2QKUI_jwkbgwPaw_96x96.png" group-title="Giờ Vàng",[06:05-21/07] New York Yankees  - Pittsburgh Pỉrates [BLV Cầy] - MLB
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DhwN31IOqnpi0Xi8A_ZPLmA~~
+#EXTINF:-1 tvg-id="nZawmqu1HAz6-zCfqI0apw~~" tvg-name="[06:15-21/07] Philadelphia Phillies  - Los Angeles Dodgers [BLV Cận] - MLB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/YrJLwz0NUoMLEC7MWhtfmw_96x96.png" group-title="Giờ Vàng",[06:15-21/07] Philadelphia Phillies  - Los Angeles Dodgers [BLV Cận] - MLB
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DnZawmqu1HAz6-zCfqI0apw~~
 #EXTINF:-1 tvg-id="1mx9fmfdsn5vh51XqNLDqQ~~" tvg-name="[07:00-21/07] Toronto Tempo - Las Vegas Aces [BLV Tôm] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Toronto_Tempo_logo.svg" group-title="Giờ Vàng",[07:00-21/07] Toronto Tempo - Las Vegas Aces [BLV Tôm] - Bóng rổ Women’s National Basketball Association
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D1mx9fmfdsn5vh51XqNLDqQ~~
 #EXTINF:-1 tvg-id="9Mka8kHMJPAqi9Phk6SjwA~~" tvg-name="[07:00-21/07] Dallas Wings - New York Liberty - Bóng rổ Women’s National Basketball Association" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Dallas_Wings_logo.svg" group-title="Giờ Vàng",[07:00-21/07] Dallas Wings - New York Liberty - Bóng rổ Women’s National Basketball Association
@@ -47,18 +47,6 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D-HV66-pMgDf1do05jNfJxg~~
 #EXTINF:-1 tvg-id="d7rAAxmRvaP4yZ1fhaObjQ~~" tvg-name="[17:00-20/07] Abra Weavers - Bacolod Tubo Slashers [BLV Điếc] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1hwf4b6803v.png" group-title="Giờ Vàng",[17:00-20/07] Abra Weavers - Bacolod Tubo Slashers [BLV Điếc] - Bóng rổ Philippines MPBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dd7rAAxmRvaP4yZ1fhaObjQ~~
-#EXTINF:-1 tvg-id="y39mp1h601y7moj" tvg-name="[22:00-20/07] TPS Turku - Ilves Tampere [BLV Trạng Béo] - Finnish Veikkausliiga" tvg-logo="https://img.sports-data.online/football/team/f3aa37eff0023279c42b6e99eecc31d0.png" group-title="Tiếu Lâm",[22:00-20/07] TPS Turku - Ilves Tampere [BLV Trạng Béo] - Finnish Veikkausliiga
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dy39mp1h601y7moj
-#EXTINF:-1 tvg-id="x7lm7phje8x8m2w" tvg-name="[22:30-20/07] Corvinul Hunedoara - FK Csikszereda Miercurea Ciuc [BLV Trạng Tồ] - Romanian Super Liga" tvg-logo="https://img.sports-data.online/football/team/0d34b3c5bdf01947c5d8e3e36cc82962.png" group-title="Tiếu Lâm",[22:30-20/07] Corvinul Hunedoara - FK Csikszereda Miercurea Ciuc [BLV Trạng Tồ] - Romanian Super Liga
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dx7lm7phje8x8m2w
-#EXTINF:-1 tvg-id="l5ergph4j82pr8k" tvg-name="[23:15-20/07] Slavia Sofia - CSKA Sofia [BLV Trạng Ngố] - Bulgarian First League" tvg-logo="https://img.sports-data.online/football/team/e087c9b939975c0cb726253fc3c3e418.png" group-title="Tiếu Lâm",[23:15-20/07] Slavia Sofia - CSKA Sofia [BLV Trạng Ngố] - Bulgarian First League
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dl5ergph4j82pr8k
 #EXTINF:-1 tvg-id="3glrw7hn3j6zqdy" tvg-name="[00:00-21/07] Kalmar - Malmo FF [BLV Trạng Béo] - Sweden Allsvenskan" tvg-logo="https://img.sports-data.online/football/team/7774a1be5a0fb551d44ba25244760edd.png" group-title="Tiếu Lâm",[00:00-21/07] Kalmar - Malmo FF [BLV Trạng Béo] - Sweden Allsvenskan
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D3glrw7hn3j6zqdy
 #EXTINF:-1 tvg-id="n54qllhn614pqvy" tvg-name="[01:30-21/07] FC Rapid 1923 - Sepsi OSK Sfantul Gheorghe [BLV Trạng Ngố] - Romanian Super Liga" tvg-logo="https://img.sports-data.online/football/team/6bb1babe89fffc1f77f25a47db40c847.png" group-title="Tiếu Lâm",[01:30-21/07] FC Rapid 1923 - Sepsi OSK Sfantul Gheorghe [BLV Trạng Ngố] - Romanian Super Liga
