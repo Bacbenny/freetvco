@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vh-U7a3bVT_cfDPzOjom1TXvHHpnN09pBoylFlhfiZA~" tvg-name="[22:00-21/07] Buxoro FK - Kuruvchi Bunyodkor [BLV Cận] - Uzbekistan Super League" tvg-logo="https://images.keovip88.net/images/teams/buxoro-fk.png" group-title="Giờ Vàng",[22:00-21/07] Buxoro FK - Kuruvchi Bunyodkor [BLV Cận] - Uzbekistan Super League
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dvh-U7a3bVT_cfDPzOjom1TXvHHpnN09pBoylFlhfiZA~
-#EXTINF:-1 tvg-id="vh-U7a3bVT_cfDPzOjom1Ts9z7lrmrzVU8turGwNoVM~" tvg-name="[22:00-21/07] Pakhtakor Tashkent - Xorazm Urganch [BLV Mason] - Uzbekistan Super League" tvg-logo="https://images.keovip88.net/images/teams/pakhtakor.png" group-title="Giờ Vàng",[22:00-21/07] Pakhtakor Tashkent - Xorazm Urganch [BLV Mason] - Uzbekistan Super League
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dvh-U7a3bVT_cfDPzOjom1Ts9z7lrmrzVU8turGwNoVM~
-#EXTINF:-1 tvg-id="jSkPLgl9zsUN6zzEUjZHsw~~" tvg-name="[22:00-21/07] Nuclear TigeRES - MOUZ [BLV Tôm] - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/CIaQ0jgl-ClCZIbZT.png" group-title="Giờ Vàng",[22:00-21/07] Nuclear TigeRES - MOUZ [BLV Tôm] - 🎮 BLAST Bounty CS2
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DjSkPLgl9zsUN6zzEUjZHsw~~
-#EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2mThfpyOmAYoEfSnUsAknFE~" tvg-name="[23:00-21/07] FC Ararat Armenia - Shamrock Rovers [BLV Mát] - C1" tvg-logo="https://images.keovip88.net/images/teams/fc-ararat-armenia.png" group-title="Giờ Vàng",[23:00-21/07] FC Ararat Armenia - Shamrock Rovers [BLV Mát] - C1
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2mThfpyOmAYoEfSnUsAknFE~
 #EXTINF:-1 tvg-id="JP3b07BNqlkZIRk3UYWK6zrmK1lprHCYvPTT8v8JHmg~" tvg-name="[01:00-22/07] Fenerbahce - Gornik Zabrze [BLV Ngọng] - C1" tvg-logo="https://images.keovip88.net/images/teams/fenerbahce.png" group-title="Giờ Vàng",[01:00-22/07] Fenerbahce - Gornik Zabrze [BLV Ngọng] - C1
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJP3b07BNqlkZIRk3UYWK6zrmK1lprHCYvPTT8v8JHmg~
 #EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2sMIGcmilrMarWNwH_R63-0~" tvg-name="[02:00-22/07] Vikingur Reykjavik - Hapoel Beer Sheva [BLV Mason] - C1" tvg-logo="https://images.keovip88.net/images/teams/vikingur-reykjavik.png" group-title="Giờ Vàng",[02:00-22/07] Vikingur Reykjavik - Hapoel Beer Sheva [BLV Mason] - C1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2sMIGcmilrMarWNwH_R63-0~
@@ -87,21 +75,13 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DgAf5G9CBpSJ7QNxjtczmZw~~
 #EXTINF:-1 tvg-id="18Fn3kwxnfbg9YY7YydNgQ~~" tvg-name="[06:00-26/07]  Jean - Musaev [BLV Dory] - Võ thuật PFL Washington DC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CIpcqQny0DLfr0-7zE6HrMbe5mOzUU9r3Y_eitGQkA&s=10" group-title="Giờ Vàng",[06:00-26/07]  Jean - Musaev [BLV Dory] - Võ thuật PFL Washington DC
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D18Fn3kwxnfbg9YY7YydNgQ~~
-#EXTINF:-1 tvg-id="-HV66-pMgDf1do05jNfJxg~~" tvg-name="[06:00-20/07] Phoenix Mercury - Connecticut Sun - Bóng rổ Women’s National Basketball Association" tvg-logo="https://nba.titan007.com/files/team/1kne7m1hp6.png" group-title="Giờ Vàng",[06:00-20/07] Phoenix Mercury - Connecticut Sun - Bóng rổ Women’s National Basketball Association
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D-HV66-pMgDf1do05jNfJxg~~
-#EXTINF:-1 tvg-id="d7rAAxmRvaP4yZ1fhaObjQ~~" tvg-name="[17:00-20/07] Abra Weavers - Bacolod Tubo Slashers [BLV Điếc] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1hwf4b6803v.png" group-title="Giờ Vàng",[17:00-20/07] Abra Weavers - Bacolod Tubo Slashers [BLV Điếc] - Bóng rổ Philippines MPBL
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dd7rAAxmRvaP4yZ1fhaObjQ~~
-#EXTINF:-1 tvg-id="8yomo4h138l4q0j" tvg-name="[22:00-21/07] Sogdiana Jizak - Neftchi Fergana [BLV Trạng Tí] - Uzbekistan Super League" tvg-logo="https://img.sports-data.online/football/team/0eff3f54d4407ac2e90783bc6654e657.png" group-title="Tiếu Lâm",[22:00-21/07] Sogdiana Jizak - Neftchi Fergana [BLV Trạng Tí] - Uzbekistan Super League
+#EXTINF:-1 tvg-id="y39mp1h68do9moj" tvg-name="[00:00-22/07] Aarhus AGF - Lech Poznan [BLV Trạng Tí ( Giáo Sư )] - UEFA Champions League" tvg-logo="https://img.sports-data.online/football/team/a0da10be11be5910b71c5ca79af53350.png" group-title="Tiếu Lâm",[00:00-22/07] Aarhus AGF - Lech Poznan [BLV Trạng Tí ( Giáo Sư )] - UEFA Champions League
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D8yomo4h138l4q0j
-#EXTINF:-1 tvg-id="3glrw7hn2ed8qdy" tvg-name="[23:00-21/07] FC Iberia 1999 Tbilisi - Slovan Bratislava [BLV Trạng Ngố] - UEFA Champions League" tvg-logo="https://img.sports-data.online/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png" group-title="Tiếu Lâm",[23:00-21/07] FC Iberia 1999 Tbilisi - Slovan Bratislava [BLV Trạng Ngố] - UEFA Champions League
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D3glrw7hn2ed8qdy
-#EXTINF:-1 tvg-id="y39mp1h68do9moj" tvg-name="[00:00-22/07] Aarhus AGF - Lech Poznan [BLV Trạng Tí] - UEFA Champions League" tvg-logo="https://img.sports-data.online/football/team/a0da10be11be5910b71c5ca79af53350.png" group-title="Tiếu Lâm",[00:00-22/07] Aarhus AGF - Lech Poznan [BLV Trạng Tí] - UEFA Champions League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dy39mp1h68do9moj
 #EXTINF:-1 tvg-id="318q66hxd81nqo9" tvg-name="[01:00-22/07] Fenerbahce - Gornik Zabrze [BLV Trạng Ngố] - UEFA Champions League" tvg-logo="https://img.sports-data.online/football/team/dff00f1fd4a7dd2feac000b462416867.png" group-title="Tiếu Lâm",[01:00-22/07] Fenerbahce - Gornik Zabrze [BLV Trạng Ngố] - UEFA Champions League
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D318q66hxd81nqo9
 #EXTINF:-1 tvg-id="965mkyhkv4kzr1g" tvg-name="[01:00-22/07] Ebbsfleet United - West Ham United [BLV Trạng Ngố] - International Club Friendly" tvg-logo="https://img.sports-data.online/football/team/db57e1deb45381d4ae94ecaa24b4bb7b.png" group-title="Tiếu Lâm",[01:00-22/07] Ebbsfleet United - West Ham United [BLV Trạng Ngố] - International Club Friendly
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D965mkyhkv4kzr1g
