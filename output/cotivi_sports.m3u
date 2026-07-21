@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2qtbTqsjofWyyPNyNQV6hE8~" tvg-name="[02:00-22/07] Larne FC - Crvena Zvezda - C1" tvg-logo="https://images.keovip88.net/images/teams/larne-fc.png" group-title="Giờ Vàng",[02:00-22/07] Larne FC - Crvena Zvezda - C1
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2qtbTqsjofWyyPNyNQV6hE8~
-#EXTINF:-1 tvg-id="JP3b07BNqlkZIRk3UYWK6zrmK1lprHCYvPTT8v8JHmg~" tvg-name="[01:00-22/07] Fenerbahce - Gornik Zabrze [BLV Ngọng] - C1" tvg-logo="https://images.keovip88.net/images/teams/fenerbahce.png" group-title="Giờ Vàng",[01:00-22/07] Fenerbahce - Gornik Zabrze [BLV Ngọng] - C1
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJP3b07BNqlkZIRk3UYWK6zrmK1lprHCYvPTT8v8JHmg~
 #EXTINF:-1 tvg-id="DpPpsh4ieO8omBzM64btM_hB1AE43MmZ3fxOWroNXwE~" tvg-name="[05:30-22/07] Atletico Mineiro - Bahia(BA) - VĐQG Brazil" tvg-logo="https://images.keovip88.net/images/teams/atletico-mineiro.png" group-title="Giờ Vàng",[05:30-22/07] Atletico Mineiro - Bahia(BA) - VĐQG Brazil
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDpPpsh4ieO8omBzM64btM_hB1AE43MmZ3fxOWroNXwE~
-#EXTINF:-1 tvg-id="YCppQXWwjoNxO7XEpdVH_A~~" tvg-name="[05:40-22/07] Philadelphia Phillies - Los Angeles Dodgers [BLV Cầy] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/AcX8PwzB-Ec0dNP82.png" group-title="Giờ Vàng",[05:40-22/07] Philadelphia Phillies - Los Angeles Dodgers [BLV Cầy] - MLB
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DYCppQXWwjoNxO7XEpdVH_A~~
 #EXTINF:-1 tvg-id="dN2FdLrzLKbVJ-5wchhUew~~" tvg-name="[07:00-22/07] Deportivo Pasto - Bogotá [BLV Mát] - Colombia - Copa Colombia" tvg-logo="https://static.flashscore.com/res/image/data/rPpVBxZg-hjn5AE5Q.png" group-title="Giờ Vàng",[07:00-22/07] Deportivo Pasto - Bogotá [BLV Mát] - Colombia - Copa Colombia
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DdN2FdLrzLKbVJ-5wchhUew~~
 #EXTINF:-1 tvg-id="g1AutPcQs3XgdV8ExkDpzw~~" tvg-name="[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia" tvg-logo="https://static.flashscore.com/res/image/data/fySikCAr-hSZHTo4B.png" group-title="Giờ Vàng",[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia
