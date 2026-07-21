@@ -4,6 +4,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDpPpsh4ieO8omBzM64btM_hB1AE43MmZ3fxOWroNXwE~
 #EXTINF:-1 tvg-id="dN2FdLrzLKbVJ-5wchhUew~~" tvg-name="[07:00-22/07] Deportivo Pasto - Bogotá [BLV Mát] - Colombia - Copa Colombia" tvg-logo="https://static.flashscore.com/res/image/data/rPpVBxZg-hjn5AE5Q.png" group-title="Giờ Vàng",[07:00-22/07] Deportivo Pasto - Bogotá [BLV Mát] - Colombia - Copa Colombia
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DdN2FdLrzLKbVJ-5wchhUew~~
 #EXTINF:-1 tvg-id="g1AutPcQs3XgdV8ExkDpzw~~" tvg-name="[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia" tvg-logo="https://static.flashscore.com/res/image/data/fySikCAr-hSZHTo4B.png" group-title="Giờ Vàng",[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dg1AutPcQs3XgdV8ExkDpzw~~
