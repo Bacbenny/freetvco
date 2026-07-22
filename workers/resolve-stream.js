@@ -204,29 +204,28 @@ var resolve_stream_default = {
           );
         }
       }
-      // Mọi path không phải /status → serve M3U playlist từ GitHub
-      // / hoặc /m3u → cotivi_all.m3u (215 kênh, tất cả groups)
-      // /m3u/sports  → cotivi_sports.m3u (55 kênh thể thao)
-      // /m3u/channels → cotivi_channels.m3u (160 kênh tivi)
-      const GH_RAW = "https://raw.githubusercontent.com/Bacbenny/freetvco/main/output/";
-      const fileMap = {
-        "/m3u/sports": "cotivi_sports.m3u",
-        "/m3u/channels": "cotivi_channels.m3u",
+      // Serve M3U playlist from cotivi-m3u edge function (auto-updated, no GitHub Actions)
+      // / or /m3u → all channels + sports
+      // /m3u/sports → sports only
+      // /m3u/channels → channels only
+      const SUPABASE_M3U = "https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/cotivi-m3u";
+      const pathMap = {
+        "/m3u/sports": "/sports",
+        "/m3u/channels": "/channels",
       };
-      const fileName = fileMap[path] || "cotivi_all.m3u";
+      const subPath = pathMap[path] || "";
       try {
-        const ghRes = await fetch(GH_RAW + fileName, {
+        const m3uRes = await fetch(SUPABASE_M3U + subPath, {
           headers: { "User-Agent": "Cloudflare-Worker/1.0" },
-          signal: AbortSignal.timeout(10e3)
+          signal: AbortSignal.timeout(15e3)
         });
-        if (!ghRes.ok) {
+        if (!m3uRes.ok) {
           return new Response(
-            JSON.stringify({ error: `GitHub fetch failed: ${ghRes.status}` }),
+            JSON.stringify({ error: `M3U edge function failed: ${m3uRes.status}` }),
             { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
           );
         }
-        let m3uText = await ghRes.text();
-        // Thêm #EXTM3U header nếu thiếu
+        let m3uText = await m3uRes.text();
         if (!m3uText.startsWith("#EXTM3U")) {
           m3uText = "#EXTM3U\n" + m3uText;
         }

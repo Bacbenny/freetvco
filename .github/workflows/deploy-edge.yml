@@ -27,3 +27,11 @@ jobs:
           supabase functions deploy resolve-stream \
             --project-ref isokhcqqlbdwkfkttvki \
             --no-verify-jwt
+
+      - name: Deploy cotivi-m3u
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+        run: |
+          supabase functions deploy cotivi-m3u \
+            --project-ref isokhcqqlbdwkfkttvki \
+            --no-verify-jwt
