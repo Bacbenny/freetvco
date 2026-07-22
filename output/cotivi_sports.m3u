@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DpPpsh4ieO8omBzM64btM_hB1AE43MmZ3fxOWroNXwE~" tvg-name="[05:30-22/07] Atletico Mineiro - Bahia(BA) - VĐQG Brazil" tvg-logo="https://images.keovip88.net/images/teams/atletico-mineiro.png" group-title="Giờ Vàng",[05:30-22/07] Atletico Mineiro - Bahia(BA) - VĐQG Brazil
+#EXTINF:-1 tvg-id="Jcs37LQSHbq-aUDiDWm_1A~~" tvg-name="[08:30-22/07] Calgary Surge - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL" tvg-logo="https://nba.titan007.com/files/team/1j3hdf8m2m12.png" group-title="Giờ Vàng",[08:30-22/07] Calgary Surge - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDpPpsh4ieO8omBzM64btM_hB1AE43MmZ3fxOWroNXwE~
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJcs37LQSHbq-aUDiDWm_1A~~
+#EXTINF:-1 tvg-id="g1AutPcQs3XgdV8ExkDpzw~~" tvg-name="[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia" tvg-logo="https://static.flashscore.com/res/image/data/fySikCAr-hSZHTo4B.png" group-title="Giờ Vàng",[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dg1AutPcQs3XgdV8ExkDpzw~~
+#EXTINF:-1 tvg-id="DpPpsh4ieO8omBzM64btM0hhEKTmIl5XDGOHFOo1JPw~" tvg-name="[08:00-22/07] Cruz Azul - Puebla [BLV Bón] - Mexico Liga MX" tvg-logo="https://images.keovip88.net/images/teams/cdsyc-cruz-azul.png" group-title="Giờ Vàng",[08:00-22/07] Cruz Azul - Puebla [BLV Bón] - Mexico Liga MX
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDpPpsh4ieO8omBzM64btM0hhEKTmIl5XDGOHFOo1JPw~
 #EXTINF:-1 tvg-id="dN2FdLrzLKbVJ-5wchhUew~~" tvg-name="[07:00-22/07] Deportivo Pasto - Bogotá [BLV Mát] - Colombia - Copa Colombia" tvg-logo="https://static.flashscore.com/res/image/data/rPpVBxZg-hjn5AE5Q.png" group-title="Giờ Vàng",[07:00-22/07] Deportivo Pasto - Bogotá [BLV Mát] - Colombia - Copa Colombia
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DdN2FdLrzLKbVJ-5wchhUew~~
-#EXTINF:-1 tvg-id="g1AutPcQs3XgdV8ExkDpzw~~" tvg-name="[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia" tvg-logo="https://static.flashscore.com/res/image/data/fySikCAr-hSZHTo4B.png" group-title="Giờ Vàng",[07:30-22/07] América de Cali - Real Cartagena - Colombia - Copa Colombia
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dg1AutPcQs3XgdV8ExkDpzw~~
-#EXTINF:-1 tvg-id="DpPpsh4ieO8omBzM64btM0hhEKTmIl5XDGOHFOo1JPw~" tvg-name="[08:00-22/07] Cruz Azul - Puebla [BLV Bón] - Mexico Liga MX" tvg-logo="https://images.keovip88.net/images/teams/cdsyc-cruz-azul.png" group-title="Giờ Vàng",[08:00-22/07] Cruz Azul - Puebla [BLV Bón] - Mexico Liga MX
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDpPpsh4ieO8omBzM64btM0hhEKTmIl5XDGOHFOo1JPw~
-#EXTINF:-1 tvg-id="Jcs37LQSHbq-aUDiDWm_1A~~" tvg-name="[08:30-22/07] Calgary Surge - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL" tvg-logo="https://nba.titan007.com/files/team/1j3hdf8m2m12.png" group-title="Giờ Vàng",[08:30-22/07] Calgary Surge - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJcs37LQSHbq-aUDiDWm_1A~~
 #EXTINF:-1 tvg-id="3eZG4Wui9XVXmLRi44bNuQ~~" tvg-name="[08:30-22/07] Saskatoon Mamba - Edmonton Stingers [BLV Cầy] - Bóng rổ Canada EBL" tvg-logo="https://nba.titan007.com/files/team/1kv4ekgdxpv.png" group-title="Giờ Vàng",[08:30-22/07] Saskatoon Mamba - Edmonton Stingers [BLV Cầy] - Bóng rổ Canada EBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D3eZG4Wui9XVXmLRi44bNuQ~~
 #EXTINF:-1 tvg-id="8eOGPuppDfneJaFARwKZrA~~" tvg-name="[08:40-22/07] Seattle Mariners - Cincinnati Reds [BLV Ngu] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/YPyyksFG-CrchK1NQ.png" group-title="Giờ Vàng",[08:40-22/07] Seattle Mariners - Cincinnati Reds [BLV Ngu] - MLB
@@ -70,6 +72,8 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTINF:-1 tvg-id="18Fn3kwxnfbg9YY7YydNgQ~~" tvg-name="[06:00-26/07]  Jean - Musaev [BLV Dory] - Võ thuật PFL Washington DC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CIpcqQny0DLfr0-7zE6HrMbe5mOzUU9r3Y_eitGQkA&s=10" group-title="Giờ Vàng",[06:00-26/07]  Jean - Musaev [BLV Dory] - Võ thuật PFL Washington DC
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D18Fn3kwxnfbg9YY7YydNgQ~~
 #EXTINF:-1 tvg-id="l5ergph4jy91r8k" tvg-name="[08:00-22/07] Cruz Azul - Puebla [BLV Trạng Tèo] - Mexico Liga MX" tvg-logo="https://img.sports-data.online/football/team/2addd50487c8f61276d5fff8714f6a5c.png" group-title="Tiếu Lâm",[08:00-22/07] Cruz Azul - Puebla [BLV Trạng Tèo] - Mexico Liga MX
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dl5ergph4jy91r8k
 #EXTINF:-1 tvg-id="9602ff8569834fa58ec6568a7672d39a" tvg-name="[15:00-22/07] Italy Women - Netherlands Women [BLV Trạng Tèo] - Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/0IAL5Rkl-xCsenx2O.png" group-title="Tiếu Lâm",[15:00-22/07] Italy Women - Netherlands Women [BLV Trạng Tèo] - Nations League Women
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D9602ff8569834fa58ec6568a7672d39a
