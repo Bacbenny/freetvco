@@ -144,8 +144,6 @@ function bytesToBase64(bytes) {
 }
 __name(bytesToBase64, "bytesToBase64");
 
-// FIX 1: firtTime -> firstTime (typo sửa)
-// FIX 2: nhận req để lấy IP thực của client thay vì IP edge Cloudflare
 async function makeCoSignature(ipData) {
   const ts = String(Date.now());
   const payload = JSON.stringify({ ipData, firstTime: ts, lastTime: ts });
@@ -153,8 +151,6 @@ async function makeCoSignature(ipData) {
 }
 __name(makeCoSignature, "makeCoSignature");
 
-// FIX 2: getIpData nhận req, lấy CF-Connecting-IP thực của client
-// không gọi ipinfo.io từ edge server (sẽ trả về IP datacenter Cloudflare)
 function getIpData(req) {
   const ip = req.headers.get("CF-Connecting-IP") || req.headers.get("X-Forwarded-For")?.split(",")[0]?.trim() || "";
   const cf = req.cf || {};
@@ -170,7 +166,6 @@ function getIpData(req) {
 }
 __name(getIpData, "getIpData");
 
-// FIX 3: extractStreamUrl - bỏ qua các dòng # (metadata, EXT-X-KEY, v.v.)
 function extractStreamUrl(text) {
   for (const line of text.split("\n")) {
     const t = line.trim();
@@ -182,7 +177,6 @@ function extractStreamUrl(text) {
 __name(extractStreamUrl, "extractStreamUrl");
 
 var resolve_stream_default = {
-  // FIX 7: thêm env, ctx theo đúng chuẩn Cloudflare Worker
   async fetch(req, env, ctx) {
     if (req.method === "OPTIONS")
       return new Response(null, { status: 200, headers: corsHeaders });
@@ -272,7 +266,6 @@ var resolve_stream_default = {
     }
     if (parsedUrl.hostname === "rd.locket.top") {
       try {
-        // FIX 2: truyền req vào getIpData để lấy IP thực của client
         const ipData = getIpData(req);
         const sig = await makeCoSignature(ipData);
         const r = await fetch(fetchApi, {
@@ -289,7 +282,6 @@ var resolve_stream_default = {
             { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
           );
         }
-        // FIX 3: dùng extractStreamUrl thay vì lấy dòng https:// đầu tiên bừa bãi
         const streamUrl = extractStreamUrl(text);
         if (!streamUrl)
           return new Response(JSON.stringify({ error: "No stream URL in playlist" }), {
@@ -312,9 +304,6 @@ var resolve_stream_default = {
         headers: { "User-Agent": "C\xF2 Ti Vi/1.1.7" },
         signal: AbortSignal.timeout(1e4)
       });
-      // FIX 4: kiểm tra Content-Type trước khi parse JSON
-      // tránh crash khi pay.locket.top trả về HTML lỗi hoặc rate-limit
-      const ct = r.headers.get("content-type") || "";
       let data;
       try {
         data = await r.json();
@@ -375,7 +364,6 @@ var resolve_stream_default = {
           } catch {
           }
         }
-        // FIX 5: proxyMode - tất cả backup đều fail -> báo lỗi rõ ràng thay vì redirect bừa
         return new Response(
           JSON.stringify({ error: "Proxy mode: all backup streams failed", tried: backups.length }),
           { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
