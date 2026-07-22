@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DpPpsh4ieO8omBzM64btMzNtM4S-Zs98o8mEN5W4C0M~" tvg-name="[10:00-22/07] Toluca - Pumas UNAM - Mexico Liga MX" tvg-logo="https://images.keovip88.net/images/teams/toluca.png" group-title="Giờ Vàng",[10:00-22/07] Toluca - Pumas UNAM - Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDpPpsh4ieO8omBzM64btMzNtM4S-Zs98o8mEN5W4C0M~
-#EXTINF:-1 tvg-id="8eOGPuppDfneJaFARwKZrA~~" tvg-name="[08:40-22/07] Seattle Mariners - Cincinnati Reds [BLV Ngu] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/YPyyksFG-CrchK1NQ.png" group-title="Giờ Vàng",[08:40-22/07] Seattle Mariners - Cincinnati Reds [BLV Ngu] - MLB
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D8eOGPuppDfneJaFARwKZrA~~
 #EXTINF:-1 tvg-id="BBaIaY7WEu4yOM5X0PELIA~~" tvg-name="[14:00-22/07] Whai - Otago Nuggets - Bóng rổ National Basketball League (New Zealand)" tvg-logo="https://nba.titan007.com/files/team/1hs0gj835s6.png" group-title="Giờ Vàng",[14:00-22/07] Whai - Otago Nuggets - Bóng rổ National Basketball League (New Zealand)
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DBBaIaY7WEu4yOM5X0PELIA~~
 #EXTINF:-1 tvg-id="nwvWg74x0venS2y-ykMhUA~~" tvg-name="[15:00-22/07] Negros Muscovados - Pasay Voyagers [BLV Điếc] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1hb5nde0rd28.png" group-title="Giờ Vàng",[15:00-22/07] Negros Muscovados - Pasay Voyagers [BLV Điếc] - Bóng rổ Philippines MPBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DnwvWg74x0venS2y-ykMhUA~~
@@ -31,6 +25,8 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DuoUsgKhHSY9GZ1Ap-IiBAw~~
 #EXTINF:-1 tvg-id="PffqquD6Ui9BBmDBHWWaZQ~~" tvg-name="[19:30-22/07] Nemiga Gaming - G2 Esports - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/fLXVyqf5-SOj0goeQ.png" group-title="Giờ Vàng",[19:30-22/07] Nemiga Gaming - G2 Esports - 🎮 BLAST Bounty CS2
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DPffqquD6Ui9BBmDBHWWaZQ~~
+#EXTINF:-1 tvg-id="rQOlUbP7E0IKHMhA4UWx2kDasqt_p9UjYQ_WKKrVsA4~" tvg-name="[23:00-22/07] Tottenham Hotspur - Milton Keynes Dons - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/tottenham-hotspur.png" group-title="Giờ Vàng",[23:00-22/07] Tottenham Hotspur - Milton Keynes Dons - Giao hữu
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DrQOlUbP7E0IKHMhA4UWx2kDasqt_p9UjYQ_WKKrVsA4~
 #EXTINF:-1 tvg-id="urBCuc7LEF5DrfE72lYHWw~~" tvg-name="[15:00-24/07] RRQ - ZETA [BLV Điếc] - 🎮 VCT Pacific" tvg-logo="https://static.gosugamers.net/a4/57/f1/b48d1286e62784f5cf6cc38d9575160c866a230b537fa3632b566807f0.png?w=96" group-title="Giờ Vàng",[15:00-24/07] RRQ - ZETA [BLV Điếc] - 🎮 VCT Pacific
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DurBCuc7LEF5DrfE72lYHWw~~
 #EXTINF:-1 tvg-id="T-_w8_VSKL3vQAqMscDuxdOtAwVsxWSAekZ3BoCHs9A~" tvg-name="[16:30-24/07] Green Gully Cavaliers - Dandenong City SC [BLV Bón] - NPL Victoria Úc" tvg-logo="https://images.keovip88.net/images/teams/green-gully-cavaliers.png" group-title="Giờ Vàng",[16:30-24/07] Green Gully Cavaliers - Dandenong City SC [BLV Bón] - NPL Victoria Úc
