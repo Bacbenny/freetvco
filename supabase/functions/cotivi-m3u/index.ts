@@ -1,6 +1,8 @@
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
-import { createClient } from "jsr:@supabase/supabase-js@2";
 import aesJs from "npm:aes-js@3.1.2";
+
+const SUPABASE_URL = Deno.env.get("SUPABASE_URL")!;
+const SUPABASE_SERVICE_KEY = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const API_BASE = "https://api.cotivi.site";
@@ -10,7 +12,7 @@ const CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
 const CHANNELS_KEY = new TextEncoder().encode("6677150266771502cotivichatvkl321");
 const SPORTS_KEY = new TextEncoder().encode("6677150266771502cotivichatvkl999");
 
-const EDGE_FUNCTION_URL = Deno.env.get("SUPABASE_URL") + "/functions/v1/resolve-stream";
+const EDGE_FUNCTION_URL = `${SUPABASE_URL}/functions/v1/resolve-stream`;
 
 const REALTIME_GROUPS = new Set(["Giờ Vàng", "Tiếu Lâm"]);
 
@@ -270,28 +272,32 @@ function reorderGroups(lines: string[]): string[] {
   return ordered;
 }
 
-// ── Cache helpers ─────────────────────────────────────────────────────────────
-function getSupabase() {
-  return createClient(
-    Deno.env.get("SUPABASE_URL")!,
-    Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!
-  );
+// ── Cache helpers (raw PostgREST — no supabase-js dependency) ──────────────────
+async function getCached(id: string): Promise<{ content: string; channel_count: number; updated_at: string } | null> {
+  const r = await fetch(`${SUPABASE_URL}/rest/v1/m3u_cache?id=eq.${encodeURIComponent(id)}&select=content,channel_count,updated_at`, {
+    headers: {
+      "apikey": SUPABASE_SERVICE_KEY,
+      "Authorization": `Bearer ${SUPABASE_SERVICE_KEY}`,
+    },
+    signal: AbortSignal.timeout(5000),
+  });
+  if (!r.ok) return null;
+  const rows = await r.json() as Array<{ content: string; channel_count: number; updated_at: string }>;
+  return rows.length > 0 ? rows[0] : null;
 }
 
-async function getCached(supabase: ReturnType<typeof getSupabase>, id: string): Promise<{ content: string; channel_count: number; updated_at: string } | null> {
-  const { data, error } = await supabase
-    .from("m3u_cache")
-    .select("content, channel_count, updated_at")
-    .eq("id", id)
-    .maybeSingle();
-  if (error || !data) return null;
-  return data;
-}
-
-async function setCached(supabase: ReturnType<typeof getSupabase>, id: string, content: string, count: number): Promise<void> {
-  await supabase
-    .from("m3u_cache")
-    .upsert({ id, content, channel_count: count, updated_at: new Date().toISOString() });
+async function setCached(id: string, content: string, count: number): Promise<void> {
+  await fetch(`${SUPABASE_URL}/rest/v1/m3u_cache`, {
+    method: "POST",
+    headers: {
+      "apikey": SUPABASE_SERVICE_KEY,
+      "Authorization": `Bearer ${SUPABASE_SERVICE_KEY}`,
+      "Content-Type": "application/json",
+      "Prefer": "resolution=merge-duplicates,return=minimal",
+    },
+    body: JSON.stringify({ id, content, channel_count: count, updated_at: new Date().toISOString() }),
+    signal: AbortSignal.timeout(5000),
+  });
 }
 
 // ── Main handler ─────────────────────────────────────────────────────────────
@@ -310,11 +316,9 @@ Deno.serve(async (req: Request) => {
   else if (path.endsWith("/sports")) playlistId = "sports";
 
   try {
-    const supabase = getSupabase();
-
     // Check cache (unless force refresh)
     if (!force) {
-      const cached = await getCached(supabase, playlistId);
+      const cached = await getCached(playlistId);
       if (cached) {
         const age = Date.now() - new Date(cached.updated_at).getTime();
         if (age < CACHE_TTL_MS) {
@@ -346,7 +350,7 @@ Deno.serve(async (req: Request) => {
 
     if (!channelsData && !sportsData) {
       // Return stale cache if available
-      const stale = await getCached(supabase, playlistId);
+      const stale = await getCached(playlistId);
       if (stale) {
         return new Response(stale.content, {
           status: 200,
@@ -410,7 +414,7 @@ Deno.serve(async (req: Request) => {
     }
 
     if (count === 0) {
-      const stale = await getCached(supabase, playlistId);
+      const stale = await getCached(playlistId);
       if (stale) {
         return new Response(stale.content, {
           status: 200,
@@ -429,7 +433,7 @@ Deno.serve(async (req: Request) => {
     }
 
     // Save to cache
-    await setCached(supabase, playlistId, m3uContent, count);
+    await setCached(playlistId, m3uContent, count);
 
     return new Response(m3uContent, {
       status: 200,
