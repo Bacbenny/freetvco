@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="uoUsgKhHSY9GZ1Ap-IiBAw~~" tvg-name="[19:00-22/07] Bulacan Kuyas - Quezon Huskers [BLV Lẹo] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1jqrcc7jan1d.png" group-title="Giờ Vàng",[19:00-22/07] Bulacan Kuyas - Quezon Huskers [BLV Lẹo] - Bóng rổ Philippines MPBL
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DuoUsgKhHSY9GZ1Ap-IiBAw~~
-#EXTINF:-1 tvg-id="Ggs6rj42s_eCJ5wbqpBP1Q~~" tvg-name="[18:30-22/07] Nhật - Brazil [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/Crg4NaGG-ALs6yNah.png" group-title="Giờ Vàng",[18:30-22/07] Nhật - Brazil [BLV Sún] - Bóng chuyền Nations League Women
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DGgs6rj42s_eCJ5wbqpBP1Q~~
 #EXTINF:-1 tvg-id="PffqquD6Ui9BBmDBHWWaZQ~~" tvg-name="[19:30-22/07] Nemiga Gaming - G2 Esports - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/fLXVyqf5-SOj0goeQ.png" group-title="Giờ Vàng",[19:30-22/07] Nemiga Gaming - G2 Esports - 🎮 BLAST Bounty CS2
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DPffqquD6Ui9BBmDBHWWaZQ~~
 #EXTINF:-1 tvg-id="oiEovtV9vzqvK9flbvS9vA~~" tvg-name="[22:00-22/07] HOTU  - GamerLegion [BLV Tôm] - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/Mw6QYtf5-CzF8RJLl.png" group-title="Giờ Vàng",[22:00-22/07] HOTU  - GamerLegion [BLV Tôm] - 🎮 BLAST Bounty CS2
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DoiEovtV9vzqvK9flbvS9vA~~
 #EXTINF:-1 tvg-id="rQOlUbP7E0IKHMhA4UWx2kDasqt_p9UjYQ_WKKrVsA4~" tvg-name="[23:00-22/07] Tottenham Hotspur - Milton Keynes Dons - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/tottenham-hotspur.png" group-title="Giờ Vàng",[23:00-22/07] Tottenham Hotspur - Milton Keynes Dons - Giao hữu
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DrQOlUbP7E0IKHMhA4UWx2kDasqt_p9UjYQ_WKKrVsA4~
@@ -65,11 +59,9 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dl-yUzPa171PYcG4WwfkMSQ~~
 #EXTINF:-1 tvg-id="ENx5y6UiFTyJpEhkMDutNQ~~" tvg-name="[22:00-26/07] Thoiry - Paris Champs-Élysées [BLV Ngu] - 🎮 Tour de France" tvg-logo="https://xedapgiakho.com/wp-content/uploads/2026/06/lich-thi-dau-tour-de-france-2026-duoc-cong-bo.jpg" group-title="Giờ Vàng",[22:00-26/07] Thoiry - Paris Champs-Élysées [BLV Ngu] - 🎮 Tour de France
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DENx5y6UiFTyJpEhkMDutNQ~~
-#EXTINF:-1 tvg-id="eebed717fdb040b79386c4b98ff9e82a" tvg-name="[18:30-22/07] Brazil Women - Japan Women [BLV Trạng Ngố] - Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/WG7ZbYdM-dlhXsxTS.png" group-title="Tiếu Lâm",[18:30-22/07] Brazil Women - Japan Women [BLV Trạng Ngố] - Nations League Women
+#EXTINF:-1 tvg-id="8yomo4h1pkywq0j" tvg-name="[23:00-22/07] Tottenham Hotspur - Milton Keynes Dons [BLV Trạng Tồ] - International Club Friendly" tvg-logo="https://img.sports-data.online/football/team/8b22ab4041e666b996a2d96f20dea707.png" group-title="Tiếu Lâm",[23:00-22/07] Tottenham Hotspur - Milton Keynes Dons [BLV Trạng Tồ] - International Club Friendly
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Deebed717fdb040b79386c4b98ff9e82a
-#EXTINF:-1 tvg-id="8yomo4h1pkywq0j" tvg-name="[22:00-22/07] Tottenham Hotspur - Milton Keynes Dons [BLV Trạng Tồ] - International Club Friendly" tvg-logo="https://img.sports-data.online/football/team/8b22ab4041e666b996a2d96f20dea707.png" group-title="Tiếu Lâm",[22:00-22/07] Tottenham Hotspur - Milton Keynes Dons [BLV Trạng Tồ] - International Club Friendly
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D8yomo4h1pkywq0j
 #EXTINF:-1 tvg-id="l5ergph413djr8k" tvg-name="[00:00-23/07] Fiorentina - Gubbio [BLV Trạng Tí] - International Club Friendly" tvg-logo="https://img.sports-data.online/football/team/858d87ded0cce014bae0c9681af48524.png" group-title="Tiếu Lâm",[00:00-23/07] Fiorentina - Gubbio [BLV Trạng Tí] - International Club Friendly
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dl5ergph413djr8k
