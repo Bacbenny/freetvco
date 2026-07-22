@@ -1,6 +1,6 @@
-// dekiiptv95 — v1.1.4
-// Fixes: remove SCTV Test + Thử Nghiệm, move Lạng Sơn to Địa Phương,
-//        new title format for Giờ Vàng & Tiếu Lâm, proxy TV360 streams
+// dekiiptv95 — v1.1.5
+// Fixes: merge "Địa phương" + "Địa Phương" into one group,
+//        fix HTV streams by handling rd.locket.top 302 redirects with redirect:manual
 
 var API_BASE = "https://api.cotivi.site";
 var VERSION = "1.1.2";
@@ -20,7 +20,7 @@ var GROUP_CONFIG = [
   ["HTV", ["HTV"]],
   ["In The Box", ["In The Box"]],
   ["Nước Ngoài", ["Nước Ngoài"]],
-  ["Địa Phương", ["Địa Phương", "THVL"]],
+  ["Địa Phương", ["Địa Phương", "Địa phương", "THVL"]],
   ["Sự Kiện VTVPrime", ["Sự Kiện VTVPrime"]],
   ["Sự Kiện TV360", ["Sự Kiện TV360"]]
 ];
@@ -520,16 +520,24 @@ async function resolveStream(reqUrl) {
   if (parsedUrl.hostname === "rd.locket.top") {
     try {
       const sig = await makeCoSignature();
-      const r = await fetch(fetchApi, { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", "co-signature": sig } });
-      const text = await r.text();
-      if (!r.ok || !text.includes("#EXTM3U")) return new Response(JSON.stringify({ error: `Upstream error: ${r.status}` }), { status: 502, headers: { ...CORS, "Content-Type": "application/json" } });
-      let streamUrl = "";
-      for (const line of text.split("\n")) {
-        const tr = line.trim();
-        if (tr.startsWith("https://")) { streamUrl = tr; break; }
+      const r = await fetch(fetchApi, { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", "co-signature": sig }, redirect: "manual" });
+      if (r.status === 302 || r.status === 301) {
+        const location = r.headers.get("location");
+        if (location) return Response.redirect(location, 302);
       }
-      if (!streamUrl) return new Response(JSON.stringify({ error: "No stream URL" }), { status: 404, headers: { ...CORS, "Content-Type": "application/json" } });
-      return Response.redirect(streamUrl, 302);
+      if (r.ok) {
+        const text = await r.text();
+        if (text.includes("#EXTM3U")) {
+          let streamUrl = "";
+          for (const line of text.split("\n")) {
+            const tr = line.trim();
+            if (tr.startsWith("https://")) { streamUrl = tr; break; }
+          }
+          if (streamUrl) return Response.redirect(streamUrl, 302);
+          return new Response(text, { status: 200, headers: { ...CORS, "Content-Type": "application/vnd.apple.mpegurl" } });
+        }
+      }
+      return new Response(JSON.stringify({ error: `Upstream error: ${r.status}` }), { status: 502, headers: { ...CORS, "Content-Type": "application/json" } });
     } catch (e) {
       return new Response(JSON.stringify({ error: String(e) }), { status: 502, headers: { ...CORS, "Content-Type": "application/json" } });
     }
@@ -594,7 +602,7 @@ export default {
       try {
         const r = await fetch(`${API_BASE}/api/Channels?version=${VERSION}`, { headers: { "User-Agent": "Cò TiVi/1.1.7" } });
         const kvOk = !!env.M3U_CACHE;
-        return new Response(JSON.stringify({ ok: r.ok, upstream_status: r.status, kv_bound: kvOk, version: "1.1.4" }, null, 2), { status: 200, headers: { ...CORS, "Content-Type": "application/json" } });
+        return new Response(JSON.stringify({ ok: r.ok, upstream_status: r.status, kv_bound: kvOk, version: "1.1.5" }, null, 2), { status: 200, headers: { ...CORS, "Content-Type": "application/json" } });
       } catch (e) {
         return new Response(JSON.stringify({ ok: false, error: String(e) }, null, 2), { status: 502, headers: { ...CORS, "Content-Type": "application/json" } });
       }
