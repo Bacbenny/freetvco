@@ -204,11 +204,11 @@ var resolve_stream_default = {
           );
         }
       }
-      // Serve M3U playlist from cotivi-m3u edge function (auto-updated, no GitHub Actions)
+      // Serve M3U playlist from resolve-stream edge function /m3u route (auto-updated, no GitHub Actions)
       // / or /m3u → all channels + sports
       // /m3u/sports → sports only
       // /m3u/channels → channels only
-      const SUPABASE_M3U = "https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/cotivi-m3u";
+      const SUPABASE_M3U = "https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream/m3u";
       const pathMap = {
         "/m3u/sports": "/sports",
         "/m3u/channels": "/channels",
