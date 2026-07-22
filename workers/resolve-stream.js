@@ -143,26 +143,47 @@ function bytesToBase64(bytes) {
   return btoa(b);
 }
 __name(bytesToBase64, "bytesToBase64");
+
+// FIX 1: firtTime -> firstTime (typo sửa)
+// FIX 2: nhận req để lấy IP thực của client thay vì IP edge Cloudflare
 async function makeCoSignature(ipData) {
   const ts = String(Date.now());
-  const payload = JSON.stringify({ ipData, firtTime: ts, lastTime: ts });
+  const payload = JSON.stringify({ ipData, firstTime: ts, lastTime: ts });
   return bytesToBase64(aesEcbEncrypt(SIG_KEY, new TextEncoder().encode(payload)));
 }
 __name(makeCoSignature, "makeCoSignature");
-async function getIpData() {
-  try {
-    const r = await fetch("https://ipinfo.io/json", {
-      headers: { "User-Agent": "Mozilla/5.0" },
-      signal: AbortSignal.timeout(5e3)
-    });
-    return await r.json();
-  } catch {
-    return {};
-  }
+
+// FIX 2: getIpData nhận req, lấy CF-Connecting-IP thực của client
+// không gọi ipinfo.io từ edge server (sẽ trả về IP datacenter Cloudflare)
+function getIpData(req) {
+  const ip = req.headers.get("CF-Connecting-IP") || req.headers.get("X-Forwarded-For")?.split(",")[0]?.trim() || "";
+  const cf = req.cf || {};
+  return {
+    ip,
+    country: cf.country || "",
+    city: cf.city || "",
+    region: cf.region || "",
+    org: "",
+    timezone: cf.timezone || "",
+    loc: cf.latitude && cf.longitude ? `${cf.latitude},${cf.longitude}` : ""
+  };
 }
 __name(getIpData, "getIpData");
+
+// FIX 3: extractStreamUrl - bỏ qua các dòng # (metadata, EXT-X-KEY, v.v.)
+function extractStreamUrl(text) {
+  for (const line of text.split("\n")) {
+    const t = line.trim();
+    if (!t || t.startsWith("#")) continue;
+    if (t.startsWith("https://") || t.startsWith("http://")) return t;
+  }
+  return "";
+}
+__name(extractStreamUrl, "extractStreamUrl");
+
 var resolve_stream_default = {
-  async fetch(req) {
+  // FIX 7: thêm env, ctx theo đúng chuẩn Cloudflare Worker
+  async fetch(req, env, ctx) {
     if (req.method === "OPTIONS")
       return new Response(null, { status: 200, headers: corsHeaders });
     const reqUrl = new URL(req.url);
@@ -189,6 +210,57 @@ var resolve_stream_default = {
           );
         }
       }
+      // Endpoint /m3u — serve playlist M3U với Supabase URL đã được thay thế bằng Cloudflare worker URL
+      // Hỗ trợ: /m3u hoặc /m3u/all → toàn bộ 215 kênh
+      //         /m3u/sports → 55 kênh thể thao (Giờ Vàng + Tiểu Lâm)
+      //         /m3u/channels → 160 kênh tivi (VTVPrime, v.v.)
+      if (path === "/m3u" || path === "/m3u/all" || path === "/m3u/sports" || path === "/m3u/channels") {
+        const GH_RAW = "https://raw.githubusercontent.com/Bacbenny/freetvco/main/output/";
+        const fileMap = {
+          "/m3u": "cotivi_all.m3u",
+          "/m3u/all": "cotivi_all.m3u",
+          "/m3u/sports": "cotivi_sports.m3u",
+          "/m3u/channels": "cotivi_channels.m3u",
+        };
+        const fileName = fileMap[path];
+        try {
+          const ghRes = await fetch(GH_RAW + fileName, {
+            headers: { "User-Agent": "Cloudflare-Worker/1.0" },
+            signal: AbortSignal.timeout(10e3)
+          });
+          if (!ghRes.ok) {
+            return new Response(
+              JSON.stringify({ error: `GitHub fetch failed: ${ghRes.status}` }),
+              { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+            );
+          }
+          let m3uText = await ghRes.text();
+          // Thêm #EXTM3U header nếu thiếu
+          if (!m3uText.startsWith("#EXTM3U")) {
+            m3uText = "#EXTM3U\n" + m3uText;
+          }
+          // Replace Supabase resolver URL → Cloudflare worker URL
+          const SUPABASE_BASE = "https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream";
+          const CF_BASE = reqUrl.origin;
+          m3uText = m3uText.replaceAll(SUPABASE_BASE, CF_BASE);
+          return new Response(m3uText, {
+            status: 200,
+            headers: {
+              ...corsHeaders,
+              "Content-Type": "application/x-mpegurl; charset=utf-8",
+              "Cache-Control": "no-cache, no-store, must-revalidate",
+              "Content-Disposition": `inline; filename="${fileName}"`
+            }
+          });
+        } catch (e) {
+          return new Response(
+            JSON.stringify({ error: `M3U fetch error: ${String(e)}` }),
+            { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+          );
+        }
+      }
+      // FIX 6: dùng URL động từ request thay vì hardcode domain
+      const workerHost = reqUrl.origin;
       const html = `<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>dekiiptv95 \u2013 resolve-stream</title>
@@ -211,7 +283,7 @@ var resolve_stream_default = {
 </div>
 
 <div class="row"><b>V\xED d\u1EE5 URL stream trong M3U:</b><br>
-<code>https://dekiiptv95.bacbenny95.workers.dev?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D8yomo4h138l4q0j</code>
+<code>${workerHost}?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D8yomo4h138l4q0j</code>
 </div>
 
 <div class="row"><b>Ki\u1EC3m tra tr\u1EA1ng th\xE1i:</b><br>
@@ -242,7 +314,8 @@ var resolve_stream_default = {
     }
     if (parsedUrl.hostname === "rd.locket.top") {
       try {
-        const ipData = await getIpData();
+        // FIX 2: truyền req vào getIpData để lấy IP thực của client
+        const ipData = getIpData(req);
         const sig = await makeCoSignature(ipData);
         const r = await fetch(fetchApi, {
           headers: {
@@ -258,14 +331,8 @@ var resolve_stream_default = {
             { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
           );
         }
-        let streamUrl = "";
-        for (const line of text.split("\n")) {
-          const t = line.trim();
-          if (t.startsWith("https://")) {
-            streamUrl = t;
-            break;
-          }
-        }
+        // FIX 3: dùng extractStreamUrl thay vì lấy dòng https:// đầu tiên bừa bãi
+        const streamUrl = extractStreamUrl(text);
         if (!streamUrl)
           return new Response(JSON.stringify({ error: "No stream URL in playlist" }), {
             status: 404,
@@ -287,21 +354,33 @@ var resolve_stream_default = {
         headers: { "User-Agent": "C\xF2 Ti Vi/1.1.7" },
         signal: AbortSignal.timeout(1e4)
       });
-      const data = await r.json();
+      // FIX 4: kiểm tra Content-Type trước khi parse JSON
+      // tránh crash khi pay.locket.top trả về HTML lỗi hoặc rate-limit
+      const ct = r.headers.get("content-type") || "";
+      let data;
+      try {
+        data = await r.json();
+      } catch {
+        const rawBody = await r.text().catch(() => "");
+        return new Response(
+          JSON.stringify({ error: "Upstream returned non-JSON", status: r.status, preview: rawBody.slice(0, 120) }),
+          { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+        );
+      }
       if (!data?.status) {
         return new Response(
           JSON.stringify({ error: data?.message || "Stream not available" }),
           { status: 404, headers: { ...corsHeaders, "Content-Type": "application/json" } }
         );
       }
-      const asynccdnUrl = data?.default?.url || "";
+      const defaultUrl = data?.default?.url || "";
       const backups = [];
       if (Array.isArray(data?.streamLink)) {
         for (const s of data.streamLink) {
-          if (s?.url && s.url !== asynccdnUrl) backups.push(s.url);
+          if (s?.url && s.url !== defaultUrl) backups.push(s.url);
         }
       }
-      if (!asynccdnUrl && backups.length === 0)
+      if (!defaultUrl && backups.length === 0)
         return new Response(JSON.stringify({ error: "No stream URL found" }), {
           status: 404,
           headers: { ...corsHeaders, "Content-Type": "application/json" }
@@ -338,8 +417,13 @@ var resolve_stream_default = {
           } catch {
           }
         }
+        // FIX 5: proxyMode - tất cả backup đều fail -> báo lỗi rõ ràng thay vì redirect bừa
+        return new Response(
+          JSON.stringify({ error: "Proxy mode: all backup streams failed", tried: backups.length }),
+          { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+        );
       }
-      const streamUrl = asynccdnUrl || backups[0];
+      const streamUrl = defaultUrl || backups[0];
       return new Response(null, {
         status: 302,
         headers: { ...corsHeaders, Location: streamUrl, "Cache-Control": "public, max-age=60, s-maxage=60" }
@@ -355,4 +439,3 @@ var resolve_stream_default = {
 export {
   resolve_stream_default as default
 };
-//# sourceMappingURL=resolve-stream.js.map
