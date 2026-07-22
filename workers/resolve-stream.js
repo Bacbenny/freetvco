@@ -210,92 +210,50 @@ var resolve_stream_default = {
           );
         }
       }
-      // Endpoint /m3u — serve playlist M3U với Supabase URL đã được thay thế bằng Cloudflare worker URL
-      // Hỗ trợ: /m3u hoặc /m3u/all → toàn bộ 215 kênh
-      //         /m3u/sports → 55 kênh thể thao (Giờ Vàng + Tiểu Lâm)
-      //         /m3u/channels → 160 kênh tivi (VTVPrime, v.v.)
-      if (path === "/m3u" || path === "/m3u/all" || path === "/m3u/sports" || path === "/m3u/channels") {
-        const GH_RAW = "https://raw.githubusercontent.com/Bacbenny/freetvco/main/output/";
-        const fileMap = {
-          "/m3u": "cotivi_all.m3u",
-          "/m3u/all": "cotivi_all.m3u",
-          "/m3u/sports": "cotivi_sports.m3u",
-          "/m3u/channels": "cotivi_channels.m3u",
-        };
-        const fileName = fileMap[path];
-        try {
-          const ghRes = await fetch(GH_RAW + fileName, {
-            headers: { "User-Agent": "Cloudflare-Worker/1.0" },
-            signal: AbortSignal.timeout(10e3)
-          });
-          if (!ghRes.ok) {
-            return new Response(
-              JSON.stringify({ error: `GitHub fetch failed: ${ghRes.status}` }),
-              { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
-            );
-          }
-          let m3uText = await ghRes.text();
-          // Thêm #EXTM3U header nếu thiếu
-          if (!m3uText.startsWith("#EXTM3U")) {
-            m3uText = "#EXTM3U\n" + m3uText;
-          }
-          // Replace Supabase resolver URL → Cloudflare worker URL
-          const SUPABASE_BASE = "https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream";
-          const CF_BASE = reqUrl.origin;
-          m3uText = m3uText.replaceAll(SUPABASE_BASE, CF_BASE);
-          return new Response(m3uText, {
-            status: 200,
-            headers: {
-              ...corsHeaders,
-              "Content-Type": "application/x-mpegurl; charset=utf-8",
-              "Cache-Control": "no-cache, no-store, must-revalidate",
-              "Content-Disposition": `inline; filename="${fileName}"`
-            }
-          });
-        } catch (e) {
+      // Mọi path không phải /status → serve M3U playlist từ GitHub
+      // / hoặc /m3u → cotivi_all.m3u (215 kênh, tất cả groups)
+      // /m3u/sports  → cotivi_sports.m3u (55 kênh thể thao)
+      // /m3u/channels → cotivi_channels.m3u (160 kênh tivi)
+      const GH_RAW = "https://raw.githubusercontent.com/Bacbenny/freetvco/main/output/";
+      const fileMap = {
+        "/m3u/sports": "cotivi_sports.m3u",
+        "/m3u/channels": "cotivi_channels.m3u",
+      };
+      const fileName = fileMap[path] || "cotivi_all.m3u";
+      try {
+        const ghRes = await fetch(GH_RAW + fileName, {
+          headers: { "User-Agent": "Cloudflare-Worker/1.0" },
+          signal: AbortSignal.timeout(10e3)
+        });
+        if (!ghRes.ok) {
           return new Response(
-            JSON.stringify({ error: `M3U fetch error: ${String(e)}` }),
+            JSON.stringify({ error: `GitHub fetch failed: ${ghRes.status}` }),
             { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
           );
         }
+        let m3uText = await ghRes.text();
+        // Thêm #EXTM3U header nếu thiếu
+        if (!m3uText.startsWith("#EXTM3U")) {
+          m3uText = "#EXTM3U\n" + m3uText;
+        }
+        // Replace Supabase resolver URL → Cloudflare worker URL (giữ nguyên ?url=... parameter)
+        const SUPABASE_BASE = "https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream";
+        const CF_BASE = reqUrl.origin;
+        m3uText = m3uText.replaceAll(SUPABASE_BASE, CF_BASE);
+        return new Response(m3uText, {
+          status: 200,
+          headers: {
+            ...corsHeaders,
+            "Content-Type": "application/x-mpegurl; charset=utf-8",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+          }
+        });
+      } catch (e) {
+        return new Response(
+          JSON.stringify({ error: `M3U fetch error: ${String(e)}` }),
+          { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+        );
       }
-      // FIX 6: dùng URL động từ request thay vì hardcode domain
-      const workerHost = reqUrl.origin;
-      const html = `<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>dekiiptv95 \u2013 resolve-stream</title>
-<style>
-  body{font-family:monospace;background:#111;color:#eee;margin:0;padding:24px;line-height:1.6}
-  h1{color:#4af;margin-bottom:4px}
-  .badge{display:inline-block;background:#1a3;color:#fff;border-radius:4px;padding:2px 8px;font-size:.8em}
-  code{background:#222;padding:2px 6px;border-radius:3px;word-break:break-all}
-  .row{margin:10px 0}
-  a{color:#4af}
-  .err{color:#f66}
-  .ok{color:#4af}
-</style></head><body>
-<h1>dekiiptv95 <span class="badge">ONLINE</span></h1>
-<p>Cloudflare Worker \u2013 gi\u1EA3i m\xE3 link Ti\u1EBFu L\xE2m / Gi\u1EDD V\xE0ng t\u1EEB <code>pay.locket.top</code> v\xE0 <code>rd.locket.top</code>.</p>
-
-<div class="row"><b>C\xE1ch d\xF9ng:</b><br>
-<code>GET /?url=&lt;encoded_fetchApi_url&gt;</code><br>
-<code>GET /?url=&lt;encoded_fetchApi_url&gt;&amp;proxy=1</code> &nbsp;\u2190 cho player ngo\xE0i VN
-</div>
-
-<div class="row"><b>V\xED d\u1EE5 URL stream trong M3U:</b><br>
-<code>${workerHost}?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D8yomo4h138l4q0j</code>
-</div>
-
-<div class="row"><b>Ki\u1EC3m tra tr\u1EA1ng th\xE1i:</b><br>
-<a href="/status">/status</a>
-</div>
-
-<div class="row err">\u26A0\uFE0F L\u1ED7i n\xE0y (<code>Missing 'url' parameter</code>) x\u1EA3y ra khi m\u1EDF URL g\u1ED1c worker tr\u1EF1c ti\u1EBFp tr\xEAn tr\xECnh duy\u1EC7t. <b>\u0110\xE2y l\xE0 b\xECnh th\u01B0\u1EDDng</b> \u2013 URL n\xE0y ch\u1EC9 d\xF9ng cho IPTV player qua file M3U, kh\xF4ng m\u1EDF tr\u1EF1c ti\u1EBFp.</div>
-</body></html>`;
-      return new Response(html, {
-        status: 200,
-        headers: { ...corsHeaders, "Content-Type": "text/html; charset=utf-8" }
-      });
     }
     let parsedUrl;
     try {
