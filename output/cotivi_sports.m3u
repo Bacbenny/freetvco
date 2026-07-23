@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="iVLIVuit0BNy3R9mo_FmIewTJhmL7UnaDq4X_ovIKNg~" tvg-name="[05:00-23/07] Dep.Independiente Medellin - Vasco Gama - Copa Sudamericana" tvg-logo="https://images.keovip88.net/images/teams/depindependiente-medellin.png" group-title="Giờ Vàng",[05:00-23/07] Dep.Independiente Medellin - Vasco Gama - Copa Sudamericana
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmIewTJhmL7UnaDq4X_ovIKNg~
 #EXTINF:-1 tvg-id="SHNXJ5z1SGfaGn84oBTZd78xtGAequiPlTRb2jOBM-c~" tvg-name="[06:30-23/07] Inter Miami - Chicago Fire [BLV Mát] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/inter-miami-cf.png" group-title="Giờ Vàng",[06:30-23/07] Inter Miami - Chicago Fire [BLV Mát] - MLS Mỹ
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -11,10 +7,18 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXR8J2NOdbG9VfNh53RlMy6UlfUFFl4nJtwD-qrioOw8~
+#EXTINF:-1 tvg-id="XR8J2NOdbG9VfNh53RlMy7dlndl-kR5uDSr0MmhSOiQ~" tvg-name="[07:30-23/07] Sporting Kansas City - Minnesota United FC [BLV Bón] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/sporting-kansas-city.png" group-title="Giờ Vàng",[07:30-23/07] Sporting Kansas City - Minnesota United FC [BLV Bón] - MLS Mỹ
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXR8J2NOdbG9VfNh53RlMy7dlndl-kR5uDSr0MmhSOiQ~
 #EXTINF:-1 tvg-id="De1B7z15p2XiogfFZWhogQ~~" tvg-name="[00:00-23/07] GGPoker – Bounty Hunters Series - GGPoker – Bounty Hunters Series [BLV Ngọng] - 🎮 BSOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQgr-ZMXcu-H9oPZoKCIkW13egkj_Z5w52C0E1gRnMw&s=10" group-title="Giờ Vàng",[00:00-23/07] GGPoker – Bounty Hunters Series - GGPoker – Bounty Hunters Series [BLV Ngọng] - 🎮 BSOP
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDe1B7z15p2XiogfFZWhogQ~~
+#EXTINF:-1 tvg-id="gPDnCBeGXBBTgvJSSCxaGQ~~" tvg-name="[08:00-23/07] Brazilian Series - Poker Day 1 [BLV Ngu] - 🎮 BSOP" tvg-logo="https://res.cloudinary.com/jurojinpoker/image/upload/v1732822246/blog/bsop.webp" group-title="Giờ Vàng",[08:00-23/07] Brazilian Series - Poker Day 1 [BLV Ngu] - 🎮 BSOP
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DgPDnCBeGXBBTgvJSSCxaGQ~~
 #EXTINF:-1 tvg-id="VczD4oyZUiHFdnb_tyd24w~~" tvg-name="[05:40-23/07] Philadelphia Phillies  - Los Angeles Dodgers [BLV Cận] - MLB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/YrJLwz0NUoMLEC7MWhtfmw_96x96.png" group-title="Giờ Vàng",[05:40-23/07] Philadelphia Phillies  - Los Angeles Dodgers [BLV Cận] - MLB
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -32,11 +36,9 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DZTp9c51Km9SAXXOvls3YnQ~~
 #EXTINF:-1 tvg-id="iVLIVuit0BNy3R9mo_FmIcY8UG-KkhSCkMVflWV1Kdw~" tvg-name="[07:30-23/07] Sporting Cristal - Bragantino SP - Copa Sudamericana" tvg-logo="https://images.keovip88.net/images/teams/sporting-cristal.png" group-title="Giờ Vàng",[07:30-23/07] Sporting Cristal - Bragantino SP - Copa Sudamericana
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmIcY8UG-KkhSCkMVflWV1Kdw~
-#EXTINF:-1 tvg-id="XR8J2NOdbG9VfNh53RlMy7dlndl-kR5uDSr0MmhSOiQ~" tvg-name="[07:30-23/07] Sporting Kansas City - Minnesota United FC [BLV Bón] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/sporting-kansas-city.png" group-title="Giờ Vàng",[07:30-23/07] Sporting Kansas City - Minnesota United FC [BLV Bón] - MLS Mỹ
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXR8J2NOdbG9VfNh53RlMy7dlndl-kR5uDSr0MmhSOiQ~
-#EXTINF:-1 tvg-id="gPDnCBeGXBBTgvJSSCxaGQ~~" tvg-name="[08:00-23/07] Brazilian Series - Poker Day 1 [BLV Ngu] - 🎮 BSOP" tvg-logo="https://res.cloudinary.com/jurojinpoker/image/upload/v1732822246/blog/bsop.webp" group-title="Giờ Vàng",[08:00-23/07] Brazilian Series - Poker Day 1 [BLV Ngu] - 🎮 BSOP
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DgPDnCBeGXBBTgvJSSCxaGQ~~
 #EXTINF:-1 tvg-id="XR8J2NOdbG9VfNh53RlMy_vtE5kKKxsSV_3aMO-sIZc~" tvg-name="[08:30-23/07] Colorado Rapids - San Diego FC [BLV Mát] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/colorado-rapids.png" group-title="Giờ Vàng",[08:30-23/07] Colorado Rapids - San Diego FC [BLV Mát] - MLS Mỹ
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXR8J2NOdbG9VfNh53RlMy_vtE5kKKxsSV_3aMO-sIZc~
 #EXTINF:-1 tvg-id="Df0RTMJ1A5JtfHMS7ffU1w~~" tvg-name="[09:00-23/07] Portland Fire - Dallas Wings [BLV Điếc] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Portland_Fire_logo.svg" group-title="Giờ Vàng",[09:00-23/07] Portland Fire - Dallas Wings [BLV Điếc] - Bóng rổ Women’s National Basketball Association
@@ -97,7 +99,7 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dl-yUzPa171PYcG4WwfkMSQ~~
 #EXTINF:-1 tvg-id="ENx5y6UiFTyJpEhkMDutNQ~~" tvg-name="[22:00-26/07] Thoiry - Paris Champs-Élysées [BLV Ngu] - 🎮 Tour de France" tvg-logo="https://xedapgiakho.com/wp-content/uploads/2026/06/lich-thi-dau-tour-de-france-2026-duoc-cong-bo.jpg" group-title="Giờ Vàng",[22:00-26/07] Thoiry - Paris Champs-Élysées [BLV Ngu] - 🎮 Tour de France
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DENx5y6UiFTyJpEhkMDutNQ~~
-#EXTINF:-1 tvg-id="ednm9whw0oooryo" tvg-name="[06:30-23/07] Inter Miami CF - Chicago Fire [BLV Trạng Tèo] - United States Major League Soccer" tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Tiếu Lâm",[06:30-23/07] Inter Miami CF - Chicago Fire [BLV Trạng Tèo] - United States Major League Soccer
+#EXTINF:-1 tvg-id="ednm9whw0oooryo" tvg-name="[06:40-23/07] Inter Miami CF - Chicago Fire [BLV Trạng Tèo] - United States Major League Soccer" tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Tiếu Lâm",[06:40-23/07] Inter Miami CF - Chicago Fire [BLV Trạng Tèo] - United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dednm9whw0oooryo
