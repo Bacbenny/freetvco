@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="YfKVbEfiqtxH9sUay7GKsA~~" tvg-name="[14:00-23/07] Bay Hawks - Wellington Saints [BLV Ben] - Bóng rổ National Basketball League (New Zealand)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Hawke%27s_Bay_Hawks_new_logo.png" group-title="Giờ Vàng",[14:00-23/07] Bay Hawks - Wellington Saints [BLV Ben] - Bóng rổ National Basketball League (New Zealand)
+#EXTINF:-1 tvg-id="855EgQ8v5oi3AhU9psL3PQ~~" tvg-name="[17:00-23/07] Valenzuela Classics - San Juan Knights [BLV Lẹo] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1jqjhz7as70.png" group-title="Giờ Vàng",[17:00-23/07] Valenzuela Classics - San Juan Knights [BLV Lẹo] - Bóng rổ Philippines MPBL
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DYfKVbEfiqtxH9sUay7GKsA~~
-#EXTINF:-1 tvg-id="gjLNYYvyHxaKVmsOcL7Fcw~~" tvg-name="[15:00-23/07] Mindoro Tamaraws - Abra Weavers [BLV Cầy] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1khszq03g226.png" group-title="Giờ Vàng",[15:00-23/07] Mindoro Tamaraws - Abra Weavers [BLV Cầy] - Bóng rổ Philippines MPBL
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DgjLNYYvyHxaKVmsOcL7Fcw~~
-#EXTINF:-1 tvg-id="M9Be0NHSGVRN9Cq6H_xA1w~~" tvg-name="[15:00-23/07] Canada - Türkiye [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/H23oIEP6qK-zNc3O8abnIA_96x96.png" group-title="Giờ Vàng",[15:00-23/07] Canada - Türkiye [BLV Sún] - Bóng chuyền Nations League Women
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DM9Be0NHSGVRN9Cq6H_xA1w~~
-#EXTINF:-1 tvg-id="cV-16mZ_dXFK-fUkTT0kyA~~" tvg-name="[17:00-23/07] FOKUS - Aurora [BLV Tôm] - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/Sx81elFa-2B4kV0Fl.png" group-title="Giờ Vàng",[17:00-23/07] FOKUS - Aurora [BLV Tôm] - 🎮 BLAST Bounty CS2
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DcV-16mZ_dXFK-fUkTT0kyA~~
-#EXTINF:-1 tvg-id="855EgQ8v5oi3AhU9psL3PQ~~" tvg-name="[17:00-23/07] Valenzuela Classics - San Juan Knights [BLV Lẹo] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1jqjhz7as70.png" group-title="Giờ Vàng",[17:00-23/07] Valenzuela Classics - San Juan Knights [BLV Lẹo] - Bóng rổ Philippines MPBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D855EgQ8v5oi3AhU9psL3PQ~~
 #EXTINF:-1 tvg-id="FUr-y2lWZ27IzfVU00sGxg~~" tvg-name="[17:00-23/07] T1  - VL [BLV Ngu] - 🎮 VCT Pacific" tvg-logo="https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png" group-title="Giờ Vàng",[17:00-23/07] T1  - VL [BLV Ngu] - 🎮 VCT Pacific
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DFUr-y2lWZ27IzfVU00sGxg~~
+#EXTINF:-1 tvg-id="cV-16mZ_dXFK-fUkTT0kyA~~" tvg-name="[17:00-23/07] FOKUS - Aurora [BLV Tôm] - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/Sx81elFa-2B4kV0Fl.png" group-title="Giờ Vàng",[17:00-23/07] FOKUS - Aurora [BLV Tôm] - 🎮 BLAST Bounty CS2
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DcV-16mZ_dXFK-fUkTT0kyA~~
+#EXTINF:-1 tvg-id="R0Jn8OWFCbANiYMMZSGy4w~~" tvg-name="[15:30-23/07] Việt Nam - Thái Lan [BLV Cầy] - Bóng chuyền Vòng bảng SEA V. Cup 2026" tvg-logo="https://static.flashscore.com/res/image/data/AXfz4vDa-8xwT7BCP.png" group-title="Giờ Vàng",[15:30-23/07] Việt Nam - Thái Lan [BLV Cầy] - Bóng chuyền Vòng bảng SEA V. Cup 2026
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DR0Jn8OWFCbANiYMMZSGy4w~~
 #EXTINF:-1 tvg-id="DwuFbWTLrXglQ0IWjS4F6Q~~" tvg-name="[18:30-23/07] Trung Quốc - USA [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/nc9uS3HG-QDuM2WrS.png" group-title="Giờ Vàng",[18:30-23/07] Trung Quốc - USA [BLV Sún] - Bóng chuyền Nations League Women
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDwuFbWTLrXglQ0IWjS4F6Q~~
 #EXTINF:-1 tvg-id="FQ0PcbyLp5X2HHJnh6vlKQ~~" tvg-name="[19:00-23/07] Quezon City TODA AKSYON - Zamboanga Familys Brand Sardines [BLV Lẹo] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1hqmpec8xc27.png" group-title="Giờ Vàng",[19:00-23/07] Quezon City TODA AKSYON - Zamboanga Familys Brand Sardines [BLV Lẹo] - Bóng rổ Philippines MPBL
