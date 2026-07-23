@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="855EgQ8v5oi3AhU9psL3PQ~~" tvg-name="[17:00-23/07] Valenzuela Classics - San Juan Knights [BLV Lẹo] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1jqjhz7as70.png" group-title="Giờ Vàng",[17:00-23/07] Valenzuela Classics - San Juan Knights [BLV Lẹo] - Bóng rổ Philippines MPBL
+#EXTINF:-1 tvg-id="DwuFbWTLrXglQ0IWjS4F6Q~~" tvg-name="[18:30-23/07] Trung Quốc - USA [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/nc9uS3HG-QDuM2WrS.png" group-title="Giờ Vàng",[18:30-23/07] Trung Quốc - USA [BLV Sún] - Bóng chuyền Nations League Women
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D855EgQ8v5oi3AhU9psL3PQ~~
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDwuFbWTLrXglQ0IWjS4F6Q~~
 #EXTINF:-1 tvg-id="FUr-y2lWZ27IzfVU00sGxg~~" tvg-name="[17:00-23/07] T1  - VL [BLV Ngu] - 🎮 VCT Pacific" tvg-logo="https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png" group-title="Giờ Vàng",[17:00-23/07] T1  - VL [BLV Ngu] - 🎮 VCT Pacific
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -11,20 +11,18 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DcV-16mZ_dXFK-fUkTT0kyA~~
-#EXTINF:-1 tvg-id="R0Jn8OWFCbANiYMMZSGy4w~~" tvg-name="[15:30-23/07] Việt Nam - Thái Lan [BLV Cầy] - Bóng chuyền Vòng bảng SEA V. Cup 2026" tvg-logo="https://static.flashscore.com/res/image/data/AXfz4vDa-8xwT7BCP.png" group-title="Giờ Vàng",[15:30-23/07] Việt Nam - Thái Lan [BLV Cầy] - Bóng chuyền Vòng bảng SEA V. Cup 2026
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DR0Jn8OWFCbANiYMMZSGy4w~~
-#EXTINF:-1 tvg-id="DwuFbWTLrXglQ0IWjS4F6Q~~" tvg-name="[18:30-23/07] Trung Quốc - USA [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/nc9uS3HG-QDuM2WrS.png" group-title="Giờ Vàng",[18:30-23/07] Trung Quốc - USA [BLV Sún] - Bóng chuyền Nations League Women
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DDwuFbWTLrXglQ0IWjS4F6Q~~
 #EXTINF:-1 tvg-id="FQ0PcbyLp5X2HHJnh6vlKQ~~" tvg-name="[19:00-23/07] Quezon City TODA AKSYON - Zamboanga Familys Brand Sardines [BLV Lẹo] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1hqmpec8xc27.png" group-title="Giờ Vàng",[19:00-23/07] Quezon City TODA AKSYON - Zamboanga Familys Brand Sardines [BLV Lẹo] - Bóng rổ Philippines MPBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DFQ0PcbyLp5X2HHJnh6vlKQ~~
+#EXTINF:-1 tvg-id="jvyQAjc0tdS7ZZjTKuNYew~~" tvg-name="[19:00-23/07] Sinners  - FUT Esports [BLV Tôm] - 🎮 Blast Bounty" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4f/SINNERS_Esports_allmode.png/600px-SINNERS_Esports_allmode.png" group-title="Giờ Vàng",[19:00-23/07] Sinners  - FUT Esports [BLV Tôm] - 🎮 Blast Bounty
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DjvyQAjc0tdS7ZZjTKuNYew~~
 #EXTINF:-1 tvg-id="G8BZdaNnabRMlEqHgfYao_zcjxZRM27iAeXbo8W-9_s~" tvg-name="[21:30-23/07] Malisheva - Hibernian FC - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/malisheva.png" group-title="Giờ Vàng",[21:30-23/07] Malisheva - Hibernian FC - Europa Conference League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DG8BZdaNnabRMlEqHgfYao_zcjxZRM27iAeXbo8W-9_s~
 #EXTINF:-1 tvg-id="G8BZdaNnabRMlEqHgfYao6iJfbjVr5WKraE-uawVDNE~" tvg-name="[22:00-23/07] Liepajas Metalurgs - Austria Wien [BLV Cận] - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/fk-liepaja.png" group-title="Giờ Vàng",[22:00-23/07] Liepajas Metalurgs - Austria Wien [BLV Cận] - Europa Conference League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DG8BZdaNnabRMlEqHgfYao6iJfbjVr5WKraE-uawVDNE~
 #EXTINF:-1 tvg-id="G8BZdaNnabRMlEqHgfYaoy2eltOq26lwbEKUfc3NhKg~" tvg-name="[22:00-23/07] Alashkert - CFR Cluj [BLV Bón] - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/alashkert.png" group-title="Giờ Vàng",[22:00-23/07] Alashkert - CFR Cluj [BLV Bón] - Europa Conference League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DG8BZdaNnabRMlEqHgfYaoy2eltOq26lwbEKUfc3NhKg~
+#EXTINF:-1 tvg-id="MsKSVBeiJJdIMJzlCUz1cg~~" tvg-name="[22:00-23/07] Gentle Mates  - paiN Gaming [BLV Tôm] - 🎮" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2deTGobiLw-Ty39OiY2ogLftTVyyCgQ-4wDF3pNXvA&s" group-title="Giờ Vàng",[22:00-23/07] Gentle Mates  - paiN Gaming [BLV Tôm] - 🎮
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DMsKSVBeiJJdIMJzlCUz1cg~~
 #EXTINF:-1 tvg-id="tylUpr2m9-iLRXUCY4YLu0-1MV04BDCp2kLJyUZZ-38~" tvg-name="[22:30-23/07] Baltija Panevezys - Tobol Kostanay [BLV Mason] - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/fk-panevezys.png" group-title="Giờ Vàng",[22:30-23/07] Baltija Panevezys - Tobol Kostanay [BLV Mason] - Europa Conference League
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DtylUpr2m9-iLRXUCY4YLu0-1MV04BDCp2kLJyUZZ-38~
 #EXTINF:-1 tvg-id="G8BZdaNnabRMlEqHgfYaoxIAs90RPYyi3JqOE0f0a4Y~" tvg-name="[23:00-23/07] FC Flora Tallinn - The New Saints [BLV Trĩ] - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/fc-flora-tallinn.png" group-title="Giờ Vàng",[23:00-23/07] FC Flora Tallinn - The New Saints [BLV Trĩ] - Europa Conference League
@@ -108,6 +106,8 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTINF:-1 tvg-id="yKy470otf9RTUGh4HGPC2Grej0KQUV_xOmDgKD8OqMs~" tvg-name="[22:00-26/07] Sandefjord - Bodo Glimt [BLV Trĩ] - VĐQG Na Uy" tvg-logo="https://images.keovip88.net/images/teams/sandefjord.png" group-title="Giờ Vàng",[22:00-26/07] Sandefjord - Bodo Glimt [BLV Trĩ] - VĐQG Na Uy
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2Grej0KQUV_xOmDgKD8OqMs~
 #EXTINF:-1 tvg-id="d8eb9b587b9146f5871d317e5e335aa6" tvg-name="[18:30-23/07] USA W - China W [BLV Trạng Tí] - Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/IoeNdfwS-MPdHoKT3.png" group-title="Tiếu Lâm",[18:30-23/07] USA W - China W [BLV Trạng Tí] - Nations League Women
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3Dd8eb9b587b9146f5871d317e5e335aa6
 #EXTINF:-1 tvg-id="23xmvkh6ye96qg8" tvg-name="[19:00-23/07] Akademiya Ontustik - Astana B [BLV Trạng Béo] - Kazakhstan Division 1" tvg-logo="https://img.sports-data.online/football/team/9fd252984e0e48f24d736e43fec2cd2d.png" group-title="Tiếu Lâm",[19:00-23/07] Akademiya Ontustik - Astana B [BLV Trạng Béo] - Kazakhstan Division 1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dtieulamtv%26keys%3D23xmvkh6ye96qg8
