@@ -1,21 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BRPd7S9Z9nZOfPzr3Dn5CjycagE5tYAgpRlJd-k4neY~" tvg-name="[02:00-24/07] Hajduk Split - Pafos FC - C2" tvg-logo="https://images.keovip88.net/images/teams/hajduk-split.png" group-title="Giờ Vàng",[02:00-24/07] Hajduk Split - Pafos FC - C2
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DBRPd7S9Z9nZOfPzr3Dn5CjycagE5tYAgpRlJd-k4neY~
-#EXTINF:-1 tvg-id="c_TDDzkht8FQ50eo9JS141O_21xl8sQ_Dvi8l363us4~" tvg-name="[02:00-24/07] Partizan Belgrade - UNA Strassen - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/partizan-belgrade.png" group-title="Giờ Vàng",[02:00-24/07] Partizan Belgrade - UNA Strassen - Europa Conference League
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dc_TDDzkht8FQ50eo9JS141O_21xl8sQ_Dvi8l363us4~
-#EXTINF:-1 tvg-id="OTK8qpRYRrRMVCHcnx_oVg~~" tvg-name="[00:00-24/07] OG - Team Spirit [BLV Tôm] - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/AD1Y91dM-xQC2cLHL.png" group-title="Giờ Vàng",[00:00-24/07] OG - Team Spirit [BLV Tôm] - 🎮 BLAST Bounty CS2
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DOTK8qpRYRrRMVCHcnx_oVg~~
-#EXTINF:-1 tvg-id="iVLIVuit0BNy3R9mo_FmIbPHkJ2-LQSkcOWeMP36rQg~" tvg-name="[05:00-24/07] Bolivar - Gremio (RS) [BLV Mason] - Copa Sudamericana" tvg-logo="https://images.keovip88.net/images/teams/bolivar.png" group-title="Giờ Vàng",[05:00-24/07] Bolivar - Gremio (RS) [BLV Mason] - Copa Sudamericana
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmIbPHkJ2-LQSkcOWeMP36rQg~
 #EXTINF:-1 tvg-id="vHv6inGKBdWZBNW9n2wt-yQ-6XTJZYcX1fth1lKCyMU~" tvg-name="[05:30-24/07] Corinthians Paulista (SP) - Remo Belem (PA) [BLV Mát] - VĐQG Brazil" tvg-logo="https://images.keovip88.net/images/teams/corinthians-paulista-sp.png" group-title="Giờ Vàng",[05:30-24/07] Corinthians Paulista (SP) - Remo Belem (PA) [BLV Mát] - VĐQG Brazil
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DvHv6inGKBdWZBNW9n2wt-yQ-6XTJZYcX1fth1lKCyMU~
+#EXTINF:-1 tvg-id="iVLIVuit0BNy3R9mo_FmIbPHkJ2-LQSkcOWeMP36rQg~" tvg-name="[05:00-24/07] Bolivar - Gremio (RS) [BLV Mason] - Copa Sudamericana" tvg-logo="https://images.keovip88.net/images/teams/bolivar.png" group-title="Giờ Vàng",[05:00-24/07] Bolivar - Gremio (RS) [BLV Mason] - Copa Sudamericana
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmIbPHkJ2-LQSkcOWeMP36rQg~
 #EXTINF:-1 tvg-id="whGtOjou5hcBmJVNmubHKL8cfBCLFWrpeznX4Fmr3h0~" tvg-name="[05:30-24/07] Botafogo (RJ) - Vitoria Salvador BA - VĐQG Brazil" tvg-logo="https://images.keovip88.net/images/teams/botafogo-rj.png" group-title="Giờ Vàng",[05:30-24/07] Botafogo (RJ) - Vitoria Salvador BA - VĐQG Brazil
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DwhGtOjou5hcBmJVNmubHKL8cfBCLFWrpeznX4Fmr3h0~
 #EXTINF:-1 tvg-id="mdtiIV4z3rDTs9uxnSIYng~~" tvg-name="[06:00-24/07] Montreal Roses - AFC Toronto [BLV Ngọng] - Canada - Northern Super League" tvg-logo="https://static.flashscore.com/res/image/data/CzqLQNAr-zqXJEUdP.png" group-title="Giờ Vàng",[06:00-24/07] Montreal Roses - AFC Toronto [BLV Ngọng] - Canada - Northern Super League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DmdtiIV4z3rDTs9uxnSIYng~~
 #EXTINF:-1 tvg-id="joiPttjcgQy9OFgDRu9Tvg~~" tvg-name="[07:00-24/07] Winnipeg Sea Bears - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Winnipeg_Sea_Bears_logo.png" group-title="Giờ Vàng",[07:00-24/07] Winnipeg Sea Bears - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DjoiPttjcgQy9OFgDRu9Tvg~~
