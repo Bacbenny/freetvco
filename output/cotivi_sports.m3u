@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="iVLIVuit0BNy3R9mo_FmIdHtDVmueb-xjMs4CXANw7o~" tvg-name="[07:30-24/07] Boca Juniors - O Higgins [BLV Mát] - Copa Sudamericana" tvg-logo="https://images.keovip88.net/images/teams/boca-juniors.png" group-title="Giờ Vàng",[07:30-24/07] Boca Juniors - O Higgins [BLV Mát] - Copa Sudamericana
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmIdHtDVmueb-xjMs4CXANw7o~
-#EXTINF:-1 tvg-id="iVLIVuit0BNy3R9mo_FmIUJklA7iepPLGkF2eCetNjY~" tvg-name="[07:30-24/07] Independiente Santa Fe - Caracas FC - Copa Sudamericana" tvg-logo="https://images.keovip88.net/images/teams/independiente-santa-fe.png" group-title="Giờ Vàng",[07:30-24/07] Independiente Santa Fe - Caracas FC - Copa Sudamericana
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmIUJklA7iepPLGkF2eCetNjY~
-#EXTINF:-1 tvg-id="joiPttjcgQy9OFgDRu9Tvg~~" tvg-name="[07:00-24/07] Winnipeg Sea Bears - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Winnipeg_Sea_Bears_logo.png" group-title="Giờ Vàng",[07:00-24/07] Winnipeg Sea Bears - Vancouver Bandits [BLV Tôm] - Bóng rổ Canada EBL
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DjoiPttjcgQy9OFgDRu9Tvg~~
-#EXTINF:-1 tvg-id="0Vzk6hy5SZ7ArwvxU2FQDw~~" tvg-name="[08:30-24/07] Saskatoon Mamba - Hamilton Honey Badgers [BLV Cầy] - Bóng rổ Canada EBL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53mOs8nl6kOfNZGfaKvI_yonbQtIDrHcqFvIkty1g1g&s=10" group-title="Giờ Vàng",[08:30-24/07] Saskatoon Mamba - Hamilton Honey Badgers [BLV Cầy] - Bóng rổ Canada EBL
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D0Vzk6hy5SZ7ArwvxU2FQDw~~
 #EXTINF:-1 tvg-id="pNdYvP1qzo-ggWEgOITaTA~~" tvg-name="[14:30-24/07] Manawatu Jets - Franklin Bulls - Bóng rổ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpN8FJRuWg2Opybvjpt6pTzDjrhAxpLNtOHBZ0oJY0izl7p-__aFEoeY&s=10" group-title="Giờ Vàng",[14:30-24/07] Manawatu Jets - Franklin Bulls - Bóng rổ
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DpNdYvP1qzo-ggWEgOITaTA~~
 #EXTINF:-1 tvg-id="urBCuc7LEF5DrfE72lYHWw~~" tvg-name="[15:00-24/07] RRQ - ZETA [BLV Điếc] - 🎮 VCT Pacific" tvg-logo="https://static.gosugamers.net/a4/57/f1/b48d1286e62784f5cf6cc38d9575160c866a230b537fa3632b566807f0.png?w=96" group-title="Giờ Vàng",[15:00-24/07] RRQ - ZETA [BLV Điếc] - 🎮 VCT Pacific
@@ -89,23 +73,25 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DFQ0PcbyLp5X2HHJnh6vlKQ~~
 #EXTINF:-1 tvg-id="OYIziuNihjLfJ_x5r3npYQ~~" tvg-name="[17:00-24/07] DFM - PRX [BLV Ngu] - 🎮 VCT Pacific" tvg-logo="https://static.flashscore.com/res/image/data/K2qFfJYg-8vpTBoXO.png" group-title="Giờ Vàng",[17:00-24/07] DFM - PRX [BLV Ngu] - 🎮 VCT Pacific
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DOYIziuNihjLfJ_x5r3npYQ~~
-#EXTINF:-1 tvg-id="55937" tvg-name="[18:30-23/07] Mỹ (W) - Trung Quốc (W) [BLV Kaka] - Bóng chuyền Nations League" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_tj4Ymih.jpg" group-title="Pháo Hoa",[18:30-23/07] Mỹ (W) - Trung Quốc (W) [BLV Kaka] - Bóng chuyền Nations League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55937
-#EXTINF:-1 tvg-id="55938" tvg-name="[19:00-23/07] Campuchia - Philippines [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_8Pup6G1.jpg" group-title="Pháo Hoa",[19:00-23/07] Campuchia - Philippines [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55938
-#EXTINF:-1 tvg-id="54260" tvg-name="[22:00-23/07] FK Liepaja - Austria Vienna [BLV Văn Minh] - UEFA Conference League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_5198.jpg" group-title="Pháo Hoa",[22:00-23/07] FK Liepaja - Austria Vienna [BLV Văn Minh] - UEFA Conference League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54260
-#EXTINF:-1 tvg-id="54276" tvg-name="[23:00-23/07] HJK - Coleraine [BLV Pháo Thủ] - UEFA Conference League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_3549.jpg" group-title="Pháo Hoa",[23:00-23/07] HJK - Coleraine [BLV Pháo Thủ] - UEFA Conference League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54276
-#EXTINF:-1 tvg-id="54282" tvg-name="[23:00-23/07] Qarabag - CSKA Sofia [BLV Kevin] - UEFA Europa League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_110.jpg" group-title="Pháo Hoa",[23:00-23/07] Qarabag - CSKA Sofia [BLV Kevin] - UEFA Europa League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54282
-#EXTINF:-1 tvg-id="54294" tvg-name="[00:00-24/07] Hammarby - Anderlecht [BLV Chim Nhỏ] - UEFA Europa League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_201.jpg" group-title="Pháo Hoa",[00:00-24/07] Hammarby - Anderlecht [BLV Chim Nhỏ] - UEFA Europa League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54294
-#EXTINF:-1 tvg-id="54302" tvg-name="[00:00-24/07] Dyn. Kyiv - PAOK [BLV Văn Minh] - UEFA Europa League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_98.jpg" group-title="Pháo Hoa",[00:00-24/07] Dyn. Kyiv - PAOK [BLV Văn Minh] - UEFA Europa League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54302
-#EXTINF:-1 tvg-id="54312" tvg-name="[01:00-24/07] Besiktas - Midtjylland [BLV Kaka] - UEFA Europa League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_187.jpg" group-title="Pháo Hoa",[01:00-24/07] Besiktas - Midtjylland [BLV Kaka] - UEFA Europa League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54312
-#EXTINF:-1 tvg-id="54313" tvg-name="[01:00-24/07] St. Gallen - Benfica [BLV Kevin] - UEFA Europa League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_198.jpg" group-title="Pháo Hoa",[01:00-24/07] St. Gallen - Benfica [BLV Kevin] - UEFA Europa League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54313
-#EXTINF:-1 tvg-id="54324" tvg-name="[01:00-24/07] Vojvodina - Ajax [BLV Pháo Thủ] - UEFA Conference League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_6460.jpg" group-title="Pháo Hoa",[01:00-24/07] Vojvodina - Ajax [BLV Pháo Thủ] - UEFA Conference League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54324
+#EXTINF:-1 tvg-id="56006" tvg-name="[15:30-24/07] Myanmar - Việt Nam [BLV Kaka] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_dnX02Oc.jpg" group-title="Pháo Hoa",[15:30-24/07] Myanmar - Việt Nam [BLV Kaka] - Bóng chuyền Sea V Cup
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56006
+#EXTINF:-1 tvg-id="54393" tvg-name="[19:00-24/07] Barcelona - Europa [BLV Pháo Thủ] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_97.jpg" group-title="Pháo Hoa",[19:00-24/07] Barcelona - Europa [BLV Pháo Thủ] - Club Friendlies
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54393
+#EXTINF:-1 tvg-id="55944" tvg-name="[19:00-24/07] Cambodia - Singapore [BLV Chim Nhỏ] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_358.jpg" group-title="Pháo Hoa",[19:00-24/07] Cambodia - Singapore [BLV Chim Nhỏ] - ASEAN Championship
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55944
+#EXTINF:-1 tvg-id="56007" tvg-name="[19:00-24/07] Indonesia - Philippines [BLV Kaka] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_WqmhllM.jpg" group-title="Pháo Hoa",[19:00-24/07] Indonesia - Philippines [BLV Kaka] - Bóng chuyền Sea V Cup
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56007
+#EXTINF:-1 tvg-id="55945" tvg-name="[20:30-24/07] Timor-Leste - Vietnam [BLV Dế Lửa] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_2rRVLbr.jpg" group-title="Pháo Hoa",[20:30-24/07] Timor-Leste - Vietnam [BLV Dế Lửa] - ASEAN Championship
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55945
+#EXTINF:-1 tvg-id="56008" tvg-name="[20:30-24/07] Timor-Leste - Vietnam [BLV Kevin] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_2rRVLbr.jpg" group-title="Pháo Hoa",[20:30-24/07] Timor-Leste - Vietnam [BLV Kevin] - ASEAN Championship
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56008
+#EXTINF:-1 tvg-id="54414" tvg-name="[21:00-24/07] Bournemouth - St. Pauli [BLV Pháo Thủ] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_3071.jpg" group-title="Pháo Hoa",[21:00-24/07] Bournemouth - St. Pauli [BLV Pháo Thủ] - Club Friendlies
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54414
+#EXTINF:-1 tvg-id="54433" tvg-name="[23:00-24/07] Rosenborg - Manchester Utd [BLV Dế Lửa] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_172.jpg" group-title="Pháo Hoa",[23:00-24/07] Rosenborg - Manchester Utd [BLV Dế Lửa] - Club Friendlies
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54433
+#EXTINF:-1 tvg-id="54451" tvg-name="[23:00-24/07] Vejle - AB Copenhagen [BLV Văn Minh] - 1. Division" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2652.jpg" group-title="Pháo Hoa",[23:00-24/07] Vejle - AB Copenhagen [BLV Văn Minh] - 1. Division
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54451
+#EXTINF:-1 tvg-id="54464" tvg-name="[00:00-25/07] Vasteras SK - Orgryte [BLV Pháo Thủ] - Allsvenskan" tvg-logo="https://phaohoa1.live/media/teams/logos/team_7341.jpg" group-title="Pháo Hoa",[00:00-25/07] Vasteras SK - Orgryte [BLV Pháo Thủ] - Allsvenskan
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54464
+#EXTINF:-1 tvg-id="54524" tvg-name="[01:00-25/07] Galatasaray - Monza [BLV Kevin] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_192.jpg" group-title="Pháo Hoa",[01:00-25/07] Galatasaray - Monza [BLV Kevin] - Club Friendlies
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54524
