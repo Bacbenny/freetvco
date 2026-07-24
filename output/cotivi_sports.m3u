@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="pNdYvP1qzo-ggWEgOITaTA~~" tvg-name="[14:30-24/07] Manawatu Jets - Franklin Bulls - Bóng rổ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpN8FJRuWg2Opybvjpt6pTzDjrhAxpLNtOHBZ0oJY0izl7p-__aFEoeY&s=10" group-title="Giờ Vàng",[14:30-24/07] Manawatu Jets - Franklin Bulls - Bóng rổ
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DpNdYvP1qzo-ggWEgOITaTA~~
 #EXTINF:-1 tvg-id="urBCuc7LEF5DrfE72lYHWw~~" tvg-name="[15:00-24/07] RRQ - ZETA [BLV Điếc] - 🎮 VCT Pacific" tvg-logo="https://static.gosugamers.net/a4/57/f1/b48d1286e62784f5cf6cc38d9575160c866a230b537fa3632b566807f0.png?w=96" group-title="Giờ Vàng",[15:00-24/07] RRQ - ZETA [BLV Điếc] - 🎮 VCT Pacific
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DurBCuc7LEF5DrfE72lYHWw~~
+#EXTINF:-1 tvg-id="pNdYvP1qzo-ggWEgOITaTA~~" tvg-name="[14:30-24/07] Manawatu Jets - Franklin Bulls - Bóng rổ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpN8FJRuWg2Opybvjpt6pTzDjrhAxpLNtOHBZ0oJY0izl7p-__aFEoeY&s=10" group-title="Giờ Vàng",[14:30-24/07] Manawatu Jets - Franklin Bulls - Bóng rổ
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DpNdYvP1qzo-ggWEgOITaTA~~
 #EXTINF:-1 tvg-id="uq2i9IZUeBqCed8PJoWeaA~~" tvg-name="[15:30-24/07] Việt Nam - Myanmar [BLV Sún] - Bóng chuyền Sea V Cup" tvg-logo="https://static.flashscore.com/res/image/data/AXfz4vDa-8xwT7BCP.png" group-title="Giờ Vàng",[15:30-24/07] Việt Nam - Myanmar [BLV Sún] - Bóng chuyền Sea V Cup
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Duq2i9IZUeBqCed8PJoWeaA~~
 #EXTINF:-1 tvg-id="3O1YI6nS7VliHmTgzsyYpw~~" tvg-name="[16:00-24/07] 3DMAX - Magic [BLV Tôm] - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/UHk62hzB-zTSIb9ET.png" group-title="Giờ Vàng",[16:00-24/07] 3DMAX - Magic [BLV Tôm] - 🎮 BLAST Bounty CS2
