@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="_ogL00WwcTpHGZY3vWpjhg~~" tvg-name="[20:00-25/07]  Ankalaev  - bogdan guskov [BLV Cầy] - Võ thuật UFC Fight Night" tvg-logo="https://static.flashscore.com/res/image/data/0dc4iwf5-CpOxY0ki.png" group-title="Giờ Vàng",[20:00-25/07]  Ankalaev  - bogdan guskov [BLV Cầy] - Võ thuật UFC Fight Night
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D_ogL00WwcTpHGZY3vWpjhg~~
-#EXTINF:-1 tvg-id="T6-xUYxqMRl0ojMgFntH5mVP_24UyJV1nVH2q2BOG3w~" tvg-name="[23:00-25/07] Servette - Basel - VĐQG Thụy Sĩ" tvg-logo="https://images.keovip88.net/images/teams/servette.png" group-title="Giờ Vàng",[23:00-25/07] Servette - Basel - VĐQG Thụy Sĩ
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DT6-xUYxqMRl0ojMgFntH5mVP_24UyJV1nVH2q2BOG3w~
 #EXTINF:-1 tvg-id="LzDFcdrajx5ZcDbSXMJBXQ~~" tvg-name="[01:00-26/07] Standard Liège - Juventus [BLV Ngọng] - World - Club Friendly" tvg-logo="https://static.flashscore.com/res/image/data/xGEOiwg5-tjZYJCwg.png" group-title="Giờ Vàng",[01:00-26/07] Standard Liège - Juventus [BLV Ngọng] - World - Club Friendly
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DLzDFcdrajx5ZcDbSXMJBXQ~~
 #EXTINF:-1 tvg-id="X45aibRSKIfx0M2-5y7bkg~~" tvg-name="[01:30-26/07] Sporting CP - Monaco - World - Club Friendly" tvg-logo="https://static.flashscore.com/res/image/data/OWbPc9il-4ddK8rOq.png" group-title="Giờ Vàng",[01:30-26/07] Sporting CP - Monaco - World - Club Friendly
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DX45aibRSKIfx0M2-5y7bkg~~
 #EXTINF:-1 tvg-id="MMUg4UDae8CUeP3bwFBkUw~~" tvg-name="[02:30-26/07] Winnipeg Sea Bears - Hamilton Honey Badgers [BLV Ben] - Bóng rổ Canada EBL" tvg-logo="https://nba.titan007.com/files/team/1j0q1h99xj3.png" group-title="Giờ Vàng",[02:30-26/07] Winnipeg Sea Bears - Hamilton Honey Badgers [BLV Ben] - Bóng rổ Canada EBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DMMUg4UDae8CUeP3bwFBkUw~~
@@ -102,9 +98,13 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-id="55307" tvg-name="[01:30-26/07] Sporting CP - Monaco [BLV Pháo Thủ] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_177.jpg" group-title="Pháo Hoa",[01:30-26/07] Sporting CP - Monaco [BLV Pháo Thủ] - Club Friendlies
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55307
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-id="55320" tvg-name="[02:00-26/07] FC Porto - Aston Villa [BLV Chim Nhỏ] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_81.jpg" group-title="Pháo Hoa",[02:00-26/07] FC Porto - Aston Villa [BLV Chim Nhỏ] - Club Friendlies
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55320
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 tvg-id="56206" tvg-name="[05:00-26/07] Liverpool - Sunderland [BLV Kevin] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png" group-title="Pháo Hoa",[05:00-26/07] Liverpool - Sunderland [BLV Kevin] - Club Friendlies
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56206
 #EXTINF:-1 tvg-id="56204" tvg-name="[14:30-26/07] Trung Quốc (W) - Italy (W) [BLV Dế Lửa] - Bóng chuyền Nations League" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_OOrZwnR.jpg" group-title="Pháo Hoa",[14:30-26/07] Trung Quốc (W) - Italy (W) [BLV Dế Lửa] - Bóng chuyền Nations League
