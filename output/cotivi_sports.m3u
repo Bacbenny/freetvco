@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dr-d-MTIP4gToej2cgr3Z8Y3fT-dVEg7KQLCbcDJoPiM~
-#EXTINF:-1 tvg-id="yKy470otf9RTUGh4HGPC2MbR5d5q_zquJnCY7kwFfwc~" tvg-name="[22:00-25/07] PK-35 - JIPPO - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/hjk-helsinki.png" group-title="Giờ Vàng",[22:00-25/07] PK-35 - JIPPO - VĐQG Phần Lan
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2MbR5d5q_zquJnCY7kwFfwc~
 #EXTINF:-1 tvg-id="_ogL00WwcTpHGZY3vWpjhg~~" tvg-name="[20:00-25/07]  Ankalaev  - bogdan guskov [BLV Cầy] - Võ thuật UFC Fight Night" tvg-logo="https://static.flashscore.com/res/image/data/0dc4iwf5-CpOxY0ki.png" group-title="Giờ Vàng",[20:00-25/07]  Ankalaev  - bogdan guskov [BLV Cầy] - Võ thuật UFC Fight Night
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -67,6 +63,14 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2FijSxnNzDP979z4sD1iYM8~
 #EXTINF:-1 tvg-id="yKy470otf9RTUGh4HGPC2Grej0KQUV_xOmDgKD8OqMs~" tvg-name="[22:00-26/07] Sandefjord - Bodo Glimt [BLV Trĩ] - VĐQG Na Uy" tvg-logo="https://images.keovip88.net/images/teams/sandefjord.png" group-title="Giờ Vàng",[22:00-26/07] Sandefjord - Bodo Glimt [BLV Trĩ] - VĐQG Na Uy
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2Grej0KQUV_xOmDgKD8OqMs~
+#EXTINF:-1 tvg-id="V5tSOJyHH0kaLCDB3pky2Q~~" tvg-name="[23:00-26/07] Roma  - Cannes - World - Club Friendly" tvg-logo="https://static.flashscore.com/res/image/data/QPgsexZA-GtNb9h2q.png" group-title="Giờ Vàng",[23:00-26/07] Roma  - Cannes - World - Club Friendly
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DV5tSOJyHH0kaLCDB3pky2Q~~
+#EXTINF:-1 tvg-id="0O0DUgtrmWEIhLeV3vFqUQ~~" tvg-name="[23:00-26/07] Napoli  - Carrarese [BLV Điếc] - World - Club Friendly" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ueX_32AIja-hLmJSHpUuFg_96x96.png" group-title="Giờ Vàng",[23:00-26/07] Napoli  - Carrarese [BLV Điếc] - World - Club Friendly
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D0O0DUgtrmWEIhLeV3vFqUQ~~
+#EXTINF:-1 tvg-id="692ZXd-EEbGFFoONyn23bQ~~" tvg-name="[23:00-26/07] Frosinone  - Ascoli - World - Club Friendly" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/_J6w-PL2RjW-fRR-D7Dl-w_96x96.png" group-title="Giờ Vàng",[23:00-26/07] Frosinone  - Ascoli - World - Club Friendly
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D692ZXd-EEbGFFoONyn23bQ~~
+#EXTINF:-1 tvg-id="Y-duGLc7GyjstRS0NIm-b7WT_rMhgUZBPBudIhtJlVE~" tvg-name="[23:30-26/07] Rubin Kazan - Krasnodar FK [BLV Trĩ] - VĐQG Nga" tvg-logo="https://images.keovip88.net/images/teams/rubin-kazan.png" group-title="Giờ Vàng",[23:30-26/07] Rubin Kazan - Krasnodar FK [BLV Trĩ] - VĐQG Nga
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DY-duGLc7GyjstRS0NIm-b7WT_rMhgUZBPBudIhtJlVE~
 #EXTINF:-1 tvg-id="OYIziuNihjLfJ_x5r3npYQ~~" tvg-name="[17:00-24/07] DFM - PRX [BLV Ngu] - 🎮 VCT Pacific" tvg-logo="https://static.flashscore.com/res/image/data/K2qFfJYg-8vpTBoXO.png" group-title="Giờ Vàng",[17:00-24/07] DFM - PRX [BLV Ngu] - 🎮 VCT Pacific
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DOYIziuNihjLfJ_x5r3npYQ~~
 #EXTINF:-1 tvg-id="gAf5G9CBpSJ7QNxjtczmZw~~" tvg-name="[20:00-25/07]  Ankalaev - Rountree Jr [BLV Dory] - Võ thuật UFC Fight Night" tvg-logo="https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/ANKALAEV_MAGOMED_L_10-26.png?itok=L777PUSb" group-title="Giờ Vàng",[20:00-25/07]  Ankalaev - Rountree Jr [BLV Dory] - Võ thuật UFC Fight Night
@@ -79,7 +83,7 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-#EXTINF:-1 tvg-id="55113" tvg-name="[23:00-25/07] Wolves - Real Sociedad [BLV Dế Lửa] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_3077.jpg" group-title="Pháo Hoa",[23:00-25/07] Wolves - Real Sociedad [BLV Dế Lửa] - Club Friendlies
+#EXTINF:-1 tvg-id="55190" tvg-name="[23:00-25/07] PSV - Villarreal [BLV Dế Lửa] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_150.jpg" group-title="Pháo Hoa",[23:00-25/07] PSV - Villarreal [BLV Dế Lửa] - Club Friendlies
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
