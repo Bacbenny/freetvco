@@ -1,40 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="R9Yie16Io_pbnEvXfUcs4Ibfdleg7j0VHVWuv6_VYe4~" tvg-name="[15:00-25/07] A.P.I.A. Leichhardt Tigers - University NSW [BLV Bón] - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/apia-leichhardt-tigers.png" group-title="Giờ Vàng",[15:00-25/07] A.P.I.A. Leichhardt Tigers - University NSW [BLV Bón] - NPL NSW Úc
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DR9Yie16Io_pbnEvXfUcs4Ibfdleg7j0VHVWuv6_VYe4~
-#EXTINF:-1 tvg-id="XjomjWcBx1zZDPKqF3Vse0G6W0Ll4QZVGr-h5pvclOo~" tvg-name="[15:30-25/07] St George Saints - Sydney FC Youth [BLV Mason] - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/st-george-saints.png" group-title="Giờ Vàng",[15:30-25/07] St George Saints - Sydney FC Youth [BLV Mason] - NPL NSW Úc
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXjomjWcBx1zZDPKqF3Vse0G6W0Ll4QZVGr-h5pvclOo~
-#EXTINF:-1 tvg-id="SxmVGJKBZG-V8vA0tmNUpG6cdmMt23vmB60vnyeRWeA~" tvg-name="[16:45-25/07] MetroStars - West Adelaide [BLV Trĩ] - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/wollongong-wolves.png" group-title="Giờ Vàng",[16:45-25/07] MetroStars - West Adelaide [BLV Trĩ] - NPL NSW Úc
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DSxmVGJKBZG-V8vA0tmNUpG6cdmMt23vmB60vnyeRWeA~
 #EXTINF:-1 tvg-id="XjomjWcBx1zZDPKqF3VsexyZXQi03OXVYQOvIEHJ27Y~" tvg-name="[16:30-25/07] Qingdao Hainiu - Tianjin Jinmen Tiger [BLV Mát] - VĐQG Trung Quốc" tvg-logo="https://images.keovip88.net/images/teams/qingdao-manatee.png" group-title="Giờ Vàng",[16:30-25/07] Qingdao Hainiu - Tianjin Jinmen Tiger [BLV Mát] - VĐQG Trung Quốc
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXjomjWcBx1zZDPKqF3VsexyZXQi03OXVYQOvIEHJ27Y~
+#EXTINF:-1 tvg-id="SxmVGJKBZG-V8vA0tmNUpG6cdmMt23vmB60vnyeRWeA~" tvg-name="[16:45-25/07] MetroStars - West Adelaide [BLV Trĩ] - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/wollongong-wolves.png" group-title="Giờ Vàng",[16:45-25/07] MetroStars - West Adelaide [BLV Trĩ] - NPL NSW Úc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DSxmVGJKBZG-V8vA0tmNUpG6cdmMt23vmB60vnyeRWeA~
+#EXTINF:-1 tvg-id="XjomjWcBx1zZDPKqF3VseyqJy5bDhrT3aKvquC4Tikw~" tvg-name="[17:30-25/07] Gimcheon Sangmu - Daejeon Citizen [BLV Mason] - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/gimcheon-sangmu-fc.png" group-title="Giờ Vàng",[17:30-25/07] Gimcheon Sangmu - Daejeon Citizen [BLV Mason] - K-League Hàn Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXjomjWcBx1zZDPKqF3VseyqJy5bDhrT3aKvquC4Tikw~
+#EXTINF:-1 tvg-id="XjomjWcBx1zZDPKqF3Vse3k4rVVyKcGlvCAPkIlC1wU~" tvg-name="[17:30-25/07] Pohang Steelers - Jeonbuk Hyundai Motors [BLV Bón] - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/pohang-steelers.png" group-title="Giờ Vàng",[17:30-25/07] Pohang Steelers - Jeonbuk Hyundai Motors [BLV Bón] - K-League Hàn Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXjomjWcBx1zZDPKqF3Vse3k4rVVyKcGlvCAPkIlC1wU~
+#EXTINF:-1 tvg-id="8Py9qPo3g68mr7r7geM71ghyH60B7uiJcGz7vah9MQg~" tvg-name="[18:00-25/07] Fortuna Dusseldorf - Borussia Dortmund - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/fortuna-dusseldorf.png" group-title="Giờ Vàng",[18:00-25/07] Fortuna Dusseldorf - Borussia Dortmund - Giao hữu
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D8Py9qPo3g68mr7r7geM71ghyH60B7uiJcGz7vah9MQg~
 #EXTINF:-1 tvg-id="BcUWMggudSv3mgI8nFCJxQ~~" tvg-name="[16:15-25/07] Macau Black Bears  - Titan Ultra Giant Risers [BLV Ben] - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://static.flashscore.com/res/image/data/zmqCswGG-jDh1Bm4g.png" group-title="Giờ Vàng",[16:15-25/07] Macau Black Bears  - Titan Ultra Giant Risers [BLV Ben] - Bóng rổ Philippines PBA Governors'' Cup
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DBcUWMggudSv3mgI8nFCJxQ~~
-#EXTINF:-1 tvg-id="5-xI6QbuWDSCOX2DPg8L4Q~~" tvg-name="[15:00-25/07] Brazil W  - Italy W [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/CYmjfUeM-vBKZiE2j.png" group-title="Giờ Vàng",[15:00-25/07] Brazil W  - Italy W [BLV Sún] - Bóng chuyền Nations League Women
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D5-xI6QbuWDSCOX2DPg8L4Q~~
-#EXTINF:-1 tvg-id="R9Yie16Io_pbnEvXfUcs4GeUxpMY5G-1_TCopbxVEYY~" tvg-name="[14:30-25/07] Spirit FC - Western Sydney Wanderers AM - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/spirit-fc.png" group-title="Giờ Vàng",[14:30-25/07] Spirit FC - Western Sydney Wanderers AM - NPL NSW Úc
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DR9Yie16Io_pbnEvXfUcs4GeUxpMY5G-1_TCopbxVEYY~
 #EXTINF:-1 tvg-id="Oc6mC44GNPVu-e3pcAammw~~" tvg-name="[17:00-25/07] 100 Thieves  - Team Spirit - 🎮 BLAST Bounty CS2" tvg-logo="https://static.flashscore.com/res/image/data/Y5Fp2sFG-j7Z9IDCI.png" group-title="Giờ Vàng",[17:00-25/07] 100 Thieves  - Team Spirit - 🎮 BLAST Bounty CS2
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DOc6mC44GNPVu-e3pcAammw~~
-#EXTINF:-1 tvg-id="XjomjWcBx1zZDPKqF3VseyqJy5bDhrT3aKvquC4Tikw~" tvg-name="[17:30-25/07] Gimcheon Sangmu - Daejeon Citizen [BLV Mason] - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/gimcheon-sangmu-fc.png" group-title="Giờ Vàng",[17:30-25/07] Gimcheon Sangmu - Daejeon Citizen [BLV Mason] - K-League Hàn Quốc
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXjomjWcBx1zZDPKqF3VseyqJy5bDhrT3aKvquC4Tikw~
-#EXTINF:-1 tvg-id="XjomjWcBx1zZDPKqF3Vse3k4rVVyKcGlvCAPkIlC1wU~" tvg-name="[17:30-25/07] Pohang Steelers - Jeonbuk Hyundai Motors [BLV Bón] - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/pohang-steelers.png" group-title="Giờ Vàng",[17:30-25/07] Pohang Steelers - Jeonbuk Hyundai Motors [BLV Bón] - K-League Hàn Quốc
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXjomjWcBx1zZDPKqF3Vse3k4rVVyKcGlvCAPkIlC1wU~
-#EXTINF:-1 tvg-id="8Py9qPo3g68mr7r7geM71ghyH60B7uiJcGz7vah9MQg~" tvg-name="[18:00-25/07] Fortuna Dusseldorf - Borussia Dortmund - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/fortuna-dusseldorf.png" group-title="Giờ Vàng",[18:00-25/07] Fortuna Dusseldorf - Borussia Dortmund - Giao hữu
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D8Py9qPo3g68mr7r7geM71ghyH60B7uiJcGz7vah9MQg~
 #EXTINF:-1 tvg-id="dnOOyZMdjE8MIEtCU6h91XFH2pmkohQAWSEunwmDZJA~" tvg-name="[18:30-25/07] Gateshead - Newcastle United - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/gateshead.png" group-title="Giờ Vàng",[18:30-25/07] Gateshead - Newcastle United - Giao hữu
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DdnOOyZMdjE8MIEtCU6h91XFH2pmkohQAWSEunwmDZJA~
 #EXTINF:-1 tvg-id="w-OvJ3uQWN3dixaVs9yZcw~~" tvg-name="[18:30-25/07] Terrafirma Dyip  - TNT Tropang 5G [BLV Ben] - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://static.flashscore.com/res/image/data/vssaS5zB-GfI3TW5S.png" group-title="Giờ Vàng",[18:30-25/07] Terrafirma Dyip  - TNT Tropang 5G [BLV Ben] - Bóng rổ Philippines PBA Governors'' Cup
@@ -117,14 +109,14 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJYeJzRZfVVArafzMXoCLww~~
 #EXTINF:-1 tvg-id="yKy470otf9RTUGh4HGPC2OwAguawOwkv0F513CVvDdc~" tvg-name="[21:30-26/07] Malmo FF - Elfsborg - VĐQG Thụy Điển" tvg-logo="https://images.keovip88.net/images/teams/malmo-ff.png" group-title="Giờ Vàng",[21:30-26/07] Malmo FF - Elfsborg - VĐQG Thụy Điển
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2OwAguawOwkv0F513CVvDdc~
-#EXTINF:-1 tvg-id="56067" tvg-name="[15:00-25/07] Brazil (W) - Italy (W) [BLV Kaka] - Bóng chuyền Nations League" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_RsNoEng.jpg" group-title="Pháo Hoa",[15:00-25/07] Brazil (W) - Italy (W) [BLV Kaka] - Bóng chuyền Nations League
+#EXTINF:-1 tvg-id="56020" tvg-name="[17:00-25/07] Myanmar - Malaysia [BLV Chim Nhỏ] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_345.jpg" group-title="Pháo Hoa",[17:00-25/07] Myanmar - Malaysia [BLV Chim Nhỏ] - ASEAN Championship
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="56020" tvg-name="[17:00-25/07] Myanmar - Malaysia [BLV Chim Nhỏ] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_345.jpg" group-title="Pháo Hoa",[17:00-25/07] Myanmar - Malaysia [BLV Chim Nhỏ] - ASEAN Championship
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56020
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 tvg-id="54763" tvg-name="[18:00-25/07] Dusseldorf - Dortmund [BLV Văn Minh] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_3916.jpg" group-title="Pháo Hoa",[18:00-25/07] Dusseldorf - Dortmund [BLV Văn Minh] - Club Friendlies
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54763
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-id="54776" tvg-name="[18:30-25/07] Gateshead - Newcastle [BLV Pháo Thủ] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2977.jpg" group-title="Pháo Hoa",[18:30-25/07] Gateshead - Newcastle [BLV Pháo Thủ] - Club Friendlies
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=54776
 #EXTINF:-1 tvg-id="56068" tvg-name="[18:30-25/07] Trung Quốc (W) - Thổ Nhĩ Kì (W) [BLV Kaka] - Bóng chuyền Nations League" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_OOrZwnR.jpg" group-title="Pháo Hoa",[18:30-25/07] Trung Quốc (W) - Thổ Nhĩ Kì (W) [BLV Kaka] - Bóng chuyền Nations League
