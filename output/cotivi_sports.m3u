@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RNJQ1mu6SiAMS1PPtG5xFGxlRrVcYCWT7QveHeezYeA~" tvg-name="[04:30-26/07] Atletico Paranaense - Internacional (RS) - VĐQG Brazil" tvg-logo="https://images.keovip88.net/images/teams/atletico-paranaense.png" group-title="Giờ Vàng",[04:30-26/07] Atletico Paranaense - Internacional (RS) - VĐQG Brazil
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DRNJQ1mu6SiAMS1PPtG5xFGxlRrVcYCWT7QveHeezYeA~
 #EXTINF:-1 tvg-id="RNJQ1mu6SiAMS1PPtG5xFB0zIThQoiVhFBYDFYrueBw~" tvg-name="[04:30-26/07] Santos - Chapecoense SC [BLV Ngọng] - VĐQG Brazil" tvg-logo="https://images.keovip88.net/images/teams/santos.png" group-title="Giờ Vàng",[04:30-26/07] Santos - Chapecoense SC [BLV Ngọng] - VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -11,12 +7,14 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DmTH7LF80csCoxRjoiXcMqQ~~
-#EXTINF:-1 tvg-id="RNJQ1mu6SiAMS1PPtG5xFHGZQ377f_BjlzXrdWB1IMc~" tvg-name="[06:00-26/07] Brooklyn FC - San Antonio [BLV Trĩ] - USL Championship Mỹ" tvg-logo="https://images.keovip88.net/images/teams/default.png" group-title="Giờ Vàng",[06:00-26/07] Brooklyn FC - San Antonio [BLV Trĩ] - USL Championship Mỹ
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DRNJQ1mu6SiAMS1PPtG5xFHGZQ377f_BjlzXrdWB1IMc~
-#EXTINF:-1 tvg-id="JYeJzRZfVVArafzMXoCLww~~" tvg-name="[06:10-26/07] New York Mets - Los Angeles Dodgers [BLV Ngu] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/ID1PVAjl-QJ65VxPM.png" group-title="Giờ Vàng",[06:10-26/07] New York Mets - Los Angeles Dodgers [BLV Ngu] - MLB
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJYeJzRZfVVArafzMXoCLww~~
 #EXTINF:-1 tvg-id="Lbcux-lMogYcIWjhkXZZ1Q~~" tvg-name="[06:30-26/07] Wrexham - Leeds United - World - Club Friendly" tvg-logo="https://static.flashscore.com/res/image/data/xh7dXaf5-OxoAKHbA.png" group-title="Giờ Vàng",[06:30-26/07] Wrexham - Leeds United - World - Club Friendly
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DLbcux-lMogYcIWjhkXZZ1Q~~
+#EXTINF:-1 tvg-id="JYeJzRZfVVArafzMXoCLww~~" tvg-name="[06:10-26/07] New York Mets - Los Angeles Dodgers [BLV Ngu] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/ID1PVAjl-QJ65VxPM.png" group-title="Giờ Vàng",[06:10-26/07] New York Mets - Los Angeles Dodgers [BLV Ngu] - MLB
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJYeJzRZfVVArafzMXoCLww~~
 #EXTINF:-1 tvg-id="cwhES3jwUeQ7eX-D2NP-pRehjPqoOSzIEpPHkp5f7EI~" tvg-name="[07:30-26/07] Houston Dynamo - Austin FC [BLV Mason] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/houston-dynamo.png" group-title="Giờ Vàng",[07:30-26/07] Houston Dynamo - Austin FC [BLV Mason] - MLS Mỹ
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DcwhES3jwUeQ7eX-D2NP-pRehjPqoOSzIEpPHkp5f7EI~
 #EXTINF:-1 tvg-id="cwhES3jwUeQ7eX-D2NP-pUdPV2BageOWnQIgJVIv6FA~" tvg-name="[07:30-26/07] FC Tulsa - Lexington - USL Championship Mỹ" tvg-logo="https://images.keovip88.net/images/teams/fc-tulsa.png" group-title="Giờ Vàng",[07:30-26/07] FC Tulsa - Lexington - USL Championship Mỹ
