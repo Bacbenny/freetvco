@@ -1,18 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SxmVGJKBZG-V8vA0tmNUpNa4qPauuP4PoerJQ0IR7O0~" tvg-name="[17:30-26/07] FC Anyang - Gangwon FC - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/fc-anyang.png" group-title="Giờ Vàng",[17:30-26/07] FC Anyang - Gangwon FC - K-League Hàn Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DSxmVGJKBZG-V8vA0tmNUpNa4qPauuP4PoerJQ0IR7O0~
+#EXTINF:-1 tvg-id="QmBJQ_ZmwFdOz1V-ccCLTg~~" tvg-name="[18:30-26/07] Türkiye - Brazil [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png" group-title="Giờ Vàng",[18:30-26/07] Türkiye - Brazil [BLV Sún] - Bóng chuyền Nations League Women
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQmBJQ_ZmwFdOz1V-ccCLTg~~
 #EXTINF:-1 tvg-id="Olx_f8bfdEJNPhEgNFaiieVb-Z5KotLjX4iETWYu6W4~" tvg-name="[17:30-26/07] FC Seoul - Ulsan Hyundai [BLV Bón] - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/fc-seoul.png" group-title="Giờ Vàng",[17:30-26/07] FC Seoul - Ulsan Hyundai [BLV Bón] - K-League Hàn Quốc
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DOlx_f8bfdEJNPhEgNFaiieVb-Z5KotLjX4iETWYu6W4~
+#EXTINF:-1 tvg-id="Olx_f8bfdEJNPhEgNFaiiWc7fj5-nYglNK9FrK9aJFk~" tvg-name="[18:00-26/07] Yunnan Yukun - Shenzhen Xinpengcheng - VĐQG Trung Quốc" tvg-logo="https://images.keovip88.net/images/teams/yunnan-yukun.png" group-title="Giờ Vàng",[18:00-26/07] Yunnan Yukun - Shenzhen Xinpengcheng - VĐQG Trung Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DOlx_f8bfdEJNPhEgNFaiiWc7fj5-nYglNK9FrK9aJFk~
 #EXTINF:-1 tvg-id="xXGWJmLVceUNLecd-jJ5Kw~~" tvg-name="[16:15-26/07] NLEX Road Warriors - San Miguel Beermen [BLV Cầy] - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://static.flashscore.com/res/image/data/2agQKghl-4EPybus0.png" group-title="Giờ Vàng",[16:15-26/07] NLEX Road Warriors - San Miguel Beermen [BLV Cầy] - Bóng rổ Philippines PBA Governors'' Cup
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DxXGWJmLVceUNLecd-jJ5Kw~~
-#EXTINF:-1 tvg-id="SxmVGJKBZG-V8vA0tmNUpNa4qPauuP4PoerJQ0IR7O0~" tvg-name="[17:30-26/07] FC Anyang - Gangwon FC - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/fc-anyang.png" group-title="Giờ Vàng",[17:30-26/07] FC Anyang - Gangwon FC - K-League Hàn Quốc
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DSxmVGJKBZG-V8vA0tmNUpNa4qPauuP4PoerJQ0IR7O0~
-#EXTINF:-1 tvg-id="Olx_f8bfdEJNPhEgNFaiiWc7fj5-nYglNK9FrK9aJFk~" tvg-name="[18:00-26/07] Yunnan Yukun - Shenzhen Xinpengcheng - VĐQG Trung Quốc" tvg-logo="https://images.keovip88.net/images/teams/yunnan-yukun.png" group-title="Giờ Vàng",[18:00-26/07] Yunnan Yukun - Shenzhen Xinpengcheng - VĐQG Trung Quốc
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DOlx_f8bfdEJNPhEgNFaiiWc7fj5-nYglNK9FrK9aJFk~
-#EXTINF:-1 tvg-id="QmBJQ_ZmwFdOz1V-ccCLTg~~" tvg-name="[18:30-26/07] Türkiye - Brazil [BLV Sún] - Bóng chuyền Nations League Women" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png" group-title="Giờ Vàng",[18:30-26/07] Türkiye - Brazil [BLV Sún] - Bóng chuyền Nations League Women
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQmBJQ_ZmwFdOz1V-ccCLTg~~
 #EXTINF:-1 tvg-id="eFVYNGWvUptN11fXqXg10g~~" tvg-name="[18:30-26/07] Barangay Gibebra San Miguel - Rain or Shine Elasto Painters [BLV Cầy] - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://static.flashscore.com/res/image/data/hWf7PfGG-67i7cfzM.png" group-title="Giờ Vàng",[18:30-26/07] Barangay Gibebra San Miguel - Rain or Shine Elasto Painters [BLV Cầy] - Bóng rổ Philippines PBA Governors'' Cup
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DeFVYNGWvUptN11fXqXg10g~~
 #EXTINF:-1 tvg-id="lKIM4uMXertf8V2L3V1NrA~~" tvg-name="[19:00-26/07] Việt Nam - Thái Lan  [BLV Trĩ] - Bóng chuyền Sea V Cup" tvg-logo="https://static.flashscore.com/res/image/data/AXfz4vDa-8xwT7BCP.png" group-title="Giờ Vàng",[19:00-26/07] Việt Nam - Thái Lan  [BLV Trĩ] - Bóng chuyền Sea V Cup
@@ -47,6 +53,18 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D-28ahgGjcGFpAGlYRtUI1srfhYk_BwbIQXW-wH_-0mI~
 #EXTINF:-1 tvg-id="-28ahgGjcGFpAGlYRtUI1uU806ptBXQ8U_qCukJtjwQ~" tvg-name="[08:00-27/07] Pachuca - Queretaro FC [BLV Bón] - Mexico Liga MX" tvg-logo="https://images.keovip88.net/images/teams/pachuca.png" group-title="Giờ Vàng",[08:00-27/07] Pachuca - Queretaro FC [BLV Bón] - Mexico Liga MX
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D-28ahgGjcGFpAGlYRtUI1uU806ptBXQ8U_qCukJtjwQ~
+#EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~" tvg-name="[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1" tvg-logo="https://images.keovip88.net/images/teams/lincoln-red-imps-fc.png" group-title="Giờ Vàng",[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~
+#EXTINF:-1 tvg-id="Ujmy09HWT5uFHU8XVTxa3uTXQyfxLiYOZPdjgodHQ_8~" tvg-name="[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga" tvg-logo="https://images.keovip88.net/images/teams/default.png" group-title="Giờ Vàng",[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DUjmy09HWT5uFHU8XVTxa3uTXQyfxLiYOZPdjgodHQ_8~
+#EXTINF:-1 tvg-id="JP3b07BNqlkZIRk3UYWK603Op7TfbBLtLFrcEiq8jW0~" tvg-name="[01:00-29/07] Dinamo Zagreb - FC Thun [BLV Mát] - C1" tvg-logo="https://images.keovip88.net/images/teams/dinamo-zagreb.png" group-title="Giờ Vàng",[01:00-29/07] Dinamo Zagreb - FC Thun [BLV Mát] - C1
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJP3b07BNqlkZIRk3UYWK603Op7TfbBLtLFrcEiq8jW0~
+#EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2hoOjkut2uTq85rjinZ8Mkk~" tvg-name="[01:15-29/07] NK Publikum Celje - Egnatia [BLV Mason] - C1" tvg-logo="https://images.keovip88.net/images/teams/nk-publikum-celje.png" group-title="Giờ Vàng",[01:15-29/07] NK Publikum Celje - Egnatia [BLV Mason] - C1
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2hoOjkut2uTq85rjinZ8Mkk~
+#EXTINF:-1 tvg-id="iVLIVuit0BNy3R9mo_FmISr21i7DR1Q6nI_8UNodzgw~" tvg-name="[05:00-29/07] Tigre - Nacional Montevideo - Copa Sudamericana" tvg-logo="https://images.keovip88.net/images/teams/club-atletico-tigre.png" group-title="Giờ Vàng",[05:00-29/07] Tigre - Nacional Montevideo - Copa Sudamericana
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmISr21i7DR1Q6nI_8UNodzgw~
+#EXTINF:-1 tvg-id="_YyyScPs8tbga7ROmE7d-g~~" tvg-name="[06:30-29/07] Washington Mystics - Connecticut Sun [BLV Cầy] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://nba.titan007.com/files/team/1har101sdj1w.png" group-title="Giờ Vàng",[06:30-29/07] Washington Mystics - Connecticut Sun [BLV Cầy] - Bóng rổ Women’s National Basketball Association
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D_YyyScPs8tbga7ROmE7d-g~~
 #EXTINF:-1 tvg-id="gAf5G9CBpSJ7QNxjtczmZw~~" tvg-name="[20:00-25/07]  Ankalaev - Rountree Jr [BLV Dory] - Võ thuật UFC Fight Night" tvg-logo="https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/ANKALAEV_MAGOMED_L_10-26.png?itok=L777PUSb" group-title="Giờ Vàng",[20:00-25/07]  Ankalaev - Rountree Jr [BLV Dory] - Võ thuật UFC Fight Night
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DgAf5G9CBpSJ7QNxjtczmZw~~
 #EXTINF:-1 tvg-id="T6-xUYxqMRl0ojMgFntH5h_VdhR_sQA7gmRE4rgvzEw~" tvg-name="[23:00-25/07] Lausanne Sports - Grasshoppers [BLV Mát] - VĐQG Thụy Sĩ" tvg-logo="https://images.keovip88.net/images/teams/lausanne-sports.png" group-title="Giờ Vàng",[23:00-25/07] Lausanne Sports - Grasshoppers [BLV Mát] - VĐQG Thụy Sĩ
@@ -58,9 +76,13 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTINF:-1 tvg-id="yKy470otf9RTUGh4HGPC2Nwj5xD_tqBY6JL_H3nBE4w~" tvg-name="[21:30-26/07] GAIS - Halmstads [BLV Trĩ] - VĐQG Thụy Điển" tvg-logo="https://images.keovip88.net/images/teams/gais.png" group-title="Giờ Vàng",[21:30-26/07] GAIS - Halmstads [BLV Trĩ] - VĐQG Thụy Điển
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2Nwj5xD_tqBY6JL_H3nBE4w~
 #EXTINF:-1 tvg-id="55479" tvg-name="[17:30-26/07] Seoul - Ulsan HD [BLV Văn Minh] - K League 1" tvg-logo="https://phaohoa1.live/media/teams/logos/team_377.jpg" group-title="Pháo Hoa",[17:30-26/07] Seoul - Ulsan HD [BLV Văn Minh] - K League 1
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55479
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-id="56205" tvg-name="[18:30-26/07] Thổ Nhĩ Kì (W) - Brazil (W) [BLV Kaka] - Bóng chuyền Nations League" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_YsFHEHv.jpg" group-title="Pháo Hoa",[18:30-26/07] Thổ Nhĩ Kì (W) - Brazil (W) [BLV Kaka] - Bóng chuyền Nations League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56205
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="55496" tvg-name="[18:35-26/07] Chengdu Rongcheng - Beijing Guoan [BLV Pháo Thủ] - Chinese Super League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2236.jpg" group-title="Pháo Hoa",[18:35-26/07] Chengdu Rongcheng - Beijing Guoan [BLV Pháo Thủ] - Chinese Super League
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55496
 #EXTINF:-1 tvg-id="55939" tvg-name="[19:00-26/07] Việt Nam - Thái Lan [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="Pháo Hoa",[19:00-26/07] Việt Nam - Thái Lan [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup
