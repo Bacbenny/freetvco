@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zGuD35wMJt7E_VKoIUCOZ6HjWGHPrYFCSP2mZEUKtrI~" tvg-name="[07:30-27/07] D. Concepcion - O Higgins [BLV Mát] - VĐQG Chilê" tvg-logo="https://images.keovip88.net/images/teams/d-concepcion.png" group-title="Giờ Vàng",[07:30-27/07] D. Concepcion - O Higgins [BLV Mát] - VĐQG Chilê
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DzGuD35wMJt7E_VKoIUCOZ6HjWGHPrYFCSP2mZEUKtrI~
-#EXTINF:-1 tvg-id="-28ahgGjcGFpAGlYRtUI1uU806ptBXQ8U_qCukJtjwQ~" tvg-name="[08:00-27/07] Pachuca - Queretaro FC [BLV Bón] - Mexico Liga MX" tvg-logo="https://images.keovip88.net/images/teams/pachuca.png" group-title="Giờ Vàng",[08:00-27/07] Pachuca - Queretaro FC [BLV Bón] - Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D-28ahgGjcGFpAGlYRtUI1uU806ptBXQ8U_qCukJtjwQ~
 #EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~" tvg-name="[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1" tvg-logo="https://images.keovip88.net/images/teams/lincoln-red-imps-fc.png" group-title="Giờ Vàng",[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~
 #EXTINF:-1 tvg-id="Ujmy09HWT5uFHU8XVTxa3uTXQyfxLiYOZPdjgodHQ_8~" tvg-name="[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga" tvg-logo="https://images.keovip88.net/images/teams/default.png" group-title="Giờ Vàng",[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga
