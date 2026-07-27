@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TA1GgMVcnBh8zdf9rfQUc9GJV-267AyL8TTrg-FwRhg~" tvg-name="[18:00-27/07] Singapore - Đông Timor [BLV Bón] - ASIAN CUP 2026" tvg-logo="https://images.keovip88.net/images/teams/singapore.png" group-title="Giờ Vàng",[18:00-27/07] Singapore - Đông Timor [BLV Bón] - ASIAN CUP 2026
+#EXTINF:-1 tvg-id="MmK-vjBMgvvPJ4v1hAYYUrix4tIycmUARNuBVPke4jE~" tvg-name="[20:30-27/07] Indonesia - Campuchia - ASIAN CUP 2026" tvg-logo="https://images.keovip88.net/images/teams/indonesia.png" group-title="Giờ Vàng",[20:30-27/07] Indonesia - Campuchia - ASIAN CUP 2026
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DTA1GgMVcnBh8zdf9rfQUc9GJV-267AyL8TTrg-FwRhg~
-#EXTINF:-1 tvg-id="0AOT2mBBAyzz573Zg7owqg~~" tvg-name="[19:00-27/07] Sarangani Province - Manila Stars [BLV Cầy] - Bóng rổ Philippines MPBL" tvg-logo="https://static.flashscore.com/res/image/data/bcCdv0GG-prO010ar.png" group-title="Giờ Vàng",[19:00-27/07] Sarangani Province - Manila Stars [BLV Cầy] - Bóng rổ Philippines MPBL
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D0AOT2mBBAyzz573Zg7owqg~~
-#EXTINF:-1 tvg-id="MmK-vjBMgvvPJ4v1hAYYUrix4tIycmUARNuBVPke4jE~" tvg-name="[20:30-27/07] Indonesia - Campuchia [BLV Cận] - ASIAN CUP 2026" tvg-logo="https://images.keovip88.net/images/teams/indonesia.png" group-title="Giờ Vàng",[20:30-27/07] Indonesia - Campuchia [BLV Cận] - ASIAN CUP 2026
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DMmK-vjBMgvvPJ4v1hAYYUrix4tIycmUARNuBVPke4jE~
 #EXTINF:-1 tvg-id="aT8UbQQFCrcKfSG17J-JBsv2ma4nKrUKAiFElV1TmlY~" tvg-name="[00:00-28/07] Hacken - AIK Solna [BLV Bón] - VĐQG Thụy Điển" tvg-logo="https://images.keovip88.net/images/teams/hacken.png" group-title="Giờ Vàng",[00:00-28/07] Hacken - AIK Solna [BLV Bón] - VĐQG Thụy Điển
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DaT8UbQQFCrcKfSG17J-JBsv2ma4nKrUKAiFElV1TmlY~
@@ -21,10 +15,16 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DZbKmPyJK3vH3XjJ8hIQuI_KbYbY_698oSY1vXYM5fmA~
 #EXTINF:-1 tvg-id="zlf5KPslh84hiVe-UkU_MA~~" tvg-name="[06:40-28/07] Chicago White Sox  - New York Yankees [BLV Cận] - MLB" tvg-logo="https://static.flashscore.com/res/image/data/rHrt6LAr-MFkjl69i.png" group-title="Giờ Vàng",[06:40-28/07] Chicago White Sox  - New York Yankees [BLV Cận] - MLB
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dzlf5KPslh84hiVe-UkU_MA~~
+#EXTINF:-1 tvg-id="SlBn-zNKAPHQNEcra0BIIS__EkadRKR6_Nrbot4t9nw~" tvg-name="[09:00-28/07] U20 Costa Rica - Mexico U20 [BLV Mát] - CONCACAF Championship U20" tvg-logo="https://images.keovip88.net/images/teams/costa-rica-u20.png" group-title="Giờ Vàng",[09:00-28/07] U20 Costa Rica - Mexico U20 [BLV Mát] - CONCACAF Championship U20
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DSlBn-zNKAPHQNEcra0BIIS__EkadRKR6_Nrbot4t9nw~
+#EXTINF:-1 tvg-id="QOxbsrzatqILQEYk4oazSA~~" tvg-name="[09:15-28/07] Atros - Correcaminos - Bóng rổ LNBP Mexico" tvg-logo="https://static.flashscore.com/res/image/data/IVU3vJil-tzL7A0Vo.png" group-title="Giờ Vàng",[09:15-28/07] Atros - Correcaminos - Bóng rổ LNBP Mexico
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQOxbsrzatqILQEYk4oazSA~~
 #EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~" tvg-name="[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1" tvg-logo="https://images.keovip88.net/images/teams/lincoln-red-imps-fc.png" group-title="Giờ Vàng",[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~
 #EXTINF:-1 tvg-id="Ujmy09HWT5uFHU8XVTxa3uTXQyfxLiYOZPdjgodHQ_8~" tvg-name="[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga" tvg-logo="https://images.keovip88.net/images/teams/default.png" group-title="Giờ Vàng",[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DUjmy09HWT5uFHU8XVTxa3uTXQyfxLiYOZPdjgodHQ_8~
+#EXTINF:-1 tvg-id="t_Wog18pUx27RiXASI6Z2w~~" tvg-name="[00:15-29/07] zBSOP WINTER 2026 Main Event Day Final - zBSOP WINTER 2026 Main Event Day Final [BLV Ngu] - 🎮 WSOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YzZnDH_GUxsGuKe-Sig7UeMJ2ou8xKt8sOAQW3oXl2gsHbu7KpwqgXB-&s=10" group-title="Giờ Vàng",[00:15-29/07] zBSOP WINTER 2026 Main Event Day Final - zBSOP WINTER 2026 Main Event Day Final [BLV Ngu] - 🎮 WSOP
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dt_Wog18pUx27RiXASI6Z2w~~
 #EXTINF:-1 tvg-id="JP3b07BNqlkZIRk3UYWK603Op7TfbBLtLFrcEiq8jW0~" tvg-name="[01:00-29/07] Dinamo Zagreb - FC Thun [BLV Mát] - C1" tvg-logo="https://images.keovip88.net/images/teams/dinamo-zagreb.png" group-title="Giờ Vàng",[01:00-29/07] Dinamo Zagreb - FC Thun [BLV Mát] - C1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJP3b07BNqlkZIRk3UYWK603Op7TfbBLtLFrcEiq8jW0~
 #EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2hoOjkut2uTq85rjinZ8Mkk~" tvg-name="[01:15-29/07] NK Publikum Celje - Egnatia [BLV Mason] - C1" tvg-logo="https://images.keovip88.net/images/teams/nk-publikum-celje.png" group-title="Giờ Vàng",[01:15-29/07] NK Publikum Celje - Egnatia [BLV Mason] - C1
@@ -45,20 +45,22 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2Nwj5xD_tqBY6JL_H3nBE4w~
 #EXTINF:-1 tvg-id="yKy470otf9RTUGh4HGPC2FijSxnNzDP979z4sD1iYM8~" tvg-name="[22:00-26/07] KFUM Oslo - Molde [BLV Cận] - VĐQG Na Uy" tvg-logo="https://images.keovip88.net/images/teams/kfum-oslo.png" group-title="Giờ Vàng",[22:00-26/07] KFUM Oslo - Molde [BLV Cận] - VĐQG Na Uy
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DyKy470otf9RTUGh4HGPC2FijSxnNzDP979z4sD1iYM8~
-#EXTINF:-1 tvg-id="56209" tvg-name="[18:00-27/07] Singapore - Timor-Leste [BLV Dế Lửa] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_483.jpg" group-title="Pháo Hoa",[18:00-27/07] Singapore - Timor-Leste [BLV Dế Lửa] - ASEAN Championship
+#EXTINF:-1 tvg-id="56212" tvg-name="[20:30-27/07] Indonesia - Cambodia [BLV Dế Lửa] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_484.jpg" group-title="Pháo Hoa",[20:30-27/07] Indonesia - Cambodia [BLV Dế Lửa] - ASEAN Championship
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
-#EXTINF:-1 tvg-id="56258" tvg-name="[20:00-27/07] Hóa Chất Đức Giang - Binh Chủng Thông Tin [BLV Kaka] - Bóng chuyền U18 Việt Nam" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_p5UhE4o.jpg" group-title="Pháo Hoa",[20:00-27/07] Hóa Chất Đức Giang - Binh Chủng Thông Tin [BLV Kaka] - Bóng chuyền U18 Việt Nam
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56258
-#EXTINF:-1 tvg-id="56212" tvg-name="[20:30-27/07] Indonesia - Cambodia [BLV Dế Lửa] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_484.jpg" group-title="Pháo Hoa",[20:30-27/07] Indonesia - Cambodia [BLV Dế Lửa] - ASEAN Championship
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56212
 #EXTINF:-1 tvg-id="56257" tvg-name="[20:30-27/07] Indonesia - Cambodia [BLV Kevin] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_484.jpg" group-title="Pháo Hoa",[20:30-27/07] Indonesia - Cambodia [BLV Kevin] - ASEAN Championship
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56257
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 #EXTINF:-1 tvg-id="55844" tvg-name="[22:00-27/07] Lok. Tashkent - Sogdiana [BLV Chim Nhỏ] - Super League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_8003.jpg" group-title="Pháo Hoa",[22:00-27/07] Lok. Tashkent - Sogdiana [BLV Chim Nhỏ] - Super League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55844
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 tvg-id="55850" tvg-name="[22:30-27/07] CFR Cluj - FC Voluntari [BLV Kaka] - Liga I" tvg-logo="https://phaohoa1.live/media/teams/logos/team_120.jpg" group-title="Pháo Hoa",[22:30-27/07] CFR Cluj - FC Voluntari [BLV Kaka] - Liga I
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55850
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="55860" tvg-name="[23:00-27/07] Artis Brno - Mlada Boleslav [BLV Pháo Thủ] - Czech Liga" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2620.jpg" group-title="Pháo Hoa",[23:00-27/07] Artis Brno - Mlada Boleslav [BLV Pháo Thủ] - Czech Liga
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=55860
 #EXTINF:-1 tvg-id="56259" tvg-name="[00:00-28/07] Hacken - AIK [BLV Kevin] - Allsvenskan" tvg-logo="https://phaohoa1.live/media/teams/logos/team_7348.jpg" group-title="Pháo Hoa",[00:00-28/07] Hacken - AIK [BLV Kevin] - Allsvenskan
