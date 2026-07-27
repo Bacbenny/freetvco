@@ -37,30 +37,24 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiVLIVuit0BNy3R9mo_FmISr21i7DR1Q6nI_8UNodzgw~
 #EXTINF:-1 tvg-id="_YyyScPs8tbga7ROmE7d-g~~" tvg-name="[06:30-29/07] Washington Mystics - Connecticut Sun [BLV Cầy] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://nba.titan007.com/files/team/1har101sdj1w.png" group-title="Giờ Vàng",[06:30-29/07] Washington Mystics - Connecticut Sun [BLV Cầy] - Bóng rổ Women’s National Basketball Association
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D_YyyScPs8tbga7ROmE7d-g~~
-#EXTINF:-1 tvg-id="55850" tvg-name="[22:30-27/07] CFR Cluj - FC Voluntari [BLV Kaka] - Liga I" tvg-logo="https://phaohoa1.live/media/teams/logos/team_120.jpg" group-title="Pháo Hoa",[22:30-27/07] CFR Cluj - FC Voluntari [BLV Kaka] - Liga I
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="55860" tvg-name="[23:00-27/07] Artis Brno - Mlada Boleslav [BLV Pháo Thủ] - Czech Liga" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2620.jpg" group-title="Pháo Hoa",[23:00-27/07] Artis Brno - Mlada Boleslav [BLV Pháo Thủ] - Czech Liga
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-id="56259" tvg-name="[00:00-28/07] Hacken - AIK [BLV Kevin] - Allsvenskan" tvg-logo="https://phaohoa1.live/media/teams/logos/team_7348.jpg" group-title="Pháo Hoa",[00:00-28/07] Hacken - AIK [BLV Kevin] - Allsvenskan
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56259
 #EXTINF:-1 tvg-id="56261" tvg-name="[00:00-28/07] Rosenborg - Fredrikstad [BLV Văn Minh] - Eliteserien" tvg-logo="https://phaohoa1.live/media/teams/logos/team_172.jpg" group-title="Pháo Hoa",[00:00-28/07] Rosenborg - Fredrikstad [BLV Văn Minh] - Eliteserien
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-id="56287" tvg-name="[01:15-28/07] CSKA Sofia - Botev Plovdiv [BLV Pháo Thủ] - First League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_140.jpg" group-title="Pháo Hoa",[01:15-28/07] CSKA Sofia - Botev Plovdiv [BLV Pháo Thủ] - First League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56287
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-id="56316" tvg-name="[16:45-28/07] Chelsea - WS Wanderers [BLV Chim Nhỏ] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_88.jpg" group-title="Pháo Hoa",[16:45-28/07] Chelsea - WS Wanderers [BLV Chim Nhỏ] - Club Friendlies
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56316
 #EXTINF:-1 tvg-id="56317" tvg-name="[17:00-28/07] Philippines - Myanmar [BLV Kevin] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_341.jpg" group-title="Pháo Hoa",[17:00-28/07] Philippines - Myanmar [BLV Kevin] - ASEAN Championship
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56317
 #EXTINF:-1 tvg-id="56329" tvg-name="[20:00-28/07] Malaysia - Laos [BLV Dế Lửa] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_478.jpg" group-title="Pháo Hoa",[20:00-28/07] Malaysia - Laos [BLV Dế Lửa] - ASEAN Championship
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56329
+#EXTINF:-1 tvg-id="58543" tvg-name="[20:00-28/07] Thể Công - Biên Phòng [BLV Kaka] - Bóng chuyền U18 Việt Nam" tvg-logo="https://phaohoa1.live/media/teams/logos/9437676a-23b5-462c-9335-e7153ba268e8.png" group-title="Pháo Hoa",[20:00-28/07] Thể Công - Biên Phòng [BLV Kaka] - Bóng chuyền U18 Việt Nam
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58543
 #EXTINF:-1 tvg-id="56334" tvg-name="[22:00-28/07] Neftchi Fargona - Navbahor Namangan [BLV Kaka] - Super League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_10543.jpg" group-title="Pháo Hoa",[22:00-28/07] Neftchi Fargona - Navbahor Namangan [BLV Kaka] - Super League
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56334
 #EXTINF:-1 tvg-id="56338" tvg-name="[22:00-28/07] KuPS - Sabah Baku [BLV Văn Minh] - UEFA Champions League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_180.jpg" group-title="Pháo Hoa",[22:00-28/07] KuPS - Sabah Baku [BLV Văn Minh] - UEFA Champions League
