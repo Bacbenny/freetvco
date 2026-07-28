@@ -1,36 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MmK-vjBMgvvPJ4v1hAYYUpjvbsa6VN6ysGZgODYlZck~" tvg-name="[20:00-28/07] Malaysia - Lào - ASIAN CUP 2026" tvg-logo="https://images.keovip88.net/images/teams/malaysia.png" group-title="Giờ Vàng",[20:00-28/07] Malaysia - Lào - ASIAN CUP 2026
+#EXTINF:-1 tvg-id="Wg37-G1op9NFZrtiFupPTN5CRgcuONfyMDa0BmPQT9U~" tvg-name="[23:00-28/07] Real Madrid - Leganes [BLV Cận] - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/real-madrid.png" group-title="Giờ Vàng",[23:00-28/07] Real Madrid - Leganes [BLV Cận] - Giao hữu
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DMmK-vjBMgvvPJ4v1hAYYUpjvbsa6VN6ysGZgODYlZck~
-#EXTINF:-1 tvg-id="MmK-vjBMgvvPJ4v1hAYYUh25E-BtI004l7gIvnQIQAw~" tvg-name="[17:00-28/07] Philippines - Myanmar [BLV Bón] - ASIAN CUP 2026" tvg-logo="https://images.keovip88.net/images/teams/philippines.png" group-title="Giờ Vàng",[17:00-28/07] Philippines - Myanmar [BLV Bón] - ASIAN CUP 2026
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DMmK-vjBMgvvPJ4v1hAYYUh25E-BtI004l7gIvnQIQAw~
-#EXTINF:-1 tvg-id="6-hZ5oicf5lLLqZNdSfUJSHvF7mjRFZCjo5WZrI4AnA~" tvg-name="[19:00-28/07] Bomik - Broke Boys [BLV Trĩ] - Cúp Nga" tvg-logo="https://images.keovip88.net/images/teams/default.png" group-title="Giờ Vàng",[19:00-28/07] Bomik - Broke Boys [BLV Trĩ] - Cúp Nga
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D6-hZ5oicf5lLLqZNdSfUJSHvF7mjRFZCjo5WZrI4AnA~
-#EXTINF:-1 tvg-id="r4NUNPcTuRLYTyjZW8-Rpg~~" tvg-name="[18:35-28/07] TNT Tropang 5G  - Converge FiberXers [BLV Lẹo] - Bóng rổ Philippines PBA Governors'' Cup" tvg-logo="https://static.flashscore.com/res/image/data/nTNHGwAr-hCospehC.png" group-title="Giờ Vàng",[18:35-28/07] TNT Tropang 5G  - Converge FiberXers [BLV Lẹo] - Bóng rổ Philippines PBA Governors'' Cup
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dr4NUNPcTuRLYTyjZW8-Rpg~~
-#EXTINF:-1 tvg-id="-zLGhIuIYwHqXJMuLGrB-A~~" tvg-name="[18:10-28/07] Pasay Voyagers - Batangas City Athletics [BLV Cầy] - Bóng rổ Philippines MPBL" tvg-logo="https://nba.titan007.com/files/team/1kkfxtv61k9.png" group-title="Giờ Vàng",[18:10-28/07] Pasay Voyagers - Batangas City Athletics [BLV Cầy] - Bóng rổ Philippines MPBL
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D-zLGhIuIYwHqXJMuLGrB-A~~
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DWg37-G1op9NFZrtiFupPTN5CRgcuONfyMDa0BmPQT9U~
 #EXTINF:-1 tvg-id="mJ5JAodXBrmLslJnQg3c8Bk4v5UbZZ8qHk1Mlr0J_mQ~" tvg-name="[21:00-28/07] FK Anzhi - Izberbash [BLV Mát] - Cúp Nga" tvg-logo="https://images.keovip88.net/images/teams/anzhi-makhachkala.jpg" group-title="Giờ Vàng",[21:00-28/07] FK Anzhi - Izberbash [BLV Mát] - Cúp Nga
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DmJ5JAodXBrmLslJnQg3c8Bk4v5UbZZ8qHk1Mlr0J_mQ~
 #EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~" tvg-name="[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1" tvg-logo="https://images.keovip88.net/images/teams/lincoln-red-imps-fc.png" group-title="Giờ Vàng",[23:00-28/07] Lincoln Red Imps FC - Mjallby AIF [BLV Trĩ] - C1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2uXUlvUVjhNoBTzHpjw8u3I~
 #EXTINF:-1 tvg-id="Ujmy09HWT5uFHU8XVTxa3uTXQyfxLiYOZPdjgodHQ_8~" tvg-name="[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga" tvg-logo="https://images.keovip88.net/images/teams/default.png" group-title="Giờ Vàng",[23:00-28/07] Kristall MEZ Borisoglebsk - Salyut-Energia Belgorod [BLV Mason] - Cúp Nga
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DUjmy09HWT5uFHU8XVTxa3uTXQyfxLiYOZPdjgodHQ_8~
-#EXTINF:-1 tvg-id="Wg37-G1op9NFZrtiFupPTN5CRgcuONfyMDa0BmPQT9U~" tvg-name="[23:00-28/07] Real Madrid - Leganes [BLV Cận] - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/real-madrid.png" group-title="Giờ Vàng",[23:00-28/07] Real Madrid - Leganes [BLV Cận] - Giao hữu
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DWg37-G1op9NFZrtiFupPTN5CRgcuONfyMDa0BmPQT9U~
-#EXTINF:-1 tvg-id="t_Wog18pUx27RiXASI6Z2w~~" tvg-name="[00:15-29/07] zBSOP WINTER 2026 Main Event Day Final - zBSOP WINTER 2026 Main Event Day Final [BLV Ngu] - 🎮 WSOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YzZnDH_GUxsGuKe-Sig7UeMJ2ou8xKt8sOAQW3oXl2gsHbu7KpwqgXB-&s=10" group-title="Giờ Vàng",[00:15-29/07] zBSOP WINTER 2026 Main Event Day Final - zBSOP WINTER 2026 Main Event Day Final [BLV Ngu] - 🎮 WSOP
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dt_Wog18pUx27RiXASI6Z2w~~
 #EXTINF:-1 tvg-id="JP3b07BNqlkZIRk3UYWK603Op7TfbBLtLFrcEiq8jW0~" tvg-name="[01:00-29/07] Dinamo Zagreb - FC Thun [BLV Mát] - C1" tvg-logo="https://images.keovip88.net/images/teams/dinamo-zagreb.png" group-title="Giờ Vàng",[01:00-29/07] Dinamo Zagreb - FC Thun [BLV Mát] - C1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJP3b07BNqlkZIRk3UYWK603Op7TfbBLtLFrcEiq8jW0~
+#EXTINF:-1 tvg-id="t_Wog18pUx27RiXASI6Z2w~~" tvg-name="[01:00-29/07] zBSOP WINTER 2026 Main Event Day Final - zBSOP WINTER 2026 Main Event Day Final [BLV Ngu] - 🎮 WSOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YzZnDH_GUxsGuKe-Sig7UeMJ2ou8xKt8sOAQW3oXl2gsHbu7KpwqgXB-&s=10" group-title="Giờ Vàng",[01:00-29/07] zBSOP WINTER 2026 Main Event Day Final - zBSOP WINTER 2026 Main Event Day Final [BLV Ngu] - 🎮 WSOP
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dt_Wog18pUx27RiXASI6Z2w~~
 #EXTINF:-1 tvg-id="QZ_jG12TQWAj9et2Y4A_2hoOjkut2uTq85rjinZ8Mkk~" tvg-name="[01:15-29/07] NK Publikum Celje - Egnatia [BLV Mason] - C1" tvg-logo="https://images.keovip88.net/images/teams/nk-publikum-celje.png" group-title="Giờ Vàng",[01:15-29/07] NK Publikum Celje - Egnatia [BLV Mason] - C1
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DQZ_jG12TQWAj9et2Y4A_2hoOjkut2uTq85rjinZ8Mkk~
 #EXTINF:-1 tvg-id="g-X1U5T5tCMhRypxso3VDulumF_BzyMKoE5YxSi3oAM~" tvg-name="[01:45-29/07] Hearts - Sturm Graz - C1" tvg-logo="https://images.keovip88.net/images/teams/heart-of-midlothian.png" group-title="Giờ Vàng",[01:45-29/07] Hearts - Sturm Graz - C1
@@ -61,18 +45,14 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DJOjh_sZennTi9RXT_CKMUHjYJAKvhGfgnd78pSdaY5A~
 #EXTINF:-1 tvg-id="_EK08tFVeq4B9ctnRCgcYtQUQCjgtXxvDn5469Lij24~" tvg-name="[05:00-31/07] U20 Costa Rica - Antigua Barbuda U20 - CONCACAF Championship U20" tvg-logo="https://images.keovip88.net/images/teams/costa-rica-u20.png" group-title="Giờ Vàng",[05:00-31/07] U20 Costa Rica - Antigua Barbuda U20 - CONCACAF Championship U20
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D_EK08tFVeq4B9ctnRCgcYtQUQCjgtXxvDn5469Lij24~
-#EXTINF:-1 tvg-id="56329" tvg-name="[20:00-28/07] Malaysia - Laos [BLV Dế Lửa] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_478.jpg" group-title="Pháo Hoa",[20:00-28/07] Malaysia - Laos [BLV Dế Lửa] - ASEAN Championship
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
-#EXTINF:-1 tvg-id="58543" tvg-name="[20:00-28/07] Thể Công - Biên Phòng [BLV Kaka] - Bóng chuyền U18 Việt Nam" tvg-logo="https://phaohoa1.live/media/teams/logos/9437676a-23b5-462c-9335-e7153ba268e8.png" group-title="Pháo Hoa",[20:00-28/07] Thể Công - Biên Phòng [BLV Kaka] - Bóng chuyền U18 Việt Nam
+#EXTINF:-1 tvg-id="56334" tvg-name="[22:00-28/07] Neftchi Fargona - Navbahor Namangan [BLV Kaka] - Super League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_10543.jpg" group-title="Pháo Hoa",[22:00-28/07] Neftchi Fargona - Navbahor Namangan [BLV Kaka] - Super League
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="56334" tvg-name="[22:00-28/07] Neftchi Fargona - Navbahor Namangan [BLV Kaka] - Super League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_10543.jpg" group-title="Pháo Hoa",[22:00-28/07] Neftchi Fargona - Navbahor Namangan [BLV Kaka] - Super League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56334
 #EXTINF:-1 tvg-id="56338" tvg-name="[22:00-28/07] KuPS - Sabah Baku [BLV Văn Minh] - UEFA Champions League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_180.jpg" group-title="Pháo Hoa",[22:00-28/07] KuPS - Sabah Baku [BLV Văn Minh] - UEFA Champions League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56338
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-id="56315" tvg-name="[23:00-28/07] Real Madrid - Leganes [BLV Dế Lửa] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_76.jpg" group-title="Pháo Hoa",[23:00-28/07] Real Madrid - Leganes [BLV Dế Lửa] - Club Friendlies
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56315
 #EXTINF:-1 tvg-id="56350" tvg-name="[23:00-28/07] Lincoln Red Imps - Mjallby [BLV Pháo Thủ] - UEFA Champions League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_209.jpg" group-title="Pháo Hoa",[23:00-28/07] Lincoln Red Imps - Mjallby [BLV Pháo Thủ] - UEFA Champions League
