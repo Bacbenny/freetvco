@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="9EQVjkj-AbnQhOXV5FrKRw~~" tvg-name="[16:30-30/07] Sydney Olympic  - Brisbane Roar [BLV Bón] - Australia - Australia Cup" tvg-logo="https://images.keovip88.net/images/teams/sydney-olympic.png" group-title="Giờ Vàng",[16:30-30/07] Sydney Olympic  - Brisbane Roar [BLV Bón] - Australia - Australia Cup
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D9EQVjkj-AbnQhOXV5FrKRw~~
-#EXTINF:-1 tvg-id="pTQVtH4HBXJblSh8jPFTeQ~~" tvg-name="[16:30-30/07] South Melbourne - Adelaide United - Australia - Australia Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/South_Melbourne_FC_logo.svg" group-title="Giờ Vàng",[16:30-30/07] South Melbourne - Adelaide United - Australia - Australia Cup
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DpTQVtH4HBXJblSh8jPFTeQ~~
 #EXTINF:-1 tvg-id="tylUpr2m9-iLRXUCY4YLu9nj6UqZuJCiNGOT-d4Q5oE~" tvg-name="[21:00-30/07] Tobol Kostanay - Baltija Panevezys - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/tobol-kostanai.png" group-title="Giờ Vàng",[21:00-30/07] Tobol Kostanay - Baltija Panevezys - Europa Conference League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DtylUpr2m9-iLRXUCY4YLu9nj6UqZuJCiNGOT-d4Q5oE~
 #EXTINF:-1 tvg-id="5injcfQusOSkySBawUR0qV0XxdWcmgpFqVIrQh6R3uM~" tvg-name="[21:00-30/07] Atletic Escaldes - Vaduz [BLV Trĩ] - Europa Conference League" tvg-logo="https://images.keovip88.net/images/teams/atletic-club-d-escaldes.png" group-title="Giờ Vàng",[21:00-30/07] Atletic Escaldes - Vaduz [BLV Trĩ] - Europa Conference League
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D5injcfQusOSkySBawUR0qV0XxdWcmgpFqVIrQh6R3uM~
 #EXTINF:-1 tvg-id="BRPd7S9Z9nZOfPzr3Dn5CpsPVJOZW6LrT1q08m-4TBQ~" tvg-name="[23:00-30/07] Maccabi Tel Aviv - FC Sheriff [BLV Bón] - C2" tvg-logo="https://images.keovip88.net/images/teams/maccabi-tel-aviv.png" group-title="Giờ Vàng",[23:00-30/07] Maccabi Tel Aviv - FC Sheriff [BLV Bón] - C2
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DBRPd7S9Z9nZOfPzr3Dn5CpsPVJOZW6LrT1q08m-4TBQ~
@@ -61,10 +57,6 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DKcwf3vM4jqdqs69JG86vmg~~
 #EXTINF:-1 tvg-id="ASNer35ifepXGeEl3lH9xw~~" tvg-name="[19:00-30/07] San Juan Knights - Quezon Huskers [BLV Ben] - Bóng rổ Philippines MPBL" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/c510ba73d42457170c2b44cba1ac39f1.png" group-title="Giờ Vàng",[19:00-30/07] San Juan Knights - Quezon Huskers [BLV Ben] - Bóng rổ Philippines MPBL
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DASNer35ifepXGeEl3lH9xw~~
-#EXTINF:-1 tvg-id="58705" tvg-name="[18:30-30/07] Ba Lan - Ukraine [BLV Kaka] - Bóng chuyền Nations League" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_uiH5uS2.jpg" group-title="Pháo Hoa",[18:30-30/07] Ba Lan - Ukraine [BLV Kaka] - Bóng chuyền Nations League
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="56685" tvg-name="[21:00-30/07] Augsburg - Bournemouth [BLV Văn Minh] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_3934.jpg" group-title="Pháo Hoa",[21:00-30/07] Augsburg - Bournemouth [BLV Văn Minh] - Club Friendlies
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56685
 #EXTINF:-1 tvg-id="56700" tvg-name="[23:00-30/07] Inter Turku - Basaksehir [BLV Pháo Thủ] - UEFA Conference League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_3542.jpg" group-title="Pháo Hoa",[23:00-30/07] Inter Turku - Basaksehir [BLV Pháo Thủ] - UEFA Conference League
