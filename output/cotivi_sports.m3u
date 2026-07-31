@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MmK-vjBMgvvPJ4v1hAYYUqtfmFtxasESv0WRTV-LuXM~" tvg-name="[20:00-31/07] Việt Nam - Singapore [BLV Cận] - ASIAN CUP 2026" tvg-logo="https://images.keovip88.net/images/teams/vietnam.png" group-title="Giờ Vàng",[20:00-31/07] Việt Nam - Singapore [BLV Cận] - ASIAN CUP 2026
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DMmK-vjBMgvvPJ4v1hAYYUqtfmFtxasESv0WRTV-LuXM~
-#EXTINF:-1 tvg-id="FDIAq5BBhWpy5DjQ1qnjAw~~" tvg-name="[19:00-31/07] Việt Nam W  - Philippines W [BLV Trĩ] - Bóng chuyền SEA V.CUP 2026" tvg-logo="https://static.flashscore.com/res/image/data/jilBtfFG-0xLZRP53.png" group-title="Giờ Vàng",[19:00-31/07] Việt Nam W  - Philippines W [BLV Trĩ] - Bóng chuyền SEA V.CUP 2026
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DFDIAq5BBhWpy5DjQ1qnjAw~~
 #EXTINF:-1 tvg-id="XZvgq74PVoVhTit9a9KHRQ~~" tvg-name="[22:30-31/07] Ekenäs IF  - Klubi-04 - Finland - Ykkösliiga" tvg-logo="https://static.flashscore.com/res/image/data/O2QEUvil-xIKZWgDK.png" group-title="Giờ Vàng",[22:30-31/07] Ekenäs IF  - Klubi-04 - Finland - Ykkösliiga
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXZvgq74PVoVhTit9a9KHRQ~~
 #EXTINF:-1 tvg-id="cgvelQvTYB79_YD_aNrIHQ~~" tvg-name="[22:30-31/07] KTP  - SJK Akatemia [BLV Trĩ] - Finland - Ykkösliiga" tvg-logo="https://static.flashscore.com/res/image/data/p2Sp9uCr-6clVGmml.png" group-title="Giờ Vàng",[22:30-31/07] KTP  - SJK Akatemia [BLV Trĩ] - Finland - Ykkösliiga
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DcgvelQvTYB79_YD_aNrIHQ~~
 #EXTINF:-1 tvg-id="WO8LNevejpy1P8BW3X-IAF3Np7NhEm7lVFyzpJ6Z6CQ~" tvg-name="[23:00-31/07] PK-35 - Haka [BLV Mát] - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/kups.png" group-title="Giờ Vàng",[23:00-31/07] PK-35 - Haka [BLV Mát] - VĐQG Phần Lan
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DWO8LNevejpy1P8BW3X-IAF3Np7NhEm7lVFyzpJ6Z6CQ~
@@ -63,22 +59,14 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DBRPd7S9Z9nZOfPzr3Dn5CkVY6xJsZAu4C6sMRQ_U4_c~
 #EXTINF:-1 tvg-id="KPP2dqkk-jHRwceRnG2WGg~~" tvg-name="[09:00-31/07] Las Vegas Aces - New York Liberty [BLV Điếc] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/cbf9424df17d6e06d655dca78651d329.png" group-title="Giờ Vàng",[09:00-31/07] Las Vegas Aces - New York Liberty [BLV Điếc] - Bóng rổ Women’s National Basketball Association
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DKPP2dqkk-jHRwceRnG2WGg~~
-#EXTINF:-1 tvg-id="59143" tvg-name="[19:00-31/07] Việt Nam - Philippines [BLV Kaka] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="Pháo Hoa",[19:00-31/07] Việt Nam - Philippines [BLV Kaka] - Bóng chuyền Sea V Cup
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="56839" tvg-name="[20:00-31/07] Việt Nam - Singapore [BLV Ken] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_479.jpg" group-title="Pháo Hoa",[20:00-31/07] Việt Nam - Singapore [BLV Ken] - ASEAN Championship
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="59096" tvg-name="[20:00-31/07] Việt Nam - Singapore [BLV Kevin] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_479.jpg" group-title="Pháo Hoa",[20:00-31/07] Việt Nam - Singapore [BLV Kevin] - ASEAN Championship
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 #EXTINF:-1 tvg-id="56858" tvg-name="[22:00-31/07] FK Zorya Luhansk - Kolos Kovalivka [BLV Văn Minh] - Premier League" tvg-logo="https://phaohoa1.live/media/teams/logos/team_157.jpg" group-title="Pháo Hoa",[22:00-31/07] FK Zorya Luhansk - Kolos Kovalivka [BLV Văn Minh] - Premier League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56858
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-id="56890" tvg-name="[23:00-31/07] Aarhus Fremad - Aalborg [BLV Pháo Thủ] - 1. Division" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2658.jpg" group-title="Pháo Hoa",[23:00-31/07] Aarhus Fremad - Aalborg [BLV Pháo Thủ] - 1. Division
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56890
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-id="56915" tvg-name="[00:00-01/08] Valerenga - HamKam [BLV Kevin] - Eliteserien" tvg-logo="https://phaohoa1.live/media/teams/logos/team_5599.jpg" group-title="Pháo Hoa",[00:00-01/08] Valerenga - HamKam [BLV Kevin] - Eliteserien
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=56915
 #EXTINF:-1 tvg-id="56948" tvg-name="[00:00-01/08] AB Copenhagen - Fredericia [BLV Chim Nhỏ] - 1. Division" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2673.jpg" group-title="Pháo Hoa",[00:00-01/08] AB Copenhagen - Fredericia [BLV Chim Nhỏ] - 1. Division
