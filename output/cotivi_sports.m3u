@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SC0lU_YXTVLf_8khYIyzIw~~" tvg-name="[02:30-01/08] Taylor Fritz  - Alex Michelsen  [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/vDLwcnCa-8AMTtzu5.png" group-title="Giờ Vàng",[02:30-01/08] Taylor Fritz  - Alex Michelsen  [BLV Ben] - Quần vợt ATP Mubadala Open
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DSC0lU_YXTVLf_8khYIyzIw~~
 #EXTINF:-1 tvg-id="X518awx7L9q05yNIy4BcJQ~~" tvg-name="[03:30-01/08] Nurmagomedov  - Colgan - Võ thuật PFL New York" tvg-logo="https://static.flashscore.com/res/image/data/zZkGlfyS-2N2OuAn7.png" group-title="Giờ Vàng",[03:30-01/08] Nurmagomedov  - Colgan - Võ thuật PFL New York
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
