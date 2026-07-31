@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EtM3dumDAINCTTM878o0fh0nXmJnqqYDb0a2p6dC3m8~" tvg-name="[01:45-01/08] Birmingham - Barcelona [BLV Ngọng] - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/birmingham-city.png" group-title="Giờ Vàng",[01:45-01/08] Birmingham - Barcelona [BLV Ngọng] - Giao hữu
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DEtM3dumDAINCTTM878o0fh0nXmJnqqYDb0a2p6dC3m8~
-#EXTINF:-1 tvg-id="nde5ZhfChr8GsQNoCvArVA~~" tvg-name="[01:00-01/08] Alex De Minaur - Brandon Nakashima [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/jcP2ujzB-CID30mRm.png" group-title="Giờ Vàng",[01:00-01/08] Alex De Minaur - Brandon Nakashima [BLV Ben] - Quần vợt ATP Mubadala Open
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dnde5ZhfChr8GsQNoCvArVA~~
 #EXTINF:-1 tvg-id="SC0lU_YXTVLf_8khYIyzIw~~" tvg-name="[02:30-01/08] Taylor Fritz  - Alex Michelsen  [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/vDLwcnCa-8AMTtzu5.png" group-title="Giờ Vàng",[02:30-01/08] Taylor Fritz  - Alex Michelsen  [BLV Ben] - Quần vợt ATP Mubadala Open
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DSC0lU_YXTVLf_8khYIyzIw~~
 #EXTINF:-1 tvg-id="X518awx7L9q05yNIy4BcJQ~~" tvg-name="[03:30-01/08] Nurmagomedov  - Colgan - Võ thuật PFL New York" tvg-logo="https://static.flashscore.com/res/image/data/zZkGlfyS-2N2OuAn7.png" group-title="Giờ Vàng",[03:30-01/08] Nurmagomedov  - Colgan - Võ thuật PFL New York
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DX518awx7L9q05yNIy4BcJQ~~
 #EXTINF:-1 tvg-id="uAbxSAuq65M2q4ap-KVYwIKe0fQRn37mHmfYuEO9S1k~" tvg-name="[06:30-01/08] New York City FC - Toronto FC [BLV Ngọng] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/new-york-city-fc.png" group-title="Giờ Vàng",[06:30-01/08] New York City FC - Toronto FC [BLV Ngọng] - MLS Mỹ
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DuAbxSAuq65M2q4ap-KVYwIKe0fQRn37mHmfYuEO9S1k~
@@ -53,14 +49,6 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DWO8LNevejpy1P8BW3X-IAF3Np7NhEm7lVFyzpJ6Z6CQ~
 #EXTINF:-1 tvg-id="EeFS7Khj6ZdVR2A2ImCeu03NpJ1oXFkHLzr2qq_l31M~" tvg-name="[23:00-31/07] Juventus - Nice - Giao hữu" tvg-logo="https://images.keovip88.net/images/teams/juventus.png" group-title="Giờ Vàng",[23:00-31/07] Juventus - Nice - Giao hữu
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DEeFS7Khj6ZdVR2A2ImCeu03NpJ1oXFkHLzr2qq_l31M~
-#EXTINF:-1 tvg-id="57063" tvg-name="[01:45-01/08] Birmingham - Barcelona [BLV Ken] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_3432.jpg" group-title="Pháo Hoa",[01:45-01/08] Birmingham - Barcelona [BLV Ken] - Club Friendlies
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="57071" tvg-name="[02:00-01/08] Bodo/Glimt - Lillestrom [BLV Pháo Thủ] - Eliteserien" tvg-logo="https://phaohoa1.live/media/teams/logos/team_215.jpg" group-title="Pháo Hoa",[02:00-01/08] Bodo/Glimt - Lillestrom [BLV Pháo Thủ] - Eliteserien
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-id="59432" tvg-name="[16:00-01/08] Philippines - Thái Lan [BLV Ken] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_njudfFz.jpg" group-title="Pháo Hoa",[16:00-01/08] Philippines - Thái Lan [BLV Ken] - Bóng chuyền Sea V Cup
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=59432
 #EXTINF:-1 tvg-id="57213" tvg-name="[16:45-01/08] Chelsea - Tottenham [BLV Chim Nhỏ] - Club Friendlies" tvg-logo="https://phaohoa1.live/media/teams/logos/team_88.jpg" group-title="Pháo Hoa",[16:45-01/08] Chelsea - Tottenham [BLV Chim Nhỏ] - Club Friendlies
