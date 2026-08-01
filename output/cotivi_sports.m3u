@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RjJ5WVJRdTQF1XAbfiF7-aMqYJsY7aF5g8Ns2NXK3ks~" tvg-name="[23:00-01/08] Gnistan - KuPS [BLV Mát] - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/gnistan-helsinki.png" group-title="Giờ Vàng",[23:00-01/08] Gnistan - KuPS [BLV Mát] - VĐQG Phần Lan
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DRjJ5WVJRdTQF1XAbfiF7-aMqYJsY7aF5g8Ns2NXK3ks~
 #EXTINF:-1 tvg-id="ufFaXjf3XWUjL4K0DOmKYg~~" tvg-name="[23:59-01/08] Chicago Sky - Las Vegas Aces - Bóng rổ Women’s National Basketball Association" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/0a570e6f3972fccc8370091d6ffdef5e.png" group-title="Giờ Vàng",[23:59-01/08] Chicago Sky - Las Vegas Aces - Bóng rổ Women’s National Basketball Association
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DufFaXjf3XWUjL4K0DOmKYg~~
+#EXTINF:-1 tvg-id="6GvzfwEL0PN-cHbW2ud3VA~~" tvg-name="[02:00-02/08] Phoenix Mercury - New York Liberty [BLV Ben] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/f35ccb51f91cd187f149d4d55fc6be24.png" group-title="Giờ Vàng",[02:00-02/08] Phoenix Mercury - New York Liberty [BLV Ben] - Bóng rổ Women’s National Basketball Association
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D6GvzfwEL0PN-cHbW2ud3VA~~
 #EXTINF:-1 tvg-id="NFZSnsB2e4OWAjsa2AJyUw~~" tvg-name="[21:00-01/08] Medić  - Rodriguez [BLV Cầy] - Võ thuật UFC Fight Night" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4685870.png&w=350&h=254" group-title="Giờ Vàng",[21:00-01/08] Medić  - Rodriguez [BLV Cầy] - Võ thuật UFC Fight Night
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
@@ -19,8 +19,6 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DXv3418__tKgV_LzCdtd_2g~~
-#EXTINF:-1 tvg-id="6GvzfwEL0PN-cHbW2ud3VA~~" tvg-name="[02:00-02/08] Phoenix Mercury - New York Liberty [BLV Ben] - Bóng rổ Women’s National Basketball Association" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/f35ccb51f91cd187f149d4d55fc6be24.png" group-title="Giờ Vàng",[02:00-02/08] Phoenix Mercury - New York Liberty [BLV Ben] - Bóng rổ Women’s National Basketball Association
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D6GvzfwEL0PN-cHbW2ud3VA~~
 #EXTINF:-1 tvg-id="TToH6szv3o0YZwx5FbCa9gYEQaThmJPGKE8WCVREZt4~" tvg-name="[04:00-02/08] Belgrano - Argentinos Juniors [BLV Ngọng] - VĐQG Argentina" tvg-logo="https://images.keovip88.net/images/teams/belgrano.png" group-title="Giờ Vàng",[04:00-02/08] Belgrano - Argentinos Juniors [BLV Ngọng] - VĐQG Argentina
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DTToH6szv3o0YZwx5FbCa9gYEQaThmJPGKE8WCVREZt4~
 #EXTINF:-1 tvg-id="oYIQeRHaItqqY5cf4zGZpw~~" tvg-name="[05:30-02/08] Brandon Nakashima - Taylor Fritz [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/h8wF43GG-I3vxtblK.png" group-title="Giờ Vàng",[05:30-02/08] Brandon Nakashima - Taylor Fritz [BLV Ben] - Quần vợt ATP Mubadala Open
