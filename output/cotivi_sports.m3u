@@ -3,12 +3,14 @@
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DTToH6szv3o0YZwx5FbCa9gYEQaThmJPGKE8WCVREZt4~
+#EXTINF:-1 tvg-id="oYIQeRHaItqqY5cf4zGZpw~~" tvg-name="[05:30-02/08] Brandon Nakashima - Taylor Fritz [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/h8wF43GG-I3vxtblK.png" group-title="Giờ Vàng",[05:30-02/08] Brandon Nakashima - Taylor Fritz [BLV Ben] - Quần vợt ATP Mubadala Open
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DoYIQeRHaItqqY5cf4zGZpw~~
 #EXTINF:-1 tvg-id="zDLVEWcXJj_okEKs1HJu2w~~" tvg-name="[03:00-02/08] Robbie Capito - Duong Quoc Hoang [BLV Điếc] - 🎮 Vice City Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_lBQlVt7wA5iawO4ogduOrj1EWbtHhHt8yldasxftYhKUNgqumAUUhxzuyxVzgvVEj374amP66fyjXCc81Xi4RWqBjVOVhopZUuZgPA&s=10" group-title="Giờ Vàng",[03:00-02/08] Robbie Capito - Duong Quoc Hoang [BLV Điếc] - 🎮 Vice City Classic
 #EXTVLCOPT:http-referrer=https://giovang.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DzDLVEWcXJj_okEKs1HJu2w~~
-#EXTINF:-1 tvg-id="oYIQeRHaItqqY5cf4zGZpw~~" tvg-name="[05:30-02/08] Brandon Nakashima - Taylor Fritz [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/h8wF43GG-I3vxtblK.png" group-title="Giờ Vàng",[05:30-02/08] Brandon Nakashima - Taylor Fritz [BLV Ben] - Quần vợt ATP Mubadala Open
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DoYIQeRHaItqqY5cf4zGZpw~~
 #EXTINF:-1 tvg-id="lunKz7eHErzkU3BP_MEYdQ~~" tvg-name="[07:00-02/08] Rafael Jodar - Alejandro Tabilo [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/A5stpqzB-bJuw1oYE.png" group-title="Giờ Vàng",[07:00-02/08] Rafael Jodar - Alejandro Tabilo [BLV Ben] - Quần vợt ATP Mubadala Open
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DlunKz7eHErzkU3BP_MEYdQ~~
 #EXTINF:-1 tvg-id="BIM8wx0Bl-4pFBbfvlUKhg~~" tvg-name="[07:15-02/08] Astros - Lobos Plateados [BLV Điếc] - Bóng rổ Liga Nacional de Baloncesto Profesional" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/c7a602143c1b2f7c5e9b72e6ad52a90d.png" group-title="Giờ Vàng",[07:15-02/08] Astros - Lobos Plateados [BLV Điếc] - Bóng rổ Liga Nacional de Baloncesto Profesional
@@ -111,5 +113,3 @@ https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58328
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58353
 #EXTINF:-1 tvg-id="58373" tvg-name="[01:30-03/08] FC Rapid Bucuresti - CFR Cluj [BLV Pháo Thủ] - Liga I" tvg-logo="https://phaohoa1.live/media/teams/logos/team_6173.jpg" group-title="Pháo Hoa",[01:30-03/08] FC Rapid Bucuresti - CFR Cluj [BLV Pháo Thủ] - Liga I
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58373
-#EXTINF:-1 tvg-id="59128" tvg-name="[03:00-03/08] Liverpool - Leeds [BLV Ken] - Premier League Summer Series" tvg-logo="https://phaohoa1.live/media/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png" group-title="Pháo Hoa",[03:00-03/08] Liverpool - Leeds [BLV Ken] - Premier League Summer Series
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=59128
