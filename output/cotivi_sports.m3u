@@ -1,23 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8bOKMLEcOZsJZkcU6VG5wA~~" tvg-name="[16:15-02/08] Rain or Shine Elasto Painters  - Meralco Bolts [BLV Cầy] - Bóng rổ PBA" tvg-logo="https://static.flashscore.com/res/image/data/WjIooAEG-CvPI3PRl.png" group-title="Giờ Vàng",[16:15-02/08] Rain or Shine Elasto Painters  - Meralco Bolts [BLV Cầy] - Bóng rổ PBA
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D8bOKMLEcOZsJZkcU6VG5wA~~
 #EXTINF:-1 tvg-id="iTuliVmOyHdDXApMDTiquA~~" tvg-name="[18:30-02/08] Barangay Ginebra San Miguel  - Magnolia Hotshots [BLV Lẹo] - Bóng rổ PBA" tvg-logo="https://static.flashscore.com/res/image/data/hWf7PfGG-67i7cfzM.png" group-title="Giờ Vàng",[18:30-02/08] Barangay Ginebra San Miguel  - Magnolia Hotshots [BLV Lẹo] - Bóng rổ PBA
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DiTuliVmOyHdDXApMDTiquA~~
 #EXTINF:-1 tvg-id="Npl_bL8XFhCuFg15Cvo3Ig~~" tvg-name="[18:30-02/08] Poland  - USA [BLV Cận] - Bóng chuyền Nations League - Play Off" tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="Giờ Vàng",[18:30-02/08] Poland  - USA [BLV Cận] - Bóng chuyền Nations League - Play Off
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DNpl_bL8XFhCuFg15Cvo3Ig~~
 #EXTINF:-1 tvg-id="ItnSD0PGJEdOBw1gK7KiLw~~" tvg-name="[17:00-02/08] KT  - HLE - 🎮 LCK" tvg-logo="https://static.flashscore.com/res/image/data/vRS62UcM-WbSxsmeb.png" group-title="Giờ Vàng",[17:00-02/08] KT  - HLE - 🎮 LCK
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DItnSD0PGJEdOBw1gK7KiLw~~
-#EXTINF:-1 tvg-id="n7dsbrDembir_pYgS9Q01pEMLV1vO-Y4KhDQ1DYIVDQ~" tvg-name="[17:00-02/08] Qingdao West Coast - Qingdao Hainiu [BLV Bón] - VĐQG Trung Quốc" tvg-logo="https://images.keovip88.net/images/teams/qingdao-youth-island.png" group-title="Giờ Vàng",[17:00-02/08] Qingdao West Coast - Qingdao Hainiu [BLV Bón] - VĐQG Trung Quốc
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dn7dsbrDembir_pYgS9Q01pEMLV1vO-Y4KhDQ1DYIVDQ~
 #EXTINF:-1 tvg-id="n7dsbrDembir_pYgS9Q01qEmbHlmqiiu2JaWcI_1y7g~" tvg-name="[17:30-02/08] Daejeon Citizen - Gwangju FC - K-League Hàn Quốc" tvg-logo="https://images.keovip88.net/images/teams/daejeon-citizen.png" group-title="Giờ Vàng",[17:30-02/08] Daejeon Citizen - Gwangju FC - K-League Hàn Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dn7dsbrDembir_pYgS9Q01qEmbHlmqiiu2JaWcI_1y7g~
 #EXTINF:-1 tvg-id="n7dsbrDembir_pYgS9Q01s4nxh6IeXFtJ-yD-pMOiKY~" tvg-name="[19:00-02/08] VPS Vaasa - Inter Turku - VĐQG Phần Lan" tvg-logo="https://images.keovip88.net/images/teams/vaasa-vps.png" group-title="Giờ Vàng",[19:00-02/08] VPS Vaasa - Inter Turku - VĐQG Phần Lan
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dn7dsbrDembir_pYgS9Q01s4nxh6IeXFtJ-yD-pMOiKY~
 #EXTINF:-1 tvg-id="f4dy5RNJ_WhWIKk9skZBEAMj3A6GuQ9TRHw8lp68N7I~" tvg-name="[19:00-02/08] Shenzhen Xinpengcheng - Chongqing Tonglianglong [BLV Bón] - VĐQG Trung Quốc" tvg-logo="https://images.keovip88.net/images/teams/shenzhen-xinpengcheng.png" group-title="Giờ Vàng",[19:00-02/08] Shenzhen Xinpengcheng - Chongqing Tonglianglong [BLV Bón] - VĐQG Trung Quốc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Df4dy5RNJ_WhWIKk9skZBEAMj3A6GuQ9TRHw8lp68N7I~
 #EXTINF:-1 tvg-id="n7dsbrDembir_pYgS9Q01o-v25bJNyQBQj6nKAbNwYs~" tvg-name="[19:00-02/08] Brommapojkarna - Malmo FF [BLV Ben] - VĐQG Thụy Điển" tvg-logo="https://images.keovip88.net/images/teams/brommapojkarna.png" group-title="Giờ Vàng",[19:00-02/08] Brommapojkarna - Malmo FF [BLV Ben] - VĐQG Thụy Điển
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dn7dsbrDembir_pYgS9Q01o-v25bJNyQBQj6nKAbNwYs~
 #EXTINF:-1 tvg-id="oe3wKA6JZZWs6CAAI3BE-V_nTbuKkX8xQimDmd934dA~" tvg-name="[20:00-02/08] Gazovik Orenburg - Zenit St.Petersburg - VĐQG Nga" tvg-logo="https://images.keovip88.net/images/teams/gazovik-orenburg.png" group-title="Giờ Vàng",[20:00-02/08] Gazovik Orenburg - Zenit St.Petersburg - VĐQG Nga
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Doe3wKA6JZZWs6CAAI3BE-V_nTbuKkX8xQimDmd934dA~
 #EXTINF:-1 tvg-id="CLYAKXCsfY2ZBGHJOehHXSxIpTeSi7R2PiwxnNgumQs~" tvg-name="[21:00-02/08] Brondby - Viborg - VĐQG Đan Mạch" tvg-logo="https://images.keovip88.net/images/teams/brondby-if.png" group-title="Giờ Vàng",[21:00-02/08] Brondby - Viborg - VĐQG Đan Mạch
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DCLYAKXCsfY2ZBGHJOehHXSxIpTeSi7R2PiwxnNgumQs~
@@ -95,16 +107,18 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DeaVExZd0_y_p3UcVhEpC1Q~~
 #EXTINF:-1 tvg-id="kEbqxDIoO1rXr3WyCSRjuXAtb9rN5sAfZT2zcOiiHIE~" tvg-name="[06:30-02/08] Inter Miami - Columbus Crew [BLV Ben] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/inter-miami-cf.png" group-title="Giờ Vàng",[06:30-02/08] Inter Miami - Columbus Crew [BLV Ben] - MLS Mỹ
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DkEbqxDIoO1rXr3WyCSRjuXAtb9rN5sAfZT2zcOiiHIE~
-#EXTINF:-1 tvg-id="58078" tvg-name="[17:30-02/08] Jeju SK - Incheon [BLV Pháo Thủ] - K League 1" tvg-logo="https://phaohoa1.live/media/teams/logos/team_5169.jpg" group-title="Pháo Hoa",[17:30-02/08] Jeju SK - Incheon [BLV Pháo Thủ] - K League 1
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58078
-#EXTINF:-1 tvg-id="58079" tvg-name="[17:30-02/08] Ulsan HD - Anyang [BLV Văn Minh] - K League 1" tvg-logo="https://phaohoa1.live/media/teams/logos/team_379.jpg" group-title="Pháo Hoa",[17:30-02/08] Ulsan HD - Anyang [BLV Văn Minh] - K League 1
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58079
 #EXTINF:-1 tvg-id="60587" tvg-name="[18:30-02/08] Mỹ - Ba Lan [BLV Kaka] - Bóng chuyền Nations League" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_tj4Ymih.jpg" group-title="Pháo Hoa",[18:30-02/08] Mỹ - Ba Lan [BLV Kaka] - Bóng chuyền Nations League
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=60587
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="58105" tvg-name="[19:00-02/08] Brommapojkarna - Malmo FF [BLV Kevin] - Allsvenskan" tvg-logo="https://phaohoa1.live/media/teams/logos/team_7382.jpg" group-title="Pháo Hoa",[19:00-02/08] Brommapojkarna - Malmo FF [BLV Kevin] - Allsvenskan
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58105
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 #EXTINF:-1 tvg-id="60585" tvg-name="[19:00-02/08] Việt Nam - Thái Lan [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="Pháo Hoa",[19:00-02/08] Việt Nam - Thái Lan [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=60585
+#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 tvg-id="58179" tvg-name="[20:00-02/08] Sigma Olomouc - Mlada Boleslav [BLV Văn Minh] - Czech Liga" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2636.jpg" group-title="Pháo Hoa",[20:00-02/08] Sigma Olomouc - Mlada Boleslav [BLV Văn Minh] - Czech Liga
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58179
 #EXTINF:-1 tvg-id="58234" tvg-name="[21:30-02/08] AIK - Orgryte [BLV Kevin] - Allsvenskan" tvg-logo="https://phaohoa1.live/media/teams/logos/team_7360.jpg" group-title="Pháo Hoa",[21:30-02/08] AIK - Orgryte [BLV Kevin] - Allsvenskan
@@ -123,3 +137,11 @@ https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58353
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58373
 #EXTINF:-1 tvg-id="59128" tvg-name="[03:00-03/08] Liverpool - Leeds [BLV Ken] - Premier League Summer Series" tvg-logo="https://phaohoa1.live/media/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png" group-title="Pháo Hoa",[03:00-03/08] Liverpool - Leeds [BLV Ken] - Premier League Summer Series
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=59128
+#EXTINF:-1 tvg-id="58453" tvg-name="[17:30-03/08] Cambodia - Timor-Leste [BLV Chim Nhỏ] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_358.jpg" group-title="Pháo Hoa",[17:30-03/08] Cambodia - Timor-Leste [BLV Chim Nhỏ] - ASEAN Championship
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58453
+#EXTINF:-1 tvg-id="58461" tvg-name="[20:30-03/08] Indonesia - Việt Nam [BLV Dế Lửa] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_484.jpg" group-title="Pháo Hoa",[20:30-03/08] Indonesia - Việt Nam [BLV Dế Lửa] - ASEAN Championship
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58461
+#EXTINF:-1 tvg-id="61268" tvg-name="[20:30-03/08] Indonesia - Việt Nam [BLV Ken] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_484.jpg" group-title="Pháo Hoa",[20:30-03/08] Indonesia - Việt Nam [BLV Ken] - ASEAN Championship
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=61268
+#EXTINF:-1 tvg-id="61269" tvg-name="[20:30-03/08] Indonesia - Việt Nam [BLV Kevin] - ASEAN Championship" tvg-logo="https://phaohoa1.live/media/teams/logos/team_484.jpg" group-title="Pháo Hoa",[20:30-03/08] Indonesia - Việt Nam [BLV Kevin] - ASEAN Championship
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=61269
