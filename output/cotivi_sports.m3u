@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="lunKz7eHErzkU3BP_MEYdQ~~" tvg-name="[07:00-02/08] Rafael Jodar - Alejandro Tabilo [BLV Ben] - Quần vợt ATP Mubadala Open" tvg-logo="https://static.flashscore.com/res/image/data/A5stpqzB-bJuw1oYE.png" group-title="Giờ Vàng",[07:00-02/08] Rafael Jodar - Alejandro Tabilo [BLV Ben] - Quần vợt ATP Mubadala Open
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DlunKz7eHErzkU3BP_MEYdQ~~
-#EXTINF:-1 tvg-id="kEbqxDIoO1rXr3WyCSRjuWrm5Mo1PkGa8cO28JNu1Nk~" tvg-name="[07:30-02/08] Chicago Fire - Charlotte FC - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/chicago-fire.png" group-title="Giờ Vàng",[07:30-02/08] Chicago Fire - Charlotte FC - MLS Mỹ
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DkEbqxDIoO1rXr3WyCSRjuWrm5Mo1PkGa8cO28JNu1Nk~
-#EXTINF:-1 tvg-id="3DgkqUN8xvFZt6dUmDQ6kg~~" tvg-name="[08:15-02/08] Correcaminos - Santos de San Luis [BLV Cầy] - Bóng rổ Liga Nacional de Baloncesto Profesional" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/1290dd806c263b89e40c891f797d7abe.png" group-title="Giờ Vàng",[08:15-02/08] Correcaminos - Santos de San Luis [BLV Cầy] - Bóng rổ Liga Nacional de Baloncesto Profesional
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3D3DgkqUN8xvFZt6dUmDQ6kg~~
-#EXTINF:-1 tvg-id="zDLVEWcXJj_okEKs1HJu2w~~" tvg-name="[03:00-02/08] Robbie Capito - Duong Quoc Hoang [BLV Điếc] - 🎮 Vice City Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_lBQlVt7wA5iawO4ogduOrj1EWbtHhHt8yldasxftYhKUNgqumAUUhxzuyxVzgvVEj374amP66fyjXCc81Xi4RWqBjVOVhopZUuZgPA&s=10" group-title="Giờ Vàng",[03:00-02/08] Robbie Capito - Duong Quoc Hoang [BLV Điếc] - 🎮 Vice City Classic
-#EXTVLCOPT:http-referrer=https://giovang.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DzDLVEWcXJj_okEKs1HJu2w~~
 #EXTINF:-1 tvg-id="kEbqxDIoO1rXr3WyCSRjuYBMnkuDec84G5cow5AfZno~" tvg-name="[09:30-02/08] Los Angeles Galaxy - FC Dallas - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/los-angeles-galaxy.png" group-title="Giờ Vàng",[09:30-02/08] Los Angeles Galaxy - FC Dallas - MLS Mỹ
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DkEbqxDIoO1rXr3WyCSRjuYBMnkuDec84G5cow5AfZno~
-#EXTINF:-1 tvg-id="NCc7L1r3fYAS37iQkE_uxQ~~" tvg-name="[11:00-02/08] Nguyễn Thùy Linh - Tanvi Sharma [BLV Ngọng] - YONEX Taipei Open 2026" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WdgbEJjU.png" group-title="Giờ Vàng",[11:00-02/08] Nguyễn Thùy Linh - Tanvi Sharma [BLV Ngọng] - YONEX Taipei Open 2026
-https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DNCc7L1r3fYAS37iQkE_uxQ~~
 #EXTINF:-1 tvg-id="n7dsbrDembir_pYgS9Q01k8v4yudpcsl4B9Fkr40D_4~" tvg-name="[12:00-02/08] Rockdale Ilinden - Manly United [BLV Bón] - NPL NSW Úc" tvg-logo="https://images.keovip88.net/images/teams/rockdale-city-suns.png" group-title="Giờ Vàng",[12:00-02/08] Rockdale Ilinden - Manly United [BLV Bón] - NPL NSW Úc
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3Dn7dsbrDembir_pYgS9Q01k8v4yudpcsl4B9Fkr40D_4~
+#EXTINF:-1 tvg-id="NCc7L1r3fYAS37iQkE_uxQ~~" tvg-name="[11:00-02/08] Nguyễn Thùy Linh - Tanvi Sharma [BLV Ngọng] - Cầu lông YONEX Taipei Open 2026" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WdgbEJjU.png" group-title="Giờ Vàng",[11:00-02/08] Nguyễn Thùy Linh - Tanvi Sharma [BLV Ngọng] - Cầu lông YONEX Taipei Open 2026
+#EXTVLCOPT:http-referrer=https://giovang.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DNCc7L1r3fYAS37iQkE_uxQ~~
 #EXTINF:-1 tvg-id="lLvG1cBK97uA6hju_3hVUw~~" tvg-name="[13:00-02/08] Canterbury Rams - Southland Sharks - Bóng rổ National Basketball League (New Zealand)" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/c6603512e441a6ccf95ee5de6961f024.png" group-title="Giờ Vàng",[13:00-02/08] Canterbury Rams - Southland Sharks - Bóng rổ National Basketball League (New Zealand)
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DlLvG1cBK97uA6hju_3hVUw~~
 #EXTINF:-1 tvg-id="ZtsQ-rlFUKoGtIoBAG_cEg~~" tvg-name="[14:00-02/08] TT Gaming - Team WE - 🎮 LPL" tvg-logo="https://static.flashscore.com/res/image/data/C0zbdICr-hnEFSiGQ.png" group-title="Giờ Vàng",[14:00-02/08] TT Gaming - Team WE - 🎮 LPL
@@ -116,9 +106,7 @@ https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3
 #EXTINF:-1 tvg-id="kEbqxDIoO1rXr3WyCSRjuXAtb9rN5sAfZT2zcOiiHIE~" tvg-name="[06:30-02/08] Inter Miami - Columbus Crew [BLV Ben] - MLS Mỹ" tvg-logo="https://images.keovip88.net/images/teams/inter-miami-cf.png" group-title="Giờ Vàng",[06:30-02/08] Inter Miami - Columbus Crew [BLV Ben] - MLS Mỹ
 https://isokhcqqlbdwkfkttvki.supabase.co/functions/v1/resolve-stream?url=https%3A%2F%2Fpay.locket.top%2Ftv%2Fget.php%3Fsource%3Dgiovangtv%26keys%3DkEbqxDIoO1rXr3WyCSRjuXAtb9rN5sAfZT2zcOiiHIE~
 #EXTINF:-1 tvg-id="60586" tvg-name="[14:40-02/08] Nhật Bản - Slovenia [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_4xNC98N.jpg" group-title="Pháo Hoa",[14:40-02/08] Nhật Bản - Slovenia [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=60586
 #EXTINF:-1 tvg-id="60584" tvg-name="[16:00-02/08] Philippines - Indonesia [BLV Ken] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_njudfFz.jpg" group-title="Pháo Hoa",[16:00-02/08] Philippines - Indonesia [BLV Ken] - Bóng chuyền Sea V Cup
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=60584
 #EXTINF:-1 tvg-id="58078" tvg-name="[17:30-02/08] Jeju SK - Incheon [BLV Pháo Thủ] - K League 1" tvg-logo="https://phaohoa1.live/media/teams/logos/team_5169.jpg" group-title="Pháo Hoa",[17:30-02/08] Jeju SK - Incheon [BLV Pháo Thủ] - K League 1
@@ -129,8 +117,6 @@ https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58079
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=60587
 #EXTINF:-1 tvg-id="58105" tvg-name="[19:00-02/08] Brommapojkarna - Malmo FF [BLV Kevin] - Allsvenskan" tvg-logo="https://phaohoa1.live/media/teams/logos/team_7382.jpg" group-title="Pháo Hoa",[19:00-02/08] Brommapojkarna - Malmo FF [BLV Kevin] - Allsvenskan
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58105
-#EXTINF:-1 tvg-id="58106" tvg-name="[19:00-02/08] Goteborg - Degerfors [BLV Pháo Thủ] - Allsvenskan" tvg-logo="https://phaohoa1.live/media/teams/logos/team_213.jpg" group-title="Pháo Hoa",[19:00-02/08] Goteborg - Degerfors [BLV Pháo Thủ] - Allsvenskan
-https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58106
 #EXTINF:-1 tvg-id="60585" tvg-name="[19:00-02/08] Việt Nam - Thái Lan [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup" tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="Pháo Hoa",[19:00-02/08] Việt Nam - Thái Lan [BLV Chim Nhỏ] - Bóng chuyền Sea V Cup
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=60585
 #EXTINF:-1 tvg-id="58179" tvg-name="[20:00-02/08] Sigma Olomouc - Mlada Boleslav [BLV Văn Minh] - Czech Liga" tvg-logo="https://phaohoa1.live/media/teams/logos/team_2636.jpg" group-title="Pháo Hoa",[20:00-02/08] Sigma Olomouc - Mlada Boleslav [BLV Văn Minh] - Czech Liga
@@ -149,3 +135,5 @@ https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58328
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58353
 #EXTINF:-1 tvg-id="58373" tvg-name="[01:30-03/08] FC Rapid Bucuresti - CFR Cluj [BLV Pháo Thủ] - Liga I" tvg-logo="https://phaohoa1.live/media/teams/logos/team_6173.jpg" group-title="Pháo Hoa",[01:30-03/08] FC Rapid Bucuresti - CFR Cluj [BLV Pháo Thủ] - Liga I
 https://pay.locket.top/tv/get.php?source=phaohoatv&keys=58373
+#EXTINF:-1 tvg-id="59128" tvg-name="[03:00-03/08] Liverpool - Leeds [BLV Ken] - Premier League Summer Series" tvg-logo="https://phaohoa1.live/media/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png" group-title="Pháo Hoa",[03:00-03/08] Liverpool - Leeds [BLV Ken] - Premier League Summer Series
+https://pay.locket.top/tv/get.php?source=phaohoatv&keys=59128
