@@ -1,0 +1,10 @@
+name = "dekiiptv95"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+[[kv_namespaces]]
+binding = "M3U_CACHE"
+id = "92e47aa8c9b24cd3a55fa23e53f9a9d0"
+
+[triggers]
+crons = ["*/5 * * * *"]
