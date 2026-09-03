@@ -25,17 +25,13 @@ async function makeCoSignature(ipData: unknown): Promise<string> {
   return btoa(String.fromCharCode(...encrypted));
 }
 
-let ipDataCache: { value: unknown; expiresAt: number } | null = null;
 async function getIpData(): Promise<unknown> {
-  if (ipDataCache && Date.now() < ipDataCache.expiresAt) return ipDataCache.value;
   try {
     const r = await fetch("https://ipinfo.io/json", {
       headers: { "User-Agent": "Mozilla/5.0" },
       signal: AbortSignal.timeout(5000),
     });
-    const data = await r.json();
-    ipDataCache = { value: data, expiresAt: Date.now() + 600_000 };
-    return data;
+    return await r.json();
   } catch {
     return {};
   }
@@ -276,8 +272,8 @@ async function getCached(id: string): Promise<{ content: string; channel_count: 
   return rows.length > 0 ? rows[0] : null;
 }
 
-function setCached(id: string, content: string, count: number): void {
-  fetch(`${SUPABASE_URL}/rest/v1/m3u_cache`, {
+async function setCached(id: string, content: string, count: number): Promise<void> {
+  await fetch(`${SUPABASE_URL}/rest/v1/m3u_cache`, {
     method: "POST",
     headers: {
       "apikey": SUPABASE_SERVICE_KEY, "Authorization": `Bearer ${SUPABASE_SERVICE_KEY}`,
@@ -285,7 +281,7 @@ function setCached(id: string, content: string, count: number): void {
     },
     body: JSON.stringify({ id, content, channel_count: count, updated_at: new Date().toISOString() }),
     signal: AbortSignal.timeout(5000),
-  }).catch(() => {});
+  });
 }
 
 async function handleM3URequest(reqUrl: URL): Promise<Response> {
@@ -359,7 +355,7 @@ async function handleM3URequest(reqUrl: URL): Promise<Response> {
       return new Response(JSON.stringify({ error: "No entries generated" }), { status: 502, headers: { ...corsHeaders, "Content-Type": "application/json" } });
     }
 
-    setCached(playlistId, m3uContent, count);
+    await setCached(playlistId, m3uContent, count);
     return new Response(m3uContent, { status: 200, headers: { ...corsHeaders, "Content-Type": "application/x-mpegurl; charset=utf-8", "Cache-Control": "public, max-age=60, s-maxage=60", "X-Cache": "MISS" } });
   } catch (e) {
     console.error("m3u error:", String(e));

@@ -1,2 +1,8 @@
 [functions.hoofoot-proxy]
 verify_jwt = false
+
+[functions.resolve-stream]
+verify_jwt = false
+
+[functions.cotivi-m3u]
+verify_jwt = false

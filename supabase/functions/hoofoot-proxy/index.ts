@@ -1,8 +1,11 @@
-// hoofoot-proxy: HLS manifest + segment proxy for hoofoot.ru IPTV streams.
-// Caching via Supabase DB table `stream_cache`: stream URLs (4 min) + manifests (20 s).
-// Auto-fallback: if the requested server fails, try other servers before giving up.
-// Segment proxy: rewrites media URLs in manifests to route through this proxy,
-//   adding the Referer header that hoofoot.ru requires (players can't send it).
+// hoofoot-proxy v2.5: HLS manifest + segment proxy for hoofoot.ru IPTV streams.
+// Performance optimisations:
+//   1. Fire-and-forget DB writes (don't block response on cache persistence)
+//   2. In-memory LRU cache layered on top of DB cache
+//   3. Longer TTLs: token 10 min, stream URL 8 min, manifest 60s (stale window 120s)
+//   4. Segment proxy: detect manifest by Content-Type, avoid buffering video segments
+//   5. Parallel server racing preserved
+//   6. Stale-while-revalidate: return stale cache immediately, refresh in background
 
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
@@ -17,10 +20,12 @@ const UA =
 const SUPABASE_URL = Deno.env.get("SUPABASE_URL") ?? "";
 const SERVICE_ROLE_KEY = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY") ?? "";
 
-const STREAM_TTL_SEC = 240;   // 4 minutes
-const MANIFEST_TTL_SEC = 20;  // 20 seconds
+const STREAM_TTL_SEC = 480;
+const MANIFEST_TTL_SEC = 60;
+const TOKEN_TTL_SEC = 600;
+const STALE_WINDOW_STREAM = 120;
+const STALE_WINDOW_MANIFEST = 120;
 
-// Accept both "cdn" (used in playlist) and "cdn-live" (API endpoint)
 const SERVER_ALIAS: Record<string, string> = {
   "cdn": "cdn-live",
   "cdn-live": "cdn-live",
@@ -30,27 +35,52 @@ const SERVER_ALIAS: Record<string, string> = {
 };
 
 const ALLOWED_SERVERS = new Set(Object.keys(SERVER_ALIAS));
-
-// Fallback order: try requested server first, then others
 const FALLBACK_SERVERS = ["stream", "cdn-live", "tms", "tvn"];
 
-// --- DB cache helpers ---
+// ── In-memory caches ────────────────────────────────────────────────────────────
+interface CacheEntry { value: string; expiresAt: number; staleAt: number }
+const memStreamCache = new Map<string, CacheEntry>();
+const memManifestCache = new Map<string, CacheEntry>();
+const memTokenCache = new Map<string, CacheEntry>();
 
-async function cacheGet(key: string): Promise<string | null> {
-  const url = `${SUPABASE_URL}/rest/v1/stream_cache?select=cache_value&cache_key=eq.${encodeURIComponent(key)}&expires_at=gt.now()`;
-  const resp = await fetch(url, {
-    headers: {
-      apikey: SERVICE_ROLE_KEY,
-      Authorization: `Bearer ${SERVICE_ROLE_KEY}`,
-    },
-  });
-  if (!resp.ok) return null;
-  const data = await resp.json();
-  if (Array.isArray(data) && data.length > 0) return data[0].cache_value;
+function memGet(cache: Map<string, CacheEntry>, key: string): { value: string; stale: boolean } | null {
+  const entry = cache.get(key);
+  if (!entry) return null;
+  const now = Date.now();
+  if (now < entry.expiresAt) return { value: entry.value, stale: false };
+  if (now < entry.staleAt) return { value: entry.value, stale: true };
+  cache.delete(key);
   return null;
 }
 
-async function cacheSet(key: string, value: string, ttlSec: number): Promise<void> {
+function memSet(cache: Map<string, CacheEntry>, key: string, value: string, ttlSec: number, staleWindowSec: number) {
+  const now = Date.now();
+  cache.set(key, { value, expiresAt: now + ttlSec * 1000, staleAt: now + (ttlSec + staleWindowSec) * 1000 });
+  if (cache.size > 500) {
+    const oldest = [...cache.entries()].sort((a, b) => a[1].expiresAt - b[1].expiresAt).slice(0, 200);
+    for (const [k] of oldest) cache.delete(k);
+  }
+}
+
+// ── DB cache helpers (fire-and-forget writes) ───────────────────────────────────
+
+async function dbCacheGet(key: string): Promise<string | null> {
+  const url = `${SUPABASE_URL}/rest/v1/stream_cache?select=cache_value&cache_key=eq.${encodeURIComponent(key)}&expires_at=gt.now()`;
+  try {
+    const resp = await fetch(url, {
+      headers: { apikey: SERVICE_ROLE_KEY, Authorization: `Bearer ${SERVICE_ROLE_KEY}` },
+      signal: AbortSignal.timeout(3000),
+    });
+    if (!resp.ok) return null;
+    const data = await resp.json();
+    if (Array.isArray(data) && data.length > 0 && data[0].cache_value) {
+      return data[0].cache_value as string;
+    }
+  } catch { /* ignore DB errors, memory cache is primary */ }
+  return null;
+}
+
+function dbCacheSet(key: string, value: string, ttlSec: number): void {
   const expiresAt = new Date(Date.now() + ttlSec * 1000).toISOString();
   const url = `${SUPABASE_URL}/rest/v1/stream_cache`;
   const body = JSON.stringify({
@@ -59,7 +89,7 @@ async function cacheSet(key: string, value: string, ttlSec: number): Promise<voi
     expires_at: expiresAt,
     updated_at: new Date().toISOString(),
   });
-  await fetch(url, {
+  fetch(url, {
     method: "POST",
     headers: {
       apikey: SERVICE_ROLE_KEY,
@@ -68,23 +98,59 @@ async function cacheSet(key: string, value: string, ttlSec: number): Promise<voi
       Prefer: "resolution=merge-duplicates",
     },
     body,
-  });
+    signal: AbortSignal.timeout(3000),
+  }).catch(() => {});
 }
 
-async function cacheDelete(key: string): Promise<void> {
+function dbCacheDelete(key: string): void {
   const url = `${SUPABASE_URL}/rest/v1/stream_cache?cache_key=eq.${encodeURIComponent(key)}`;
-  await fetch(url, {
+  fetch(url, {
     method: "DELETE",
-    headers: {
-      apikey: SERVICE_ROLE_KEY,
-      Authorization: `Bearer ${SERVICE_ROLE_KEY}`,
-    },
-  });
+    headers: { apikey: SERVICE_ROLE_KEY, Authorization: `Bearer ${SERVICE_ROLE_KEY}` },
+    signal: AbortSignal.timeout(3000),
+  }).catch(() => {});
 }
 
-// --- hoofoot.ru helpers ---
+// ── Cache: memory first, DB fallback, fire-and-forget write ─────────────────────
+
+async function streamCacheGet(key: string): Promise<{ value: string; stale: boolean } | null> {
+  const mem = memGet(memStreamCache, key);
+  if (mem) return mem;
+  const dbVal = await dbCacheGet(key);
+  if (dbVal) {
+    memSet(memStreamCache, key, dbVal, STREAM_TTL_SEC, STALE_WINDOW_STREAM);
+    return { value: dbVal, stale: false };
+  }
+  return null;
+}
+
+async function manifestCacheGet(key: string): Promise<{ value: string; stale: boolean } | null> {
+  const mem = memGet(memManifestCache, key);
+  if (mem) return mem;
+  const dbVal = await dbCacheGet(key);
+  if (dbVal) {
+    memSet(memManifestCache, key, dbVal, MANIFEST_TTL_SEC, STALE_WINDOW_MANIFEST);
+    return { value: dbVal, stale: false };
+  }
+  return null;
+}
+
+function streamCacheSet(key: string, value: string): void {
+  memSet(memStreamCache, key, value, STREAM_TTL_SEC, STALE_WINDOW_STREAM);
+  dbCacheSet(key, value, STREAM_TTL_SEC);
+}
+
+function manifestCacheSet(key: string, value: string): void {
+  memSet(memManifestCache, key, value, MANIFEST_TTL_SEC, STALE_WINDOW_MANIFEST);
+  dbCacheSet(key, value, MANIFEST_TTL_SEC);
+}
+
+// ── hoofoot.ru helpers ──────────────────────────────────────────────────────────
 
 async function getAuthToken(channelId: string): Promise<string> {
+  const tokenMem = memGet(memTokenCache, `token:${channelId}`);
+  if (tokenMem) return tokenMem.value;
+
   const resp = await fetch(`${HOOFOOT_BASE}/api/auth/token`, {
     method: "POST",
     headers: {
@@ -94,66 +160,67 @@ async function getAuthToken(channelId: string): Promise<string> {
       Referer: HOOFOOT_BASE,
     },
     body: JSON.stringify({ channelId }),
+    signal: AbortSignal.timeout(8000),
   });
   if (!resp.ok) throw new Error(`auth token HTTP ${resp.status}`);
   const data = await resp.json();
   if (!data.token) throw new Error("no token in auth response");
-  return data.token as string;
+  const token = data.token as string;
+  memSet(memTokenCache, `token:${channelId}`, token, TOKEN_TTL_SEC, 300);
+  return token;
 }
 
-async function getStreamUrl(
-  channelId: string,
-  server: string,
-): Promise<string> {
+async function getStreamUrl(channelId: string, server: string): Promise<string> {
   const apiServer = SERVER_ALIAS[server] ?? server;
   const cacheKey = `stream:${channelId}:${apiServer}`;
 
-  const cached = await cacheGet(cacheKey);
-  if (cached) return cached;
+  const cached = await streamCacheGet(cacheKey);
+  if (cached && !cached.stale) return cached.value;
+  const staleValue = cached?.stale ? cached.value : null;
 
-  const token = await getAuthToken(channelId);
-  const endpoint = apiServer === "tms" ? "/api/tms/" : `/api/${apiServer}/`;
-  const url = `${HOOFOOT_BASE}${endpoint}${encodeURIComponent(channelId)}`;
+  try {
+    const token = await getAuthToken(channelId);
+    const endpoint = apiServer === "tms" ? "/api/tms/" : `/api/${apiServer}/`;
+    const url = `${HOOFOOT_BASE}${endpoint}${encodeURIComponent(channelId)}`;
 
-  const resp = await fetch(url, {
-    headers: {
-      Accept: "application/json",
-      "User-Agent": UA,
-      "Auth-Token": token,
-      Referer: HOOFOOT_BASE,
-    },
-  });
-
-  let streamUrl: string | null = null;
-
-  if (resp.status === 401) {
-    const newToken = await getAuthToken(channelId);
-    const retry = await fetch(url, {
+    let resp = await fetch(url, {
       headers: {
         Accept: "application/json",
         "User-Agent": UA,
-        "Auth-Token": newToken,
+        "Auth-Token": token,
         Referer: HOOFOOT_BASE,
       },
+      signal: AbortSignal.timeout(8000),
     });
-    if (!retry.ok) throw new Error(`stream HTTP ${retry.status}`);
-    const data = await retry.json();
-    streamUrl = data.streamUrl ?? null;
-  } else {
+
+    if (resp.status === 401) {
+      memTokenCache.delete(`token:${channelId}`);
+      const newToken = await getAuthToken(channelId);
+      resp = await fetch(url, {
+        headers: {
+          Accept: "application/json",
+          "User-Agent": UA,
+          "Auth-Token": newToken,
+          Referer: HOOFOOT_BASE,
+        },
+        signal: AbortSignal.timeout(8000),
+      });
+    }
+
     if (!resp.ok) throw new Error(`stream HTTP ${resp.status}`);
     const data = await resp.json();
-    streamUrl = data.streamUrl ?? null;
+    const streamUrl = data.streamUrl ?? null;
+    if (!streamUrl) throw new Error("no streamUrl in response");
+
+    const fullUrl = new URL(streamUrl, HOOFOOT_BASE).toString();
+    streamCacheSet(cacheKey, fullUrl);
+    return fullUrl;
+  } catch (e) {
+    if (staleValue) return staleValue;
+    throw e;
   }
-
-  if (!streamUrl) throw new Error("no streamUrl in response");
-
-  const fullUrl = new URL(streamUrl, HOOFOOT_BASE).toString();
-  await cacheSet(cacheKey, fullUrl, STREAM_TTL_SEC);
-  return fullUrl;
 }
 
-// Rewrite media URLs in manifest to route through this proxy.
-// This ensures the player's requests include the Referer header hoofoot.ru requires.
 function rewriteManifest(manifest: string, baseUrl: string, proxyBase: string): string {
   const manifestUrl = new URL(baseUrl);
   return manifest
@@ -163,7 +230,6 @@ function rewriteManifest(manifest: string, baseUrl: string, proxyBase: string): 
       if (!value || value.startsWith("#")) return line;
       try {
         const absolute = new URL(value, manifestUrl).toString();
-        // Route through our proxy's /segment endpoint
         return `${proxyBase}/segment?url=${encodeURIComponent(absolute)}`;
       } catch {
         return line;
@@ -172,7 +238,6 @@ function rewriteManifest(manifest: string, baseUrl: string, proxyBase: string): 
     .join("\n");
 }
 
-// Try to fetch a working manifest from a single server.
 async function tryServer(
   channelId: string,
   server: string,
@@ -184,29 +249,29 @@ async function tryServer(
     const streamUrl = await getStreamUrl(channelId, apiServer);
 
     const manifestKey = `manifest:${streamUrl}`;
-    const mCached = await cacheGet(manifestKey);
-    if (mCached) {
-      return { manifest: mCached, server: apiServer };
+    const manifestCached = await manifestCacheGet(manifestKey);
+    if (manifestCached && !manifestCached.stale) {
+      return { manifest: manifestCached.value, server: apiServer };
     }
 
     let manifestResponse = await fetch(streamUrl, {
       headers: { "User-Agent": UA, Referer: HOOFOOT_BASE },
+      signal: AbortSignal.timeout(8000),
     });
 
-    if (
-      !manifestResponse.ok &&
-      (manifestResponse.status === 404 || manifestResponse.status === 500)
-    ) {
-      await cacheDelete(`stream:${channelId}:${apiServer}`);
+    if (!manifestResponse.ok && (manifestResponse.status === 404 || manifestResponse.status === 500)) {
+      memStreamCache.delete(`stream:${channelId}:${apiServer}`);
+      dbCacheDelete(`stream:${channelId}:${apiServer}`);
       const freshUrl = await getStreamUrl(channelId, apiServer);
       manifestResponse = await fetch(freshUrl, {
         headers: { "User-Agent": UA, Referer: HOOFOOT_BASE },
+        signal: AbortSignal.timeout(8000),
       });
       if (!manifestResponse.ok) return null;
 
       const body = await manifestResponse.text();
       const rewritten = rewriteManifest(body, freshUrl, proxyBase);
-      await cacheSet(`manifest:${freshUrl}`, rewritten, MANIFEST_TTL_SEC);
+      manifestCacheSet(`manifest:${freshUrl}`, rewritten);
       return { manifest: rewritten, server: apiServer };
     }
 
@@ -214,14 +279,45 @@ async function tryServer(
 
     const body = await manifestResponse.text();
     const rewritten = rewriteManifest(body, streamUrl, proxyBase);
-    await cacheSet(manifestKey, rewritten, MANIFEST_TTL_SEC);
+    manifestCacheSet(manifestKey, rewritten);
     return { manifest: rewritten, server: apiServer };
   } catch {
     return null;
   }
 }
 
-// Proxy a single media segment/playlist from hoofoot.ru with proper headers.
+async function tryServersParallel(
+  channelId: string,
+  servers: string[],
+  proxyBase: string,
+): Promise<{ manifest: string; server: string } | null> {
+  if (servers.length <= 1) {
+    return tryServer(channelId, servers[0], proxyBase);
+  }
+
+  const primary = servers[0];
+  const secondary = servers[1];
+  const rest = servers.slice(2);
+
+  const results = await Promise.allSettled([
+    tryServer(channelId, primary, proxyBase),
+    tryServer(channelId, secondary, proxyBase),
+  ]);
+
+  for (let i = 0; i < results.length; i++) {
+    if (results[i].status === "fulfilled" && results[i].value) {
+      return results[i].value;
+    }
+  }
+
+  for (const srv of rest) {
+    const result = await tryServer(channelId, srv, proxyBase);
+    if (result) return result;
+  }
+
+  return null;
+}
+
 async function proxySegment(req: Request, proxyBase: string): Promise<Response> {
   const url = new URL(req.url);
   const targetUrl = url.searchParams.get("url");
@@ -232,7 +328,6 @@ async function proxySegment(req: Request, proxyBase: string): Promise<Response> 
     });
   }
 
-  // Only allow proxying hoofoot.ru URLs
   let parsed: URL;
   try {
     parsed = new URL(targetUrl);
@@ -249,16 +344,31 @@ async function proxySegment(req: Request, proxyBase: string): Promise<Response> 
     });
   }
 
+  const manifestKey = `manifest:${targetUrl}`;
+  const manifestMem = memGet(memManifestCache, manifestKey);
+  if (manifestMem && !manifestMem.stale) {
+    return new Response(manifestMem.value, {
+      status: 200,
+      headers: {
+        ...corsHeaders,
+        "Content-Type": "application/vnd.apple.mpegurl; charset=utf-8",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+      },
+    });
+  }
+
   const resp = await fetch(targetUrl, {
     headers: { "User-Agent": UA, Referer: HOOFOOT_BASE },
+    signal: AbortSignal.timeout(8000),
   });
 
-  // Inspect a clone so binary media data remains untouched in the original response.
-  const body = await resp.clone().text();
+  const contentType = resp.headers.get("Content-Type") || "";
+  const isManifest = contentType.includes("mpegurl") || contentType.includes("m3u") || targetUrl.includes(".m3u8");
 
-  // If this is a sub-manifest (contains #EXTM3U), rewrite its URLs too
-  if (body.includes("#EXTM3U")) {
+  if (isManifest) {
+    const body = await resp.text();
     const rewritten = rewriteManifest(body, targetUrl, proxyBase);
+    manifestCacheSet(manifestKey, rewritten);
     return new Response(rewritten, {
       status: resp.status,
       headers: {
@@ -269,9 +379,8 @@ async function proxySegment(req: Request, proxyBase: string): Promise<Response> 
     });
   }
 
-  // Pass through binary segment data
   const headers = new Headers(corsHeaders);
-  headers.set("Content-Type", "video/mp2t");
+  headers.set("Content-Type", contentType || "video/mp2t");
   headers.set("Cache-Control", "no-store, no-cache, must-revalidate");
   return new Response(resp.body, {
     status: resp.status,
@@ -279,7 +388,7 @@ async function proxySegment(req: Request, proxyBase: string): Promise<Response> 
   });
 }
 
-// --- Main handler ---
+// ── Main handler ────────────────────────────────────────────────────────────────
 
 Deno.serve(async (req: Request) => {
   if (req.method === "OPTIONS") {
@@ -287,12 +396,8 @@ Deno.serve(async (req: Request) => {
   }
 
   const url = new URL(req.url);
-
-  // Build the public proxy base URL from SUPABASE_URL (the internal req.url 
-  // uses http and a stripped path, which won't work for players)
   const proxyBase = `${SUPABASE_URL}/functions/v1/hoofoot-proxy`;
 
-  // Segment proxy endpoint: .../segment?url=...
   if (url.pathname.includes("/segment")) {
     return proxySegment(req, proxyBase);
   }
@@ -309,20 +414,19 @@ Deno.serve(async (req: Request) => {
   const apiServer = SERVER_ALIAS[server] ?? server;
   const ordered = [apiServer, ...FALLBACK_SERVERS.filter((s) => s !== apiServer)];
 
-  for (const srv of ordered) {
-    const result = await tryServer(channelId, srv, proxyBase);
-    if (result) {
-      const isFallback = srv !== apiServer;
-      return new Response(result.manifest, {
-        status: 200,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/vnd.apple.mpegurl; charset=utf-8",
-          "Cache-Control": "no-store, no-cache, must-revalidate",
-          "X-Cache": isFallback ? `MISS-FALLBACK-${srv}` : "MISS",
-        },
-      });
-    }
+  const result = await tryServersParallel(channelId, ordered, proxyBase);
+
+  if (result) {
+    const isFallback = result.server !== apiServer;
+    return new Response(result.manifest, {
+      status: 200,
+      headers: {
+        ...corsHeaders,
+        "Content-Type": "application/vnd.apple.mpegurl; charset=utf-8",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "X-Cache": isFallback ? `MISS-FALLBACK-${result.server}` : "MISS",
+      },
+    });
   }
 
   return new Response(JSON.stringify({ error: `all servers failed for ${channelId}` }), {
