@@ -61,8 +61,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2569951&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6932527&server=cdn-live
 #EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-2-us.png" group-title="Sports | Turkey",beIN Sports 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8267697&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-3-turkey" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-3-us.png" group-title="Sports | Turkey",beIN Sports 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6735075&server=cdn-live
 #EXTINF:-1 tvg-id="sky-sports-cricket-uk" tvg-name="Sky Sports Cricket" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports | UK",Sky Sports Cricket
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3585755&server=cdn-live
 #EXTINF:-1 tvg-id="tudn-usa" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-title="Sports | USA",TUDN
@@ -161,8 +159,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2852865&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4452680&server=stream
 #EXTINF:-1 tvg-id="astro-supersport-2-malaysia" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="Sports | Malaysia",Astro SuperSport 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7623606&server=stream
-#EXTINF:-1 tvg-id="astro-supersport-3-malaysia" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="Sports | Malaysia",Astro SuperSport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4630844&server=stream
 #EXTINF:-1 tvg-id="astro-supersport-4-malaysia" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="Sports | Malaysia",Astro SuperSport 4
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1582763&server=stream
 #EXTINF:-1 tvg-id="match-tv-russia" tvg-name="Match TV" tvg-logo="" group-title="Sports | Russia",Match TV
@@ -219,8 +215,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5987161&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3065559&server=stream
 #EXTINF:-1 tvg-id="tv3-max-denmark" tvg-name="TV3 Max" tvg-logo="" group-title="Entertainment | Denmark",TV3 Max
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3909554&server=cdn-live
-#EXTINF:-1 tvg-id="dazn-1-uk" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dazn1-uk.png" group-title="Sports | UK",DAZN 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6193512&server=cdn-live
 #EXTINF:-1 tvg-id="eurosport-1-sweden" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports | Sweden",Eurosport 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2061348&server=stream
 #EXTINF:-1 tvg-id="eurosport-2-sweden" tvg-name="Eurosport 2" tvg-logo="" group-title="Sports | Sweden",Eurosport 2
@@ -229,10 +223,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9922911&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3838791&server=stream
 #EXTINF:-1 tvg-id="eurosport-2-netherlands" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-2-nl.png" group-title="Sports | Netherlands",Eurosport 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7395509&server=stream
-#EXTINF:-1 tvg-id="sky-sports-1-germany" tvg-name="Sky Sports 1" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Sports | Germany",Sky Sports 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5897875&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sports-2-germany" tvg-name="Sky Sports 2" tvg-logo="https://i.imgur.com/VM0a8Ny.png" group-title="Sports | Germany",Sky Sports 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2355346&server=cdn-live
 #EXTINF:-1 tvg-id="canal-sport-3-poland" tvg-name="Canal+ Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png" group-title="Sports | Poland",Canal+ Sport 3
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3592224&server=cdn-live
 #EXTINF:-1 tvg-id="vodafone-sport-portugal" tvg-name="Vodafone Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/iceland/vodafone-sport-is.png" group-title="Sports | Portugal",Vodafone Sport
@@ -243,8 +233,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7377750&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6461512&server=stream
 #EXTINF:-1 tvg-id="star-sports-hindi-india" tvg-name="Star Sports Hindi" tvg-logo="" group-title="Sports | India",Star Sports Hindi
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3819676&server=stream
-#EXTINF:-1 tvg-id="a-sport-pakistan" tvg-name="A Sport" tvg-logo="" group-title="Sports | Pakistan",A Sport
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9455207&server=stream
 #EXTINF:-1 tvg-id="t-sports-bangladesh" tvg-name="T Sports" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports | Bangladesh",T Sports
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1428789&server=stream
 #EXTINF:-1 tvg-id="canal-motogp-france" tvg-name="Canal+ MotoGP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-moto-gp-fr.png" group-title="Sports | France",Canal+ MotoGP
@@ -255,10 +243,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9993624&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8904165&server=stream
 #EXTINF:-1 tvg-id="sky-sports-f1-germany" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Sports | Germany",Sky Sports F1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3635607&server=stream
-#EXTINF:-1 tvg-id="bandsports-brazil" tvg-name="Bandsports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png" group-title="Sports | Brazil",Bandsports
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6763112&server=stream
-#EXTINF:-1 tvg-id="laligatv-uk" tvg-name="LaLigaTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/laliga-tv-uk.png" group-title="Sports | UK",LaLigaTV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8911686&server=cdn-live
 #EXTINF:-1 tvg-id="nbc10-philadelphia-usa" tvg-name="NBC10 Philadelphia" tvg-logo="" group-title="Entertainment | USA",NBC10 Philadelphia
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2286655&server=stream
 #EXTINF:-1 tvg-id="law-crime-network-usa" tvg-name="Law & Crime Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/law-and-crime-network-us.png" group-title="News | USA",Law & Crime Network
@@ -275,8 +259,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8500742&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7659692&server=stream
 #EXTINF:-1 tvg-id="starzplay-criclife-1-uae" tvg-name="StarzPlay CricLife 1" tvg-logo="" group-title="Sports | UAE",StarzPlay CricLife 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1876476&server=stream
-#EXTINF:-1 tvg-id="discovery-velocity-canada" tvg-name="Discovery Velocity" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/discovery-velocity-ca.png" group-title="Documentary | Canada",Discovery Velocity
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5148864&server=stream
 #EXTINF:-1 tvg-id="ytv-canada" tvg-name="YTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ytv-ca.png" group-title="Kids | Canada",YTV
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8402112&server=stream
 #EXTINF:-1 tvg-id="pac-12-network-usa" tvg-name="Pac-12 Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pac-12-network-us.png" group-title="Sports | USA",Pac-12 Network
@@ -427,8 +409,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1767101&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9548395&server=cdn-live
 #EXTINF:-1 tvg-id="5-usa-uk" tvg-name="5 USA" tvg-logo="https://i.imgur.com/Pi7so2l.png" group-title="Entertainment | UK",5 USA
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4643121&server=stream
-#EXTINF:-1 tvg-id="sky-witness-uk" tvg-name="Sky Witness" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-witness-hd-uk.png" group-title="Entertainment | UK",Sky Witness
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7389708&server=stream
 #EXTINF:-1 tvg-id="sky-atlantic-uk" tvg-name="Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg/960px-Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg.png" group-title="Entertainment | UK",Sky Atlantic
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2413521&server=stream
 #EXTINF:-1 tvg-id="e4-uk" tvg-name="E4" tvg-logo="" group-title="Entertainment | UK",E4
@@ -439,8 +419,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5487843&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8646237&server=stream
 #EXTINF:-1 tvg-id="sky-sports-news-uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sports | UK",Sky Sports News
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2797891&server=tms
-#EXTINF:-1 tvg-id="mtv-uk" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="Entertainment | UK",MTV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1617372&server=stream
 #EXTINF:-1 tvg-id="supersport-cricket-south-africa" tvg-name="SuperSport Cricket" tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="Sports | South Africa",SuperSport Cricket
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9273532&server=stream
 #EXTINF:-1 tvg-id="fox-cricket-sports-australia" tvg-name="Fox Cricket" tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="Sports | Australia",Fox Cricket
@@ -461,8 +439,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4382192&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6120858&server=cdn-live
 #EXTINF:-1 tvg-id="mutv-uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="Sports | UK",MUTV
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5065896&server=stream
-#EXTINF:-1 tvg-id="veronica-netherlands" tvg-name="Veronica" tvg-logo="" group-title="Entertainment | Netherlands",Veronica
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8384887&server=stream
 #EXTINF:-1 tvg-id="espn-1-netherlands" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports | Netherlands",ESPN 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1103935&server=cdn-live
 #EXTINF:-1 tvg-id="benfica-tv-portugal" tvg-name="Benfica TV" tvg-logo="https://i.imgur.com/l6LACto.png" group-title="Sports | Portugal",Benfica TV
@@ -485,8 +461,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7453984&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1423408&server=stream
 #EXTINF:-1 tvg-id="lmn-usa" tvg-name="LMN" tvg-logo="https://tvnow.st/logo/lifetime-movies" group-title="Movies | USA",LMN
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9632276&server=stream
-#EXTINF:-1 tvg-id="rtl7-netherlands" tvg-name="RTL7" tvg-logo="" group-title="Entertainment | Netherlands",RTL7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7160075&server=stream
 #EXTINF:-1 tvg-id="vtv-uruguay" tvg-name="VTV+" tvg-logo="" group-title="Entertainment | Uruguay",VTV+
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8816427&server=cdn-live
 #EXTINF:-1 tvg-id="win-sports-colombia" tvg-name="Win Sports+" tvg-logo="" group-title="Sports | Colombia",Win Sports+
@@ -495,8 +469,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3085705&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1401853&server=stream
 #EXTINF:-1 tvg-id="the-weather-channel-usa" tvg-name="The Weather Channel" tvg-logo="https://i.imgur.com/PIaNjfa.png" group-title="News | USA",The Weather Channel
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8566889&server=tms
-#EXTINF:-1 tvg-id="match-fighter-russia" tvg-name="Match! Fighter" tvg-logo="" group-title="Sports | Russia",Match! Fighter
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4777787&server=stream
 #EXTINF:-1 tvg-id="ziggo-sport-4-netherlands" tvg-name="Ziggo Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="Sports | Netherlands",Ziggo Sport 4
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3984295&server=cdn-live
 #EXTINF:-1 tvg-id="big-ten-network-usa" tvg-name="Big Ten Network" tvg-logo="https://tvnow.st/logo/big-ten-network" group-title="Sports | USA",Big Ten Network
@@ -549,8 +521,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4623587&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6565294&server=stream
 #EXTINF:-1 tvg-id="supersport-rugby-south-africa" tvg-name="SuperSport Rugby" tvg-logo="https://i.imgur.com/wwBY5Gh.png" group-title="Sports | South Africa",SuperSport Rugby
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1078415&server=stream
-#EXTINF:-1 tvg-id="supersport-golf-south-africa" tvg-name="SuperSport Golf" tvg-logo="https://i.imgur.com/5VeJd2T.png" group-title="Sports | South Africa",SuperSport Golf
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6000151&server=stream
 #EXTINF:-1 tvg-id="supersport-tennis-south-africa" tvg-name="SuperSport Tennis" tvg-logo="https://i.imgur.com/i9OI2m6.png" group-title="Sports | South Africa",SuperSport Tennis
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4018520&server=stream
 #EXTINF:-1 tvg-id="supersport-motorsport-south-africa" tvg-name="SuperSport Motorsport" tvg-logo="https://i.imgur.com/QvIPyxE.png" group-title="Sports | South Africa",SuperSport Motorsport
@@ -583,14 +553,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1606869&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9944908&server=stream
 #EXTINF:-1 tvg-id="movistar-deportes-2-spain" tvg-name="Movistar Deportes 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistardeportes.png" group-title="Sports | Spain",Movistar Deportes 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7063572&server=cdn-live
-#EXTINF:-1 tvg-id="orange-sport-1-romania" tvg-name="Orange Sport 1" tvg-logo="" group-title="Sports | Romania",Orange Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2214128&server=stream
-#EXTINF:-1 tvg-id="orange-sport-2-romania" tvg-name="Orange Sport 2" tvg-logo="" group-title="Sports | Romania",Orange Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2035594&server=stream
-#EXTINF:-1 tvg-id="orange-sport-3-romania" tvg-name="Orange Sport 3" tvg-logo="" group-title="Sports | Romania",Orange Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6707173&server=stream
-#EXTINF:-1 tvg-id="orange-sport-4-romania" tvg-name="Orange Sport 4" tvg-logo="" group-title="Sports | Romania",Orange Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6634249&server=stream
 #EXTINF:-1 tvg-id="polsat-news-poland" tvg-name="Polsat News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png" group-title="News | Poland",Polsat News
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7243392&server=cdn-live
 #EXTINF:-1 tvg-id="tvn24-poland" tvg-name="TVN24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png" group-title="News | Poland",TVN24
@@ -609,8 +571,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1834741&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4785142&server=stream
 #EXTINF:-1 tvg-id="viaplay-sports-1-uk" tvg-name="Viaplay Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="Sports | UK",Viaplay Sports 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7324240&server=cdn-live
-#EXTINF:-1 tvg-id="tvp-info-poland" tvg-name="TVP Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" group-title="News | Poland",TVP Info
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4873541&server=stream
 #EXTINF:-1 tvg-id="sport-klub-hd-croatia" tvg-name="Sport Klub HD" tvg-logo="" group-title="Sports | Croatia",Sport Klub HD
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5265496&server=stream
 #EXTINF:-1 tvg-id="sport-tv3-portugal" tvg-name="Sport TV3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="Sports | Portugal",Sport TV3
@@ -661,36 +621,8 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3255877&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6010916&server=stream
 #EXTINF:-1 tvg-id="bnt-2-bulgaria" tvg-name="BNT 2" tvg-logo="" group-title="Entertainment | Bulgaria",BNT 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2091616&server=stream
-#EXTINF:-1 tvg-id="bnt-3-bulgaria" tvg-name="BNT 3" tvg-logo="" group-title="Entertainment | Bulgaria",BNT 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9697172&server=stream
-#EXTINF:-1 tvg-id="btv-bulgaria" tvg-name="bTV" tvg-logo="" group-title="Entertainment | Bulgaria",bTV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2190380&server=cdn-live
-#EXTINF:-1 tvg-id="nova-tv-bulgaria" tvg-name="Nova TV" tvg-logo="" group-title="Entertainment | Bulgaria",Nova TV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9580299&server=stream
-#EXTINF:-1 tvg-id="btv-action-bulgaria" tvg-name="bTV Action" tvg-logo="" group-title="Entertainment | Bulgaria",bTV Action
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7458065&server=cdn-live
-#EXTINF:-1 tvg-id="diema-bulgaria" tvg-name="Diema" tvg-logo="" group-title="Entertainment | Bulgaria",Diema
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3465922&server=stream
-#EXTINF:-1 tvg-id="fox-hd-bulgaria" tvg-name="FOX HD" tvg-logo="" group-title="Entertainment | Bulgaria",FOX HD
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8140130&server=stream
-#EXTINF:-1 tvg-id="btv-lady-bulgaria" tvg-name="bTV Lady" tvg-logo="" group-title="Entertainment | Bulgaria",bTV Lady
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7747585&server=stream
-#EXTINF:-1 tvg-id="diema-family-bulgaria" tvg-name="Diema Family" tvg-logo="" group-title="Entertainment | Bulgaria",Diema Family
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1980042&server=stream
 #EXTINF:-1 tvg-id="canal-sport-1-africa" tvg-name="Canal+ Sport 1" tvg-logo="" group-title="Sports | Africa",Canal+ Sport 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5815569&server=stream
-#EXTINF:-1 tvg-id="canal-sport-2-africa" tvg-name="Canal+ Sport 2" tvg-logo="" group-title="Sports | Africa",Canal+ Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1516735&server=stream
-#EXTINF:-1 tvg-id="canal-sport-3-africa" tvg-name="Canal+ Sport 3" tvg-logo="" group-title="Sports | Africa",Canal+ Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6499547&server=stream
-#EXTINF:-1 tvg-id="canal-sport-4-africa" tvg-name="Canal+ Sport 4" tvg-logo="" group-title="Sports | Africa",Canal+ Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3817078&server=stream
-#EXTINF:-1 tvg-id="canal-sport-5-africa" tvg-name="Canal+ Sport 5" tvg-logo="" group-title="Sports | Africa",Canal+ Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7537882&server=stream
-#EXTINF:-1 tvg-id="bein-sports-1-australia" tvg-name="beIN Sports 1" tvg-logo="" group-title="Sports | Australia",beIN Sports 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7027552&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-2-australia" tvg-name="beIN Sports 2" tvg-logo="" group-title="Sports | Australia",beIN Sports 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3270413&server=stream
 #EXTINF:-1 tvg-id="bein-sports-3-australia" tvg-name="beIN Sports 3" tvg-logo="" group-title="Sports | Australia",beIN Sports 3
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6997867&server=stream
 #EXTINF:-1 tvg-id="bein-sports-max-4-france" tvg-name="beIN Sports MAX 4" tvg-logo="https://i.imgur.com/j7osMfM.png" group-title="Sports | France",beIN Sports MAX 4
@@ -755,24 +687,10 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9035833&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7680767&server=stream
 #EXTINF:-1 tvg-id="yes-movies-kids-israel" tvg-name="Yes Movies Kids" tvg-logo="" group-title="Movies | Israel",Yes Movies Kids
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3286080&server=stream
-#EXTINF:-1 tvg-id="yes-movies-comedy-israel" tvg-name="Yes Movies Comedy" tvg-logo="" group-title="Movies | Israel",Yes Movies Comedy
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8783064&server=stream
-#EXTINF:-1 tvg-id="channel-9-israel" tvg-name="Channel 9" tvg-logo="" group-title="Entertainment | Israel",Channel 9
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5384307&server=stream
 #EXTINF:-1 tvg-id="channel-10-israel" tvg-name="Channel 10" tvg-logo="" group-title="Entertainment | Israel",Channel 10
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1482349&server=stream
-#EXTINF:-1 tvg-id="channel-11-israel" tvg-name="Channel 11" tvg-logo="" group-title="Entertainment | Israel",Channel 11
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9754368&server=stream
-#EXTINF:-1 tvg-id="channel-12-israel" tvg-name="Channel 12" tvg-logo="" group-title="Entertainment | Israel",Channel 12
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7928134&server=stream
 #EXTINF:-1 tvg-id="viaplay-sports-2-uk" tvg-name="Viaplay Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="Sports | UK",Viaplay Sports 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4491420&server=cdn-live
-#EXTINF:-1 tvg-id="channel-13-israel" tvg-name="Channel 13" tvg-logo="" group-title="Entertainment | Israel",Channel 13
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5301041&server=stream
-#EXTINF:-1 tvg-id="channel-14-israel" tvg-name="Channel 14" tvg-logo="" group-title="Entertainment | Israel",Channel 14
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2840239&server=stream
-#EXTINF:-1 tvg-id="hot3-israel" tvg-name="HOT3" tvg-logo="" group-title="Entertainment | Israel",HOT3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9483348&server=stream
 #EXTINF:-1 tvg-id="sky-sports-racing-uk" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png" group-title="Sports | UK",Sky Sports Racing
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4286107&server=cdn-live
 #EXTINF:-1 tvg-id="racing-tv-uk" tvg-name="Racing TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" group-title="Sports | UK",Racing TV
@@ -787,8 +705,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5125971&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6338818&server=cdn-live
 #EXTINF:-1 tvg-id="tvp1-poland" tvg-name="TVP1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-pl.png" group-title="Entertainment | Poland",TVP1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7968239&server=stream
-#EXTINF:-1 tvg-id="tvp2-poland" tvg-name="TVP2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp2-pl.png" group-title="Entertainment | Poland",TVP2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2520483&server=stream
 #EXTINF:-1 tvg-id="polsat-poland" tvg-name="Polsat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" group-title="Entertainment | Poland",Polsat
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3524433&server=cdn-live
 #EXTINF:-1 tvg-id="motowizja-poland" tvg-name="Motowizja" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/motowizja-pl.png" group-title="Sports | Poland",Motowizja
@@ -801,10 +717,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1369422&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7383696&server=cdn-live
 #EXTINF:-1 tvg-id="canal-family-poland" tvg-name="Canal+ Family" tvg-logo="https://i.imgur.com/TXI8hM1.png" group-title="Entertainment | Poland",Canal+ Family
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4148710&server=stream
-#EXTINF:-1 tvg-id="filmbox-premium-poland" tvg-name="FilmBox Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/filmbox-premium-hr.png" group-title="Movies | Poland",FilmBox Premium
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9746521&server=stream
-#EXTINF:-1 tvg-id="hbo-poland" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png" group-title="Movies | Poland",HBO
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3570997&server=cdn-live
 #EXTINF:-1 tvg-id="canal-seriale-poland" tvg-name="Canal+ Seriale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-seriale-pl.png" group-title="Entertainment | Poland",Canal+ Seriale
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5162669&server=stream
 #EXTINF:-1 tvg-id="sportdigital-fussball-germany" tvg-name="SportDigital Fussball" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="Sports | Germany",SportDigital Fussball
@@ -823,8 +735,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1506011&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7242695&server=stream
 #EXTINF:-1 tvg-id="bein-sports-hd-qatar" tvg-name="BeIN Sports HD" tvg-logo="" group-title="Sports | Qatar",BeIN Sports HD
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1413635&server=stream
-#EXTINF:-1 tvg-id="arena-sport-1-bosnia-and-herzegovina" tvg-name="Arena Sport 1" tvg-logo="" group-title="Sports | Bosnia and Herzegovina",Arena Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4132131&server=stream
 #EXTINF:-1 tvg-id="arena-sport-4-croatia" tvg-name="Arena Sport 4" tvg-logo="" group-title="Sports | Croatia",Arena Sport 4
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8879860&server=stream
 #EXTINF:-1 tvg-id="arena-sport-4-serbia" tvg-name="Arena Sport 4" tvg-logo="" group-title="Sports | Serbia",Arena Sport 4
@@ -859,8 +769,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9722146&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9444375&server=cdn-live
 #EXTINF:-1 tvg-id="sky-sport-9-new-zealand" tvg-name="Sky Sport 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-9-nz.png" group-title="Sports | New Zealand",Sky Sport 9
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6671394&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-max-argentina" tvg-name="beIN SPORTS MAX" tvg-logo="" group-title="Sports | Argentina",beIN SPORTS MAX
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6614338&server=stream
 #EXTINF:-1 tvg-id="willow-2-usa" tvg-name="Willow 2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/1920/1080/languages/WILLOW-2.jpg" group-title="Sports | USA",Willow 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9097911&server=tms
 #EXTINF:-1 tvg-id="nova-sports-premier-league-greece" tvg-name="Nova Sports Premier League" tvg-logo="https://i.imgur.com/aOPBuEa.png" group-title="Sports | Greece",Nova Sports Premier League
@@ -875,14 +783,8 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1172605&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3620136&server=stream
 #EXTINF:-1 tvg-id="dubai-sports-1-uae" tvg-name="Dubai Sports 1" tvg-logo="" group-title="Sports | UAE",Dubai Sports 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1382753&server=stream
-#EXTINF:-1 tvg-id="dubai-sports-2-uae" tvg-name="Dubai Sports 2" tvg-logo="" group-title="Sports | UAE",Dubai Sports 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3706642&server=stream
-#EXTINF:-1 tvg-id="dubai-sports-3-uae" tvg-name="Dubai Sports 3" tvg-logo="" group-title="Sports | UAE",Dubai Sports 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7195162&server=stream
 #EXTINF:-1 tvg-id="rally-tv" tvg-name="Rally TV" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports | INTERNATIONAL",Rally TV
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9654007&server=stream
-#EXTINF:-1 tvg-id="dubai-racing-2-uae" tvg-name="Dubai Racing 2" tvg-logo="" group-title="Sports | UAE",Dubai Racing 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7064269&server=stream
 #EXTINF:-1 tvg-id="abu-dhabi-sports-1-premium-uae" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="" group-title="Sports | UAE",Abu Dhabi Sports 1 Premium
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4554360&server=stream
 #EXTINF:-1 tvg-id="abu-dhabi-sports-2-premium-uae" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="" group-title="Sports | UAE",Abu Dhabi Sports 2 Premium
@@ -893,16 +795,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9817886&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6983253&server=stream
 #EXTINF:-1 tvg-id="newsmax-usa" tvg-name="Newsmax" tvg-logo="https://i.imgur.com/lSWZoWA.png" group-title="News | USA",Newsmax
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5332189&server=stream
-#EXTINF:-1 tvg-id="ssc-sport-1-saudi-arabia" tvg-name="SSC Sport 1" tvg-logo="" group-title="Sports | Saudi Arabia",SSC Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2629467&server=stream
-#EXTINF:-1 tvg-id="ssc-sport-2-saudi-arabia" tvg-name="SSC Sport 2" tvg-logo="" group-title="Sports | Saudi Arabia",SSC Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6100759&server=stream
-#EXTINF:-1 tvg-id="ssc-sport-3-saudi-arabia" tvg-name="SSC Sport 3" tvg-logo="" group-title="Sports | Saudi Arabia",SSC Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8352233&server=stream
-#EXTINF:-1 tvg-id="ssc-sport-4-saudi-arabia" tvg-name="SSC Sport 4" tvg-logo="" group-title="Sports | Saudi Arabia",SSC Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2645470&server=stream
-#EXTINF:-1 tvg-id="ssc-sport-5-saudi-arabia" tvg-name="SSC Sport 5" tvg-logo="" group-title="Sports | Saudi Arabia",SSC Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4250339&server=stream
 #EXTINF:-1 tvg-id="ssc-sport-extra-1-saudi-arabia" tvg-name="SSC Sport Extra 1" tvg-logo="" group-title="Sports | Saudi Arabia",SSC Sport Extra 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4787940&server=stream
 #EXTINF:-1 tvg-id="ssc-sport-extra-2-saudi-arabia" tvg-name="SSC Sport Extra 2" tvg-logo="" group-title="Sports | Saudi Arabia",SSC Sport Extra 2
@@ -1017,8 +909,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5896883&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4269678&server=stream
 #EXTINF:-1 tvg-id="sky-cinema-animation-uk" tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="Movies | UK",Sky Cinema Animation
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7510979&server=stream
-#EXTINF:-1 tvg-id="sky-cinema-family-uk" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png" group-title="Movies | UK",Sky Cinema Family
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3801507&server=stream
 #EXTINF:-1 tvg-id="sky-cinema-action-uk" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Movies | UK",Sky Cinema Action
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4124673&server=stream
 #EXTINF:-1 tvg-id="sky-cinema-comedy-uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Movies | UK",Sky Cinema Comedy
@@ -1029,8 +919,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6328219&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5917485&server=stream
 #EXTINF:-1 tvg-id="sky-cinema-sci-fi-horror-uk" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="Movies | UK",Sky Cinema Sci-Fi & Horror
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8071282&server=stream
-#EXTINF:-1 tvg-id="sky-showcase-uk" tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png" group-title="Entertainment | UK",Sky Showcase
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3053791&server=stream
 #EXTINF:-1 tvg-id="sky-arts-uk" tvg-name="Sky Arts" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" group-title="Entertainment | UK",Sky Arts
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6585839&server=stream
 #EXTINF:-1 tvg-id="sky-comedy-uk" tvg-name="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" group-title="Entertainment | UK",Sky Comedy
@@ -1083,12 +971,8 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9627375&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2411252&server=cdn-live
 #EXTINF:-1 tvg-id="sky-max-uk" tvg-name="Sky Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png" group-title="Entertainment | UK",Sky Max
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6369906&server=stream
-#EXTINF:-1 tvg-id="tennis-10" tvg-name="Tennis+ 10" tvg-logo="" group-title="Sports | INTERNATIONAL",Tennis+ 10
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6964756&server=stream
 #EXTINF:-1 tvg-id="sport-klub-golf-croatia" tvg-name="Sport Klub Golf" tvg-logo="" group-title="Sports | Croatia",Sport Klub Golf
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3451249&server=stream
-#EXTINF:-1 tvg-id="tennis-12" tvg-name="Tennis+ 12" tvg-logo="" group-title="Sports | INTERNATIONAL",Tennis+ 12
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9979124&server=stream
 #EXTINF:-1 tvg-id="bein-sports-1-malaysia" tvg-name="beIN Sports 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports | Malaysia",beIN Sports 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9881472&server=stream
 #EXTINF:-1 tvg-id="bein-sports-2-malaysia" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-2-us.png" group-title="Sports | Malaysia",beIN Sports 2
@@ -1109,14 +993,10 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8647928&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5739851&server=stream
 #EXTINF:-1 tvg-id="rtp3-portugal" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="News | Portugal",RTP3
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2823486&server=stream
-#EXTINF:-1 tvg-id="sic-portugal" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" group-title="Entertainment | Portugal",SIC
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6061566&server=cdn-live
 #EXTINF:-1 tvg-id="tvi-portugal" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-pt.png" group-title="Entertainment | Portugal",TVI
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6940525&server=cdn-live
 #EXTINF:-1 tvg-id="tvi-reality-portugal" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-reality-pt.png" group-title="Entertainment | Portugal",TVI Reality
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4654966&server=stream
-#EXTINF:-1 tvg-id="arte-germany" tvg-name="Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/arte-de.png" group-title="Entertainment | Germany",Arte
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2038223&server=stream
 #EXTINF:-1 tvg-id="3sat-germany" tvg-name="3sat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/3sat-de.png" group-title="Entertainment | Germany",3sat
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7902040&server=stream
 #EXTINF:-1 tvg-id="zdf-germany" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-de.png" group-title="Entertainment | Germany",ZDF
@@ -1125,24 +1005,12 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4792668&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8278873&server=cdn-live
 #EXTINF:-1 tvg-id="sat1-germany" tvg-name="SAT.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png" group-title="Entertainment | Germany",SAT.1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3211131&server=stream
-#EXTINF:-1 tvg-id="prosieben-germany" tvg-name="ProSieben" tvg-logo="" group-title="Entertainment | Germany",ProSieben
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3340412&server=stream
 #EXTINF:-1 tvg-id="kabel-eins-germany" tvg-name="Kabel Eins" tvg-logo="" group-title="Entertainment | Germany",Kabel Eins
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9212371&server=stream
-#EXTINF:-1 tvg-id="sixx-germany" tvg-name="Sixx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sixx-de.png" group-title="Entertainment | Germany",Sixx
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2054862&server=stream
-#EXTINF:-1 tvg-id="mdr-germany" tvg-name="MDR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mdr-de.png" group-title="Entertainment | Germany",MDR
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8350542&server=stream
-#EXTINF:-1 tvg-id="wdr-germany" tvg-name="WDR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/wdr-de.png" group-title="Entertainment | Germany",WDR
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3381058&server=stream
-#EXTINF:-1 tvg-id="swr-germany" tvg-name="SWR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/swr-de.png" group-title="Entertainment | Germany",SWR
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7105715&server=stream
 #EXTINF:-1 tvg-id="ndr-germany" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ndr-de.png" group-title="Entertainment | Germany",NDR
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7738166&server=stream
 #EXTINF:-1 tvg-id="br-fernsehen-germany" tvg-name="BR Fernsehen" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/br-fernsehen-de.png" group-title="Entertainment | Germany",BR Fernsehen
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9313562&server=stream
-#EXTINF:-1 tvg-id="super-rtl-germany" tvg-name="Super RTL" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Kids | Germany",Super RTL
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8134388&server=stream
 #EXTINF:-1 tvg-id="sr-fernsehen-germany" tvg-name="SR Fernsehen" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sr-fernsehen-de.png" group-title="Entertainment | Germany",SR Fernsehen
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7536630&server=stream
 #EXTINF:-1 tvg-id="rtl-germany" tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png" group-title="Entertainment | Germany",RTL
@@ -1185,8 +1053,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6559243&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7363579&server=tms
 #EXTINF:-1 tvg-id="sny-usa" tvg-name="SNY" tvg-logo="https://tvnow.st/logo/sny" group-title="Sports | USA",SNY
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7597968&server=cdn-live
-#EXTINF:-1 tvg-id="tv-globo-so-paulo-brazil" tvg-name="TV Globo São Paulo" tvg-logo="" group-title="Entertainment | Brazil",TV Globo São Paulo
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6196862&server=stream
 #EXTINF:-1 tvg-id="tv-globo-rio-brazil" tvg-name="TV Globo Rio" tvg-logo="" group-title="Entertainment | Brazil",TV Globo Rio
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2563422&server=stream
 #EXTINF:-1 tvg-id="nesn-usa" tvg-name="NESN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png" group-title="Sports | USA",NESN
@@ -1213,8 +1079,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8400916&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9247030&server=stream
 #EXTINF:-1 tvg-id="eurosport-2-france" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="Sports | France",Eurosport 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7374620&server=stream
-#EXTINF:-1 tvg-id="ert-1-greece" tvg-name="ERT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ert1-gr.png" group-title="Entertainment | Greece",ERT 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6430930&server=stream
 #EXTINF:-1 tvg-id="fox-weather-usa" tvg-name="Fox Weather" tvg-logo="" group-title="News | USA",Fox Weather
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2763960&server=stream
 #EXTINF:-1 tvg-id="chicago-sports-network-usa" tvg-name="Chicago Sports Network" tvg-logo="https://tvnow.st/logo/chicago-sports-network" group-title="Sports | USA",Chicago Sports Network
@@ -1227,26 +1091,16 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4755319&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1015536&server=stream
 #EXTINF:-1 tvg-id="max-sport-2-croatia" tvg-name="Max Sport 2" tvg-logo="" group-title="Sports | Croatia",Max Sport 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2843756&server=stream
-#EXTINF:-1 tvg-id="alkass-one-qatar" tvg-name="Alkass One" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sports | Qatar",Alkass One
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5354894&server=stream
-#EXTINF:-1 tvg-id="alkass-two-qatar" tvg-name="Alkass Two" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports | Qatar",Alkass Two
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3311649&server=stream
-#EXTINF:-1 tvg-id="alkass-three-qatar" tvg-name="Alkass Three" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sports | Qatar",Alkass Three
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5217595&server=stream
 #EXTINF:-1 tvg-id="alkass-four-qatar" tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sports | Qatar",Alkass Four
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2675763&server=stream
 #EXTINF:-1 tvg-id="sky-sports-golf-germany" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="Sports | Germany",Sky Sports Golf
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7271003&server=stream
-#EXTINF:-1 tvg-id="mzansi-magic-south-africa" tvg-name="Mzansi Magic" tvg-logo="" group-title="Entertainment | South Africa",Mzansi Magic
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3983491&server=stream
 #EXTINF:-1 tvg-id="fox-sports-argentina" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png" group-title="Sports | Argentina",Fox Sports
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7296564&server=stream
 #EXTINF:-1 tvg-id="fox-sports-2-argentina" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png" group-title="Sports | Argentina",Fox Sports 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6964279&server=cdn-live
 #EXTINF:-1 tvg-id="fox-sports-3-argentina" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png" group-title="Sports | Argentina",Fox Sports 3
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7072749&server=stream
-#EXTINF:-1 tvg-id="cmtv-portugal" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cmtv-pt.png" group-title="Entertainment | Portugal",CMTV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1432523&server=stream
 #EXTINF:-1 tvg-id="mgm-usa" tvg-name="MGM+" tvg-logo="https://tvnow.st/logo/mgm-plus" group-title="Movies | USA",MGM+
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1275332&server=stream
 #EXTINF:-1 tvg-id="showtime-2-usa" tvg-name="Showtime 2" tvg-logo="https://i.ibb.co/8gCRbv0s/Showtime-2-svg.webp" group-title="Movies | USA",Showtime 2
@@ -1269,10 +1123,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6712590&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6793126&server=stream
 #EXTINF:-1 tvg-id="dr1-denmark" tvg-name="DR1" tvg-logo="" group-title="Entertainment | Denmark",DR1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6537902&server=cdn-live
-#EXTINF:-1 tvg-id="dr2-denmark" tvg-name="DR2" tvg-logo="" group-title="Entertainment | Denmark",DR2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3680001&server=cdn-live
-#EXTINF:-1 tvg-id="kanal-4-denmark" tvg-name="Kanal 4" tvg-logo="" group-title="Entertainment | Denmark",Kanal 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6720610&server=stream
 #EXTINF:-1 tvg-id="kanal-5-denmark" tvg-name="Kanal 5" tvg-logo="" group-title="Entertainment | Denmark",Kanal 5
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9325637&server=stream
 #EXTINF:-1 tvg-id="canal-9-denmark" tvg-name="CANAL 9" tvg-logo="" group-title="Entertainment | Denmark",CANAL 9
@@ -1295,14 +1145,8 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9493144&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1190927&server=stream
 #EXTINF:-1 tvg-id="c-more-series-sweden" tvg-name="C More Series" tvg-logo="" group-title="Entertainment | Sweden",C More Series
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2722327&server=stream
-#EXTINF:-1 tvg-id="v-film-premiere-sweden" tvg-name="V Film Premiere" tvg-logo="https://i.imgur.com/QdFKe21.png" group-title="Movies | Sweden",V Film Premiere
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4277305&server=stream
-#EXTINF:-1 tvg-id="v-film-family-sweden" tvg-name="V Film Family" tvg-logo="https://i.imgur.com/K6fQ8pe.png" group-title="Movies | Sweden",V Film Family
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6783583&server=stream
 #EXTINF:-1 tvg-id="tv2-denmark" tvg-name="TV2" tvg-logo="" group-title="Entertainment | Denmark",TV2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8505611&server=cdn-live
-#EXTINF:-1 tvg-id="tv2-zulu-denmark" tvg-name="TV2 Zulu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/TV_2_Zulu.svg/960px-TV_2_Zulu.svg.png" group-title="Entertainment | Denmark",TV2 Zulu
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3098686&server=stream
 #EXTINF:-1 tvg-id="tv3-denmark" tvg-name="TV3+" tvg-logo="" group-title="Entertainment | Denmark",TV3+
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4855139&server=stream
 #EXTINF:-1 tvg-id="fox-sports-502-australia" tvg-name="FOX Sports 502" tvg-logo="https://i.ibb.co/tppZhDrb/image.webp" group-title="Sports | Australia",FOX Sports 502
@@ -1327,8 +1171,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2915616&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6082600&server=cdn-live
 #EXTINF:-1 tvg-id="fox-sports-premium-mexico" tvg-name="Fox Sports Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-premium-mx.png" group-title="Sports | Mexico",Fox Sports Premium
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6646710&server=stream
-#EXTINF:-1 tvg-id="citytv-canada" tvg-name="Citytv" tvg-logo="https://i.imgur.com/Pq8XScs.jpg" group-title="Entertainment | Canada",Citytv
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1896718&server=stream
 #EXTINF:-1 tvg-id="cbc-canada" tvg-name="CBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" group-title="Entertainment | Canada",CBC
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3138071&server=stream
 #EXTINF:-1 tvg-id="tva-sports-canada" tvg-name="TVA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVASports.svg/960px-TVASports.svg.png" group-title="Sports | Canada",TVA Sports
@@ -1351,8 +1193,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2168853&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6776330&server=stream
 #EXTINF:-1 tvg-id="tvo-canada" tvg-name="TVO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tvo-ca.png" group-title="Entertainment | Canada",TVO
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8412775&server=stream
-#EXTINF:-1 tvg-id="prima-tv-romania" tvg-name="Prima TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-tv-ro.png" group-title="Entertainment | Romania",Prima TV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5830163&server=stream
 #EXTINF:-1 tvg-id="azteca-7-mexico" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png" group-title="Entertainment | Mexico",Azteca 7
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2909579&server=stream
 #EXTINF:-1 tvg-id="nbc-universo-usa" tvg-name="NBC Universo" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="Entertainment | USA",NBC Universo
@@ -1409,12 +1249,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4721809&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7073292&server=stream
 #EXTINF:-1 tvg-id="sky-calcio-1-italy" tvg-name="Sky Calcio 1" tvg-logo="" group-title="Sports | Italy",Sky Calcio 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3931530&server=stream
-#EXTINF:-1 tvg-id="sky-calcio-2-italy" tvg-name="Sky Calcio 2" tvg-logo="" group-title="Sports | Italy",Sky Calcio 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7387201&server=stream
-#EXTINF:-1 tvg-id="sky-calcio-3-italy" tvg-name="Sky Calcio 3" tvg-logo="" group-title="Sports | Italy",Sky Calcio 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6960612&server=stream
-#EXTINF:-1 tvg-id="sky-calcio-4-italy" tvg-name="Sky Calcio 4" tvg-logo="" group-title="Sports | Italy",Sky Calcio 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3096842&server=stream
 #EXTINF:-1 tvg-id="sky-sport-basket-italy" tvg-name="Sky Sport Basket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_Basket_-_Logo_2025.svg/960px-Sky_Sport_Basket_-_Logo_2025.svg.png" group-title="Sports | Italy",Sky Sport Basket
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5943715&server=stream
 #EXTINF:-1 tvg-id="itv-quiz-uk" tvg-name="ITV Quiz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_official_ITV_Quiz_logo.svg/960px-The_official_ITV_Quiz_logo.svg.png" group-title="Entertainment | UK",ITV Quiz
@@ -1431,22 +1265,16 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3845325&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8164841&server=stream
 #EXTINF:-1 tvg-id="rai-sport-italy" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sports | Italy",Rai Sport
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5982596&server=stream
-#EXTINF:-1 tvg-id="sbs6-netherlands" tvg-name="SBS6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs6-nl.png" group-title="Entertainment | Netherlands",SBS6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7382003&server=stream
 #EXTINF:-1 tvg-id="sky-sports-tennis-germany" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="Sports | Germany",Sky Sports Tennis
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4171249&server=stream
 #EXTINF:-1 tvg-id="sony-sports-ten-1-india" tvg-name="Sony Sports Ten 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LOGO_HD/image.png" group-title="Sports | India",Sony Sports Ten 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6864558&server=tms
 #EXTINF:-1 tvg-id="sony-sports-ten-2-india" tvg-name="Sony Sports Ten 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports | India",Sony Sports Ten 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4134154&server=tms
-#EXTINF:-1 tvg-id="sony-sports-ten-3-india" tvg-name="Sony Sports Ten 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Sports | India",Sony Sports Ten 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7632410&server=tms
 #EXTINF:-1 tvg-id="espn-3-netherlands" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-3-nl.png" group-title="Sports | Netherlands",ESPN 3
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4610095&server=cdn-live
 #EXTINF:-1 tvg-id="trt-spor-turkey" tvg-name="TRT Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" group-title="Sports | Turkey",TRT Spor
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4515694&server=cdn-live
-#EXTINF:-1 tvg-id="fanduel-sports-network-arizona-usa" tvg-name="FanDuel Sports Network Arizona" tvg-logo="" group-title="Sports | USA",FanDuel Sports Network Arizona
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6814749&server=stream
 #EXTINF:-1 tvg-id="fanduel-sports-network-detroit-usa" tvg-name="FanDuel Sports Network Detroit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/FanDuel_Sports_Network_Detroit_logo.svg" group-title="Sports | USA",FanDuel Sports Network Detroit
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5574077&server=stream
 #EXTINF:-1 tvg-id="fanduel-sports-network-florida-usa" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FanDuel_Sports_Network_Florida_logo.svg/960px-FanDuel_Sports_Network_Florida_logo.svg.png" group-title="Sports | USA",FanDuel Sports Network Florida
@@ -1467,8 +1295,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4198209&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3412593&server=stream
 #EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma-usa" tvg-name="FanDuel Sports Network Oklahoma" tvg-logo="https://i.imgur.com/iUZ7jIx.png" group-title="Sports | USA",FanDuel Sports Network Oklahoma
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5291321&server=stream
-#EXTINF:-1 tvg-id="ziggo-sport-6-netherlands" tvg-name="Ziggo Sport 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-6-nl.png" group-title="Sports | Netherlands",Ziggo Sport 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8894027&server=cdn-live
 #EXTINF:-1 tvg-id="fanduel-sports-network-socal-usa" tvg-name="FanDuel Sports Network SoCal" tvg-logo="" group-title="Sports | USA",FanDuel Sports Network SoCal
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9417154&server=stream
 #EXTINF:-1 tvg-id="fanduel-sports-network-south-usa" tvg-name="FanDuel Sports Network South" tvg-logo="https://i.imgur.com/gU37xzJ.png" group-title="Sports | USA",FanDuel Sports Network South
@@ -1479,8 +1305,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1336116&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6624736&server=stream
 #EXTINF:-1 tvg-id="fanduel-sports-network-west-usa" tvg-name="FanDuel Sports Network West" tvg-logo="https://i.imgur.com/0s0Vc5X.png" group-title="Sports | USA",FanDuel Sports Network West
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6627485&server=stream
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin-usa" tvg-name="FanDuel Sports Network Wisconsin" tvg-logo="https://i.imgur.com/w7pVHNW.png" group-title="Sports | USA",FanDuel Sports Network Wisconsin
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9147854&server=stream
 #EXTINF:-1 tvg-id="cbs-sports-golazo-usa" tvg-name="CBS Sports Golazo" tvg-logo="https://tvnow.st/logo/cbs-sports-golazo" group-title="Sports | USA",CBS Sports Golazo
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4375404&server=cdn-live
 #EXTINF:-1 tvg-id="cytavision-sports-1-cyprus" tvg-name="Cytavision Sports 1" tvg-logo="" group-title="Sports | Cyprus",Cytavision Sports 1
@@ -1499,8 +1323,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7119177&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2656311&server=cdn-live
 #EXTINF:-1 tvg-id="dazn-fifa-club-world-cup-portugal" tvg-name="DAZN FIFA Club World Cup" tvg-logo="" group-title="Sports | Portugal",DAZN FIFA Club World Cup
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3635130&server=stream
-#EXTINF:-1 tvg-id="ziggo-sport-3-netherlands" tvg-name="Ziggo Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-3-nl.png" group-title="Sports | Netherlands",Ziggo Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5755185&server=cdn-live
 #EXTINF:-1 tvg-id="root-sports-northwest-usa" tvg-name="Root Sports Northwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Root_Sports_logo.svg/960px-Root_Sports_logo.svg.png" group-title="Sports | USA",Root Sports Northwest
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7977680&server=stream
 #EXTINF:-1 tvg-id="space-city-home-network-usa" tvg-name="Space City Home Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" group-title="Sports | USA",Space City Home Network
@@ -1509,8 +1331,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4954661&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1124984&server=stream
 #EXTINF:-1 tvg-id="altitude-sports-usa" tvg-name="Altitude Sports" tvg-logo="https://i.imgur.com/TzWflKZ.png" group-title="Sports | USA",Altitude Sports
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6355857&server=cdn-live
-#EXTINF:-1 tvg-id="las-estrellas-mexico" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Entertainment | Mexico",Las Estrellas
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6358440&server=stream
 #EXTINF:-1 tvg-id="espn-1-mexico" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports | Mexico",ESPN 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8758410&server=stream
 #EXTINF:-1 tvg-id="espn-2-mexico" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="Sports | Mexico",ESPN 2
@@ -1527,8 +1347,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6392803&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7814388&server=stream
 #EXTINF:-1 tvg-id="tvc-deportes-mexico" tvg-name="TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Sports | Mexico",TVC Deportes
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1059798&server=stream
-#EXTINF:-1 tvg-id="claro-sports-mexico" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports | Mexico",Claro Sports
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3075339&server=stream
 #EXTINF:-1 tvg-id="azteca-uno-mexico" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-uno-mx.png" group-title="Entertainment | Mexico",Azteca Uno
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3775155&server=stream
 #EXTINF:-1 tvg-id="tudn-mexico" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-title="Sports | Mexico",TUDN
@@ -1561,14 +1379,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9280370&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7233898&server=stream
 #EXTINF:-1 tvg-id="france-4-france" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="Entertainment | France",France 4
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8760236&server=stream
-#EXTINF:-1 tvg-id="france-5-france" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="Entertainment | France",France 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1077751&server=stream
-#EXTINF:-1 tvg-id="rmc-story-france" tvg-name="RMC Story" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="Entertainment | France",RMC Story
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4246437&server=stream
-#EXTINF:-1 tvg-id="tmc-france" tvg-name="TMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/tmc-be.png" group-title="Entertainment | France",TMC
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5102880&server=stream
-#EXTINF:-1 tvg-id="c8-france" tvg-name="C8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="Entertainment | France",C8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9490349&server=stream
 #EXTINF:-1 tvg-id="bfm-tv-france" tvg-name="BFM TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="News | France",BFM TV
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3288570&server=stream
 #EXTINF:-1 tvg-id="arte-france" tvg-name="Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="Entertainment | France",Arte
@@ -1579,12 +1389,6 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3831232&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4249745&server=stream
 #EXTINF:-1 tvg-id="automoto-la-chane-france" tvg-name="Automoto La chaîne" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="Sports | France",Automoto La chaîne
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4094898&server=stream
-#EXTINF:-1 tvg-id="lci-france" tvg-name="LCI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/lci-be.png" group-title="News | France",LCI
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5233189&server=stream
-#EXTINF:-1 tvg-id="6ter-france" tvg-name="6ter" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="Entertainment | France",6ter
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1480855&server=stream
-#EXTINF:-1 tvg-id="cnews-france" tvg-name="CNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="News | France",CNews
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4130702&server=stream
 #EXTINF:-1 tvg-id="sport-en-france-france" tvg-name="Sport en France" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports | France",Sport en France
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4211588&server=stream
 #EXTINF:-1 tvg-id="starz-cinema-usa" tvg-name="Starz Cinema" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="Movies | USA",Starz Cinema
@@ -1615,20 +1419,14 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9695044&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6017603&server=stream
 #EXTINF:-1 tvg-id="canal-extra-1-poland" tvg-name="Canal+ Extra 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Canal%2B_Extra_1.png/960px-Canal%2B_Extra_1.png" group-title="Entertainment | Poland",Canal+ Extra 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1419981&server=tms
-#EXTINF:-1 tvg-id="canal-extra-2-poland" tvg-name="Canal+ Extra 2" tvg-logo="https://programtv.naziemna.info/images/tvstation/150x60/canalplusextra2.png" group-title="Entertainment | Poland",Canal+ Extra 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7968869&server=tms
 #EXTINF:-1 tvg-id="canal-extra-3-poland" tvg-name="Canal+ Extra 3" tvg-logo="https://programtv.naziemna.info/images/tvstation/150x60/canalplusextra3.png" group-title="Entertainment | Poland",Canal+ Extra 3
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4222011&server=stream
 #EXTINF:-1 tvg-id="canal-extra-4-poland" tvg-name="Canal+ Extra 4" tvg-logo="https://programtv.naziemna.info/images/tvstation/150x60/canalplusextra4.png" group-title="Entertainment | Poland",Canal+ Extra 4
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3052431&server=stream
-#EXTINF:-1 tvg-id="canal-extra-5-poland" tvg-name="Canal+ Extra 5" tvg-logo="https://programtv.naziemna.info/images/tvstation/150x60/canalplusextra5.png" group-title="Entertainment | Poland",Canal+ Extra 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1920098&server=stream
 #EXTINF:-1 tvg-id="canal-extra-6-poland" tvg-name="Canal+ Extra 6" tvg-logo="https://programtv.naziemna.info/images/tvstation/150x60/canalplusextra6.png" group-title="Entertainment | Poland",Canal+ Extra 6
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9965338&server=stream
 #EXTINF:-1 tvg-id="canal-extra-7-poland" tvg-name="Canal+ Extra 7" tvg-logo="https://programtv.naziemna.info/images/tvstation/150x60/canalplusextra7.png" group-title="Entertainment | Poland",Canal+ Extra 7
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7526484&server=stream
-#EXTINF:-1 tvg-id="mtv-poland" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/mtv-ar.png" group-title="Entertainment | Poland",MTV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4314584&server=stream
 #EXTINF:-1 tvg-id="polsat-sport-premium-1-poland" tvg-name="Polsat Sport Premium 1" tvg-logo="" group-title="Sports | Poland",Polsat Sport Premium 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4425079&server=cdn-live
 #EXTINF:-1 tvg-id="polsat-sport-premium-2-poland" tvg-name="Polsat Sport Premium 2" tvg-logo="" group-title="Sports | Poland",Polsat Sport Premium 2
@@ -1649,114 +1447,14 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8103655&s
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6917173&server=cdn-live
 #EXTINF:-1 tvg-id="atv-turkey" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/atv-at.png" group-title="Entertainment | Turkey",ATV
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8895946&server=stream
-#EXTINF:-1 tvg-id="kanal-d-turkey" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/kanal-d-ro.png" group-title="Entertainment | Turkey",Kanal D
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7760972&server=stream
-#EXTINF:-1 tvg-id="show-tv-turkey" tvg-name="Show TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/show-tv-pl.png" group-title="Entertainment | Turkey",Show TV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5411157&server=stream
-#EXTINF:-1 tvg-id="now-tv-turkey" tvg-name="NOW TV" tvg-logo="https://i.imgur.com/rkBw0pW.png" group-title="Entertainment | Turkey",NOW TV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4582426&server=stream
-#EXTINF:-1 tvg-id="star-tv-turkey" tvg-name="Star TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/star-tv-ch.png" group-title="Entertainment | Turkey",Star TV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9997330&server=stream
-#EXTINF:-1 tvg-id="tv8-turkey" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Entertainment | Turkey",TV8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5495858&server=stream
-#EXTINF:-1 tvg-id="bein-sports-5-turkey" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-5-us.png" group-title="Sports | Turkey",beIN Sports 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5089096&server=stream
-#EXTINF:-1 tvg-id="a-spor-turkey" tvg-name="A Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="Sports | Turkey",A Spor
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4092303&server=stream
-#EXTINF:-1 tvg-id="canal-sport-czech-republic" tvg-name="Canal+ Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Sports | Czech Republic",Canal+ Sport
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3511191&server=cdn-live
-#EXTINF:-1 tvg-id="nova-sport-1-czech-republic" tvg-name="Nova Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-1-cz.png" group-title="Sports | Czech Republic",Nova Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7157336&server=stream
-#EXTINF:-1 tvg-id="nova-sport-2-czech-republic" tvg-name="Nova Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-2-cz.png" group-title="Sports | Czech Republic",Nova Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1937103&server=stream
-#EXTINF:-1 tvg-id="nova-sport-3-czech-republic" tvg-name="Nova Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-3-cz.png" group-title="Sports | Czech Republic",Nova Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3005220&server=cdn-live
-#EXTINF:-1 tvg-id="nova-sport-4-czech-republic" tvg-name="Nova Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-4-cz.png" group-title="Sports | Czech Republic",Nova Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2882082&server=stream
-#EXTINF:-1 tvg-id="nova-sport-5-czech-republic" tvg-name="Nova Sport 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-5-cz.png" group-title="Sports | Czech Republic",Nova Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5260907&server=cdn-live
-#EXTINF:-1 tvg-id="nova-sport-6-czech-republic" tvg-name="Nova Sport 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-6-cz.png" group-title="Sports | Czech Republic",Nova Sport 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6527186&server=stream
-#EXTINF:-1 tvg-id="oneplay-sport-1-czech-republic" tvg-name="Oneplay Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/oneplay-sport-1-cz.png" group-title="Sports | Czech Republic",Oneplay Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8253867&server=stream
-#EXTINF:-1 tvg-id="oneplay-sport-2-czech-republic" tvg-name="Oneplay Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/oneplay-sport-2-cz.png" group-title="Sports | Czech Republic",Oneplay Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4991495&server=stream
-#EXTINF:-1 tvg-id="oneplay-sport-3-czech-republic" tvg-name="Oneplay Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/oneplay-sport-3-cz.png" group-title="Sports | Czech Republic",Oneplay Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4535460&server=stream
-#EXTINF:-1 tvg-id="premier-sport-1-czech-republic" tvg-name="Premier Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/premier-sport-1-cz.png" group-title="Sports | Czech Republic",Premier Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7566766&server=stream
-#EXTINF:-1 tvg-id="premier-sport-2-czech-republic" tvg-name="Premier Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/premier-sport-2-cz.png" group-title="Sports | Czech Republic",Premier Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7844081&server=stream
-#EXTINF:-1 tvg-id="premier-sport-3-czech-republic" tvg-name="Premier Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/premier-sport-3-cz.png" group-title="Sports | Czech Republic",Premier Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9193358&server=stream
 #EXTINF:-1 tvg-id="ct-sport-czech-republic" tvg-name="CT Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Sports | Czech Republic",CT Sport
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9683632&server=stream
-#EXTINF:-1 tvg-id="nova-hd-czech-republic" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hd/nova-hd-hr.png" group-title="Entertainment | Czech Republic",Nova HD
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2603190&server=stream
-#EXTINF:-1 tvg-id="ct1-hd-czech-republic" tvg-name="CT1 HD" tvg-logo="" group-title="Entertainment | Czech Republic",CT1 HD
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5185609&server=stream
-#EXTINF:-1 tvg-id="ct2-hd-czech-republic" tvg-name="CT2 HD" tvg-logo="" group-title="Entertainment | Czech Republic",CT2 HD
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5305120&server=stream
-#EXTINF:-1 tvg-id="tn-live-czech-republic" tvg-name="TN Live" tvg-logo="" group-title="News | Czech Republic",TN Live
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1004366&server=stream
-#EXTINF:-1 tvg-id="oneplay-sport-4-czech-republic" tvg-name="OnePlay Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/oneplay-sport-4-cz.png" group-title="Sports | Czech Republic",OnePlay Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4676238&server=stream
-#EXTINF:-1 tvg-id="oneplay-md2-czech-republic" tvg-name="OnePlay MD2" tvg-logo="" group-title="Sports | Czech Republic",OnePlay MD2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3776660&server=stream
-#EXTINF:-1 tvg-id="oneplay-md3-czech-republic" tvg-name="OnePlay MD3" tvg-logo="" group-title="Sports | Czech Republic",OnePlay MD3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6979897&server=stream
-#EXTINF:-1 tvg-id="oneplay-md4-czech-republic" tvg-name="OnePlay MD4" tvg-logo="" group-title="Sports | Czech Republic",OnePlay MD4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2581733&server=stream
 #EXTINF:-1 tvg-id="sport-1-czech-republic" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sport1-de.png" group-title="Sports | Czech Republic",Sport 1
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4460266&server=stream
 #EXTINF:-1 tvg-id="canal-sport-2-czech-republic" tvg-name="Canal+ Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/canal-plus-sport-2-cz.png" group-title="Sports | Czech Republic",Canal+ Sport 2
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7787578&server=stream
-#EXTINF:-1 tvg-id="canal-sport-3-czech-republic" tvg-name="Canal+ Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png" group-title="Sports | Czech Republic",Canal+ Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5588557&server=stream
-#EXTINF:-1 tvg-id="canal-sport-4-czech-republic" tvg-name="Canal+ Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png" group-title="Sports | Czech Republic",Canal+ Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7491978&server=stream
-#EXTINF:-1 tvg-id="canal-sport-5-czech-republic" tvg-name="Canal+ Sport 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-5-pl.png" group-title="Sports | Czech Republic",Canal+ Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4560894&server=stream
-#EXTINF:-1 tvg-id="canal-sport-6-czech-republic" tvg-name="Canal+ Sport 6" tvg-logo="https://i.imgur.com/lhx8KnZ.png" group-title="Sports | Czech Republic",Canal+ Sport 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1195596&server=stream
-#EXTINF:-1 tvg-id="canal-sport-7-czech-republic" tvg-name="Canal+ Sport 7" tvg-logo="" group-title="Sports | Czech Republic",Canal+ Sport 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7853295&server=stream
-#EXTINF:-1 tvg-id="canal-sport-8-czech-republic" tvg-name="Canal+ Sport 8" tvg-logo="" group-title="Sports | Czech Republic",Canal+ Sport 8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6088734&server=stream
-#EXTINF:-1 tvg-id="joj-slovakia" tvg-name="JOJ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png" group-title="Entertainment | Slovakia",JOJ
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4172598&server=stream
-#EXTINF:-1 tvg-id="dajto-slovakia" tvg-name="Dajto" tvg-logo="" group-title="Entertainment | Slovakia",Dajto
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1020917&server=stream
 #EXTINF:-1 tvg-id="joj-port-slovakia" tvg-name="JOJ Šport" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Sports | Slovakia",JOJ Šport
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6114425&server=stream
-#EXTINF:-1 tvg-id="voyo-special-1-slovakia" tvg-name="Voyo Special 1" tvg-logo="" group-title="Entertainment | Slovakia",Voyo Special 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1274065&server=stream
-#EXTINF:-1 tvg-id="voyo-special-2-slovakia" tvg-name="Voyo Special 2" tvg-logo="" group-title="Entertainment | Slovakia",Voyo Special 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6226891&server=stream
-#EXTINF:-1 tvg-id="voyo-special-3-slovakia" tvg-name="Voyo Special 3" tvg-logo="" group-title="Entertainment | Slovakia",Voyo Special 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1185596&server=stream
-#EXTINF:-1 tvg-id="voyo-special-4-slovakia" tvg-name="Voyo Special 4" tvg-logo="" group-title="Entertainment | Slovakia",Voyo Special 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3816702&server=stream
-#EXTINF:-1 tvg-id="voyo-special-7-slovakia" tvg-name="Voyo Special 7" tvg-logo="" group-title="Entertainment | Slovakia",Voyo Special 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8068455&server=stream
-#EXTINF:-1 tvg-id="voyo-special-8-slovakia" tvg-name="Voyo Special 8" tvg-logo="" group-title="Entertainment | Slovakia",Voyo Special 8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7239716&server=stream
-#EXTINF:-1 tvg-id="voyo-special-9-slovakia" tvg-name="Voyo Special 9" tvg-logo="" group-title="Entertainment | Slovakia",Voyo Special 9
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5192013&server=stream
-#EXTINF:-1 tvg-id="nova-sport-3-slovakia" tvg-name="Nova Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-3-cz.png" group-title="Sports | Slovakia",Nova Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5736861&server=stream
-#EXTINF:-1 tvg-id="nova-sport-4-slovakia" tvg-name="Nova Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-4-cz.png" group-title="Sports | Slovakia",Nova Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2459891&server=stream
-#EXTINF:-1 tvg-id="nova-sport-5-slovakia" tvg-name="Nova Sport 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-5-cz.png" group-title="Sports | Slovakia",Nova Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5891187&server=stream
-#EXTINF:-1 tvg-id="canal-sport-slovakia" tvg-name="Canal+ Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/canal-plus-sport-sk.png" group-title="Sports | Slovakia",Canal+ Sport
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9190036&server=stream
-#EXTINF:-1 tvg-id="canal-sport-2-slovakia" tvg-name="Canal+ Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/canal-plus-sport-2-sk.png" group-title="Sports | Slovakia",Canal+ Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3649554&server=stream
-#EXTINF:-1 tvg-id="canal-sport-3-slovakia" tvg-name="Canal+ Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png" group-title="Sports | Slovakia",Canal+ Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4162348&server=stream
-#EXTINF:-1 tvg-id="canal-sport-4-slovakia" tvg-name="Canal+ Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png" group-title="Sports | Slovakia",Canal+ Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2074403&server=stream
 #EXTINF:-1 tvg-id="cw-new-york-usa" tvg-name="CW New York" tvg-logo="https://tvnow.st/logo/cw-new-york" group-title="Entertainment | USA",CW New York
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8880197&server=tvn
 #EXTINF:-1 tvg-id="fanduel-sports-arizona-usa" tvg-name="FanDuel Sports Arizona" tvg-logo="https://tvnow.st/logo/fanduel-arizona" group-title="Sports | USA",FanDuel Sports Arizona
@@ -1829,247 +1527,7 @@ https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=T1JPYSOB&
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=TFDA62R&server=tms
 #EXTINF:-1 tvg-id="movistar-plus-spain" tvg-name="Movistar Plus" tvg-logo="https://imagenes.hobbyconsolas.com/uploads/imagenes/2026/05/11/6a01f2422d3b19-96205427.jpeg" group-title="Entertainment | Spain",Movistar Plus
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=T1DG1S40&server=tms
-#EXTINF:-1 tvg-id="arizona-diamondbacks-usa" tvg-name="Arizona Diamondbacks" tvg-logo="" group-title="Sports | USA",Arizona Diamondbacks
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7659273&server=cdn-live
-#EXTINF:-1 tvg-id="astro-cricket-usa" tvg-name="Astro Cricket" tvg-logo="" group-title="Sports | USA",Astro Cricket
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7485621&server=cdn-live
-#EXTINF:-1 tvg-id="atlanta-braves-usa" tvg-name="Atlanta Braves" tvg-logo="" group-title="Sports | USA",Atlanta Braves
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6069496&server=cdn-live
-#EXTINF:-1 tvg-id="baltimore-orioles-usa" tvg-name="Baltimore Orioles" tvg-logo="" group-title="Sports | USA",Baltimore Orioles
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8576450&server=cdn-live
-#EXTINF:-1 tvg-id="boston-red-sox-usa" tvg-name="Boston Red Sox" tvg-logo="" group-title="Sports | USA",Boston Red Sox
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4035428&server=cdn-live
-#EXTINF:-1 tvg-id="cp24-canada" tvg-name="CP24" tvg-logo="" group-title="News | Canada",CP24
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3596314&server=cdn-live
-#EXTINF:-1 tvg-id="canal-360-poland" tvg-name="Canal 360" tvg-logo="" group-title="Entertainment | Poland",Canal 360
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7640368&server=cdn-live
-#EXTINF:-1 tvg-id="canal-5-italy" tvg-name="Canal 5" tvg-logo="" group-title="Entertainment | Italy",Canal 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3396577&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-10-france" tvg-name="Canal Live 10" tvg-logo="" group-title="Sports | France",Canal Live 10
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6739605&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-11-france" tvg-name="Canal Live 11" tvg-logo="" group-title="Sports | France",Canal Live 11
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6580252&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-3-france" tvg-name="Canal Live 3" tvg-logo="" group-title="Sports | France",Canal Live 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3078692&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-4-france" tvg-name="Canal Live 4" tvg-logo="" group-title="Sports | France",Canal Live 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4187390&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-5-france" tvg-name="Canal Live 5" tvg-logo="" group-title="Sports | France",Canal Live 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7681002&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-6-france" tvg-name="Canal Live 6" tvg-logo="" group-title="Sports | France",Canal Live 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6118954&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-7-france" tvg-name="Canal Live 7" tvg-logo="" group-title="Sports | France",Canal Live 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2497481&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-8-france" tvg-name="Canal Live 8" tvg-logo="" group-title="Sports | France",Canal Live 8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3916931&server=cdn-live
-#EXTINF:-1 tvg-id="canal-live-9-france" tvg-name="Canal Live 9" tvg-logo="" group-title="Sports | France",Canal Live 9
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5252619&server=cdn-live
-#EXTINF:-1 tvg-id="canal-premier-league-france" tvg-name="Canal Premier League" tvg-logo="" group-title="Sports | France",Canal Premier League
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4196672&server=cdn-live
-#EXTINF:-1 tvg-id="canal-sport-4-poland" tvg-name="Canal Sport 4" tvg-logo="" group-title="Sports | Poland",Canal Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1114377&server=cdn-live
-#EXTINF:-1 tvg-id="canvas-belgium" tvg-name="Canvas" tvg-logo="" group-title="Entertainment | Belgium",Canvas
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8976063&server=cdn-live
-#EXTINF:-1 tvg-id="chicago-cubs-usa" tvg-name="Chicago Cubs" tvg-logo="" group-title="Sports | USA",Chicago Cubs
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5602960&server=cdn-live
-#EXTINF:-1 tvg-id="chicago-white-sox-usa" tvg-name="Chicago White Sox" tvg-logo="" group-title="Sports | USA",Chicago White Sox
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4189729&server=cdn-live
-#EXTINF:-1 tvg-id="cincinnati-reds-usa" tvg-name="Cincinnati Reds" tvg-logo="" group-title="Sports | USA",Cincinnati Reds
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4264339&server=cdn-live
-#EXTINF:-1 tvg-id="cleveland-guardians-usa" tvg-name="Cleveland Guardians" tvg-logo="" group-title="Sports | USA",Cleveland Guardians
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4798902&server=cdn-live
-#EXTINF:-1 tvg-id="colorado-rockies-usa" tvg-name="Colorado Rockies" tvg-logo="" group-title="Sports | USA",Colorado Rockies
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8659913&server=cdn-live
-#EXTINF:-1 tvg-id="dazn-2-portugal" tvg-name="DAZN 2" tvg-logo="" group-title="Sports | Portugal",DAZN 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4341687&server=cdn-live
-#EXTINF:-1 tvg-id="dazn-3-portugal" tvg-name="DAZN 3" tvg-logo="" group-title="Sports | Portugal",DAZN 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2031760&server=cdn-live
-#EXTINF:-1 tvg-id="dazn-4-portugal" tvg-name="DAZN 4" tvg-logo="" group-title="Sports | Portugal",DAZN 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7047496&server=cdn-live
-#EXTINF:-1 tvg-id="dazn-5-portugal" tvg-name="DAZN 5" tvg-logo="" group-title="Sports | Portugal",DAZN 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3211816&server=cdn-live
-#EXTINF:-1 tvg-id="dazn-6-portugal" tvg-name="DAZN 6" tvg-logo="" group-title="Sports | Portugal",DAZN 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9528897&server=cdn-live
-#EXTINF:-1 tvg-id="dazn-laliga-2-spain" tvg-name="DAZN LaLiga 2" tvg-logo="" group-title="Sports | Spain",DAZN LaLiga 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8210537&server=cdn-live
-#EXTINF:-1 tvg-id="das-erste-germany" tvg-name="Das Erste" tvg-logo="" group-title="Entertainment | Germany",Das Erste
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4115276&server=cdn-live
-#EXTINF:-1 tvg-id="detroit-tigers-usa" tvg-name="Detroit Tigers" tvg-logo="" group-title="Sports | USA",Detroit Tigers
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9922553&server=cdn-live
-#EXTINF:-1 tvg-id="euro-sport-1-uk" tvg-name="Euro Sport 1" tvg-logo="" group-title="Sports | UK",Euro Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8886935&server=cdn-live
-#EXTINF:-1 tvg-id="euro-sport-1-bulgaria" tvg-name="Euro Sport 1" tvg-logo="" group-title="Sports | Bulgaria",Euro Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9080294&server=cdn-live
-#EXTINF:-1 tvg-id="euro-sport-2-uk" tvg-name="Euro Sport 2" tvg-logo="" group-title="Sports | UK",Euro Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3289587&server=cdn-live
-#EXTINF:-1 tvg-id="euro-sport-2-bulgaria" tvg-name="Euro Sport 2" tvg-logo="" group-title="Sports | Bulgaria",Euro Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4014988&server=cdn-live
-#EXTINF:-1 tvg-id="fox-sports-news-australia" tvg-name="Fox Sports News" tvg-logo="" group-title="Sports | Australia",Fox Sports News
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2369580&server=cdn-live
-#EXTINF:-1 tvg-id="kansas-city-royals-usa" tvg-name="Kansas City Royals" tvg-logo="" group-title="Sports | USA",Kansas City Royals
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5720673&server=cdn-live
-#EXTINF:-1 tvg-id="los-angeles-angels-usa" tvg-name="Los Angeles Angels" tvg-logo="" group-title="Sports | USA",Los Angeles Angels
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5529764&server=cdn-live
-#EXTINF:-1 tvg-id="los-angeles-dodgers-usa" tvg-name="Los Angeles Dodgers" tvg-logo="" group-title="Sports | USA",Los Angeles Dodgers
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2184849&server=cdn-live
-#EXTINF:-1 tvg-id="max-usa" tvg-name="MAX" tvg-logo="" group-title="Movies | USA",MAX
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1468920&server=cdn-live
-#EXTINF:-1 tvg-id="miami-marlins-usa" tvg-name="Miami Marlins" tvg-logo="" group-title="Sports | USA",Miami Marlins
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8923337&server=cdn-live
-#EXTINF:-1 tvg-id="milwaukee-brewers-usa" tvg-name="Milwaukee Brewers" tvg-logo="" group-title="Sports | USA",Milwaukee Brewers
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4210736&server=cdn-live
-#EXTINF:-1 tvg-id="minnesota-twins-usa" tvg-name="Minnesota Twins" tvg-logo="" group-title="Sports | USA",Minnesota Twins
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7101336&server=cdn-live
-#EXTINF:-1 tvg-id="new-york-mets-usa" tvg-name="New York Mets" tvg-logo="" group-title="Sports | USA",New York Mets
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2784497&server=cdn-live
-#EXTINF:-1 tvg-id="new-york-yankees-usa" tvg-name="New York Yankees" tvg-logo="" group-title="Sports | USA",New York Yankees
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8671416&server=cdn-live
-#EXTINF:-1 tvg-id="oakland-athletics-usa" tvg-name="Oakland Athletics" tvg-logo="" group-title="Sports | USA",Oakland Athletics
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9488819&server=cdn-live
-#EXTINF:-1 tvg-id="philadelphia-phillies-usa" tvg-name="Philadelphia Phillies" tvg-logo="" group-title="Sports | USA",Philadelphia Phillies
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8334649&server=cdn-live
-#EXTINF:-1 tvg-id="pittsburgh-pirates-usa" tvg-name="Pittsburgh Pirates" tvg-logo="" group-title="Sports | USA",Pittsburgh Pirates
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7467155&server=cdn-live
-#EXTINF:-1 tvg-id="premiere-1-brazil" tvg-name="Premiere 1" tvg-logo="" group-title="Sports | Brazil",Premiere 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1842295&server=cdn-live
-#EXTINF:-1 tvg-id="premiere-2-brazil" tvg-name="Premiere 2" tvg-logo="" group-title="Sports | Brazil",Premiere 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1197786&server=cdn-live
-#EXTINF:-1 tvg-id="premiere-3-brazil" tvg-name="Premiere 3" tvg-logo="" group-title="Sports | Brazil",Premiere 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2190907&server=cdn-live
-#EXTINF:-1 tvg-id="premiere-4-brazil" tvg-name="Premiere 4" tvg-logo="" group-title="Sports | Brazil",Premiere 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2307981&server=cdn-live
-#EXTINF:-1 tvg-id="premiere-5-brazil" tvg-name="Premiere 5" tvg-logo="" group-title="Sports | Brazil",Premiere 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2912045&server=cdn-live
-#EXTINF:-1 tvg-id="premiere-6-brazil" tvg-name="Premiere 6" tvg-logo="" group-title="Sports | Brazil",Premiere 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1693696&server=cdn-live
-#EXTINF:-1 tvg-id="premiere-7-brazil" tvg-name="Premiere 7" tvg-logo="" group-title="Sports | Brazil",Premiere 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7637516&server=cdn-live
-#EXTINF:-1 tvg-id="red-bull-usa" tvg-name="Red Bull" tvg-logo="" group-title="Sports | USA",Red Bull
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6305374&server=cdn-live
-#EXTINF:-1 tvg-id="san-diego-padres-usa" tvg-name="San Diego Padres" tvg-logo="" group-title="Sports | USA",San Diego Padres
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6132555&server=cdn-live
-#EXTINF:-1 tvg-id="san-francisco-giants-usa" tvg-name="San Francisco Giants" tvg-logo="" group-title="Sports | USA",San Francisco Giants
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8712227&server=cdn-live
-#EXTINF:-1 tvg-id="seattle-mariners-usa" tvg-name="Seattle Mariners" tvg-logo="" group-title="Sports | USA",Seattle Mariners
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3013830&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-10-austria" tvg-name="Sky Sport 10" tvg-logo="" group-title="Sports | Austria",Sky Sport 10
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9063174&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-2-austria" tvg-name="Sky Sport 2" tvg-logo="" group-title="Sports | Austria",Sky Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9987836&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-3-germany" tvg-name="Sky Sport 3" tvg-logo="" group-title="Sports | Germany",Sky Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1318806&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-3-austria" tvg-name="Sky Sport 3" tvg-logo="" group-title="Sports | Austria",Sky Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2425658&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-4-germany" tvg-name="Sky Sport 4" tvg-logo="" group-title="Sports | Germany",Sky Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6160260&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-4-austria" tvg-name="Sky Sport 4" tvg-logo="" group-title="Sports | Austria",Sky Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6517406&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-5-germany" tvg-name="Sky Sport 5" tvg-logo="" group-title="Sports | Germany",Sky Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4265717&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-5-austria" tvg-name="Sky Sport 5" tvg-logo="" group-title="Sports | Austria",Sky Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2771419&server=cdn-live
 #EXTINF:-1 tvg-id="sky-sport-6-austria" tvg-name="Sky Sport 6" tvg-logo="" group-title="Sports | Austria",Sky Sport 6
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1670214&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-7-austria" tvg-name="Sky Sport 7" tvg-logo="" group-title="Sports | Austria",Sky Sport 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1596716&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-8-austria" tvg-name="Sky Sport 8" tvg-logo="" group-title="Sports | Austria",Sky Sport 8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3998647&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-9-austria" tvg-name="Sky Sport 9" tvg-logo="" group-title="Sports | Austria",Sky Sport 9
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8382765&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-10-germany" tvg-name="Sky Sport Bundesliga 10" tvg-logo="" group-title="Sports | Germany",Sky Sport Bundesliga 10
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1379067&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-6-germany" tvg-name="Sky Sport Bundesliga 6" tvg-logo="" group-title="Sports | Germany",Sky Sport Bundesliga 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8956014&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-7-germany" tvg-name="Sky Sport Bundesliga 7" tvg-logo="" group-title="Sports | Germany",Sky Sport Bundesliga 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6593151&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-8-germany" tvg-name="Sky Sport Bundesliga 8" tvg-logo="" group-title="Sports | Germany",Sky Sport Bundesliga 8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1731195&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-9-germany" tvg-name="Sky Sport Bundesliga 9" tvg-logo="" group-title="Sports | Germany",Sky Sport Bundesliga 9
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9687220&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sport-premier-league-germany" tvg-name="Sky Sport Premier League" tvg-logo="" group-title="Sports | Germany",Sky Sport Premier League
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9297621&server=cdn-live
-#EXTINF:-1 tvg-id="sky-sports-arena-uk" tvg-name="Sky Sports Arena" tvg-logo="" group-title="Sports | UK",Sky Sports Arena
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5541952&server=cdn-live
-#EXTINF:-1 tvg-id="sport-tv-portugal" tvg-name="Sport TV" tvg-logo="" group-title="Sports | Portugal",Sport TV
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5544198&server=cdn-live
-#EXTINF:-1 tvg-id="st-louis-cardinals-usa" tvg-name="St. Louis Cardinals" tvg-logo="" group-title="Sports | USA",St. Louis Cardinals
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5717722&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-10-australia" tvg-name="Stan Sport 10" tvg-logo="" group-title="Sports | Australia",Stan Sport 10
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4323525&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-11-australia" tvg-name="Stan Sport 11" tvg-logo="" group-title="Sports | Australia",Stan Sport 11
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5011470&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-12-australia" tvg-name="Stan Sport 12" tvg-logo="" group-title="Sports | Australia",Stan Sport 12
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1574101&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-13-australia" tvg-name="Stan Sport 13" tvg-logo="" group-title="Sports | Australia",Stan Sport 13
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5588275&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-14-australia" tvg-name="Stan Sport 14" tvg-logo="" group-title="Sports | Australia",Stan Sport 14
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3672371&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-15-australia" tvg-name="Stan Sport 15" tvg-logo="" group-title="Sports | Australia",Stan Sport 15
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2954507&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-16-australia" tvg-name="Stan Sport 16" tvg-logo="" group-title="Sports | Australia",Stan Sport 16
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1979516&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-18-australia" tvg-name="Stan Sport 18" tvg-logo="" group-title="Sports | Australia",Stan Sport 18
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3509499&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-19-australia" tvg-name="Stan Sport 19" tvg-logo="" group-title="Sports | Australia",Stan Sport 19
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9289993&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-2-australia" tvg-name="Stan Sport 2" tvg-logo="" group-title="Sports | Australia",Stan Sport 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5582389&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-3-australia" tvg-name="Stan Sport 3" tvg-logo="" group-title="Sports | Australia",Stan Sport 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1505779&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-4-australia" tvg-name="Stan Sport 4" tvg-logo="" group-title="Sports | Australia",Stan Sport 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=4867904&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-5-australia" tvg-name="Stan Sport 5" tvg-logo="" group-title="Sports | Australia",Stan Sport 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8847598&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-6-australia" tvg-name="Stan Sport 6" tvg-logo="" group-title="Sports | Australia",Stan Sport 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2885547&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-7-australia" tvg-name="Stan Sport 7" tvg-logo="" group-title="Sports | Australia",Stan Sport 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2024249&server=cdn-live
-#EXTINF:-1 tvg-id="stan-sport-9-australia" tvg-name="Stan Sport 9" tvg-logo="" group-title="Sports | Australia",Stan Sport 9
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1068500&server=cdn-live
-#EXTINF:-1 tvg-id="starzplay-sports-1-uae" tvg-name="Starzplay Sports 1" tvg-logo="" group-title="Sports | UAE",Starzplay Sports 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7262198&server=cdn-live
-#EXTINF:-1 tvg-id="starzplay-sports-2-uae" tvg-name="Starzplay Sports 2" tvg-logo="" group-title="Sports | UAE",Starzplay Sports 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7517728&server=cdn-live
-#EXTINF:-1 tvg-id="tnt-sports-5-uk" tvg-name="TNT Sports 5" tvg-logo="" group-title="Sports | UK",TNT Sports 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3738550&server=cdn-live
-#EXTINF:-1 tvg-id="tnt-sports-6-uk" tvg-name="TNT Sports 6" tvg-logo="" group-title="Sports | UK",TNT Sports 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9358954&server=cdn-live
-#EXTINF:-1 tvg-id="tnt-sports-8-uk" tvg-name="TNT Sports 8" tvg-logo="" group-title="Sports | UK",TNT Sports 8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9852423&server=cdn-live
-#EXTINF:-1 tvg-id="trt-1-turkey" tvg-name="TRT 1" tvg-logo="" group-title="Entertainment | Turkey",TRT 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3736664&server=cdn-live
-#EXTINF:-1 tvg-id="trt-2-turkey" tvg-name="TRT 2" tvg-logo="" group-title="Entertainment | Turkey",TRT 2
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9259776&server=cdn-live
-#EXTINF:-1 tvg-id="trt-3-turkey" tvg-name="TRT 3" tvg-logo="" group-title="Entertainment | Turkey",TRT 3
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5156929&server=cdn-live
-#EXTINF:-1 tvg-id="tv3-puls-denmark" tvg-name="TV3 Puls" tvg-logo="" group-title="Entertainment | Denmark",TV3 Puls
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7121701&server=cdn-live
 #EXTINF:-1 tvg-id="tampa-bay-rays-usa" tvg-name="Tampa Bay Rays" tvg-logo="" group-title="Sports | USA",Tampa Bay Rays
 https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1764038&server=cdn-live
-#EXTINF:-1 tvg-id="texas-rangers-usa" tvg-name="Texas Rangers" tvg-logo="" group-title="Sports | USA",Texas Rangers
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=2426681&server=cdn-live
-#EXTINF:-1 tvg-id="toronto-blue-jays-usa" tvg-name="Toronto Blue Jays" tvg-logo="" group-title="Sports | USA",Toronto Blue Jays
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9448712&server=cdn-live
-#EXTINF:-1 tvg-id="v-sport-1-sweden" tvg-name="V Sport 1" tvg-logo="" group-title="Sports | Sweden",V Sport 1
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9274693&server=cdn-live
-#EXTINF:-1 tvg-id="v-sport-extra-sweden" tvg-name="V Sport Extra" tvg-logo="" group-title="Sports | Sweden",V Sport Extra
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=1984826&server=cdn-live
-#EXTINF:-1 tvg-id="v-sport-football-sweden" tvg-name="V Sport Football" tvg-logo="" group-title="Sports | Sweden",V Sport Football
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=7871054&server=cdn-live
-#EXTINF:-1 tvg-id="v-sport-premium-sweden" tvg-name="V Sport Premium" tvg-logo="" group-title="Sports | Sweden",V Sport Premium
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8143157&server=cdn-live
-#EXTINF:-1 tvg-id="v-sport-ultra-sweden" tvg-name="V Sport Ultra" tvg-logo="" group-title="Sports | Sweden",V Sport Ultra
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6031068&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-4-saudi-arabia" tvg-name="beIN SPORTS 4" tvg-logo="" group-title="General | Saudi Arabia",beIN SPORTS 4
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=6142188&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-5-saudi-arabia" tvg-name="beIN SPORTS 5" tvg-logo="" group-title="General | Saudi Arabia",beIN SPORTS 5
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=5828050&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-6-saudi-arabia" tvg-name="beIN SPORTS 6" tvg-logo="" group-title="General | Saudi Arabia",beIN SPORTS 6
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3097609&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-7-saudi-arabia" tvg-name="beIN SPORTS 7" tvg-logo="" group-title="General | Saudi Arabia",beIN SPORTS 7
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=8332894&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-8-saudi-arabia" tvg-name="beIN SPORTS 8" tvg-logo="" group-title="General | Saudi Arabia",beIN SPORTS 8
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=3935329&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-9-saudi-arabia" tvg-name="beIN SPORTS 9" tvg-logo="" group-title="General | Saudi Arabia",beIN SPORTS 9
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9048204&server=cdn-live
-#EXTINF:-1 tvg-id="bein-sports-n-spain" tvg-name="beIN SPORTS N" tvg-logo="" group-title="Sports | Spain",beIN SPORTS N
-https://kdfsnhzplcmxlkqiioeq.supabase.co/functions/v1/hoofoot-proxy?id=9747711&server=cdn-live
