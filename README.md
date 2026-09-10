@@ -9,8 +9,19 @@ Tự động fetch và giải mã danh sách kênh IPTV từ app **Cò TiVi** (c
 | [`output/cotivi_all.m3u`](output/cotivi_all.m3u) | Tất cả kênh (Channels + Sports) |
 | [`output/cotivi_channels.m3u`](output/cotivi_channels.m3u) | Chỉ kênh TV |
 | [`output/cotivi_sports.m3u`](output/cotivi_sports.m3u) | Chỉ kênh thể thao |
+| [`sports-highfly.m3u`](sports-highfly.m3u) | Kênh và sự kiện thể thao từ Sports Streams |
 
 > **Cập nhật tự động mỗi 6 tiếng** qua GitHub Actions.
+
+Playlist Sports Streams được cập nhật tự động mỗi 30 phút qua workflow
+[`Update Sports IPTV playlist`](.github/workflows/update-sports-playlist.yml).
+Workflow cũng có thể chạy thủ công bằng nút **Run workflow**.
+
+URL để thêm vào TiviMate:
+
+```text
+https://raw.githubusercontent.com/Bacbenny/freetvco/main/sports-highfly.m3u
+```
 
 ## 🔓 Kết quả reverse-engineering APK
 
