@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-10T21:19:55.526Z
+# Generated at 2026-09-10T23:18:25.482Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=246c6e377302e7eb" group-title="Afl",AU: FOX SPORTS 502 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=a58b9f5f7aef2e8e" group-title="Afl",AU: FOX SPORTS 504 HD
@@ -21,53 +21,11 @@ https://leaf.highfly.dev/m3u/us-39903003/live.m3u8
 https://leaf.highfly.dev/m3u/pl-434343434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:nz-399329303" tvg-name="NZ: SKY SPORT 1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/nz-399329303_UTC.webp?v=669d4881962e37c2" group-title="Rugby",NZ: SKY SPORT 1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/nz-399329303/live.m3u8
-#EXTINF:-1 tvg-id="streamed:psv-eindhoven-vs-shakhtar-donetsk-2594585" tvg-name="PSV Eindhoven vs Shakhtar Donetsk" tvg-logo="https://cdn.highfly.dev/posters/psv-eindhoven-vs-shakhtar-donetsk-2594585_UTC.webp?v=15b44167" group-title="Football",PSV Eindhoven vs Shakhtar Donetsk
-https://leaf.highfly.dev/m3u/1562630/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fenerbah-e-vs-roma-2594652" tvg-name="Fenerbahçe vs Roma" tvg-logo="https://cdn.highfly.dev/posters/fenerbah-e-vs-roma-2594652_UTC.webp?v=8c18cf73" group-title="Football",Fenerbahçe vs Roma
-https://leaf.highfly.dev/m3u/588011/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fenerbah-e-vs-roma-2594652" tvg-name="Fenerbahçe vs Roma" tvg-logo="https://cdn.highfly.dev/posters/fenerbah-e-vs-roma-2594652_UTC.webp?v=8c18cf73" group-title="Football",Fenerbahçe vs Roma
-https://leaf.highfly.dev/m3u/1568839/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fenerbah-e-vs-roma-2594652" tvg-name="Fenerbahçe vs Roma" tvg-logo="https://cdn.highfly.dev/posters/fenerbah-e-vs-roma-2594652_UTC.webp?v=8c18cf73" group-title="Football",Fenerbahçe vs Roma
-https://leaf.highfly.dev/m3u/1562622/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fenerbah-e-vs-roma-2594652" tvg-name="Fenerbahçe vs Roma" tvg-logo="https://cdn.highfly.dev/posters/fenerbah-e-vs-roma-2594652_UTC.webp?v=8c18cf73" group-title="Football",Fenerbahçe vs Roma
-https://leaf.highfly.dev/m3u/429938/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fenerbah-e-vs-roma-2594652" tvg-name="Fenerbahçe vs Roma" tvg-logo="https://cdn.highfly.dev/posters/fenerbah-e-vs-roma-2594652_UTC.webp?v=8c18cf73" group-title="Football",Fenerbahçe vs Roma
-https://leaf.highfly.dev/m3u/1568595/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fiba-wwc-2026-qf-aus-esp" tvg-name="Australia vs Spain - FIBA Women's WC QF" tvg-logo="https://cdn.highfly.dev/posters/fiba-wwc-2026-qf-aus-esp_UTC.webp?v=44510068" group-title="Basketball",Australia vs Spain - FIBA Women's WC QF
-https://leaf.highfly.dev/m3u/941720/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-united-vs-sabah-baku-2594538" tvg-name="Manchester United vs Sabah Baku" tvg-logo="https://cdn.highfly.dev/posters/manchester-united-vs-sabah-baku-2594538_UTC.webp?v=176038c4" group-title="Football",Manchester United vs Sabah Baku
-https://leaf.highfly.dev/m3u/588012/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-united-vs-sabah-baku-2594538" tvg-name="Manchester United vs Sabah Baku" tvg-logo="https://cdn.highfly.dev/posters/manchester-united-vs-sabah-baku-2594538_UTC.webp?v=176038c4" group-title="Football",Manchester United vs Sabah Baku
-https://leaf.highfly.dev/m3u/1290337/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-united-vs-sabah-baku-2594538" tvg-name="Manchester United vs Sabah Baku" tvg-logo="https://cdn.highfly.dev/posters/manchester-united-vs-sabah-baku-2594538_UTC.webp?v=176038c4" group-title="Football",Manchester United vs Sabah Baku
-https://leaf.highfly.dev/m3u/1324773/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-united-vs-sabah-baku-2594538" tvg-name="Manchester United vs Sabah Baku" tvg-logo="https://cdn.highfly.dev/posters/manchester-united-vs-sabah-baku-2594538_UTC.webp?v=176038c4" group-title="Football",Manchester United vs Sabah Baku
-https://leaf.highfly.dev/m3u/993054/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-united-vs-sabah-baku-2594538" tvg-name="Manchester United vs Sabah Baku" tvg-logo="https://cdn.highfly.dev/posters/manchester-united-vs-sabah-baku-2594538_UTC.webp?v=176038c4" group-title="Football",Manchester United vs Sabah Baku
-https://leaf.highfly.dev/m3u/1025275/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bayern-munich-vs-bod--glimt-2594568" tvg-name="Bayern Munich vs Bodø/Glimt" tvg-logo="https://cdn.highfly.dev/posters/bayern-munich-vs-bod--glimt-2594568_UTC.webp?v=29ae4984" group-title="Football",Bayern Munich vs Bodø/Glimt
-https://leaf.highfly.dev/m3u/1290336/live.m3u8
-#EXTINF:-1 tvg-id="streamed:slavia-prague-vs-lens-2594641" tvg-name="Slavia Prague vs Lens" tvg-logo="https://cdn.highfly.dev/posters/slavia-prague-vs-lens-2594641_UTC.webp?v=f548bc10" group-title="Football",Slavia Prague vs Lens
-https://leaf.highfly.dev/m3u/1290345/live.m3u8
-#EXTINF:-1 tvg-id="streamed:slavia-prague-vs-lens-2594641" tvg-name="Slavia Prague vs Lens" tvg-logo="https://cdn.highfly.dev/posters/slavia-prague-vs-lens-2594641_UTC.webp?v=f548bc10" group-title="Football",Slavia Prague vs Lens
-https://leaf.highfly.dev/m3u/1562638/live.m3u8
-#EXTINF:-1 tvg-id="streamed:slavia-prague-vs-lens-2594641" tvg-name="Slavia Prague vs Lens" tvg-logo="https://cdn.highfly.dev/posters/slavia-prague-vs-lens-2594641_UTC.webp?v=f548bc10" group-title="Football",Slavia Prague vs Lens
-https://leaf.highfly.dev/m3u/1501727/live.m3u8
-#EXTINF:-1 tvg-id="streamed:como-vs-rb-leipzig-2594669" tvg-name="Como vs RB Leipzig" tvg-logo="https://cdn.highfly.dev/posters/como-vs-rb-leipzig-2594669_UTC.webp?v=ef3e4cb5" group-title="Football",Como vs RB Leipzig
-https://leaf.highfly.dev/m3u/588010/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-the-golazo-show" tvg-name="The Golazo Show" tvg-logo="https://cdn.highfly.dev/posters/ppv-the-golazo-show_UTC.webp?v=8750e014" group-title="Football",The Golazo Show
-https://leaf.highfly.dev/m3u/1501733/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-the-golazo-show" tvg-name="The Golazo Show" tvg-logo="https://cdn.highfly.dev/posters/ppv-the-golazo-show_UTC.webp?v=8750e014" group-title="Football",The Golazo Show
-https://leaf.highfly.dev/m3u/1940140/live.m3u8
-#EXTINF:-1 tvg-id="streamed:stevenage-vs-luton-town-2500763" tvg-name="Stevenage vs Luton Town" tvg-logo="https://cdn.highfly.dev/posters/stevenage-vs-luton-town-2500763_UTC.webp?v=3b0c4290" group-title="Football",Stevenage vs Luton Town
-https://leaf.highfly.dev/m3u/1527635/live.m3u8
-#EXTINF:-1 tvg-id="streamed:stevenage-vs-luton-town-2500763" tvg-name="Stevenage vs Luton Town" tvg-logo="https://cdn.highfly.dev/posters/stevenage-vs-luton-town-2500763_UTC.webp?v=3b0c4290" group-title="Football",Stevenage vs Luton Town
-https://leaf.highfly.dev/m3u/1290239/live.m3u8
-#EXTINF:-1 tvg-id="streamed:estrela-amadora-vs-braga-2513960" tvg-name="Estrela Amadora vs Braga" tvg-logo="https://cdn.highfly.dev/posters/estrela-amadora-vs-braga-2513960_UTC.webp?v=3bc27e26" group-title="Football",Estrela Amadora vs Braga
-https://leaf.highfly.dev/m3u/325025/live.m3u8
-#EXTINF:-1 tvg-id="streamed:estrela-amadora-vs-braga-2513960" tvg-name="Estrela Amadora vs Braga" tvg-logo="https://cdn.highfly.dev/posters/estrela-amadora-vs-braga-2513960_UTC.webp?v=3bc27e26" group-title="Football",Estrela Amadora vs Braga
-https://leaf.highfly.dev/m3u/386381/live.m3u8
 #EXTINF:-1 tvg-id="streamed:seattle-mariners-vs-texas-rangers-2521127" tvg-name="Seattle Mariners vs Texas Rangers" tvg-logo="https://cdn.highfly.dev/posters/seattle-mariners-vs-texas-rangers-2521127_UTC.webp?v=aef76647" group-title="Baseball",Seattle Mariners vs Texas Rangers
 https://leaf.highfly.dev/m3u/1904219/live.m3u8
 #EXTINF:-1 tvg-id="streamed:seattle-mariners-vs-texas-rangers-2521127" tvg-name="Seattle Mariners vs Texas Rangers" tvg-logo="https://cdn.highfly.dev/posters/seattle-mariners-vs-texas-rangers-2521127_UTC.webp?v=aef76647" group-title="Baseball",Seattle Mariners vs Texas Rangers
 https://leaf.highfly.dev/m3u/1904222/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-colorado-rockies-2521128" tvg-name="New York Yankees vs Colorado Rockies" tvg-logo="https://cdn.highfly.dev/posters/new-york-yankees-vs-colorado-rockies-2521128_UTC.webp?v=7b37b63e" group-title="Baseball",New York Yankees vs Colorado Rockies
+https://leaf.highfly.dev/m3u/1904213/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-colorado-rockies-2521128" tvg-name="New York Yankees vs Colorado Rockies" tvg-logo="https://cdn.highfly.dev/posters/new-york-yankees-vs-colorado-rockies-2521128_UTC.webp?v=7b37b63e" group-title="Baseball",New York Yankees vs Colorado Rockies
+https://leaf.highfly.dev/m3u/1904203/live.m3u8
