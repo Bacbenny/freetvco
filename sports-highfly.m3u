@@ -1,17 +1,13 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-10T05:23:11.153Z
-#EXTINF:-1 tvg-id="leaf:us-tennis-channel" tvg-name="US: TENNIS CHANNEL" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-tennis-channel_UTC.webp?v=874d05f62e34a3b7" group-title="Tennis",US: TENNIS CHANNEL
-https://leaf.highfly.dev/m3u/us-tennis-channel/live.m3u8
+# Generated at 2026-09-10T06:11:10.942Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=246c6e377302e7eb" group-title="Afl",AU: FOX SPORTS 502 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=a58b9f5f7aef2e8e" group-title="Afl",AU: FOX SPORTS 504 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-504-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-501-hd" tvg-name="AU: FOX SPORTS 501 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-501-hd_UTC.webp?v=781abdad2a5c3c36" group-title="Sports",AU: FOX SPORTS 501 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-501-hd/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-sky-sports-premier-league" tvg-name="NOW: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-sky-sports-premier-league_UTC.webp?v=96fe81f1dc593a21" group-title="Football",NOW: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
-https://leaf.highfly.dev/m3u/now-sky-sports-premier-league/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-espn-hd-0" tvg-name="US: ESPN HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-0_UTC.webp?v=56c38f99aa93ba50" group-title="Sports",US: ESPN HD
+#EXTINF:-1 tvg-id="leaf:us-espn-hd-0" tvg-name="(HD) : ESPN" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-0_UTC.webp?v=d30302714660fd1d" group-title="Sports",(HD) : ESPN
 https://leaf.highfly.dev/m3u/us-espn-hd-0/live.m3u8
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/f1-3949409/live.m3u8
@@ -21,6 +17,10 @@ https://leaf.highfly.dev/m3u/ten-3930030/live.m3u8
 https://leaf.highfly.dev/m3u/gol-9300300/live.m3u8
 #EXTINF:-1 tvg-id="leaf:melanin-394903" tvg-name="(FHD) : SKY SPORTS CRICKET ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/melanin-394903_UTC.webp?v=65be700720b4e365" group-title="Cricket",(FHD) : SKY SPORTS CRICKET ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/melanin-394903/live.m3u8
+#EXTINF:-1 tvg-id="leaf:us-39903003" tvg-name="HD : TENNIS" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-39903003_UTC.webp?v=18df5031d9bae073" group-title="Tennis",HD : TENNIS
+https://leaf.highfly.dev/m3u/us-39903003/live.m3u8
+#EXTINF:-1 tvg-id="leaf:pl-434343434" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/pl-434343434_UTC.webp?v=54a0cdbcca2db0ff" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
+https://leaf.highfly.dev/m3u/pl-434343434/live.m3u8
 #EXTINF:-1 tvg-id="streamed:los-angeles-dodgers-vs-cincinnati-reds-2521124" tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-dodgers-vs-cincinnati-reds-2521124_UTC.webp?v=c6d86efd" group-title="Baseball",Los Angeles Dodgers vs Cincinnati Reds
 https://leaf.highfly.dev/m3u/1904208/live.m3u8
 #EXTINF:-1 tvg-id="streamed:los-angeles-dodgers-vs-cincinnati-reds-2521124" tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-dodgers-vs-cincinnati-reds-2521124_UTC.webp?v=c6d86efd" group-title="Baseball",Los Angeles Dodgers vs Cincinnati Reds
