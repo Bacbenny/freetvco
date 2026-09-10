@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-10T06:11:10.942Z
+# Generated at 2026-09-10T11:36:20.310Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=246c6e377302e7eb" group-title="Afl",AU: FOX SPORTS 502 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=a58b9f5f7aef2e8e" group-title="Afl",AU: FOX SPORTS 504 HD
@@ -21,9 +21,11 @@ https://leaf.highfly.dev/m3u/melanin-394903/live.m3u8
 https://leaf.highfly.dev/m3u/us-39903003/live.m3u8
 #EXTINF:-1 tvg-id="leaf:pl-434343434" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/pl-434343434_UTC.webp?v=54a0cdbcca2db0ff" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/pl-434343434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-dodgers-vs-cincinnati-reds-2521124" tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-dodgers-vs-cincinnati-reds-2521124_UTC.webp?v=c6d86efd" group-title="Baseball",Los Angeles Dodgers vs Cincinnati Reds
-https://leaf.highfly.dev/m3u/1904208/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-dodgers-vs-cincinnati-reds-2521124" tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-dodgers-vs-cincinnati-reds-2521124_UTC.webp?v=c6d86efd" group-title="Baseball",Los Angeles Dodgers vs Cincinnati Reds
-https://leaf.highfly.dev/m3u/1904201/live.m3u8
-#EXTINF:-1 tvg-id="streamed:admin-espn" tvg-name="US Open" tvg-logo="https://cdn.highfly.dev/posters/admin-espn_UTC.webp?v=6f6a35cb" group-title="Tennis",US Open
-https://leaf.highfly.dev/m3u/1562491/live.m3u8
+#EXTINF:-1 tvg-id="leaf:nz-399329303" tvg-name="NZ: SKY SPORT 1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/nz-399329303_UTC.webp?v=669d4881962e37c2" group-title="Rugby",NZ: SKY SPORT 1 ᴿᴬᵂ
+https://leaf.highfly.dev/m3u/nz-399329303/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fiba-wwc-2026-qf-usa-hun" tvg-name="USA vs Hungary - FIBA Women's WC QF" tvg-logo="https://cdn.highfly.dev/posters/fiba-wwc-2026-qf-usa-hun_UTC.webp?v=5a801bf4" group-title="Basketball",USA vs Hungary - FIBA Women's WC QF
+https://leaf.highfly.dev/m3u/1940149/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fiba-wwc-2026-qf-usa-hun" tvg-name="USA vs Hungary - FIBA Women's WC QF" tvg-logo="https://cdn.highfly.dev/posters/fiba-wwc-2026-qf-usa-hun_UTC.webp?v=5a801bf4" group-title="Basketball",USA vs Hungary - FIBA Women's WC QF
+https://leaf.highfly.dev/m3u/1939952/live.m3u8
+#EXTINF:-1 tvg-id="streamed:icc-eng-vs-pak-test3-day2" tvg-name="England vs Pakistan - 3rd Test Day 2" tvg-logo="https://cdn.highfly.dev/posters/icc-eng-vs-pak-test3-day2_UTC.webp?v=e52b781e" group-title="Cricket",England vs Pakistan - 3rd Test Day 2
+https://leaf.highfly.dev/m3u/324993/live.m3u8
