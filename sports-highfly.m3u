@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-11T06:14:13.208Z
+# Generated at 2026-09-11T11:37:34.484Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=246c6e377302e7eb" group-title="Afl",AU: FOX SPORTS 502 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=a58b9f5f7aef2e8e" group-title="Afl",AU: FOX SPORTS 504 HD
@@ -21,3 +21,23 @@ https://leaf.highfly.dev/m3u/us-39903003/live.m3u8
 https://leaf.highfly.dev/m3u/pl-434343434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:nz-399329303" tvg-name="NZ: SKY SPORT 1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/nz-399329303_UTC.webp?v=669d4881962e37c2" group-title="Rugby",NZ: SKY SPORT 1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/nz-399329303/live.m3u8
+#EXTINF:-1 tvg-id="streamed:live-event_formula-1-2026-spain-gp-1-live-stream" tvg-name="Formula 1 2026 - Spain GP" tvg-logo="https://cdn.highfly.dev/posters/live-event_formula-1-2026-spain-gp-1-live-stream_UTC.webp?v=1b5a823f" group-title="Motor Sports",Formula 1 2026 - Spain GP
+https://leaf.highfly.dev/m3u/1290235/live.m3u8
+#EXTINF:-1 tvg-id="streamed:south-sydney-rabbitohs-vs-newcastle-knights-2600190" tvg-name="South Sydney Rabbitohs vs Newcastle Knights" tvg-logo="https://cdn.highfly.dev/posters/south-sydney-rabbitohs-vs-newcastle-knights-2600190_UTC.webp?v=3ef1d84b" group-title="Rugby",South Sydney Rabbitohs vs Newcastle Knights
+https://leaf.highfly.dev/m3u/1968679/live.m3u8
+#EXTINF:-1 tvg-id="streamed:south-sydney-rabbitohs-vs-newcastle-knights-2600190" tvg-name="South Sydney Rabbitohs vs Newcastle Knights" tvg-logo="https://cdn.highfly.dev/posters/south-sydney-rabbitohs-vs-newcastle-knights-2600190_UTC.webp?v=3ef1d84b" group-title="Rugby",South Sydney Rabbitohs vs Newcastle Knights
+https://leaf.highfly.dev/m3u/429583/live.m3u8
+#EXTINF:-1 tvg-id="streamed:south-sydney-rabbitohs-vs-newcastle-knights-2600190" tvg-name="South Sydney Rabbitohs vs Newcastle Knights" tvg-logo="https://cdn.highfly.dev/posters/south-sydney-rabbitohs-vs-newcastle-knights-2600190_UTC.webp?v=3ef1d84b" group-title="Rugby",South Sydney Rabbitohs vs Newcastle Knights
+https://leaf.highfly.dev/m3u/325018/live.m3u8
+#EXTINF:-1 tvg-id="streamed:icc-eng-vs-pak-test3-day3" tvg-name="England vs Pakistan - 3rd Test Day 3" tvg-logo="https://cdn.highfly.dev/posters/icc-eng-vs-pak-test3-day3_UTC.webp?v=951985e0" group-title="Cricket",England vs Pakistan - 3rd Test Day 3
+https://leaf.highfly.dev/m3u/852137/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fremantle-dockers-vs-geelong-cats-australian-football-3629" tvg-name="Fremantle Dockers vs Geelong Cats" tvg-logo="https://cdn.highfly.dev/posters/fremantle-dockers-vs-geelong-cats-australian-football-3629_UTC.webp?v=1f22883b" group-title="Afl",Fremantle Dockers vs Geelong Cats
+https://leaf.highfly.dev/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fremantle-dockers-vs-geelong-cats-australian-football-3629" tvg-name="Fremantle Dockers vs Geelong Cats" tvg-logo="https://cdn.highfly.dev/posters/fremantle-dockers-vs-geelong-cats-australian-football-3629_UTC.webp?v=1f22883b" group-title="Afl",Fremantle Dockers vs Geelong Cats
+https://leaf.highfly.dev/m3u/429585/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fremantle-dockers-vs-geelong-cats-australian-football-3629" tvg-name="Fremantle Dockers vs Geelong Cats" tvg-logo="https://cdn.highfly.dev/posters/fremantle-dockers-vs-geelong-cats-australian-football-3629_UTC.webp?v=1f22883b" group-title="Afl",Fremantle Dockers vs Geelong Cats
+https://leaf.highfly.dev/m3u/1968674/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-one-the-inner-circle-30-rambolek-vs-yod-iq" tvg-name="ONE The Inner Circle 30: Rambolek vs. Yod-IQ" tvg-logo="https://cdn.highfly.dev/posters/ppv-one-the-inner-circle-30-rambolek-vs-yod-iq_UTC.webp?v=ad80f10e" group-title="Fight",ONE The Inner Circle 30: Rambolek vs. Yod-IQ
+https://leaf.highfly.dev/m3u/605787/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-one-the-inner-circle-30-rambolek-vs-yod-iq" tvg-name="ONE The Inner Circle 30: Rambolek vs. Yod-IQ" tvg-logo="https://cdn.highfly.dev/posters/ppv-one-the-inner-circle-30-rambolek-vs-yod-iq_UTC.webp?v=ad80f10e" group-title="Fight",ONE The Inner Circle 30: Rambolek vs. Yod-IQ
+https://leaf.highfly.dev/m3u/605889/live.m3u8
