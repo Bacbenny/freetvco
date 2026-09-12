@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-12T06:01:38.927Z
+# Generated at 2026-09-12T10:13:24.240Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=246c6e377302e7eb" group-title="Afl",AU: FOX SPORTS 502 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=a58b9f5f7aef2e8e" group-title="Afl",AU: FOX SPORTS 504 HD
@@ -23,17 +23,37 @@ https://leaf.highfly.dev/m3u/pl-434343434/live.m3u8
 https://leaf.highfly.dev/m3u/nz-399329303/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-33323323" tvg-name="(HD) : ESPN 2" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-33323323_UTC.webp?v=45cc4c016d746cb3" group-title="Tennis",(HD) : ESPN 2
 https://leaf.highfly.dev/m3u/us-33323323/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2521144" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2521144_UTC.webp?v=9b51e862" group-title="Baseball",San Francisco Giants vs San Diego Padres
-https://leaf.highfly.dev/m3u/1940079/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2521144" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2521144_UTC.webp?v=9b51e862" group-title="Baseball",San Francisco Giants vs San Diego Padres
-https://leaf.highfly.dev/m3u/1939896/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470728" tvg-name="Northland vs Waikato" tvg-logo="https://cdn.highfly.dev/posters/npc-2470728_UTC.webp?v=0ab9a5f2" group-title="Rugby",Northland vs Waikato
-https://leaf.highfly.dev/m3u/1968679/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470728" tvg-name="Northland vs Waikato" tvg-logo="https://cdn.highfly.dev/posters/npc-2470728_UTC.webp?v=0ab9a5f2" group-title="Rugby",Northland vs Waikato
-https://leaf.highfly.dev/m3u/1966335/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470728" tvg-name="Northland vs Waikato" tvg-logo="https://cdn.highfly.dev/posters/npc-2470728_UTC.webp?v=0ab9a5f2" group-title="Rugby",Northland vs Waikato
-https://leaf.highfly.dev/m3u/1535940/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-zealand-warriors-vs-dolphins-2600191" tvg-name="New Zealand Warriors vs Dolphins" tvg-logo="https://cdn.highfly.dev/posters/new-zealand-warriors-vs-dolphins-2600191_UTC.webp?v=e2fbd29e" group-title="Rugby",New Zealand Warriors vs Dolphins
-https://leaf.highfly.dev/m3u/429585/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-zealand-warriors-vs-dolphins-2600191" tvg-name="New Zealand Warriors vs Dolphins" tvg-logo="https://cdn.highfly.dev/posters/new-zealand-warriors-vs-dolphins-2600191_UTC.webp?v=e2fbd29e" group-title="Rugby",New Zealand Warriors vs Dolphins
-https://leaf.highfly.dev/m3u/429587/live.m3u8
+#EXTINF:-1 tvg-id="leaf:yt-qlqukbrfswq" tvg-name="Eternal MMA 110" tvg-logo="https://cdn.highfly.dev/leaf_posters/yt-qlqukbrfswq_UTC.webp?v=00b9476b7f50b52c" group-title="Fight",Eternal MMA 110
+https://leaf.highfly.dev/m3u/yt-qlqukbrfswq/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-03-bkfc-93-perdomo-v-hill-ppv-03" tvg-name="BKFC 93 Perdomo v Hill ⭐" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-03-bkfc-93-perdomo-v-hill-ppv-03_UTC.webp?v=bf565f84" group-title="Other",BKFC 93 Perdomo v Hill ⭐
+https://leaf.highfly.dev/m3u/605785/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-03-bkfc-93-perdomo-v-hill-ppv-03" tvg-name="BKFC 93 Perdomo v Hill ⭐" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-03-bkfc-93-perdomo-v-hill-ppv-03_UTC.webp?v=bf565f84" group-title="Other",BKFC 93 Perdomo v Hill ⭐
+https://leaf.highfly.dev/m3u/1855358/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-03-bkfc-93-perdomo-v-hill-ppv-03" tvg-name="BKFC 93 Perdomo v Hill ⭐" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-03-bkfc-93-perdomo-v-hill-ppv-03_UTC.webp?v=bf565f84" group-title="Other",BKFC 93 Perdomo v Hill ⭐
+https://leaf.highfly.dev/m3u/605887/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-04-marquez-v-sanchez-ppv-004" tvg-name="Marquez v Sanchez" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-04-marquez-v-sanchez-ppv-004_UTC.webp?v=4e1c91e4" group-title="Other",Marquez v Sanchez
+https://leaf.highfly.dev/m3u/605784/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-04-marquez-v-sanchez-ppv-004" tvg-name="Marquez v Sanchez" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-04-marquez-v-sanchez-ppv-004_UTC.webp?v=4e1c91e4" group-title="Other",Marquez v Sanchez
+https://leaf.highfly.dev/m3u/1855354/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-04-marquez-v-sanchez-ppv-004" tvg-name="Marquez v Sanchez" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-04-marquez-v-sanchez-ppv-004_UTC.webp?v=4e1c91e4" group-title="Other",Marquez v Sanchez
+https://leaf.highfly.dev/m3u/605886/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fiji-rugby-vs-canada-rugby-2539652" tvg-name="Fiji Rugby vs Canada Rugby" tvg-logo="https://cdn.highfly.dev/posters/fiji-rugby-vs-canada-rugby-2539652_UTC.webp?v=d3324974" group-title="Rugby",Fiji Rugby vs Canada Rugby
+https://leaf.highfly.dev/m3u/1968683/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fiji-rugby-vs-canada-rugby-2539652" tvg-name="Fiji Rugby vs Canada Rugby" tvg-logo="https://cdn.highfly.dev/posters/fiji-rugby-vs-canada-rugby-2539652_UTC.webp?v=d3324974" group-title="Rugby",Fiji Rugby vs Canada Rugby
+https://leaf.highfly.dev/m3u/1239023/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-2026-adcc-world-championships-day-1" tvg-name="2026 ADCC World Championships | Day 1" tvg-logo="https://cdn.highfly.dev/posters/ppv-2026-adcc-world-championships-day-1_UTC.webp?v=aeecbb82" group-title="Fight",2026 ADCC World Championships | Day 1
+https://leaf.highfly.dev/m3u/1661748/live.m3u8
+#EXTINF:-1 tvg-id="streamed:brisbane-lions-vs-adelaide-football-club-2600650" tvg-name="Brisbane Lions vs Adelaide Football Club" tvg-logo="https://cdn.highfly.dev/posters/brisbane-lions-vs-adelaide-football-club-2600650_UTC.webp?v=22a217af" group-title="Afl",Brisbane Lions vs Adelaide Football Club
+https://leaf.highfly.dev/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:brisbane-lions-vs-adelaide-football-club-2600650" tvg-name="Brisbane Lions vs Adelaide Football Club" tvg-logo="https://cdn.highfly.dev/posters/brisbane-lions-vs-adelaide-football-club-2600650_UTC.webp?v=22a217af" group-title="Afl",Brisbane Lions vs Adelaide Football Club
+https://leaf.highfly.dev/m3u/2006129/live.m3u8
+#EXTINF:-1 tvg-id="streamed:brisbane-lions-vs-adelaide-football-club-2600650" tvg-name="Brisbane Lions vs Adelaide Football Club" tvg-logo="https://cdn.highfly.dev/posters/brisbane-lions-vs-adelaide-football-club-2600650_UTC.webp?v=22a217af" group-title="Afl",Brisbane Lions vs Adelaide Football Club
+https://leaf.highfly.dev/m3u/429586/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cronulla-sharks-vs-north-queensland-cowboys-2600192" tvg-name="Cronulla Sharks vs North Queensland Cowboys" tvg-logo="https://cdn.highfly.dev/posters/cronulla-sharks-vs-north-queensland-cowboys-2600192_UTC.webp?v=3cdaafc1" group-title="Rugby",Cronulla Sharks vs North Queensland Cowboys
+https://leaf.highfly.dev/m3u/1527621/live.m3u8
+#EXTINF:-1 tvg-id="streamed:portimonense-vs-tondela-2512969" tvg-name="Portimonense vs Tondela" tvg-logo="https://cdn.highfly.dev/posters/portimonense-vs-tondela-2512969_UTC.webp?v=08362f5d" group-title="Football",Portimonense vs Tondela
+https://leaf.highfly.dev/m3u/386381/live.m3u8
+#EXTINF:-1 tvg-id="streamed:icc-eng-vs-pak-test3-day4" tvg-name="England vs Pakistan - 3rd Test Day 4" tvg-logo="https://cdn.highfly.dev/posters/icc-eng-vs-pak-test3-day4_UTC.webp?v=ffadcfb1" group-title="Cricket",England vs Pakistan - 3rd Test Day 4
+https://leaf.highfly.dev/m3u/852137/live.m3u8
+#EXTINF:-1 tvg-id="streamed:3rd-practice-formula-1-2584" tvg-name="3rd Practice | |" tvg-logo="https://cdn.highfly.dev/posters/3rd-practice-formula-1-2584_UTC.webp?v=ac99f267" group-title="Motor Sports",3rd Practice | |
+https://leaf.highfly.dev/m3u/1290235/live.m3u8
