@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-12T16:39:15.617Z
+# Generated at 2026-09-12T18:55:24.196Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=246c6e377302e7eb" group-title="Afl",AU: FOX SPORTS 502 HD
 https://leaf.highfly.dev/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=a58b9f5f7aef2e8e" group-title="Afl",AU: FOX SPORTS 504 HD
@@ -15,34 +15,10 @@ https://leaf.highfly.dev/m3u/gol-9300300/live.m3u8
 https://leaf.highfly.dev/m3u/melanin-394903/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-39903003" tvg-name="HD : TENNIS" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-39903003_UTC.webp?v=18df5031d9bae073" group-title="Tennis",HD : TENNIS
 https://leaf.highfly.dev/m3u/us-39903003/live.m3u8
-#EXTINF:-1 tvg-id="leaf:pl-434343434" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/pl-434343434_UTC.webp?v=54a0cdbcca2db0ff" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
-https://leaf.highfly.dev/m3u/pl-434343434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:nz-399329303" tvg-name="NZ: SKY SPORT 1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/nz-399329303_UTC.webp?v=669d4881962e37c2" group-title="Rugby",NZ: SKY SPORT 1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/nz-399329303/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-33323323" tvg-name="(HD) : ESPN 2" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-33323323_UTC.webp?v=45cc4c016d746cb3" group-title="Tennis",(HD) : ESPN 2
-https://leaf.highfly.dev/m3u/us-33323323/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd-23993" tvg-name="US: ESPN HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-23993_UTC.webp?v=fff95111ff22aa3d" group-title="Tennis",US: ESPN HD
 https://leaf.highfly.dev/m3u/us-espn-hd-23993/live.m3u8
-#EXTINF:-1 tvg-id="streamed:osasuna-vs-espanyol-2506217" tvg-name="Osasuna vs Espanyol" tvg-logo="https://cdn.highfly.dev/posters/osasuna-vs-espanyol-2506217_UTC.webp?v=0a486974" group-title="Football",Osasuna vs Espanyol
-https://leaf.highfly.dev/m3u/587990/live.m3u8
-#EXTINF:-1 tvg-id="streamed:osasuna-vs-espanyol-2506217" tvg-name="Osasuna vs Espanyol" tvg-logo="https://cdn.highfly.dev/posters/osasuna-vs-espanyol-2506217_UTC.webp?v=0a486974" group-title="Football",Osasuna vs Espanyol
-https://leaf.highfly.dev/m3u/1954594/live.m3u8
-#EXTINF:-1 tvg-id="streamed:twente-vs-ado-den-haag-2489111" tvg-name="Twente vs ADO Den Haag" tvg-logo="https://cdn.highfly.dev/posters/twente-vs-ado-den-haag-2489111_UTC.webp?v=c61d77f0" group-title="Football",Twente vs ADO Den Haag
-https://leaf.highfly.dev/m3u/1528/live.m3u8
-#EXTINF:-1 tvg-id="streamed:nacional-de-madeira-vs-alverca-2513982" tvg-name="Nacional de Madeira vs Alverca" tvg-logo="https://cdn.highfly.dev/posters/nacional-de-madeira-vs-alverca-2513982_UTC.webp?v=a67a1558" group-title="Football",Nacional de Madeira vs Alverca
-https://leaf.highfly.dev/m3u/1688739/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fiba-wwc-2026-sf-fra-ger" tvg-name="France vs Germany - FIBA Women's WC SF" tvg-logo="https://cdn.highfly.dev/posters/fiba-wwc-2026-sf-fra-ger_UTC.webp?v=a65876bf" group-title="Basketball",France vs Germany - FIBA Women's WC SF
-https://leaf.highfly.dev/m3u/1562828/live.m3u8
-#EXTINF:-1 tvg-id="streamed:fiba-wwc-2026-sf-fra-ger" tvg-name="France vs Germany - FIBA Women's WC SF" tvg-logo="https://cdn.highfly.dev/posters/fiba-wwc-2026-sf-fra-ger_UTC.webp?v=a65876bf" group-title="Basketball",France vs Germany - FIBA Women's WC SF
-https://leaf.highfly.dev/m3u/1239032/live.m3u8
-#EXTINF:-1 tvg-id="streamed:strasbourg-vs-monaco-2489491" tvg-name="Strasbourg vs Monaco" tvg-logo="https://cdn.highfly.dev/posters/strasbourg-vs-monaco-2489491_UTC.webp?v=5fc7bce6" group-title="Football",Strasbourg vs Monaco
-https://leaf.highfly.dev/m3u/325025/live.m3u8
-#EXTINF:-1 tvg-id="streamed:strasbourg-vs-monaco-2489491" tvg-name="Strasbourg vs Monaco" tvg-logo="https://cdn.highfly.dev/posters/strasbourg-vs-monaco-2489491_UTC.webp?v=5fc7bce6" group-title="Football",Strasbourg vs Monaco
-https://leaf.highfly.dev/m3u/1519911/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ifk-g-teborg-vs-halmstad-2398914" tvg-name="IFK Göteborg vs Halmstad" tvg-logo="https://cdn.highfly.dev/posters/ifk-g-teborg-vs-halmstad-2398914_UTC.webp?v=8a0ccc6a" group-title="Football",IFK Göteborg vs Halmstad
-https://leaf.highfly.dev/m3u/1712658/live.m3u8
-#EXTINF:-1 tvg-id="streamed:gornik-zabrze-vs-lech-poznan-football-1553164" tvg-name="Gornik Zabrze vs Lech Poznan" tvg-logo="https://cdn.highfly.dev/posters/gornik-zabrze-vs-lech-poznan-football-1553164_UTC.webp?v=49593b24" group-title="Football",Gornik Zabrze vs Lech Poznan
-https://leaf.highfly.dev/m3u/1562551/live.m3u8
 #EXTINF:-1 tvg-id="streamed:harlequins-vs-northampton-saints-rugby-54725" tvg-name="Harlequins vs Northampton Saints" tvg-logo="https://cdn.highfly.dev/posters/harlequins-vs-northampton-saints-rugby-54725_UTC.webp?v=8d113f51" group-title="Rugby",Harlequins vs Northampton Saints
 https://leaf.highfly.dev/m3u/588011/live.m3u8
 #EXTINF:-1 tvg-id="streamed:michigan-vs-oklahoma-2498675" tvg-name="Michigan vs Oklahoma" tvg-logo="https://cdn.highfly.dev/posters/michigan-vs-oklahoma-2498675_UTC.webp?v=c8423141" group-title="American Football",Michigan vs Oklahoma
@@ -73,14 +49,10 @@ https://leaf.highfly.dev/m3u/325024/live.m3u8
 https://leaf.highfly.dev/m3u/605003/live.m3u8
 #EXTINF:-1 tvg-id="streamed:temple-vs-penn-state-2498683" tvg-name="Temple vs Penn State" tvg-logo="https://cdn.highfly.dev/posters/temple-vs-penn-state-2498683_UTC.webp?v=97095307" group-title="American Football",Temple vs Penn State
 https://leaf.highfly.dev/m3u/605010/live.m3u8
+#EXTINF:-1 tvg-id="streamed:temple-vs-penn-state-2498683" tvg-name="Temple vs Penn State" tvg-logo="https://cdn.highfly.dev/posters/temple-vs-penn-state-2498683_UTC.webp?v=97095307" group-title="American Football",Temple vs Penn State
+https://leaf.highfly.dev/m3u/325021/live.m3u8
 #EXTINF:-1 tvg-id="streamed:army-vs-south-florida-2498684" tvg-name="Army vs South Florida" tvg-logo="https://cdn.highfly.dev/posters/army-vs-south-florida-2498684_UTC.webp?v=607780c0" group-title="American Football",Army vs South Florida
 https://leaf.highfly.dev/m3u/429938/live.m3u8
-#EXTINF:-1 tvg-id="streamed:lazio-vs-ac-milan-2482168" tvg-name="Lazio vs AC Milan" tvg-logo="https://cdn.highfly.dev/posters/lazio-vs-ac-milan-2482168_UTC.webp?v=cc7de028" group-title="Football",Lazio vs AC Milan
-https://leaf.highfly.dev/m3u/1991989/live.m3u8
-#EXTINF:-1 tvg-id="streamed:lazio-vs-ac-milan-2482168" tvg-name="Lazio vs AC Milan" tvg-logo="https://cdn.highfly.dev/posters/lazio-vs-ac-milan-2482168_UTC.webp?v=cc7de028" group-title="Football",Lazio vs AC Milan
-https://leaf.highfly.dev/m3u/1501728/live.m3u8
-#EXTINF:-1 tvg-id="streamed:lazio-vs-ac-milan-2482168" tvg-name="Lazio vs AC Milan" tvg-logo="https://cdn.highfly.dev/posters/lazio-vs-ac-milan-2482168_UTC.webp?v=cc7de028" group-title="Football",Lazio vs AC Milan
-https://leaf.highfly.dev/m3u/1562706/live.m3u8
 #EXTINF:-1 tvg-id="streamed:ppv-arizona-state-sun-devils-at-texas-a-m-aggies" tvg-name="Arizona State Sun Devils at Texas A&M Aggies" tvg-logo="https://cdn.highfly.dev/posters/ppv-arizona-state-sun-devils-at-texas-a-m-aggies_UTC.webp?v=cb6b7531" group-title="American Football",Arizona State Sun Devils at Texas A&M Aggies
 https://leaf.highfly.dev/m3u/430266/live.m3u8
 #EXTINF:-1 tvg-id="streamed:ppv-arizona-state-sun-devils-at-texas-a-m-aggies" tvg-name="Arizona State Sun Devils at Texas A&M Aggies" tvg-logo="https://cdn.highfly.dev/posters/ppv-arizona-state-sun-devils-at-texas-a-m-aggies_UTC.webp?v=cb6b7531" group-title="American Football",Arizona State Sun Devils at Texas A&M Aggies
@@ -93,27 +65,97 @@ https://leaf.highfly.dev/m3u/434360/live.m3u8
 https://leaf.highfly.dev/m3u/605780/live.m3u8
 #EXTINF:-1 tvg-id="streamed:oktagon-93-rou-al-vs-m-g-rd-2475856" tvg-name="Oktagon 93 Roušal vs Mågård" tvg-logo="https://cdn.highfly.dev/posters/oktagon-93-rou-al-vs-m-g-rd-2475856_UTC.webp?v=bedf60ea" group-title="Fight",Oktagon 93 Roušal vs Mågård
 https://leaf.highfly.dev/m3u/605882/live.m3u8
-#EXTINF:-1 tvg-id="streamed:k-ln-vs-werder-bremen-2508358" tvg-name="Köln vs Werder Bremen" tvg-logo="https://cdn.highfly.dev/posters/k-ln-vs-werder-bremen-2508358_UTC.webp?v=14b947d0" group-title="Football",Köln vs Werder Bremen
-https://leaf.highfly.dev/m3u/1527635/live.m3u8
-#EXTINF:-1 tvg-id="streamed:k-ln-vs-werder-bremen-2508358" tvg-name="Köln vs Werder Bremen" tvg-logo="https://cdn.highfly.dev/posters/k-ln-vs-werder-bremen-2508358_UTC.webp?v=14b947d0" group-title="Football",Köln vs Werder Bremen
-https://leaf.highfly.dev/m3u/1290239/live.m3u8
-#EXTINF:-1 tvg-id="streamed:athletic-bilbao-vs-elche-2506209" tvg-name="Athletic Bilbao vs Elche" tvg-logo="https://cdn.highfly.dev/posters/athletic-bilbao-vs-elche-2506209_UTC.webp?v=2e4f400b" group-title="Football",Athletic Bilbao vs Elche
-https://leaf.highfly.dev/m3u/587989/live.m3u8
-#EXTINF:-1 tvg-id="streamed:athletic-bilbao-vs-elche-2506209" tvg-name="Athletic Bilbao vs Elche" tvg-logo="https://cdn.highfly.dev/posters/athletic-bilbao-vs-elche-2506209_UTC.webp?v=2e4f400b" group-title="Football",Athletic Bilbao vs Elche
-https://leaf.highfly.dev/m3u/1562519/live.m3u8
-#EXTINF:-1 tvg-id="streamed:athletic-bilbao-vs-elche-2506209" tvg-name="Athletic Bilbao vs Elche" tvg-logo="https://cdn.highfly.dev/posters/athletic-bilbao-vs-elche-2506209_UTC.webp?v=2e4f400b" group-title="Football",Athletic Bilbao vs Elche
-https://leaf.highfly.dev/m3u/1924699/live.m3u8
-#EXTINF:-1 tvg-id="streamed:granada-vs-albacete-2505753" tvg-name="Granada vs Albacete" tvg-logo="https://cdn.highfly.dev/posters/granada-vs-albacete-2505753_UTC.webp?v=d3e4e0cd" group-title="Football",Granada vs Albacete
-https://leaf.highfly.dev/m3u/1954590/live.m3u8
-#EXTINF:-1 tvg-id="streamed:girona-vs-castell-n-2505751" tvg-name="Girona vs Castellón" tvg-logo="https://cdn.highfly.dev/posters/girona-vs-castell-n-2505751_UTC.webp?v=1b43d609" group-title="Football",Girona vs Castellón
-https://leaf.highfly.dev/m3u/1954589/live.m3u8
-#EXTINF:-1 tvg-id="streamed:tottenham-hotspur-vs-everton-2494033" tvg-name="Tottenham Hotspur vs Everton" tvg-logo="https://cdn.highfly.dev/posters/tottenham-hotspur-vs-everton-2494033_UTC.webp?v=dca9c3ab" group-title="Football",Tottenham Hotspur vs Everton
-https://leaf.highfly.dev/m3u/1820471/live.m3u8
-#EXTINF:-1 tvg-id="streamed:tottenham-hotspur-vs-everton-2494033" tvg-name="Tottenham Hotspur vs Everton" tvg-logo="https://cdn.highfly.dev/posters/tottenham-hotspur-vs-everton-2494033_UTC.webp?v=dca9c3ab" group-title="Football",Tottenham Hotspur vs Everton
-https://leaf.highfly.dev/m3u/1527639/live.m3u8
-#EXTINF:-1 tvg-id="streamed:tottenham-hotspur-vs-everton-2494033" tvg-name="Tottenham Hotspur vs Everton" tvg-logo="https://cdn.highfly.dev/posters/tottenham-hotspur-vs-everton-2494033_UTC.webp?v=dca9c3ab" group-title="Football",Tottenham Hotspur vs Everton
-https://leaf.highfly.dev/m3u/2006126/live.m3u8
 #EXTINF:-1 tvg-id="streamed:lafayette-vs-marist-2593878" tvg-name="Lafayette vs Marist" tvg-logo="https://cdn.highfly.dev/posters/lafayette-vs-marist-2593878_UTC.webp?v=e1ec684e" group-title="American Football",Lafayette vs Marist
 https://leaf.highfly.dev/m3u/1820196/live.m3u8
+#EXTINF:-1 tvg-id="streamed:live_cfb_virginia-military-bucknell-bison-live-streaming-623787696" tvg-name="Virginia Military Keydets vs Bucknell Bison" tvg-logo="https://cdn.highfly.dev/posters/live_cfb_virginia-military-bucknell-bison-live-streaming-623787696_UTC.webp?v=47eedf9f" group-title="American Football",Virginia Military Keydets vs Bucknell Bison
+https://leaf.highfly.dev/m3u/1924678/live.m3u8
+#EXTINF:-1 tvg-id="streamed:live_cfb_virginia-military-bucknell-bison-live-streaming-623787696" tvg-name="Virginia Military Keydets vs Bucknell Bison" tvg-logo="https://cdn.highfly.dev/posters/live_cfb_virginia-military-bucknell-bison-live-streaming-623787696_UTC.webp?v=47eedf9f" group-title="American Football",Virginia Military Keydets vs Bucknell Bison
+https://leaf.highfly.dev/m3u/604989/live.m3u8
+#EXTINF:-1 tvg-id="streamed:georgia-vs-western-kentucky-2498687" tvg-name="Georgia vs Western Kentucky" tvg-logo="https://cdn.highfly.dev/posters/georgia-vs-western-kentucky-2498687_UTC.webp?v=ed592800" group-title="American Football",Georgia vs Western Kentucky
+https://leaf.highfly.dev/m3u/549252/live.m3u8
+#EXTINF:-1 tvg-id="streamed:georgia-vs-western-kentucky-2498687" tvg-name="Georgia vs Western Kentucky" tvg-logo="https://cdn.highfly.dev/posters/georgia-vs-western-kentucky-2498687_UTC.webp?v=ed592800" group-title="American Football",Georgia vs Western Kentucky
+https://leaf.highfly.dev/m3u/605001/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kilmarnock-vs-aberdeen-2578585" tvg-name="Kilmarnock vs Aberdeen" tvg-logo="https://cdn.highfly.dev/posters/kilmarnock-vs-aberdeen-2578585_UTC.webp?v=70c8f280" group-title="Football",Kilmarnock vs Aberdeen
+https://leaf.highfly.dev/m3u/587990/live.m3u8
 #EXTINF:-1 tvg-id="streamed:kilmarnock-vs-aberdeen-2578585" tvg-name="Kilmarnock vs Aberdeen" tvg-logo="https://cdn.highfly.dev/posters/kilmarnock-vs-aberdeen-2578585_UTC.webp?v=70c8f280" group-title="Football",Kilmarnock vs Aberdeen
 https://leaf.highfly.dev/m3u/1562520/live.m3u8
+#EXTINF:-1 tvg-id="streamed:toronto-argonauts-vs-ottawa-redblacks-2432588" tvg-name="Toronto Argonauts vs Ottawa Redblacks" tvg-logo="https://cdn.highfly.dev/posters/toronto-argonauts-vs-ottawa-redblacks-2432588_UTC.webp?v=2828804f" group-title="American Football",Toronto Argonauts vs Ottawa Redblacks
+https://leaf.highfly.dev/m3u/498683/live.m3u8
+#EXTINF:-1 tvg-id="streamed:toronto-argonauts-vs-ottawa-redblacks-2432588" tvg-name="Toronto Argonauts vs Ottawa Redblacks" tvg-logo="https://cdn.highfly.dev/posters/toronto-argonauts-vs-ottawa-redblacks-2432588_UTC.webp?v=2828804f" group-title="American Football",Toronto Argonauts vs Ottawa Redblacks
+https://leaf.highfly.dev/m3u/429583/live.m3u8
+#EXTINF:-1 tvg-id="streamed:central-michigan-vs-colgate-2498688" tvg-name="Central Michigan vs Colgate" tvg-logo="https://cdn.highfly.dev/posters/central-michigan-vs-colgate-2498688_UTC.webp?v=ebc15b7d" group-title="American Football",Central Michigan vs Colgate
+https://leaf.highfly.dev/m3u/1924688/live.m3u8
+#EXTINF:-1 tvg-id="streamed:central-michigan-vs-colgate-2498688" tvg-name="Central Michigan vs Colgate" tvg-logo="https://cdn.highfly.dev/posters/central-michigan-vs-colgate-2498688_UTC.webp?v=ebc15b7d" group-title="American Football",Central Michigan vs Colgate
+https://leaf.highfly.dev/m3u/604991/live.m3u8
+#EXTINF:-1 tvg-id="streamed:miami--oh--vs-holy-cross-2498689" tvg-name="Miami (OH) vs Holy Cross" tvg-logo="https://cdn.highfly.dev/posters/miami--oh--vs-holy-cross-2498689_UTC.webp?v=d18d11c9" group-title="American Football",Miami (OH) vs Holy Cross
+https://leaf.highfly.dev/m3u/1924694/live.m3u8
+#EXTINF:-1 tvg-id="streamed:miami--oh--vs-holy-cross-2498689" tvg-name="Miami (OH) vs Holy Cross" tvg-logo="https://cdn.highfly.dev/posters/miami--oh--vs-holy-cross-2498689_UTC.webp?v=d18d11c9" group-title="American Football",Miami (OH) vs Holy Cross
+https://leaf.highfly.dev/m3u/604990/live.m3u8
+#EXTINF:-1 tvg-id="streamed:west-virginia-vs-ut-martin-2594424" tvg-name="West Virginia vs UT Martin" tvg-logo="https://cdn.highfly.dev/posters/west-virginia-vs-ut-martin-2594424_UTC.webp?v=6a61c0bb" group-title="American Football",West Virginia vs UT Martin
+https://leaf.highfly.dev/m3u/1924685/live.m3u8
+#EXTINF:-1 tvg-id="streamed:west-virginia-vs-ut-martin-2594424" tvg-name="West Virginia vs UT Martin" tvg-logo="https://cdn.highfly.dev/posters/west-virginia-vs-ut-martin-2594424_UTC.webp?v=6a61c0bb" group-title="American Football",West Virginia vs UT Martin
+https://leaf.highfly.dev/m3u/604992/live.m3u8
+#EXTINF:-1 tvg-id="streamed:casa-pia-vs-porto-2513987" tvg-name="Casa Pia vs Porto" tvg-logo="https://cdn.highfly.dev/posters/casa-pia-vs-porto-2513987_UTC.webp?v=b732068a" group-title="Football",Casa Pia vs Porto
+https://leaf.highfly.dev/m3u/325025/live.m3u8
+#EXTINF:-1 tvg-id="streamed:casa-pia-vs-porto-2513987" tvg-name="Casa Pia vs Porto" tvg-logo="https://cdn.highfly.dev/posters/casa-pia-vs-porto-2513987_UTC.webp?v=b732068a" group-title="Football",Casa Pia vs Porto
+https://leaf.highfly.dev/m3u/386381/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-jordan-mc-cann-vs-big-stacks" tvg-name="Jordan McCann vs. Big Stacks" tvg-logo="https://cdn.highfly.dev/posters/ppv-jordan-mc-cann-vs-big-stacks_UTC.webp?v=9051ca4e" group-title="Fight",Jordan McCann vs. Big Stacks
+https://leaf.highfly.dev/m3u/605779/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-06-gamebred-fc-ppv-06" tvg-name="Gamebred FC" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-06-gamebred-fc-ppv-06_UTC.webp?v=f29e065c" group-title="Other",Gamebred FC
+https://leaf.highfly.dev/m3u/605781/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-colorado-rockies-2521145" tvg-name="Detroit Tigers vs Colorado Rockies" tvg-logo="https://cdn.highfly.dev/posters/detroit-tigers-vs-colorado-rockies-2521145_UTC.webp?v=bec80b61" group-title="Baseball",Detroit Tigers vs Colorado Rockies
+https://leaf.highfly.dev/m3u/1904204/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-colorado-rockies-2521145" tvg-name="Detroit Tigers vs Colorado Rockies" tvg-logo="https://cdn.highfly.dev/posters/detroit-tigers-vs-colorado-rockies-2521145_UTC.webp?v=bec80b61" group-title="Baseball",Detroit Tigers vs Colorado Rockies
+https://leaf.highfly.dev/m3u/1904203/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-new-york-mets-2521146" tvg-name="New York Yankees vs New York Mets" tvg-logo="https://cdn.highfly.dev/posters/new-york-yankees-vs-new-york-mets-2521146_UTC.webp?v=4773fca6" group-title="Baseball",New York Yankees vs New York Mets
+https://leaf.highfly.dev/m3u/1904212/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-new-york-mets-2521146" tvg-name="New York Yankees vs New York Mets" tvg-logo="https://cdn.highfly.dev/posters/new-york-yankees-vs-new-york-mets-2521146_UTC.webp?v=4773fca6" group-title="Baseball",New York Yankees vs New York Mets
+https://leaf.highfly.dev/m3u/1904213/live.m3u8
+#EXTINF:-1 tvg-id="streamed:south-dakota-vs-eastern-washington-2593880" tvg-name="South Dakota vs Eastern Washington" tvg-logo="https://cdn.highfly.dev/posters/south-dakota-vs-eastern-washington-2593880_UTC.webp?v=fcb6e57b" group-title="American Football",South Dakota vs Eastern Washington
+https://leaf.highfly.dev/m3u/1924658/live.m3u8
+#EXTINF:-1 tvg-id="streamed:south-dakota-vs-eastern-washington-2593880" tvg-name="South Dakota vs Eastern Washington" tvg-logo="https://cdn.highfly.dev/posters/south-dakota-vs-eastern-washington-2593880_UTC.webp?v=fcb6e57b" group-title="American Football",South Dakota vs Eastern Washington
+https://leaf.highfly.dev/m3u/604987/live.m3u8
+#EXTINF:-1 tvg-id="streamed:youngstown-state-vs-duquesne-2593881" tvg-name="Youngstown State vs Duquesne" tvg-logo="https://cdn.highfly.dev/posters/youngstown-state-vs-duquesne-2593881_UTC.webp?v=a4fae328" group-title="American Football",Youngstown State vs Duquesne
+https://leaf.highfly.dev/m3u/1924655/live.m3u8
+#EXTINF:-1 tvg-id="streamed:youngstown-state-vs-duquesne-2593881" tvg-name="Youngstown State vs Duquesne" tvg-logo="https://cdn.highfly.dev/posters/youngstown-state-vs-duquesne-2593881_UTC.webp?v=a4fae328" group-title="American Football",Youngstown State vs Duquesne
+https://leaf.highfly.dev/m3u/604986/live.m3u8
+#EXTINF:-1 tvg-id="streamed:northern-iowa-vs-drake-2593883" tvg-name="Northern Iowa vs Drake" tvg-logo="https://cdn.highfly.dev/posters/northern-iowa-vs-drake-2593883_UTC.webp?v=5104c33b" group-title="American Football",Northern Iowa vs Drake
+https://leaf.highfly.dev/m3u/1924671/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ufc-fight-night-288-silva-vs-delgado-2541769" tvg-name="UFC Fight Night 288 Silva vs Delgado" tvg-logo="https://cdn.highfly.dev/posters/ufc-fight-night-288-silva-vs-delgado-2541769_UTC.webp?v=88ffc701" group-title="Fight",UFC Fight Night 288 Silva vs Delgado
+https://leaf.highfly.dev/m3u/1940072/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ufc-fight-night-288-silva-vs-delgado-2541769" tvg-name="UFC Fight Night 288 Silva vs Delgado" tvg-logo="https://cdn.highfly.dev/posters/ufc-fight-night-288-silva-vs-delgado-2541769_UTC.webp?v=88ffc701" group-title="Fight",UFC Fight Night 288 Silva vs Delgado
+https://leaf.highfly.dev/m3u/605889/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ufc-fight-night-288-silva-vs-delgado-2541769" tvg-name="UFC Fight Night 288 Silva vs Delgado" tvg-logo="https://cdn.highfly.dev/posters/ufc-fight-night-288-silva-vs-delgado-2541769_UTC.webp?v=88ffc701" group-title="Fight",UFC Fight Night 288 Silva vs Delgado
+https://leaf.highfly.dev/m3u/1855428/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fortuna-sittard-vs-ajax-2489113" tvg-name="Fortuna Sittard vs Ajax" tvg-logo="https://cdn.highfly.dev/posters/fortuna-sittard-vs-ajax-2489113_UTC.webp?v=61bd728a" group-title="Football",Fortuna Sittard vs Ajax
+https://leaf.highfly.dev/m3u/1551/live.m3u8
+#EXTINF:-1 tvg-id="streamed:live_cfb_lehigh-mountain-william-mary-live-streaming-623788128" tvg-name="Lehigh Mountain Hawks vs William & Mary Tribe" tvg-logo="https://cdn.highfly.dev/posters/live_cfb_lehigh-mountain-william-mary-live-streaming-623788128_UTC.webp?v=2bc8e14d" group-title="American Football",Lehigh Mountain Hawks vs William & Mary Tribe
+https://leaf.highfly.dev/m3u/1924686/live.m3u8
+#EXTINF:-1 tvg-id="streamed:live_cfb_lehigh-mountain-william-mary-live-streaming-623788128" tvg-name="Lehigh Mountain Hawks vs William & Mary Tribe" tvg-logo="https://cdn.highfly.dev/posters/live_cfb_lehigh-mountain-william-mary-live-streaming-623788128_UTC.webp?v=2bc8e14d" group-title="American Football",Lehigh Mountain Hawks vs William & Mary Tribe
+https://leaf.highfly.dev/m3u/604985/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-cubs-vs-pittsburgh-pirates-2521147" tvg-name="Chicago Cubs vs Pittsburgh Pirates" tvg-logo="https://cdn.highfly.dev/posters/chicago-cubs-vs-pittsburgh-pirates-2521147_UTC.webp?v=d29430b1" group-title="Baseball",Chicago Cubs vs Pittsburgh Pirates
+https://leaf.highfly.dev/m3u/1904199/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-cubs-vs-pittsburgh-pirates-2521147" tvg-name="Chicago Cubs vs Pittsburgh Pirates" tvg-logo="https://cdn.highfly.dev/posters/chicago-cubs-vs-pittsburgh-pirates-2521147_UTC.webp?v=d29430b1" group-title="Baseball",Chicago Cubs vs Pittsburgh Pirates
+https://leaf.highfly.dev/m3u/1904216/live.m3u8
+#EXTINF:-1 tvg-id="streamed:st-pauli-vs-wolfsburg-2511778" tvg-name="St Pauli vs Wolfsburg" tvg-logo="https://cdn.highfly.dev/posters/st-pauli-vs-wolfsburg-2511778_UTC.webp?v=529a0cd3" group-title="Football",St Pauli vs Wolfsburg
+https://leaf.highfly.dev/m3u/1991987/live.m3u8
+#EXTINF:-1 tvg-id="streamed:paris-fc-vs-lyon-2489496" tvg-name="Paris FC vs Lyon" tvg-logo="https://cdn.highfly.dev/posters/paris-fc-vs-lyon-2489496_UTC.webp?v=15914012" group-title="Football",Paris FC vs Lyon
+https://leaf.highfly.dev/m3u/1562816/live.m3u8
+#EXTINF:-1 tvg-id="streamed:le-havre-vs-angers-2489495" tvg-name="Le Havre vs Angers" tvg-logo="https://cdn.highfly.dev/posters/le-havre-vs-angers-2489495_UTC.webp?v=1035a48b" group-title="Football",Le Havre vs Angers
+https://leaf.highfly.dev/m3u/1562814/live.m3u8
+#EXTINF:-1 tvg-id="streamed:auxerre-vs-nice-2489494" tvg-name="Auxerre vs Nice" tvg-logo="https://cdn.highfly.dev/posters/auxerre-vs-nice-2489494_UTC.webp?v=41a79335" group-title="Football",Auxerre vs Nice
+https://leaf.highfly.dev/m3u/1562815/live.m3u8
+#EXTINF:-1 tvg-id="streamed:lorient-vs-toulouse-2489492" tvg-name="Lorient vs Toulouse" tvg-logo="https://cdn.highfly.dev/posters/lorient-vs-toulouse-2489492_UTC.webp?v=5a862ae4" group-title="Football",Lorient vs Toulouse
+https://leaf.highfly.dev/m3u/1562813/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atalanta-vs-cagliari-2482172" tvg-name="Atalanta vs Cagliari" tvg-logo="https://cdn.highfly.dev/posters/atalanta-vs-cagliari-2482172_UTC.webp?v=cc07dc3e" group-title="Football",Atalanta vs Cagliari
+https://leaf.highfly.dev/m3u/1536899/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atalanta-vs-cagliari-2482172" tvg-name="Atalanta vs Cagliari" tvg-logo="https://cdn.highfly.dev/posters/atalanta-vs-cagliari-2482172_UTC.webp?v=cc07dc3e" group-title="Football",Atalanta vs Cagliari
+https://leaf.highfly.dev/m3u/1562630/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atalanta-vs-cagliari-2482172" tvg-name="Atalanta vs Cagliari" tvg-logo="https://cdn.highfly.dev/posters/atalanta-vs-cagliari-2482172_UTC.webp?v=cc07dc3e" group-title="Football",Atalanta vs Cagliari
+https://leaf.highfly.dev/m3u/1501723/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sunderland-vs-arsenal-2494038" tvg-name="Sunderland vs Arsenal" tvg-logo="https://cdn.highfly.dev/posters/sunderland-vs-arsenal-2494038_UTC.webp?v=3ee8f4bd" group-title="Football",Sunderland vs Arsenal
+https://leaf.highfly.dev/m3u/2006126/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sunderland-vs-arsenal-2494038" tvg-name="Sunderland vs Arsenal" tvg-logo="https://cdn.highfly.dev/posters/sunderland-vs-arsenal-2494038_UTC.webp?v=3ee8f4bd" group-title="Football",Sunderland vs Arsenal
+https://leaf.highfly.dev/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sunderland-vs-arsenal-2494038" tvg-name="Sunderland vs Arsenal" tvg-logo="https://cdn.highfly.dev/posters/sunderland-vs-arsenal-2494038_UTC.webp?v=3ee8f4bd" group-title="Football",Sunderland vs Arsenal
+https://leaf.highfly.dev/m3u/325796/live.m3u8
