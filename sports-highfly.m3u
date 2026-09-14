@@ -1,10 +1,8 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-14T08:01:15.174Z
+# Generated at 2026-09-14T14:47:30.695Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/f1-3949409/live.m3u8
-#EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
-https://leaf.highfly.dev/m3u/v-383939393/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd-23993" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-23993_UTC.webp?v=ec02edd57b09dc85" group-title="Tennis",US : ESPN
 https://leaf.highfly.dev/m3u/us-espn-hd-23993/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-39903003" tvg-name="(HD) : TENNIS" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-39903003_UTC.webp?v=71d1d569ba7ca1e4" group-title="Tennis",(HD) : TENNIS
@@ -19,3 +17,9 @@ https://leaf.highfly.dev/m3u/uk-330030303/live.m3u8
 https://leaf.highfly.dev/m3u/au-4040040/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-9494949" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-9494949_UTC.webp?v=1539e466dd11bc81" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
 https://leaf.highfly.dev/m3u/now-9494949/live.m3u8
+#EXTINF:-1 tvg-id="leaf:prime-39393939" tvg-name="PRIME: F1 TV" tvg-logo="https://cdn.highfly.dev/leaf_posters/prime-39393939_UTC.webp?v=732db69d6cb72ece" group-title="Motor Sports",PRIME: F1 TV
+https://leaf.highfly.dev/m3u/prime-39393939/live.m3u8
+#EXTINF:-1 tvg-id="streamed:afc-cl2-neftchi-vs-alquwa-2026-09-14" tvg-name="FC Neftchi Fergana vs Al-Quwa Al-Jawiya" tvg-logo="https://cdn.highfly.dev/posters/afc-cl2-neftchi-vs-alquwa-2026-09-14_UTC.webp?v=5a530552" group-title="Football",FC Neftchi Fergana vs Al-Quwa Al-Jawiya
+https://leaf.highfly.dev/m3u/441475/live.m3u8
+#EXTINF:-1 tvg-id="streamed:afc-cl2-neftchi-vs-alquwa-2026-09-14" tvg-name="FC Neftchi Fergana vs Al-Quwa Al-Jawiya" tvg-logo="https://cdn.highfly.dev/posters/afc-cl2-neftchi-vs-alquwa-2026-09-14_UTC.webp?v=5a530552" group-title="Football",FC Neftchi Fergana vs Al-Quwa Al-Jawiya
+https://leaf.highfly.dev/m3u/1562947/live.m3u8
