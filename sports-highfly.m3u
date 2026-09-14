@@ -1,63 +1,21 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-14T02:09:42.925Z
+# Generated at 2026-09-14T08:01:15.174Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/v-383939393/live.m3u8
-#EXTINF:-1 tvg-id="leaf:ten-3930030" tvg-name="(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/ten-3930030_UTC.webp?v=4142428c98b3b49e" group-title="Tennis",(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ
-https://leaf.highfly.dev/m3u/ten-3930030/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd-23993" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-23993_UTC.webp?v=ec02edd57b09dc85" group-title="Tennis",US : ESPN
 https://leaf.highfly.dev/m3u/us-espn-hd-23993/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-39903003" tvg-name="(HD) : TENNIS" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-39903003_UTC.webp?v=71d1d569ba7ca1e4" group-title="Tennis",(HD) : TENNIS
 https://leaf.highfly.dev/m3u/us-39903003/live.m3u8
-#EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.dev/leaf_posters/nz-sky-sport-1_UTC.webp?v=df2bc813933e6903" group-title="Rugby",NZ : SKY SPORT 1
-https://leaf.highfly.dev/m3u/nz-sky-sport-1/live.m3u8
-#EXTINF:-1 tvg-id="leaf:gol-9300300" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.dev/leaf_posters/gol-9300300_UTC.webp?v=1c40c6d9b2013cf0" group-title="Golf",(FHD) : SKY SPORTS GOLF
-https://leaf.highfly.dev/m3u/gol-9300300/live.m3u8
-#EXTINF:-1 tvg-id="leaf:v-49494499494" tvg-name="(4K) : SKY SPORTS MAIN EVENT" tvg-logo="https://cdn.highfly.dev/leaf_posters/v-49494499494_UTC.webp?v=210760e08ae54f72" group-title="Sports",(4K) : SKY SPORTS MAIN EVENT
-https://leaf.highfly.dev/m3u/v-49494499494/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-nfl-redzone" tvg-name="US : NFL REDZONE" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-nfl-redzone_UTC.webp?v=d92f7491ce475e71" group-title="American Football",US : NFL REDZONE
-https://leaf.highfly.dev/m3u/us-nfl-redzone/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-nfl-redzone" tvg-name="US : NFL REDZONE" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-nfl-redzone_UTC.webp?v=d92f7491ce475e71" group-title="American Football",US : NFL REDZONE
-https://leaf.highfly.dev/m3u/nfl-redzone-week-1-sep-13-18-50-pm-vg-14/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-nfl-redzone" tvg-name="US : NFL REDZONE" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-nfl-redzone_UTC.webp?v=d92f7491ce475e71" group-title="American Football",US : NFL REDZONE
-https://leaf.highfly.dev/m3u/now-sky-sports-mix/live.m3u8
-#EXTINF:-1 tvg-id="leaf:au-67676767767" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-67676767767_UTC.webp?v=f2a4d3e129d8bd3d" group-title="Rugby",AU : FOX SPORTS 502 HD
-https://leaf.highfly.dev/m3u/au-67676767767/live.m3u8
 #EXTINF:-1 tvg-id="leaf:afl-554545545" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/afl-554545545_UTC.webp?v=24c200c5f6752293" group-title="Afl",AU : FOX SPORTS 504 HD
 https://leaf.highfly.dev/m3u/afl-554545545/live.m3u8
-#EXTINF:-1 tvg-id="leaf:yt-L8Or3HpDP7o" tvg-name="MLS NEXT PRO: Austin FC II vs Colorado Rapids 2 |Sept 13, 2026" tvg-logo="https://cdn.highfly.dev/leaf_posters/yt-L8Or3HpDP7o_UTC.webp?v=d661170dac1fb46a" group-title="Football",MLS NEXT PRO: Austin FC II vs Colorado Rapids 2 |Sept 13, 2026
-https://leaf.highfly.dev/m3u/yt-L8Or3HpDP7o/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=66988b31" group-title="Baseball",San Francisco Giants vs San Diego Padres
-https://leaf.highfly.dev/m3u/588011/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=66988b31" group-title="Baseball",San Francisco Giants vs San Diego Padres
-https://leaf.highfly.dev/m3u/1239014/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=66988b31" group-title="Baseball",San Francisco Giants vs San Diego Padres
-https://leaf.highfly.dev/m3u/498683/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-santos-vs-fc-juarez" tvg-name="Santos vs. FC Juarez" tvg-logo="https://cdn.highfly.dev/posters/ppv-santos-vs-fc-juarez_UTC.webp?v=54f99af9" group-title="Football",Santos vs. FC Juarez
-https://leaf.highfly.dev/m3u/2095579/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-07-aaa-triplemania-34-ppv-07" tvg-name="AAA Triplemania 34" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-07-aaa-triplemania-34-ppv-07_UTC.webp?v=8118f46c" group-title="Other",AAA Triplemania 34
-https://leaf.highfly.dev/m3u/605780/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-07-aaa-triplemania-34-ppv-07" tvg-name="AAA Triplemania 34" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-07-aaa-triplemania-34-ppv-07_UTC.webp?v=8118f46c" group-title="Other",AAA Triplemania 34
-https://leaf.highfly.dev/m3u/1855352/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-07-aaa-triplemania-34-ppv-07" tvg-name="AAA Triplemania 34" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-07-aaa-triplemania-34-ppv-07_UTC.webp?v=8118f46c" group-title="Other",AAA Triplemania 34
-https://leaf.highfly.dev/m3u/605882/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
-https://leaf.highfly.dev/m3u/1239048/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
-https://leaf.highfly.dev/m3u/1820042/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
-https://leaf.highfly.dev/m3u/411655/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
-https://leaf.highfly.dev/m3u/1820471/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
-https://leaf.highfly.dev/m3u/606166/live.m3u8
-#EXTINF:-1 tvg-id="streamed:hurac-n-vs-racing-club-2398078" tvg-name="Huracán vs Racing Club" tvg-logo="https://cdn.highfly.dev/posters/hurac-n-vs-racing-club-2398078_UTC.webp?v=c268fc00" group-title="Football",Huracán vs Racing Club
-https://leaf.highfly.dev/m3u/1997245/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-diego-fc-vs-philadelphia-union-2407082" tvg-name="San Diego FC vs Philadelphia Union" tvg-logo="https://cdn.highfly.dev/posters/san-diego-fc-vs-philadelphia-union-2407082_UTC.webp?v=8f5e6376" group-title="Football",San Diego FC vs Philadelphia Union
-https://leaf.highfly.dev/m3u/605392/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-diego-fc-vs-philadelphia-union-2407082" tvg-name="San Diego FC vs Philadelphia Union" tvg-logo="https://cdn.highfly.dev/posters/san-diego-fc-vs-philadelphia-union-2407082_UTC.webp?v=8f5e6376" group-title="Football",San Diego FC vs Philadelphia Union
-https://leaf.highfly.dev/m3u/1970673/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cd-guadalajara-vs-pumas-unam-2487521" tvg-name="CD Guadalajara vs Pumas UNAM" tvg-logo="https://cdn.highfly.dev/posters/cd-guadalajara-vs-pumas-unam-2487521_UTC.webp?v=af6271de" group-title="Football",CD Guadalajara vs Pumas UNAM
-https://leaf.highfly.dev/m3u/927219/live.m3u8
+#EXTINF:-1 tvg-id="leaf:v-39303003" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.dev/leaf_posters/v-39303003_UTC.webp?v=0b74bcb57d80bad5" group-title="Golf",(FHD) : SKY SPORTS GOLF
+https://leaf.highfly.dev/m3u/v-39303003/live.m3u8
+#EXTINF:-1 tvg-id="leaf:uk-330030303" tvg-name="(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/uk-330030303_UTC.webp?v=6d42a9692219d3bf" group-title="Tennis",(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ
+https://leaf.highfly.dev/m3u/uk-330030303/live.m3u8
+#EXTINF:-1 tvg-id="leaf:au-4040040" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-4040040_UTC.webp?v=0b60ef5e1b1fadb3" group-title="Rugby",AU : FOX SPORTS 502 HD
+https://leaf.highfly.dev/m3u/au-4040040/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-9494949" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-9494949_UTC.webp?v=1539e466dd11bc81" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
+https://leaf.highfly.dev/m3u/now-9494949/live.m3u8
