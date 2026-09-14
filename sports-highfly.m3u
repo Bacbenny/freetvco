@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-13T23:46:39.692Z
+# Generated at 2026-09-14T02:09:42.925Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
@@ -27,51 +27,37 @@ https://leaf.highfly.dev/m3u/now-sky-sports-mix/live.m3u8
 https://leaf.highfly.dev/m3u/au-67676767767/live.m3u8
 #EXTINF:-1 tvg-id="leaf:afl-554545545" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/afl-554545545_UTC.webp?v=24c200c5f6752293" group-title="Afl",AU : FOX SPORTS 504 HD
 https://leaf.highfly.dev/m3u/afl-554545545/live.m3u8
-#EXTINF:-1 tvg-id="leaf:yt-8R2j5mV8ESM" tvg-name="MLS NEXT PRO: Orlando City B vs TFC II | Sept 13, 2026" tvg-logo="https://cdn.highfly.dev/leaf_posters/yt-8R2j5mV8ESM_UTC.webp?v=5ac90abfffdfb9d8" group-title="Football",MLS NEXT PRO: Orlando City B vs TFC II | Sept 13, 2026
-https://leaf.highfly.dev/m3u/yt-8R2j5mV8ESM/live.m3u8
-#EXTINF:-1 tvg-id="streamed:athletics-vs-seattle-mariners-2555388" tvg-name="Athletics vs Seattle Mariners" tvg-logo="https://cdn.highfly.dev/posters/athletics-vs-seattle-mariners-2555388_UTC.webp?v=4b6aa184" group-title="Baseball",Athletics vs Seattle Mariners
-https://leaf.highfly.dev/m3u/1904219/live.m3u8
-#EXTINF:-1 tvg-id="streamed:athletics-vs-seattle-mariners-2555388" tvg-name="Athletics vs Seattle Mariners" tvg-logo="https://cdn.highfly.dev/posters/athletics-vs-seattle-mariners-2555388_UTC.webp?v=4b6aa184" group-title="Baseball",Athletics vs Seattle Mariners
-https://leaf.highfly.dev/m3u/1904214/live.m3u8
-#EXTINF:-1 tvg-id="streamed:arizona-diamondbacks-vs-texas-rangers-2555389" tvg-name="Arizona Diamondbacks vs Texas Rangers" tvg-logo="https://cdn.highfly.dev/posters/arizona-diamondbacks-vs-texas-rangers-2555389_UTC.webp?v=294b10cb" group-title="Baseball",Arizona Diamondbacks vs Texas Rangers
-https://leaf.highfly.dev/m3u/1904195/live.m3u8
-#EXTINF:-1 tvg-id="streamed:arizona-diamondbacks-vs-texas-rangers-2555389" tvg-name="Arizona Diamondbacks vs Texas Rangers" tvg-logo="https://cdn.highfly.dev/posters/arizona-diamondbacks-vs-texas-rangers-2555389_UTC.webp?v=294b10cb" group-title="Baseball",Arizona Diamondbacks vs Texas Rangers
-https://leaf.highfly.dev/m3u/1904222/live.m3u8
-#EXTINF:-1 tvg-id="streamed:las-vegas-raiders-vs-miami-dolphins-2475384" tvg-name="Las Vegas Raiders vs Miami Dolphins" tvg-logo="https://cdn.highfly.dev/posters/las-vegas-raiders-vs-miami-dolphins-2475384_UTC.webp?v=f16d604d" group-title="American Football",Las Vegas Raiders vs Miami Dolphins
-https://leaf.highfly.dev/m3u/654917/live.m3u8
-#EXTINF:-1 tvg-id="streamed:las-vegas-raiders-vs-miami-dolphins-2475384" tvg-name="Las Vegas Raiders vs Miami Dolphins" tvg-logo="https://cdn.highfly.dev/posters/las-vegas-raiders-vs-miami-dolphins-2475384_UTC.webp?v=f16d604d" group-title="American Football",Las Vegas Raiders vs Miami Dolphins
-https://leaf.highfly.dev/m3u/429375/live.m3u8
-#EXTINF:-1 tvg-id="streamed:las-vegas-raiders-vs-miami-dolphins-2475384" tvg-name="Las Vegas Raiders vs Miami Dolphins" tvg-logo="https://cdn.highfly.dev/posters/las-vegas-raiders-vs-miami-dolphins-2475384_UTC.webp?v=f16d604d" group-title="American Football",Las Vegas Raiders vs Miami Dolphins
-https://leaf.highfly.dev/m3u/429443/live.m3u8
-#EXTINF:-1 tvg-id="streamed:minnesota-vikings-vs-green-bay-packers-2475385" tvg-name="Minnesota Vikings vs Green Bay Packers" tvg-logo="https://cdn.highfly.dev/posters/minnesota-vikings-vs-green-bay-packers-2475385_UTC.webp?v=0d6b664a" group-title="American Football",Minnesota Vikings vs Green Bay Packers
-https://leaf.highfly.dev/m3u/429981/live.m3u8
-#EXTINF:-1 tvg-id="streamed:minnesota-vikings-vs-green-bay-packers-2475385" tvg-name="Minnesota Vikings vs Green Bay Packers" tvg-logo="https://cdn.highfly.dev/posters/minnesota-vikings-vs-green-bay-packers-2475385_UTC.webp?v=0d6b664a" group-title="American Football",Minnesota Vikings vs Green Bay Packers
-https://leaf.highfly.dev/m3u/430005/live.m3u8
-#EXTINF:-1 tvg-id="streamed:philadelphia-eagles-vs-washington-commanders-2475386" tvg-name="Philadelphia Eagles vs Washington Commanders" tvg-logo="https://cdn.highfly.dev/posters/philadelphia-eagles-vs-washington-commanders-2475386_UTC.webp?v=6b0e4101" group-title="American Football",Philadelphia Eagles vs Washington Commanders
-https://leaf.highfly.dev/m3u/429441/live.m3u8
-#EXTINF:-1 tvg-id="streamed:philadelphia-eagles-vs-washington-commanders-2475386" tvg-name="Philadelphia Eagles vs Washington Commanders" tvg-logo="https://cdn.highfly.dev/posters/philadelphia-eagles-vs-washington-commanders-2475386_UTC.webp?v=6b0e4101" group-title="American Football",Philadelphia Eagles vs Washington Commanders
-https://leaf.highfly.dev/m3u/429404/live.m3u8
-#EXTINF:-1 tvg-id="streamed:philadelphia-eagles-vs-washington-commanders-2475386" tvg-name="Philadelphia Eagles vs Washington Commanders" tvg-logo="https://cdn.highfly.dev/posters/philadelphia-eagles-vs-washington-commanders-2475386_UTC.webp?v=6b0e4101" group-title="American Football",Philadelphia Eagles vs Washington Commanders
-https://leaf.highfly.dev/m3u/1239048/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-chargers-vs-arizona-cardinals-2475387" tvg-name="Los Angeles Chargers vs Arizona Cardinals" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-chargers-vs-arizona-cardinals-2475387_UTC.webp?v=60d45f61" group-title="American Football",Los Angeles Chargers vs Arizona Cardinals
-https://leaf.highfly.dev/m3u/429985/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-chargers-vs-arizona-cardinals-2475387" tvg-name="Los Angeles Chargers vs Arizona Cardinals" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-chargers-vs-arizona-cardinals-2475387_UTC.webp?v=60d45f61" group-title="American Football",Los Angeles Chargers vs Arizona Cardinals
-https://leaf.highfly.dev/m3u/430060/live.m3u8
-#EXTINF:-1 tvg-id="streamed:chicago-fire-vs-new-england-revolution-2407081" tvg-name="Chicago Fire vs New England Revolution" tvg-logo="https://cdn.highfly.dev/posters/chicago-fire-vs-new-england-revolution-2407081_UTC.webp?v=d4e3539b" group-title="Football",Chicago Fire vs New England Revolution
-https://leaf.highfly.dev/m3u/605394/live.m3u8
-#EXTINF:-1 tvg-id="streamed:chicago-fire-vs-new-england-revolution-2407081" tvg-name="Chicago Fire vs New England Revolution" tvg-logo="https://cdn.highfly.dev/posters/chicago-fire-vs-new-england-revolution-2407081_UTC.webp?v=d4e3539b" group-title="Football",Chicago Fire vs New England Revolution
-https://leaf.highfly.dev/m3u/1970677/live.m3u8
-#EXTINF:-1 tvg-id="streamed:pacific-vs-cavalry-2427411" tvg-name="Pacific vs Cavalry" tvg-logo="https://cdn.highfly.dev/posters/pacific-vs-cavalry-2427411_UTC.webp?v=535d4aa8" group-title="Football",Pacific vs Cavalry
-https://leaf.highfly.dev/m3u/429585/live.m3u8
-#EXTINF:-1 tvg-id="streamed:independiente-vs-san-lorenzo-2398079" tvg-name="Independiente vs San Lorenzo" tvg-logo="https://cdn.highfly.dev/posters/independiente-vs-san-lorenzo-2398079_UTC.webp?v=965ddec5" group-title="Football",Independiente vs San Lorenzo
-https://leaf.highfly.dev/m3u/1997304/live.m3u8
-#EXTINF:-1 tvg-id="streamed:vancouver-whitecaps-vs-austin-fc-2407080" tvg-name="Vancouver Whitecaps vs Austin FC" tvg-logo="https://cdn.highfly.dev/posters/vancouver-whitecaps-vs-austin-fc-2407080_UTC.webp?v=1e1adbfc" group-title="Football",Vancouver Whitecaps vs Austin FC
-https://leaf.highfly.dev/m3u/1021727/live.m3u8
-#EXTINF:-1 tvg-id="streamed:vancouver-whitecaps-vs-austin-fc-2407080" tvg-name="Vancouver Whitecaps vs Austin FC" tvg-logo="https://cdn.highfly.dev/posters/vancouver-whitecaps-vs-austin-fc-2407080_UTC.webp?v=1e1adbfc" group-title="Football",Vancouver Whitecaps vs Austin FC
-https://leaf.highfly.dev/m3u/605393/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=856cb828" group-title="Baseball",San Francisco Giants vs San Diego Padres
+#EXTINF:-1 tvg-id="leaf:yt-L8Or3HpDP7o" tvg-name="MLS NEXT PRO: Austin FC II vs Colorado Rapids 2 |Sept 13, 2026" tvg-logo="https://cdn.highfly.dev/leaf_posters/yt-L8Or3HpDP7o_UTC.webp?v=d661170dac1fb46a" group-title="Football",MLS NEXT PRO: Austin FC II vs Colorado Rapids 2 |Sept 13, 2026
+https://leaf.highfly.dev/m3u/yt-L8Or3HpDP7o/live.m3u8
+#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=66988b31" group-title="Baseball",San Francisco Giants vs San Diego Padres
 https://leaf.highfly.dev/m3u/588011/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=856cb828" group-title="Baseball",San Francisco Giants vs San Diego Padres
+#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=66988b31" group-title="Baseball",San Francisco Giants vs San Diego Padres
 https://leaf.highfly.dev/m3u/1239014/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=856cb828" group-title="Baseball",San Francisco Giants vs San Diego Padres
+#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-san-diego-padres-2555390" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/san-francisco-giants-vs-san-diego-padres-2555390_UTC.webp?v=66988b31" group-title="Baseball",San Francisco Giants vs San Diego Padres
 https://leaf.highfly.dev/m3u/498683/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-santos-vs-fc-juarez" tvg-name="Santos vs. FC Juarez" tvg-logo="https://cdn.highfly.dev/posters/ppv-santos-vs-fc-juarez_UTC.webp?v=54f99af9" group-title="Football",Santos vs. FC Juarez
+https://leaf.highfly.dev/m3u/2095579/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-07-aaa-triplemania-34-ppv-07" tvg-name="AAA Triplemania 34" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-07-aaa-triplemania-34-ppv-07_UTC.webp?v=8118f46c" group-title="Other",AAA Triplemania 34
+https://leaf.highfly.dev/m3u/605780/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-07-aaa-triplemania-34-ppv-07" tvg-name="AAA Triplemania 34" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-07-aaa-triplemania-34-ppv-07_UTC.webp?v=8118f46c" group-title="Other",AAA Triplemania 34
+https://leaf.highfly.dev/m3u/1855352/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-event-07-aaa-triplemania-34-ppv-07" tvg-name="AAA Triplemania 34" tvg-logo="https://cdn.highfly.dev/posters/ppv-event-07-aaa-triplemania-34-ppv-07_UTC.webp?v=8118f46c" group-title="Other",AAA Triplemania 34
+https://leaf.highfly.dev/m3u/605882/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
+https://leaf.highfly.dev/m3u/1239048/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
+https://leaf.highfly.dev/m3u/1820042/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
+https://leaf.highfly.dev/m3u/411655/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
+https://leaf.highfly.dev/m3u/1820471/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-dallas-cowboys-2475388" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://cdn.highfly.dev/posters/new-york-giants-vs-dallas-cowboys-2475388_UTC.webp?v=d3ade73d" group-title="American Football",New York Giants vs Dallas Cowboys
+https://leaf.highfly.dev/m3u/606166/live.m3u8
+#EXTINF:-1 tvg-id="streamed:hurac-n-vs-racing-club-2398078" tvg-name="Huracán vs Racing Club" tvg-logo="https://cdn.highfly.dev/posters/hurac-n-vs-racing-club-2398078_UTC.webp?v=c268fc00" group-title="Football",Huracán vs Racing Club
+https://leaf.highfly.dev/m3u/1997245/live.m3u8
+#EXTINF:-1 tvg-id="streamed:san-diego-fc-vs-philadelphia-union-2407082" tvg-name="San Diego FC vs Philadelphia Union" tvg-logo="https://cdn.highfly.dev/posters/san-diego-fc-vs-philadelphia-union-2407082_UTC.webp?v=8f5e6376" group-title="Football",San Diego FC vs Philadelphia Union
+https://leaf.highfly.dev/m3u/605392/live.m3u8
+#EXTINF:-1 tvg-id="streamed:san-diego-fc-vs-philadelphia-union-2407082" tvg-name="San Diego FC vs Philadelphia Union" tvg-logo="https://cdn.highfly.dev/posters/san-diego-fc-vs-philadelphia-union-2407082_UTC.webp?v=8f5e6376" group-title="Football",San Diego FC vs Philadelphia Union
+https://leaf.highfly.dev/m3u/1970673/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cd-guadalajara-vs-pumas-unam-2487521" tvg-name="CD Guadalajara vs Pumas UNAM" tvg-logo="https://cdn.highfly.dev/posters/cd-guadalajara-vs-pumas-unam-2487521_UTC.webp?v=af6271de" group-title="Football",CD Guadalajara vs Pumas UNAM
+https://leaf.highfly.dev/m3u/927219/live.m3u8
