@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-15T01:05:09.787Z
+# Generated at 2026-09-15T06:18:09.563Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd-23993" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-23993_UTC.webp?v=ec02edd57b09dc85" group-title="Tennis",US : ESPN
@@ -21,55 +21,3 @@ https://leaf.highfly.dev/m3u/now-9494949/live.m3u8
 https://leaf.highfly.dev/m3u/prime-39393939/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-39330030" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-39330030_UTC.webp?v=31d97a38f9212a57" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://leaf.highfly.dev/m3u/now-39330030/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cincinnati-reds-vs-los-angeles-dodgers-2555391" tvg-name="Cincinnati Reds vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.dev/posters/cincinnati-reds-vs-los-angeles-dodgers-2555391_UTC.webp?v=99310923" group-title="Baseball",Cincinnati Reds vs Los Angeles Dodgers
-https://leaf.highfly.dev/m3u/1904208/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cincinnati-reds-vs-los-angeles-dodgers-2555391" tvg-name="Cincinnati Reds vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.dev/posters/cincinnati-reds-vs-los-angeles-dodgers-2555391_UTC.webp?v=99310923" group-title="Baseball",Cincinnati Reds vs Los Angeles Dodgers
-https://leaf.highfly.dev/m3u/1904201/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cleveland-guardians-vs-chicago-white-sox-2555392" tvg-name="Cleveland Guardians vs Chicago White Sox" tvg-logo="https://cdn.highfly.dev/posters/cleveland-guardians-vs-chicago-white-sox-2555392_UTC.webp?v=7d6f9eda" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
-https://leaf.highfly.dev/m3u/1904200/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cleveland-guardians-vs-chicago-white-sox-2555392" tvg-name="Cleveland Guardians vs Chicago White Sox" tvg-logo="https://cdn.highfly.dev/posters/cleveland-guardians-vs-chicago-white-sox-2555392_UTC.webp?v=7d6f9eda" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
-https://leaf.highfly.dev/m3u/1904202/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bahia-vs-remo-2398452" tvg-name="Bahia vs Remo" tvg-logo="https://cdn.highfly.dev/posters/bahia-vs-remo-2398452_UTC.webp?v=0dcc8bd8" group-title="Football",Bahia vs Remo
-https://leaf.highfly.dev/m3u/439211/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bahia-vs-remo-2398452" tvg-name="Bahia vs Remo" tvg-logo="https://cdn.highfly.dev/posters/bahia-vs-remo-2398452_UTC.webp?v=0dcc8bd8" group-title="Football",Bahia vs Remo
-https://leaf.highfly.dev/m3u/439220/live.m3u8
-#EXTINF:-1 tvg-id="streamed:toronto-blue-jays-vs-detroit-tigers-2555393" tvg-name="Toronto Blue Jays vs Detroit Tigers" tvg-logo="https://cdn.highfly.dev/posters/toronto-blue-jays-vs-detroit-tigers-2555393_UTC.webp?v=a77abaf7" group-title="Baseball",Toronto Blue Jays vs Detroit Tigers
-https://leaf.highfly.dev/m3u/1904223/live.m3u8
-#EXTINF:-1 tvg-id="streamed:toronto-blue-jays-vs-detroit-tigers-2555393" tvg-name="Toronto Blue Jays vs Detroit Tigers" tvg-logo="https://cdn.highfly.dev/posters/toronto-blue-jays-vs-detroit-tigers-2555393_UTC.webp?v=a77abaf7" group-title="Baseball",Toronto Blue Jays vs Detroit Tigers
-https://leaf.highfly.dev/m3u/1904204/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-mets-vs-baltimore-orioles-2555394" tvg-name="New York Mets vs Baltimore Orioles" tvg-logo="https://cdn.highfly.dev/posters/new-york-mets-vs-baltimore-orioles-2555394_UTC.webp?v=0e7ceb6e" group-title="Baseball",New York Mets vs Baltimore Orioles
-https://leaf.highfly.dev/m3u/1904212/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-mets-vs-baltimore-orioles-2555394" tvg-name="New York Mets vs Baltimore Orioles" tvg-logo="https://cdn.highfly.dev/posters/new-york-mets-vs-baltimore-orioles-2555394_UTC.webp?v=0e7ceb6e" group-title="Baseball",New York Mets vs Baltimore Orioles
-https://leaf.highfly.dev/m3u/1904197/live.m3u8
-#EXTINF:-1 tvg-id="streamed:chicago-cubs-vs-atlanta-braves-2555395" tvg-name="Chicago Cubs vs Atlanta Braves" tvg-logo="https://cdn.highfly.dev/posters/chicago-cubs-vs-atlanta-braves-2555395_UTC.webp?v=4e99a6e0" group-title="Baseball",Chicago Cubs vs Atlanta Braves
-https://leaf.highfly.dev/m3u/1904196/live.m3u8
-#EXTINF:-1 tvg-id="streamed:chicago-cubs-vs-atlanta-braves-2555395" tvg-name="Chicago Cubs vs Atlanta Braves" tvg-logo="https://cdn.highfly.dev/posters/chicago-cubs-vs-atlanta-braves-2555395_UTC.webp?v=4e99a6e0" group-title="Baseball",Chicago Cubs vs Atlanta Braves
-https://leaf.highfly.dev/m3u/1904199/live.m3u8
-#EXTINF:-1 tvg-id="streamed:minnesota-twins-vs-new-york-yankees-2555396" tvg-name="Minnesota Twins vs New York Yankees" tvg-logo="https://cdn.highfly.dev/posters/minnesota-twins-vs-new-york-yankees-2555396_UTC.webp?v=11e95986" group-title="Baseball",Minnesota Twins vs New York Yankees
-https://leaf.highfly.dev/m3u/1904211/live.m3u8
-#EXTINF:-1 tvg-id="streamed:st--louis-cardinals-vs-san-francisco-giants-2555397" tvg-name="St. Louis Cardinals vs San Francisco Giants" tvg-logo="https://cdn.highfly.dev/posters/st--louis-cardinals-vs-san-francisco-giants-2555397_UTC.webp?v=c2fd4acd" group-title="Baseball",St. Louis Cardinals vs San Francisco Giants
-https://leaf.highfly.dev/m3u/1904220/live.m3u8
-#EXTINF:-1 tvg-id="streamed:st--louis-cardinals-vs-san-francisco-giants-2555397" tvg-name="St. Louis Cardinals vs San Francisco Giants" tvg-logo="https://cdn.highfly.dev/posters/st--louis-cardinals-vs-san-francisco-giants-2555397_UTC.webp?v=c2fd4acd" group-title="Baseball",St. Louis Cardinals vs San Francisco Giants
-https://leaf.highfly.dev/m3u/1904218/live.m3u8
-#EXTINF:-1 tvg-id="streamed:kansas-city-chiefs-vs-denver-broncos-2475389" tvg-name="Kansas City Chiefs vs Denver Broncos" tvg-logo="https://cdn.highfly.dev/posters/kansas-city-chiefs-vs-denver-broncos-2475389_UTC.webp?v=442d0425" group-title="American Football",Kansas City Chiefs vs Denver Broncos
-https://leaf.highfly.dev/m3u/430300/live.m3u8
-#EXTINF:-1 tvg-id="streamed:kansas-city-chiefs-vs-denver-broncos-2475389" tvg-name="Kansas City Chiefs vs Denver Broncos" tvg-logo="https://cdn.highfly.dev/posters/kansas-city-chiefs-vs-denver-broncos-2475389_UTC.webp?v=442d0425" group-title="American Football",Kansas City Chiefs vs Denver Broncos
-https://leaf.highfly.dev/m3u/430306/live.m3u8
-#EXTINF:-1 tvg-id="streamed:kansas-city-chiefs-vs-denver-broncos-2475389" tvg-name="Kansas City Chiefs vs Denver Broncos" tvg-logo="https://cdn.highfly.dev/posters/kansas-city-chiefs-vs-denver-broncos-2475389_UTC.webp?v=442d0425" group-title="American Football",Kansas City Chiefs vs Denver Broncos
-https://leaf.highfly.dev/m3u/1239014/live.m3u8
-#EXTINF:-1 tvg-id="streamed:kansas-city-chiefs-vs-denver-broncos-2475389" tvg-name="Kansas City Chiefs vs Denver Broncos" tvg-logo="https://cdn.highfly.dev/posters/kansas-city-chiefs-vs-denver-broncos-2475389_UTC.webp?v=442d0425" group-title="American Football",Kansas City Chiefs vs Denver Broncos
-https://leaf.highfly.dev/m3u/1290241/live.m3u8
-#EXTINF:-1 tvg-id="streamed:kansas-city-chiefs-vs-denver-broncos-2475389" tvg-name="Kansas City Chiefs vs Denver Broncos" tvg-logo="https://cdn.highfly.dev/posters/kansas-city-chiefs-vs-denver-broncos-2475389_UTC.webp?v=442d0425" group-title="American Football",Kansas City Chiefs vs Denver Broncos
-https://leaf.highfly.dev/m3u/2153048/live.m3u8
-#EXTINF:-1 tvg-id="streamed:instituto-vs-estudiantes-de-r-o-cuarto-2398081" tvg-name="Instituto vs Estudiantes de Río Cuarto" tvg-logo="https://cdn.highfly.dev/posters/instituto-vs-estudiantes-de-r-o-cuarto-2398081_UTC.webp?v=b4103398" group-title="Football",Instituto vs Estudiantes de Río Cuarto
-https://leaf.highfly.dev/m3u/1997245/live.m3u8
-#EXTINF:-1 tvg-id="streamed:colorado-rockies-vs-san-diego-padres-2557370" tvg-name="Colorado Rockies vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/colorado-rockies-vs-san-diego-padres-2557370_UTC.webp?v=667c7e0e" group-title="Baseball",Colorado Rockies vs San Diego Padres
-https://leaf.highfly.dev/m3u/1904203/live.m3u8
-#EXTINF:-1 tvg-id="streamed:colorado-rockies-vs-san-diego-padres-2557370" tvg-name="Colorado Rockies vs San Diego Padres" tvg-logo="https://cdn.highfly.dev/posters/colorado-rockies-vs-san-diego-padres-2557370_UTC.webp?v=667c7e0e" group-title="Baseball",Colorado Rockies vs San Diego Padres
-https://leaf.highfly.dev/m3u/1904217/live.m3u8
-#EXTINF:-1 tvg-id="streamed:live-event_monday-night-raw-live-stream" tvg-name="Monday Night Raw" tvg-logo="https://cdn.highfly.dev/posters/live-event_monday-night-raw-live-stream_UTC.webp?v=e609b15f" group-title="Fight",Monday Night Raw
-https://leaf.highfly.dev/m3u/605787/live.m3u8
-#EXTINF:-1 tvg-id="streamed:live-event_monday-night-raw-live-stream" tvg-name="Monday Night Raw" tvg-logo="https://cdn.highfly.dev/posters/live-event_monday-night-raw-live-stream_UTC.webp?v=e609b15f" group-title="Fight",Monday Night Raw
-https://leaf.highfly.dev/m3u/1855358/live.m3u8
-#EXTINF:-1 tvg-id="streamed:live-event_monday-night-raw-live-stream" tvg-name="Monday Night Raw" tvg-logo="https://cdn.highfly.dev/posters/live-event_monday-night-raw-live-stream_UTC.webp?v=e609b15f" group-title="Fight",Monday Night Raw
-https://leaf.highfly.dev/m3u/605889/live.m3u8
