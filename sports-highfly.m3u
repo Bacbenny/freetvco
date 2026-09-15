@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-15T11:57:56.351Z
+# Generated at 2026-09-15T15:55:52.700Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd-23993" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-23993_UTC.webp?v=ec02edd57b09dc85" group-title="Tennis",US : ESPN
@@ -21,3 +21,9 @@ https://leaf.highfly.dev/m3u/now-9494949/live.m3u8
 https://leaf.highfly.dev/m3u/prime-39393939/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-39330030" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-39330030_UTC.webp?v=31d97a38f9212a57" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://leaf.highfly.dev/m3u/now-39330030/live.m3u8
+#EXTINF:-1 tvg-id="leaf:au-fox-sports-501-hd" tvg-name="AU : FOX SPORTS 501 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-501-hd_UTC.webp?v=d42be2ea7e7065ff" group-title="Cricket",AU : FOX SPORTS 501 HD
+https://leaf.highfly.dev/m3u/au-fox-sports-501-hd/live.m3u8
+#EXTINF:-1 tvg-id="streamed:afc-cl2-golgohar-vs-aljazira-2026-09-15" tvg-name="Gol Gohar vs Al Jazira" tvg-logo="https://cdn.highfly.dev/posters/afc-cl2-golgohar-vs-aljazira-2026-09-15_UTC.webp?v=8c74131c" group-title="Football",Gol Gohar vs Al Jazira
+https://leaf.highfly.dev/m3u/1562945/live.m3u8
+#EXTINF:-1 tvg-id="streamed:afc-cl2-arkadag-vs-muharraq-2026-09-15" tvg-name="Arkadag vs Muharraq" tvg-logo="https://cdn.highfly.dev/posters/afc-cl2-arkadag-vs-muharraq-2026-09-15_UTC.webp?v=e8623fc6" group-title="Football",Arkadag vs Muharraq
+https://leaf.highfly.dev/m3u/1562944/live.m3u8
