@@ -1,21 +1,157 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-16T15:06:01.514Z
-#EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.dev/leaf_posters/nz-sky-sport-1_UTC.webp?v=df2bc813933e6903" group-title="Rugby",NZ : SKY SPORT 1
-https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
-#EXTINF:-1 tvg-id="leaf:au-67676767767" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-67676767767_UTC.webp?v=f2a4d3e129d8bd3d" group-title="Rugby",AU : FOX SPORTS 502 HD
-https://papacito.cfd/m3u/au-67676767767/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-499494904" tvg-name="(FHD0 : SKY SPORTS F1" group-title="Motor Sports",(FHD0 : SKY SPORTS F1
-https://papacito.cfd/m3u/now-499494904/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now49499404" tvg-name="(FHD) : SKY SPORTS CRICKET" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
-https://papacito.cfd/m3u/now49499404/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now993303003" tvg-name="(FHD) : SKY SPORTS TENNIS" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
-https://papacito.cfd/m3u/now993303003/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US: ESPN" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd_UTC.webp?v=a5b2305c27dfa7d7" group-title="Sports",US: ESPN
-https://papacito.cfd/m3u/us-espn-hd/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-4994949494" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
+# Generated at 2026-09-16T19:00:26.018Z
+#EXTINF:-1 tvg-id="leaf:now-4994949494" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-4994949494_UTC.webp?v=6791484fdf0eb969" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-4994949494/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-49404040404" tvg-name="(FHD) : SKY SPORTS GOLF" group-title="Golf",(FHD) : SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-sky-sport-1_UTC.webp?v=6bc86146864cba4e" group-title="Rugby",NZ : SKY SPORT 1
+https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
+#EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/f1-3949409_UTC.webp?v=72be9f30a9de692c" group-title="Motor Sports",(FHD) : SKY SPORTS F1
+https://papacito.cfd/m3u/f1-3949409/live.m3u8
+#EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/f1-3949409_UTC.webp?v=72be9f30a9de692c" group-title="Motor Sports",(FHD) : SKY SPORTS F1
+https://papacito.cfd/m3u/now-499494904/live.m3u8
+#EXTINF:-1 tvg-id="leaf:au-4040040" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-4040040_UTC.webp?v=0b60ef5e1b1fadb3" group-title="Rugby",AU : FOX SPORTS 502 HD
+https://papacito.cfd/m3u/au-4040040/live.m3u8
+#EXTINF:-1 tvg-id="leaf:au-4040040" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-4040040_UTC.webp?v=0b60ef5e1b1fadb3" group-title="Rugby",AU : FOX SPORTS 502 HD
+https://papacito.cfd/m3u/au-67676767767/live.m3u8
+#EXTINF:-1 tvg-id="leaf:us-39903003" tvg-name="(HD) : TENNIS" tvg-logo="https://cdn.highfly.to/leaf_posters/us-39903003_UTC.webp?v=71d1d569ba7ca1e4" group-title="Tennis",(HD) : TENNIS
+https://papacito.cfd/m3u/us-39903003/live.m3u8
+#EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=6ecd2cce5605bd46" group-title="Afl",AU : FOX SPORTS 504 HD
+https://papacito.cfd/m3u/au-fox-sports-504-hd/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now49499404" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.to/leaf_posters/now49499404_UTC.webp?v=d9bd9e1b2e444cdd" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
+https://papacito.cfd/m3u/now49499404/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now49499404" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.to/leaf_posters/now49499404_UTC.webp?v=d9bd9e1b2e444cdd" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
+https://papacito.cfd/m3u/now-9494949/live.m3u8
+#EXTINF:-1 tvg-id="leaf:uk-330030303" tvg-name="(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ" tvg-logo="https://cdn.highfly.to/leaf_posters/uk-330030303_UTC.webp?v=6d42a9692219d3bf" group-title="Tennis",(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ
+https://papacito.cfd/m3u/uk-330030303/live.m3u8
+#EXTINF:-1 tvg-id="leaf:us-espn-hd-23993" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd-23993_UTC.webp?v=ec02edd57b09dc85" group-title="Tennis",US : ESPN
+https://papacito.cfd/m3u/us-espn-hd-23993/live.m3u8
+#EXTINF:-1 tvg-id="leaf:no-389339393" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/no-389339393_UTC.webp?v=b552031cd71170f0" group-title="Golf",(FHD) : SKY SPORTS GOLF
+https://papacito.cfd/m3u/no-389339393/live.m3u8
+#EXTINF:-1 tvg-id="leaf:no-389339393" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/no-389339393_UTC.webp?v=b552031cd71170f0" group-title="Golf",(FHD) : SKY SPORTS GOLF
 https://papacito.cfd/m3u/now-49404040404/live.m3u8
-#EXTINF:-1 tvg-id="streamed:aris-vs-marko-2593108" tvg-name="Aris vs Marko" tvg-logo="https://cdn.highfly.dev/posters/aris-vs-marko-2593108_UTC.webp?v=9b18d929" group-title="Football",Aris vs Marko
-https://papacito.cfd/m3u/1473944/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now993303003" tvg-name="(FHD) : SKY SPORTS TENNIS" tvg-logo="https://cdn.highfly.to/leaf_posters/now993303003_UTC.webp?v=8f275539e3eb2267" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
+https://papacito.cfd/m3u/now993303003/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-max-vs-100" tvg-name="Max vs 100" tvg-logo="https://cdn.highfly.to/posters/ppv-max-vs-100_UTC.webp?v=b6f52bf3" group-title="Motor Sports",Max vs 100
+https://papacito.cfd/m3u/1538900/live.m3u8
+#EXTINF:-1 tvg-id="streamed:omonia-nicosia-vs-celta-vigo-2594942" tvg-name="Omonia Nicosia vs Celta Vigo" tvg-logo="https://cdn.highfly.to/posters/omonia-nicosia-vs-celta-vigo-2594942_UTC.webp?v=126c520d" group-title="Football",Omonia Nicosia vs Celta Vigo
+https://papacito.cfd/m3u/1527611/live.m3u8
+#EXTINF:-1 tvg-id="streamed:omonia-nicosia-vs-celta-vigo-2594942" tvg-name="Omonia Nicosia vs Celta Vigo" tvg-logo="https://cdn.highfly.to/posters/omonia-nicosia-vs-celta-vigo-2594942_UTC.webp?v=126c520d" group-title="Football",Omonia Nicosia vs Celta Vigo
+https://papacito.cfd/m3u/429938/live.m3u8
+#EXTINF:-1 tvg-id="streamed:omonia-nicosia-vs-celta-vigo-2594942" tvg-name="Omonia Nicosia vs Celta Vigo" tvg-logo="https://cdn.highfly.to/posters/omonia-nicosia-vs-celta-vigo-2594942_UTC.webp?v=126c520d" group-title="Football",Omonia Nicosia vs Celta Vigo
+https://papacito.cfd/m3u/587989/live.m3u8
+#EXTINF:-1 tvg-id="streamed:omonia-nicosia-vs-celta-vigo-2594942" tvg-name="Omonia Nicosia vs Celta Vigo" tvg-logo="https://cdn.highfly.to/posters/omonia-nicosia-vs-celta-vigo-2594942_UTC.webp?v=126c520d" group-title="Football",Omonia Nicosia vs Celta Vigo
+https://papacito.cfd/m3u/1860592/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ararat-armenia-vs-sparta-prague-2594946" tvg-name="Ararat-Armenia vs Sparta Prague" tvg-logo="https://cdn.highfly.to/posters/ararat-armenia-vs-sparta-prague-2594946_UTC.webp?v=c25e72bf" group-title="Football",Ararat-Armenia vs Sparta Prague
+https://papacito.cfd/m3u/588010/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ararat-armenia-vs-sparta-prague-2594946" tvg-name="Ararat-Armenia vs Sparta Prague" tvg-logo="https://cdn.highfly.to/posters/ararat-armenia-vs-sparta-prague-2594946_UTC.webp?v=c25e72bf" group-title="Football",Ararat-Armenia vs Sparta Prague
+https://papacito.cfd/m3u/587990/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ararat-armenia-vs-sparta-prague-2594946" tvg-name="Ararat-Armenia vs Sparta Prague" tvg-logo="https://cdn.highfly.to/posters/ararat-armenia-vs-sparta-prague-2594946_UTC.webp?v=c25e72bf" group-title="Football",Ararat-Armenia vs Sparta Prague
+https://papacito.cfd/m3u/1501736/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ararat-armenia-vs-sparta-prague-2594946" tvg-name="Ararat-Armenia vs Sparta Prague" tvg-logo="https://cdn.highfly.to/posters/ararat-armenia-vs-sparta-prague-2594946_UTC.webp?v=c25e72bf" group-title="Football",Ararat-Armenia vs Sparta Prague
+https://papacito.cfd/m3u/1562640/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cleveland-guardians-vs-chicago-white-sox-2557388" tvg-name="Cleveland Guardians vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/cleveland-guardians-vs-chicago-white-sox-2557388_UTC.webp?v=b04e31c5" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
+https://papacito.cfd/m3u/762779/live.m3u8
+#EXTINF:-1 tvg-id="streamed:aik-vs-mj-llby-2398887" tvg-name="AIK vs Mjällby" tvg-logo="https://cdn.highfly.to/posters/aik-vs-mj-llby-2398887_UTC.webp?v=36707892" group-title="Football",AIK vs Mjällby
+https://papacito.cfd/m3u/368482/live.m3u8
+#EXTINF:-1 tvg-id="streamed:lugano-vs-st--gallen-2493347" tvg-name="Lugano vs St. Gallen" tvg-logo="https://cdn.highfly.to/posters/lugano-vs-st--gallen-2493347_UTC.webp?v=e072eb55" group-title="Football",Lugano vs St. Gallen
+https://papacito.cfd/m3u/1791619/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atl-tico-madrid-vs-osasuna-2506220" tvg-name="Atlético Madrid vs Osasuna" tvg-logo="https://cdn.highfly.to/posters/atl-tico-madrid-vs-osasuna-2506220_UTC.webp?v=3a884acf" group-title="Football",Atlético Madrid vs Osasuna
+https://papacito.cfd/m3u/1954594/live.m3u8
+#EXTINF:-1 tvg-id="streamed:deportivo-de-a-coru-a-vs-sevilla-2506225" tvg-name="Deportivo de A Coruña vs Sevilla" tvg-logo="https://cdn.highfly.to/posters/deportivo-de-a-coru-a-vs-sevilla-2506225_UTC.webp?v=0ed7bf1d" group-title="Football",Deportivo de A Coruña vs Sevilla
+https://papacito.cfd/m3u/1954595/live.m3u8
+#EXTINF:-1 tvg-id="streamed:deportivo-de-a-coru-a-vs-sevilla-2506225" tvg-name="Deportivo de A Coruña vs Sevilla" tvg-logo="https://cdn.highfly.to/posters/deportivo-de-a-coru-a-vs-sevilla-2506225_UTC.webp?v=0ed7bf1d" group-title="Football",Deportivo de A Coruña vs Sevilla
+https://papacito.cfd/m3u/1924721/live.m3u8
+#EXTINF:-1 tvg-id="streamed:deportivo-de-a-coru-a-vs-sevilla-2506225" tvg-name="Deportivo de A Coruña vs Sevilla" tvg-logo="https://cdn.highfly.to/posters/deportivo-de-a-coru-a-vs-sevilla-2506225_UTC.webp?v=0ed7bf1d" group-title="Football",Deportivo de A Coruña vs Sevilla
+https://papacito.cfd/m3u/1924717/live.m3u8
+#EXTINF:-1 tvg-id="streamed:deportivo-de-a-coru-a-vs-sevilla-2506225" tvg-name="Deportivo de A Coruña vs Sevilla" tvg-logo="https://cdn.highfly.to/posters/deportivo-de-a-coru-a-vs-sevilla-2506225_UTC.webp?v=0ed7bf1d" group-title="Football",Deportivo de A Coruña vs Sevilla
+https://papacito.cfd/m3u/1562986/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atletico-madrid-vs-osasuna-football-1570384" tvg-name="Atletico Madrid vs Osasuna" tvg-logo="https://cdn.highfly.to/posters/atletico-madrid-vs-osasuna-football-1570384_UTC.webp?v=926eb4cd" group-title="Football",Atletico Madrid vs Osasuna
+https://papacito.cfd/m3u/1562520/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atletico-madrid-vs-osasuna-football-1570384" tvg-name="Atletico Madrid vs Osasuna" tvg-logo="https://cdn.highfly.to/posters/atletico-madrid-vs-osasuna-football-1570384_UTC.webp?v=926eb4cd" group-title="Football",Atletico Madrid vs Osasuna
+https://papacito.cfd/m3u/1924722/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atletico-madrid-vs-osasuna-football-1570384" tvg-name="Atletico Madrid vs Osasuna" tvg-logo="https://cdn.highfly.to/posters/atletico-madrid-vs-osasuna-football-1570384_UTC.webp?v=926eb4cd" group-title="Football",Atletico Madrid vs Osasuna
+https://papacito.cfd/m3u/1924724/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-chicago-white-sox-vs-cleveland-guardians" tvg-name="Chicago White Sox vs. Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/ppv-chicago-white-sox-vs-cleveland-guardians_UTC.webp?v=51203e17" group-title="Baseball",Chicago White Sox vs. Cleveland Guardians
+https://papacito.cfd/m3u/1904200/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-chicago-white-sox-vs-cleveland-guardians" tvg-name="Chicago White Sox vs. Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/ppv-chicago-white-sox-vs-cleveland-guardians_UTC.webp?v=51203e17" group-title="Baseball",Chicago White Sox vs. Cleveland Guardians
+https://papacito.cfd/m3u/1904202/live.m3u8
+#EXTINF:-1 tvg-id="streamed:st--louis-cardinals-vs-san-francisco-giants-2557389" tvg-name="St. Louis Cardinals vs San Francisco Giants" tvg-logo="https://cdn.highfly.to/posters/st--louis-cardinals-vs-san-francisco-giants-2557389_UTC.webp?v=c40cb9e3" group-title="Baseball",St. Louis Cardinals vs San Francisco Giants
+https://papacito.cfd/m3u/1904220/live.m3u8
+#EXTINF:-1 tvg-id="streamed:st--louis-cardinals-vs-san-francisco-giants-2557389" tvg-name="St. Louis Cardinals vs San Francisco Giants" tvg-logo="https://cdn.highfly.to/posters/st--louis-cardinals-vs-san-francisco-giants-2557389_UTC.webp?v=c40cb9e3" group-title="Baseball",St. Louis Cardinals vs San Francisco Giants
+https://papacito.cfd/m3u/1904218/live.m3u8
+#EXTINF:-1 tvg-id="streamed:minnesota-twins-vs-new-york-yankees-2557390" tvg-name="Minnesota Twins vs New York Yankees" tvg-logo="https://cdn.highfly.to/posters/minnesota-twins-vs-new-york-yankees-2557390_UTC.webp?v=2234903f" group-title="Baseball",Minnesota Twins vs New York Yankees
+https://papacito.cfd/m3u/1904211/live.m3u8
+#EXTINF:-1 tvg-id="streamed:minnesota-twins-vs-new-york-yankees-2557390" tvg-name="Minnesota Twins vs New York Yankees" tvg-logo="https://cdn.highfly.to/posters/minnesota-twins-vs-new-york-yankees-2557390_UTC.webp?v=2234903f" group-title="Baseball",Minnesota Twins vs New York Yankees
+https://papacito.cfd/m3u/1904213/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fleetwood-town-vs-sheffield-united-2594462" tvg-name="Fleetwood Town vs Sheffield United" tvg-logo="https://cdn.highfly.to/posters/fleetwood-town-vs-sheffield-united-2594462_UTC.webp?v=328b32de" group-title="Football",Fleetwood Town vs Sheffield United
+https://papacito.cfd/m3u/661423/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fleetwood-town-vs-sheffield-united-2594462" tvg-name="Fleetwood Town vs Sheffield United" tvg-logo="https://cdn.highfly.to/posters/fleetwood-town-vs-sheffield-united-2594462_UTC.webp?v=328b32de" group-title="Football",Fleetwood Town vs Sheffield United
+https://papacito.cfd/m3u/1538185/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fleetwood-town-vs-sheffield-united-2594462" tvg-name="Fleetwood Town vs Sheffield United" tvg-logo="https://cdn.highfly.to/posters/fleetwood-town-vs-sheffield-united-2594462_UTC.webp?v=328b32de" group-title="Football",Fleetwood Town vs Sheffield United
+https://papacito.cfd/m3u/1712642/live.m3u8
+#EXTINF:-1 tvg-id="streamed:everton-vs-wolves-football-1635559" tvg-name="Everton vs Wolves" tvg-logo="https://cdn.highfly.to/posters/everton-vs-wolves-football-1635559_UTC.webp?v=d0a32be2" group-title="Football",Everton vs Wolves
+https://papacito.cfd/m3u/607456/live.m3u8
+#EXTINF:-1 tvg-id="streamed:everton-vs-wolves-football-1635559" tvg-name="Everton vs Wolves" tvg-logo="https://cdn.highfly.to/posters/everton-vs-wolves-football-1635559_UTC.webp?v=d0a32be2" group-title="Football",Everton vs Wolves
+https://papacito.cfd/m3u/607465/live.m3u8
+#EXTINF:-1 tvg-id="streamed:everton-vs-wolves-football-1635559" tvg-name="Everton vs Wolves" tvg-logo="https://cdn.highfly.to/posters/everton-vs-wolves-football-1635559_UTC.webp?v=d0a32be2" group-title="Football",Everton vs Wolves
+https://papacito.cfd/m3u/1688739/live.m3u8
+#EXTINF:-1 tvg-id="streamed:olympiakos-piraeus-vs-jagiellonia-football-1636309" tvg-name="Olympiakos Piraeus vs Jagiellonia" tvg-logo="https://cdn.highfly.to/posters/olympiakos-piraeus-vs-jagiellonia-football-1636309_UTC.webp?v=8780b971" group-title="Football",Olympiakos Piraeus vs Jagiellonia
+https://papacito.cfd/m3u/1324769/live.m3u8
+#EXTINF:-1 tvg-id="streamed:olympiakos-piraeus-vs-jagiellonia-football-1636309" tvg-name="Olympiakos Piraeus vs Jagiellonia" tvg-logo="https://cdn.highfly.to/posters/olympiakos-piraeus-vs-jagiellonia-football-1636309_UTC.webp?v=8780b971" group-title="Football",Olympiakos Piraeus vs Jagiellonia
+https://papacito.cfd/m3u/1562582/live.m3u8
+#EXTINF:-1 tvg-id="streamed:olympiakos-piraeus-vs-jagiellonia-football-1636309" tvg-name="Olympiakos Piraeus vs Jagiellonia" tvg-logo="https://cdn.highfly.to/posters/olympiakos-piraeus-vs-jagiellonia-football-1636309_UTC.webp?v=8780b971" group-title="Football",Olympiakos Piraeus vs Jagiellonia
+https://papacito.cfd/m3u/1501728/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-sk-sturm-graz-vs-stade-rennais" tvg-name="SK Sturm Graz vs. Stade Rennais" tvg-logo="https://cdn.highfly.to/posters/ppv-sk-sturm-graz-vs-stade-rennais_UTC.webp?v=85a28809" group-title="Football",SK Sturm Graz vs. Stade Rennais
+https://papacito.cfd/m3u/1791610/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-sk-sturm-graz-vs-stade-rennais" tvg-name="SK Sturm Graz vs. Stade Rennais" tvg-logo="https://cdn.highfly.to/posters/ppv-sk-sturm-graz-vs-stade-rennais_UTC.webp?v=85a28809" group-title="Football",SK Sturm Graz vs. Stade Rennais
+https://papacito.cfd/m3u/1562577/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-sk-sturm-graz-vs-stade-rennais" tvg-name="SK Sturm Graz vs. Stade Rennais" tvg-logo="https://cdn.highfly.to/posters/ppv-sk-sturm-graz-vs-stade-rennais_UTC.webp?v=85a28809" group-title="Football",SK Sturm Graz vs. Stade Rennais
+https://papacito.cfd/m3u/1501732/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-sk-sturm-graz-vs-stade-rennais" tvg-name="SK Sturm Graz vs. Stade Rennais" tvg-logo="https://cdn.highfly.to/posters/ppv-sk-sturm-graz-vs-stade-rennais_UTC.webp?v=85a28809" group-title="Football",SK Sturm Graz vs. Stade Rennais
+https://papacito.cfd/m3u/1025273/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-olympiacos-vs-jagiellonia-bialystok" tvg-name="Olympiacos vs. Jagiellonia Bialystok" tvg-logo="https://cdn.highfly.to/posters/ppv-olympiacos-vs-jagiellonia-bialystok_UTC.webp?v=722e3abc" group-title="Football",Olympiacos vs. Jagiellonia Bialystok
+https://papacito.cfd/m3u/1025274/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sunderland-vs-az-alkmaar-2594928" tvg-name="Sunderland vs AZ Alkmaar" tvg-logo="https://cdn.highfly.to/posters/sunderland-vs-az-alkmaar-2594928_UTC.webp?v=c72a177e" group-title="Football",Sunderland vs AZ Alkmaar
+https://papacito.cfd/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sunderland-vs-az-alkmaar-2594928" tvg-name="Sunderland vs AZ Alkmaar" tvg-logo="https://cdn.highfly.to/posters/sunderland-vs-az-alkmaar-2594928_UTC.webp?v=c72a177e" group-title="Football",Sunderland vs AZ Alkmaar
+https://papacito.cfd/m3u/1562707/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sunderland-vs-az-alkmaar-2594928" tvg-name="Sunderland vs AZ Alkmaar" tvg-logo="https://cdn.highfly.to/posters/sunderland-vs-az-alkmaar-2594928_UTC.webp?v=c72a177e" group-title="Football",Sunderland vs AZ Alkmaar
+https://papacito.cfd/m3u/1501731/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sunderland-vs-az-alkmaar-2594928" tvg-name="Sunderland vs AZ Alkmaar" tvg-logo="https://cdn.highfly.to/posters/sunderland-vs-az-alkmaar-2594928_UTC.webp?v=c72a177e" group-title="Football",Sunderland vs AZ Alkmaar
+https://papacito.cfd/m3u/1025272/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sturm-graz-vs-rennes-2594917" tvg-name="Sturm Graz vs Rennes" tvg-logo="https://cdn.highfly.to/posters/sturm-graz-vs-rennes-2594917_UTC.webp?v=1de3c7f1" group-title="Football",Sturm Graz vs Rennes
+https://papacito.cfd/m3u/1290341/live.m3u8
+#EXTINF:-1 tvg-id="streamed:hapoel-be-er-sheva-vs-dinamo-zagreb-2594898" tvg-name="Hapoel Be'er Sheva vs Dinamo Zagreb" tvg-logo="https://cdn.highfly.to/posters/hapoel-be-er-sheva-vs-dinamo-zagreb-2594898_UTC.webp?v=e4641ec5" group-title="Football",Hapoel Be'er Sheva vs Dinamo Zagreb
+https://papacito.cfd/m3u/1562637/live.m3u8
+#EXTINF:-1 tvg-id="streamed:hapoel-be-er-sheva-vs-dinamo-zagreb-2594898" tvg-name="Hapoel Be'er Sheva vs Dinamo Zagreb" tvg-logo="https://cdn.highfly.to/posters/hapoel-be-er-sheva-vs-dinamo-zagreb-2594898_UTC.webp?v=e4641ec5" group-title="Football",Hapoel Be'er Sheva vs Dinamo Zagreb
+https://papacito.cfd/m3u/1562850/live.m3u8
+#EXTINF:-1 tvg-id="streamed:hapoel-be-er-sheva-vs-dinamo-zagreb-2594898" tvg-name="Hapoel Be'er Sheva vs Dinamo Zagreb" tvg-logo="https://cdn.highfly.to/posters/hapoel-be-er-sheva-vs-dinamo-zagreb-2594898_UTC.webp?v=e4641ec5" group-title="Football",Hapoel Be'er Sheva vs Dinamo Zagreb
+https://papacito.cfd/m3u/1501729/live.m3u8
+#EXTINF:-1 tvg-id="streamed:hapoel-be-er-sheva-vs-dinamo-zagreb-2594898" tvg-name="Hapoel Be'er Sheva vs Dinamo Zagreb" tvg-logo="https://cdn.highfly.to/posters/hapoel-be-er-sheva-vs-dinamo-zagreb-2594898_UTC.webp?v=e4641ec5" group-title="Football",Hapoel Be'er Sheva vs Dinamo Zagreb
+https://papacito.cfd/m3u/1025275/live.m3u8
+#EXTINF:-1 tvg-id="streamed:anderlecht-vs-lyon-2594892" tvg-name="Anderlecht vs Lyon" tvg-logo="https://cdn.highfly.to/posters/anderlecht-vs-lyon-2594892_UTC.webp?v=a75b376c" group-title="Football",Anderlecht vs Lyon
+https://papacito.cfd/m3u/1562688/live.m3u8
+#EXTINF:-1 tvg-id="streamed:anderlecht-vs-lyon-2594892" tvg-name="Anderlecht vs Lyon" tvg-logo="https://cdn.highfly.to/posters/anderlecht-vs-lyon-2594892_UTC.webp?v=a75b376c" group-title="Football",Anderlecht vs Lyon
+https://papacito.cfd/m3u/1501733/live.m3u8
+#EXTINF:-1 tvg-id="streamed:anderlecht-vs-lyon-2594892" tvg-name="Anderlecht vs Lyon" tvg-logo="https://cdn.highfly.to/posters/anderlecht-vs-lyon-2594892_UTC.webp?v=a75b376c" group-title="Football",Anderlecht vs Lyon
+https://papacito.cfd/m3u/1025277/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ac-milan-vs-benfica-2594868" tvg-name="AC Milan vs Benfica" tvg-logo="https://cdn.highfly.to/posters/ac-milan-vs-benfica-2594868_UTC.webp?v=51e3a872" group-title="Football",AC Milan vs Benfica
+https://papacito.cfd/m3u/588011/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ac-milan-vs-benfica-2594868" tvg-name="AC Milan vs Benfica" tvg-logo="https://cdn.highfly.to/posters/ac-milan-vs-benfica-2594868_UTC.webp?v=51e3a872" group-title="Football",AC Milan vs Benfica
+https://papacito.cfd/m3u/1562622/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ac-milan-vs-benfica-2594868" tvg-name="AC Milan vs Benfica" tvg-logo="https://cdn.highfly.to/posters/ac-milan-vs-benfica-2594868_UTC.webp?v=51e3a872" group-title="Football",AC Milan vs Benfica
+https://papacito.cfd/m3u/1501735/live.m3u8
+#EXTINF:-1 tvg-id="streamed:bayer-leverkusen-vs-celje-2594839" tvg-name="Bayer Leverkusen vs Celje" tvg-logo="https://cdn.highfly.to/posters/bayer-leverkusen-vs-celje-2594839_UTC.webp?v=8a1c7d49" group-title="Football",Bayer Leverkusen vs Celje
+https://papacito.cfd/m3u/1501730/live.m3u8
+#EXTINF:-1 tvg-id="streamed:bayer-leverkusen-vs-celje-2594839" tvg-name="Bayer Leverkusen vs Celje" tvg-logo="https://cdn.highfly.to/posters/bayer-leverkusen-vs-celje-2594839_UTC.webp?v=8a1c7d49" group-title="Football",Bayer Leverkusen vs Celje
+https://papacito.cfd/m3u/1025276/live.m3u8
+#EXTINF:-1 tvg-id="streamed:bayer-leverkusen-vs-celje-2594839" tvg-name="Bayer Leverkusen vs Celje" tvg-logo="https://cdn.highfly.to/posters/bayer-leverkusen-vs-celje-2594839_UTC.webp?v=8a1c7d49" group-title="Football",Bayer Leverkusen vs Celje
+https://papacito.cfd/m3u/1562851/live.m3u8
+#EXTINF:-1 tvg-id="streamed:manchester-united-vs-brighton-and-hove-albion-2594452" tvg-name="Manchester United vs Brighton and Hove Albion" tvg-logo="https://cdn.highfly.to/posters/manchester-united-vs-brighton-and-hove-albion-2594452_UTC.webp?v=ef694b6f" group-title="Football",Manchester United vs Brighton and Hove Albion
+https://papacito.cfd/m3u/1527635/live.m3u8
+#EXTINF:-1 tvg-id="streamed:manchester-united-vs-brighton-and-hove-albion-2594452" tvg-name="Manchester United vs Brighton and Hove Albion" tvg-logo="https://cdn.highfly.to/posters/manchester-united-vs-brighton-and-hove-albion-2594452_UTC.webp?v=ef694b6f" group-title="Football",Manchester United vs Brighton and Hove Albion
+https://papacito.cfd/m3u/162124/live.m3u8
+#EXTINF:-1 tvg-id="streamed:manchester-united-vs-brighton-and-hove-albion-2594452" tvg-name="Manchester United vs Brighton and Hove Albion" tvg-logo="https://cdn.highfly.to/posters/manchester-united-vs-brighton-and-hove-albion-2594452_UTC.webp?v=ef694b6f" group-title="Football",Manchester United vs Brighton and Hove Albion
+https://papacito.cfd/m3u/607460/live.m3u8
+#EXTINF:-1 tvg-id="streamed:manchester-united-vs-brighton-and-hove-albion-2594452" tvg-name="Manchester United vs Brighton and Hove Albion" tvg-logo="https://cdn.highfly.to/posters/manchester-united-vs-brighton-and-hove-albion-2594452_UTC.webp?v=ef694b6f" group-title="Football",Manchester United vs Brighton and Hove Albion
+https://papacito.cfd/m3u/607453/live.m3u8
