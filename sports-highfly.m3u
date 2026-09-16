@@ -1,14 +1,12 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-16T05:28:11.139Z
+# Generated at 2026-09-16T10:09:56.334Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/f1-3949409_UTC.webp?v=3251d8872e9879d4" group-title="Motor Sports",(FHD) : SKY SPORTS F1 ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd-23993" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-espn-hd-23993_UTC.webp?v=ec02edd57b09dc85" group-title="Tennis",US : ESPN
 https://leaf.highfly.dev/m3u/us-espn-hd-23993/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-39903003" tvg-name="(HD) : TENNIS" tvg-logo="https://cdn.highfly.dev/leaf_posters/us-39903003_UTC.webp?v=71d1d569ba7ca1e4" group-title="Tennis",(HD) : TENNIS
 https://leaf.highfly.dev/m3u/us-39903003/live.m3u8
-#EXTINF:-1 tvg-id="leaf:v-39303003" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.dev/leaf_posters/v-39303003_UTC.webp?v=0b74bcb57d80bad5" group-title="Golf",(FHD) : SKY SPORTS GOLF
-https://leaf.highfly.dev/m3u/v-39303003/live.m3u8
 #EXTINF:-1 tvg-id="leaf:uk-330030303" tvg-name="(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ" tvg-logo="https://cdn.highfly.dev/leaf_posters/uk-330030303_UTC.webp?v=6d42a9692219d3bf" group-title="Tennis",(FHD) : SKY SPORTS TENNIS ᴿᴬᵂ
 https://leaf.highfly.dev/m3u/uk-330030303/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-9494949" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-9494949_UTC.webp?v=1539e466dd11bc81" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
@@ -17,27 +15,7 @@ https://leaf.highfly.dev/m3u/now-9494949/live.m3u8
 https://leaf.highfly.dev/m3u/prime-39393939/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-39330030" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-39330030_UTC.webp?v=31d97a38f9212a57" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://leaf.highfly.dev/m3u/now-39330030/live.m3u8
-#EXTINF:-1 tvg-id="leaf:au-fox-sports-501-hd" tvg-name="AU : FOX SPORTS 501 HD" tvg-logo="https://cdn.highfly.dev/leaf_posters/au-fox-sports-501-hd_UTC.webp?v=d42be2ea7e7065ff" group-title="Cricket",AU : FOX SPORTS 501 HD
-https://leaf.highfly.dev/m3u/au-fox-sports-501-hd/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-dana-white-s-contender-series" tvg-name="Dana White's Contender Series" tvg-logo="https://cdn.highfly.dev/posters/ppv-dana-white-s-contender-series_UTC.webp?v=d89fd51f" group-title="Fight",Dana White's Contender Series
-https://leaf.highfly.dev/m3u/1501729/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-dana-white-s-contender-series" tvg-name="Dana White's Contender Series" tvg-logo="https://cdn.highfly.dev/posters/ppv-dana-white-s-contender-series_UTC.webp?v=d89fd51f" group-title="Fight",Dana White's Contender Series
-https://leaf.highfly.dev/m3u/1501727/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-dana-white-s-contender-series" tvg-name="Dana White's Contender Series" tvg-logo="https://cdn.highfly.dev/posters/ppv-dana-white-s-contender-series_UTC.webp?v=d89fd51f" group-title="Fight",Dana White's Contender Series
-https://leaf.highfly.dev/m3u/605787/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-dana-white-s-contender-series" tvg-name="Dana White's Contender Series" tvg-logo="https://cdn.highfly.dev/posters/ppv-dana-white-s-contender-series_UTC.webp?v=d89fd51f" group-title="Fight",Dana White's Contender Series
-https://leaf.highfly.dev/m3u/605889/live.m3u8
-#EXTINF:-1 tvg-id="streamed:dana-whites-contender-series-season-10-week-6-2558803" tvg-name="Dana Whites Contender Series season 10 Week 6" tvg-logo="https://cdn.highfly.dev/posters/dana-whites-contender-series-season-10-week-6-2558803_UTC.webp?v=495ce179" group-title="Fight",Dana Whites Contender Series season 10 Week 6
-https://leaf.highfly.dev/m3u/1855430/live.m3u8
-#EXTINF:-1 tvg-id="streamed:dana-whites-contender-series-season-10-week-6-2558803" tvg-name="Dana Whites Contender Series season 10 Week 6" tvg-logo="https://cdn.highfly.dev/posters/dana-whites-contender-series-season-10-week-6-2558803_UTC.webp?v=495ce179" group-title="Fight",Dana Whites Contender Series season 10 Week 6
-https://leaf.highfly.dev/m3u/1855358/live.m3u8
-#EXTINF:-1 tvg-id="streamed:dana-whites-contender-series-season-10-week-6-2558803" tvg-name="Dana Whites Contender Series season 10 Week 6" tvg-logo="https://cdn.highfly.dev/posters/dana-whites-contender-series-season-10-week-6-2558803_UTC.webp?v=495ce179" group-title="Fight",Dana Whites Contender Series season 10 Week 6
-https://leaf.highfly.dev/m3u/716555/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-angels-vs-seattle-mariners-2557386" tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-angels-vs-seattle-mariners-2557386_UTC.webp?v=9dd986a4" group-title="Baseball",Los Angeles Angels vs Seattle Mariners
-https://leaf.highfly.dev/m3u/1904219/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-angels-vs-seattle-mariners-2557386" tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://cdn.highfly.dev/posters/los-angeles-angels-vs-seattle-mariners-2557386_UTC.webp?v=9dd986a4" group-title="Baseball",Los Angeles Angels vs Seattle Mariners
-https://leaf.highfly.dev/m3u/1904207/live.m3u8
-#EXTINF:-1 tvg-id="streamed:arizona-diamondbacks-vs-miami-marlins-2557387" tvg-name="Arizona Diamondbacks vs Miami Marlins" tvg-logo="https://cdn.highfly.dev/posters/arizona-diamondbacks-vs-miami-marlins-2557387_UTC.webp?v=ab8ba166" group-title="Baseball",Arizona Diamondbacks vs Miami Marlins
-https://leaf.highfly.dev/m3u/1904209/live.m3u8
-#EXTINF:-1 tvg-id="streamed:arizona-diamondbacks-vs-miami-marlins-2557387" tvg-name="Arizona Diamondbacks vs Miami Marlins" tvg-logo="https://cdn.highfly.dev/posters/arizona-diamondbacks-vs-miami-marlins-2557387_UTC.webp?v=ab8ba166" group-title="Baseball",Arizona Diamondbacks vs Miami Marlins
-https://leaf.highfly.dev/m3u/1904195/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-sky-sports-golf" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.dev/leaf_posters/now-sky-sports-golf_UTC.webp?v=563837cb402c5d51" group-title="Golf",(FHD) : SKY SPORTS GOLF
+https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8
+#EXTINF:-1 tvg-id="leaf:4k-sky-sports-f1" tvg-name="4K : SKY SPORTS F1" tvg-logo="https://cdn.highfly.dev/leaf_posters/4k-sky-sports-f1_UTC.webp?v=52523f68be113bb4" group-title="Motor Sports",4K : SKY SPORTS F1
+https://leaf.highfly.dev/m3u/4k-sky-sports-f1/live.m3u8
