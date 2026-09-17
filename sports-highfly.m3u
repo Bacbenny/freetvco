@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-17T13:40:19.660Z
+# Generated at 2026-09-17T17:51:19.212Z
 #EXTINF:-1 tvg-id="leaf:now-4994949494" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-4994949494_UTC.webp?v=6791484fdf0eb969" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-4994949494/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-4994949494" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-4994949494_UTC.webp?v=6791484fdf0eb969" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
@@ -31,3 +31,39 @@ https://papacito.cfd/m3u/us-espn-hd-23993/live.m3u8
 https://papacito.cfd/m3u/no-389339393/live.m3u8
 #EXTINF:-1 tvg-id="leaf:no-389339393" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/no-389339393_UTC.webp?v=bafdd65d30edb468" group-title="Golf",(FHD) : SKY SPORTS GOLF
 https://papacito.cfd/m3u/now-49404040404/live.m3u8
+#EXTINF:-1 tvg-id="leaf:us-willow-cricket" tvg-name="Afghanistan 🇦🇫 vs India 🇮🇳" tvg-logo="https://cdn.highfly.to/leaf_posters/us-willow-cricket_UTC.webp?v=ccc3641efd7fdfd8" group-title="Cricket",Afghanistan 🇦🇫 vs India 🇮🇳
+https://papacito.cfd/m3u/us-willow-cricket/live.m3u8
+#EXTINF:-1 tvg-id="streamed:pittsburgh-pirates-vs-milwaukee-brewers-2581854" tvg-name="Pittsburgh Pirates vs Milwaukee Brewers" tvg-logo="https://cdn.highfly.to/posters/pittsburgh-pirates-vs-milwaukee-brewers-2581854_UTC.webp?v=d576eab8" group-title="Baseball",Pittsburgh Pirates vs Milwaukee Brewers
+https://papacito.cfd/m3u/1904216/live.m3u8
+#EXTINF:-1 tvg-id="streamed:pittsburgh-pirates-vs-milwaukee-brewers-2581854" tvg-name="Pittsburgh Pirates vs Milwaukee Brewers" tvg-logo="https://cdn.highfly.to/posters/pittsburgh-pirates-vs-milwaukee-brewers-2581854_UTC.webp?v=d576eab8" group-title="Baseball",Pittsburgh Pirates vs Milwaukee Brewers
+https://papacito.cfd/m3u/1904210/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cincinnati-reds-vs-los-angeles-dodgers-2581855" tvg-name="Cincinnati Reds vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/cincinnati-reds-vs-los-angeles-dodgers-2581855_UTC.webp?v=ca2d27d4" group-title="Baseball",Cincinnati Reds vs Los Angeles Dodgers
+https://papacito.cfd/m3u/1904208/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cincinnati-reds-vs-los-angeles-dodgers-2581855" tvg-name="Cincinnati Reds vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/cincinnati-reds-vs-los-angeles-dodgers-2581855_UTC.webp?v=ca2d27d4" group-title="Baseball",Cincinnati Reds vs Los Angeles Dodgers
+https://papacito.cfd/m3u/1904201/live.m3u8
+#EXTINF:-1 tvg-id="streamed:levski-sofia-vs-red-bull-salzburg-2594923" tvg-name="Levski Sofia vs Red Bull Salzburg" tvg-logo="https://cdn.highfly.to/posters/levski-sofia-vs-red-bull-salzburg-2594923_UTC.webp?v=1fe44736" group-title="Football",Levski Sofia vs Red Bull Salzburg
+https://papacito.cfd/m3u/429938/live.m3u8
+#EXTINF:-1 tvg-id="streamed:levski-sofia-vs-red-bull-salzburg-2594923" tvg-name="Levski Sofia vs Red Bull Salzburg" tvg-logo="https://cdn.highfly.to/posters/levski-sofia-vs-red-bull-salzburg-2594923_UTC.webp?v=1fe44736" group-title="Football",Levski Sofia vs Red Bull Salzburg
+https://papacito.cfd/m3u/1290344/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ofi-vs-hoffenheim-2594932" tvg-name="OFI vs Hoffenheim" tvg-logo="https://cdn.highfly.to/posters/ofi-vs-hoffenheim-2594932_UTC.webp?v=49bb175c" group-title="Football",OFI vs Hoffenheim
+https://papacito.cfd/m3u/1527611/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ofi-vs-hoffenheim-2594932" tvg-name="OFI vs Hoffenheim" tvg-logo="https://cdn.highfly.to/posters/ofi-vs-hoffenheim-2594932_UTC.webp?v=49bb175c" group-title="Football",OFI vs Hoffenheim
+https://papacito.cfd/m3u/1324775/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ofi-vs-hoffenheim-2594932" tvg-name="OFI vs Hoffenheim" tvg-logo="https://cdn.highfly.to/posters/ofi-vs-hoffenheim-2594932_UTC.webp?v=49bb175c" group-title="Football",OFI vs Hoffenheim
+https://papacito.cfd/m3u/1501737/live.m3u8
+#EXTINF:-1 tvg-id="streamed:real-betis-vs-getafe-2506224" tvg-name="Real Betis vs Getafe" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-getafe-2506224_UTC.webp?v=a2055271" group-title="Football",Real Betis vs Getafe
+https://papacito.cfd/m3u/587990/live.m3u8
+#EXTINF:-1 tvg-id="streamed:real-betis-vs-getafe-2506224" tvg-name="Real Betis vs Getafe" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-getafe-2506224_UTC.webp?v=a2055271" group-title="Football",Real Betis vs Getafe
+https://papacito.cfd/m3u/1562520/live.m3u8
+#EXTINF:-1 tvg-id="streamed:real-betis-vs-getafe-2506224" tvg-name="Real Betis vs Getafe" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-getafe-2506224_UTC.webp?v=a2055271" group-title="Football",Real Betis vs Getafe
+https://papacito.cfd/m3u/2133295/live.m3u8
+#EXTINF:-1 tvg-id="streamed:real-betis-vs-getafe-2506224" tvg-name="Real Betis vs Getafe" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-getafe-2506224_UTC.webp?v=a2055271" group-title="Football",Real Betis vs Getafe
+https://papacito.cfd/m3u/1924723/live.m3u8
+#EXTINF:-1 tvg-id="streamed:real-betis-vs-getafe-2506224" tvg-name="Real Betis vs Getafe" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-getafe-2506224_UTC.webp?v=a2055271" group-title="Football",Real Betis vs Getafe
+https://papacito.cfd/m3u/1924722/live.m3u8
+#EXTINF:-1 tvg-id="streamed:tampa-bay-rays-vs-athletics-2581856" tvg-name="Tampa Bay Rays vs Athletics" tvg-logo="https://cdn.highfly.to/posters/tampa-bay-rays-vs-athletics-2581856_UTC.webp?v=b5f8d24f" group-title="Baseball",Tampa Bay Rays vs Athletics
+https://papacito.cfd/m3u/1904214/live.m3u8
+#EXTINF:-1 tvg-id="streamed:tampa-bay-rays-vs-athletics-2581856" tvg-name="Tampa Bay Rays vs Athletics" tvg-logo="https://cdn.highfly.to/posters/tampa-bay-rays-vs-athletics-2581856_UTC.webp?v=b5f8d24f" group-title="Baseball",Tampa Bay Rays vs Athletics
+https://papacito.cfd/m3u/1904221/live.m3u8
+#EXTINF:-1 tvg-id="streamed:england-cricket-vs-sri-lanka-cricket-2524747" tvg-name="England Cricket vs Sri Lanka Cricket" tvg-logo="https://cdn.highfly.to/posters/england-cricket-vs-sri-lanka-cricket-2524747_UTC.webp?v=99f56c8d" group-title="Cricket",England Cricket vs Sri Lanka Cricket
+https://papacito.cfd/m3u/1290236/live.m3u8
