@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-18T18:37:20.155Z
+# Generated at 2026-09-18T21:23:21.607Z
 #EXTINF:-1 tvg-id="leaf:now-4994949494" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-4994949494_UTC.webp?v=6791484fdf0eb969" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-4994949494/live.m3u8
 #EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-sky-sport-1_UTC.webp?v=6bc86146864cba4e" group-title="Rugby",NZ : SKY SPORT 1
@@ -35,17 +35,3 @@ https://papacito.cfd/m3u/us-334443/live.m3u8
 https://papacito.cfd/m3u/1968679/live.m3u8
 #EXTINF:-1 tvg-id="streamed:world-series-of-darts-finals-day-3-2600517" tvg-name="World Series of Darts Finals Day 3" tvg-logo="https://cdn.highfly.to/posters/world-series-of-darts-finals-day-3-2600517_UTC.webp?v=8c1b2691" group-title="Darts",World Series of Darts Finals Day 3
 https://papacito.cfd/m3u/162110/live.m3u8
-#EXTINF:-1 tvg-id="streamed:basketball-crvena-zvezda-vs-aris-2026-09-18" tvg-name="Crvena zvezda vs Aris" tvg-logo="https://cdn.highfly.to/posters/basketball-crvena-zvezda-vs-aris-2026-09-18_UTC.webp?v=6d219e72" group-title="Basketball",Crvena zvezda vs Aris
-https://papacito.cfd/m3u/1562988/live.m3u8
-#EXTINF:-1 tvg-id="streamed:groningen-vs-pec-zwolle-2489122" tvg-name="Groningen vs PEC Zwolle" tvg-logo="https://cdn.highfly.to/posters/groningen-vs-pec-zwolle-2489122_UTC.webp?v=8d9a758d" group-title="Football",Groningen vs PEC Zwolle
-https://papacito.cfd/m3u/1528/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bayern-munich-vs-union-berlin-2508360" tvg-name="Bayern Munich vs Union Berlin" tvg-logo="https://cdn.highfly.to/posters/bayern-munich-vs-union-berlin-2508360_UTC.webp?v=9ca5a1a6" group-title="Football",Bayern Munich vs Union Berlin
-https://papacito.cfd/m3u/1991991/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bayern-munich-vs-union-berlin-2508360" tvg-name="Bayern Munich vs Union Berlin" tvg-logo="https://cdn.highfly.to/posters/bayern-munich-vs-union-berlin-2508360_UTC.webp?v=9ca5a1a6" group-title="Football",Bayern Munich vs Union Berlin
-https://papacito.cfd/m3u/1562691/live.m3u8
-#EXTINF:-1 tvg-id="streamed:brentford-vs-chelsea-2494047" tvg-name="Brentford vs Chelsea" tvg-logo="https://cdn.highfly.to/posters/brentford-vs-chelsea-2494047_UTC.webp?v=d051e370" group-title="Football",Brentford vs Chelsea
-https://papacito.cfd/m3u/325796/live.m3u8
-#EXTINF:-1 tvg-id="streamed:brentford-vs-chelsea-2494047" tvg-name="Brentford vs Chelsea" tvg-logo="https://cdn.highfly.to/posters/brentford-vs-chelsea-2494047_UTC.webp?v=d051e370" group-title="Football",Brentford vs Chelsea
-https://papacito.cfd/m3u/2006126/live.m3u8
-#EXTINF:-1 tvg-id="streamed:brentford-vs-chelsea-2494047" tvg-name="Brentford vs Chelsea" tvg-logo="https://cdn.highfly.to/posters/brentford-vs-chelsea-2494047_UTC.webp?v=d051e370" group-title="Football",Brentford vs Chelsea
-https://papacito.cfd/m3u/1527639/live.m3u8
