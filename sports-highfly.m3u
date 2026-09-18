@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-18T11:34:06.216Z
+# Generated at 2026-09-18T15:23:43.547Z
 #EXTINF:-1 tvg-id="leaf:now-4994949494" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-4994949494_UTC.webp?v=6791484fdf0eb969" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-4994949494/live.m3u8
 #EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-sky-sport-1_UTC.webp?v=6bc86146864cba4e" group-title="Rugby",NZ : SKY SPORT 1
@@ -31,9 +31,3 @@ https://papacito.cfd/m3u/au-4343434/live.m3u8
 https://papacito.cfd/m3u/au-fox-sports-501-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-334443" tvg-name="US : FOX DEPORTES" tvg-logo="https://cdn.highfly.to/leaf_posters/us-334443_UTC.webp?v=2545926041cc6092" group-title="Sports",US : FOX DEPORTES
 https://papacito.cfd/m3u/us-334443/live.m3u8
-#EXTINF:-1 tvg-id="streamed:sydney-swans-vs-fremantle-football-club-2604999" tvg-name="Sydney Swans vs Fremantle Football Club" tvg-logo="https://cdn.highfly.to/posters/sydney-swans-vs-fremantle-football-club-2604999_UTC.webp?v=540d79ce" group-title="Afl",Sydney Swans vs Fremantle Football Club
-https://papacito.cfd/m3u/429585/live.m3u8
-#EXTINF:-1 tvg-id="streamed:sydney-swans-vs-fremantle-football-club-2604999" tvg-name="Sydney Swans vs Fremantle Football Club" tvg-logo="https://cdn.highfly.to/posters/sydney-swans-vs-fremantle-football-club-2604999_UTC.webp?v=540d79ce" group-title="Afl",Sydney Swans vs Fremantle Football Club
-https://papacito.cfd/m3u/1968679/live.m3u8
-#EXTINF:-1 tvg-id="streamed:sydney-swans-vs-fremantle-football-club-2604999" tvg-name="Sydney Swans vs Fremantle Football Club" tvg-logo="https://cdn.highfly.to/posters/sydney-swans-vs-fremantle-football-club-2604999_UTC.webp?v=540d79ce" group-title="Afl",Sydney Swans vs Fremantle Football Club
-https://papacito.cfd/m3u/1239040/live.m3u8
