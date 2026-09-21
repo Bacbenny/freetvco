@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-21T20:04:23.421Z
+# Generated at 2026-09-21T23:26:30.608Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/f1-3949409_UTC.webp?v=72be9f30a9de692c" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now49499404" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.to/leaf_posters/now49499404_UTC.webp?v=a31213249d44c0af" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
@@ -17,3 +17,25 @@ https://papacito.cfd/m3u/no-389339393/live.m3u8
 https://papacito.cfd/m3u/nz-sky-sport-2/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au_UTC.webp?v=7186e72d9336e9e1" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/au/live.m3u8
+#EXTINF:-1 tvg-id="streamed:baltimore-orioles-vs-toronto-blue-jays-2605683" tvg-name="Baltimore Orioles vs Toronto Blue Jays" tvg-logo="https://cdn.highfly.to/posters/baltimore-orioles-vs-toronto-blue-jays-2605683_UTC.webp?v=e5f71781" group-title="Baseball",Baltimore Orioles vs Toronto Blue Jays
+https://papacito.cfd/m3u/1904223/live.m3u8
+#EXTINF:-1 tvg-id="streamed:baltimore-orioles-vs-toronto-blue-jays-2605683" tvg-name="Baltimore Orioles vs Toronto Blue Jays" tvg-logo="https://cdn.highfly.to/posters/baltimore-orioles-vs-toronto-blue-jays-2605683_UTC.webp?v=e5f71781" group-title="Baseball",Baltimore Orioles vs Toronto Blue Jays
+https://papacito.cfd/m3u/1904197/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-washington-nationals-2605684" tvg-name="Detroit Tigers vs Washington Nationals" tvg-logo="https://cdn.highfly.to/posters/detroit-tigers-vs-washington-nationals-2605684_UTC.webp?v=4e822e6c" group-title="Baseball",Detroit Tigers vs Washington Nationals
+https://papacito.cfd/m3u/1904224/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-washington-nationals-2605684" tvg-name="Detroit Tigers vs Washington Nationals" tvg-logo="https://cdn.highfly.to/posters/detroit-tigers-vs-washington-nationals-2605684_UTC.webp?v=4e822e6c" group-title="Baseball",Detroit Tigers vs Washington Nationals
+https://papacito.cfd/m3u/1904204/live.m3u8
+#EXTINF:-1 tvg-id="streamed:washington-capitals-vs-philadelphia-flyers-2498523" tvg-name="Washington Capitals vs Philadelphia Flyers" tvg-logo="https://cdn.highfly.to/posters/washington-capitals-vs-philadelphia-flyers-2498523_UTC.webp?v=367d07ba" group-title="Hockey",Washington Capitals vs Philadelphia Flyers
+https://papacito.cfd/m3u/325061/live.m3u8
+#EXTINF:-1 tvg-id="streamed:washington-capitals-vs-philadelphia-flyers-2498523" tvg-name="Washington Capitals vs Philadelphia Flyers" tvg-logo="https://cdn.highfly.to/posters/washington-capitals-vs-philadelphia-flyers-2498523_UTC.webp?v=367d07ba" group-title="Hockey",Washington Capitals vs Philadelphia Flyers
+https://papacito.cfd/m3u/324969/live.m3u8
+#EXTINF:-1 tvg-id="streamed:pittsburgh-penguins-vs-buffalo-sabres-2591455" tvg-name="Pittsburgh Penguins vs Buffalo Sabres" tvg-logo="https://cdn.highfly.to/posters/pittsburgh-penguins-vs-buffalo-sabres-2591455_UTC.webp?v=10e5ea8c" group-title="Hockey",Pittsburgh Penguins vs Buffalo Sabres
+https://papacito.cfd/m3u/1562899/live.m3u8
+#EXTINF:-1 tvg-id="streamed:pittsburgh-penguins-vs-buffalo-sabres-2591455" tvg-name="Pittsburgh Penguins vs Buffalo Sabres" tvg-logo="https://cdn.highfly.to/posters/pittsburgh-penguins-vs-buffalo-sabres-2591455_UTC.webp?v=10e5ea8c" group-title="Hockey",Pittsburgh Penguins vs Buffalo Sabres
+https://papacito.cfd/m3u/325068/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-jersey-devils-vs-new-york-rangers-2591457" tvg-name="New Jersey Devils vs New York Rangers" tvg-logo="https://cdn.highfly.to/posters/new-jersey-devils-vs-new-york-rangers-2591457_UTC.webp?v=ba891053" group-title="Hockey",New Jersey Devils vs New York Rangers
+https://papacito.cfd/m3u/325888/live.m3u8
+#EXTINF:-1 tvg-id="streamed:montreal-canadiens-vs-ottawa-senators-2591458" tvg-name="Montreal Canadiens vs Ottawa Senators" tvg-logo="https://cdn.highfly.to/posters/montreal-canadiens-vs-ottawa-senators-2591458_UTC.webp?v=6b89f72e" group-title="Hockey",Montreal Canadiens vs Ottawa Senators
+https://papacito.cfd/m3u/498806/live.m3u8
+#EXTINF:-1 tvg-id="streamed:montreal-canadiens-vs-ottawa-senators-2591458" tvg-name="Montreal Canadiens vs Ottawa Senators" tvg-logo="https://cdn.highfly.to/posters/montreal-canadiens-vs-ottawa-senators-2591458_UTC.webp?v=6b89f72e" group-title="Hockey",Montreal Canadiens vs Ottawa Senators
+https://papacito.cfd/m3u/1044084/live.m3u8
