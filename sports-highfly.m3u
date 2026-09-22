@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-22T20:19:24.102Z
+# Generated at 2026-09-22T23:05:46.959Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/f1-3949409_UTC.webp?v=72be9f30a9de692c" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now49499404" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.to/leaf_posters/now49499404_UTC.webp?v=a31213249d44c0af" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
@@ -21,21 +21,31 @@ https://papacito.cfd/m3u/no-389339393/live.m3u8
 https://papacito.cfd/m3u/au/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-3434434" tvg-name="(4K) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-3434434_UTC.webp?v=6e4049a0cfacdc3d" group-title="Football",(4K) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-3434434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-tampa-bay-rays-2387647" tvg-name="New York Yankees vs Tampa Bay Rays" tvg-logo="https://cdn.highfly.to/posters/new-york-yankees-vs-tampa-bay-rays-2387647_UTC.webp?v=e2337e2f" group-title="Baseball",New York Yankees vs Tampa Bay Rays
-https://papacito.cfd/m3u/1904213/live.m3u8
-#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-tampa-bay-rays-2387647" tvg-name="New York Yankees vs Tampa Bay Rays" tvg-logo="https://cdn.highfly.to/posters/new-york-yankees-vs-tampa-bay-rays-2387647_UTC.webp?v=e2337e2f" group-title="Baseball",New York Yankees vs Tampa Bay Rays
-https://papacito.cfd/m3u/1904221/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-realmadrid-psg-220926" tvg-name="Real Madrid W vs PSG W" tvg-logo="https://cdn.highfly.to/posters/uwcl-realmadrid-psg-220926_UTC.webp?v=1af6ff63" group-title="Football",Real Madrid W vs PSG W
-https://papacito.cfd/m3u/1562785/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-realmadrid-psg-220926" tvg-name="Real Madrid W vs PSG W" tvg-logo="https://cdn.highfly.to/posters/uwcl-realmadrid-psg-220926_UTC.webp?v=1af6ff63" group-title="Football",Real Madrid W vs PSG W
-https://papacito.cfd/m3u/1501735/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-arsenal-koge-220926" tvg-name="Arsenal W vs Køge" tvg-logo="https://cdn.highfly.to/posters/uwcl-arsenal-koge-220926_UTC.webp?v=417909b9" group-title="Football",Arsenal W vs Køge
-https://papacito.cfd/m3u/429938/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-arsenal-koge-220926" tvg-name="Arsenal W vs Køge" tvg-logo="https://cdn.highfly.to/posters/uwcl-arsenal-koge-220926_UTC.webp?v=417909b9" group-title="Football",Arsenal W vs Køge
-https://papacito.cfd/m3u/2162087/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-arsenal-koge-220926" tvg-name="Arsenal W vs Køge" tvg-logo="https://cdn.highfly.to/posters/uwcl-arsenal-koge-220926_UTC.webp?v=417909b9" group-title="Football",Arsenal W vs Køge
-https://papacito.cfd/m3u/1501733/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-juventus-benfica-220926" tvg-name="Juventus W vs SL Benfica W" tvg-logo="https://cdn.highfly.to/posters/uwcl-juventus-benfica-220926_UTC.webp?v=0c86d586" group-title="Football",Juventus W vs SL Benfica W
-https://papacito.cfd/m3u/1501734/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-juventus-benfica-220926" tvg-name="Juventus W vs SL Benfica W" tvg-logo="https://cdn.highfly.to/posters/uwcl-juventus-benfica-220926_UTC.webp?v=0c86d586" group-title="Football",Juventus W vs SL Benfica W
-https://papacito.cfd/m3u/1688894/live.m3u8
+#EXTINF:-1 tvg-id="streamed:baltimore-orioles-vs-toronto-blue-jays-2606507" tvg-name="Baltimore Orioles vs Toronto Blue Jays" tvg-logo="https://cdn.highfly.to/posters/baltimore-orioles-vs-toronto-blue-jays-2606507_UTC.webp?v=41451466" group-title="Baseball",Baltimore Orioles vs Toronto Blue Jays
+https://papacito.cfd/m3u/1904223/live.m3u8
+#EXTINF:-1 tvg-id="streamed:baltimore-orioles-vs-toronto-blue-jays-2606507" tvg-name="Baltimore Orioles vs Toronto Blue Jays" tvg-logo="https://cdn.highfly.to/posters/baltimore-orioles-vs-toronto-blue-jays-2606507_UTC.webp?v=41451466" group-title="Baseball",Baltimore Orioles vs Toronto Blue Jays
+https://papacito.cfd/m3u/1904197/live.m3u8
+#EXTINF:-1 tvg-id="streamed:pittsburgh-pirates-vs-st--louis-cardinals-2606508" tvg-name="Pittsburgh Pirates vs St. Louis Cardinals" tvg-logo="https://cdn.highfly.to/posters/pittsburgh-pirates-vs-st--louis-cardinals-2606508_UTC.webp?v=df1f9056" group-title="Baseball",Pittsburgh Pirates vs St. Louis Cardinals
+https://papacito.cfd/m3u/1904220/live.m3u8
+#EXTINF:-1 tvg-id="streamed:pittsburgh-pirates-vs-st--louis-cardinals-2606508" tvg-name="Pittsburgh Pirates vs St. Louis Cardinals" tvg-logo="https://cdn.highfly.to/posters/pittsburgh-pirates-vs-st--louis-cardinals-2606508_UTC.webp?v=df1f9056" group-title="Baseball",Pittsburgh Pirates vs St. Louis Cardinals
+https://papacito.cfd/m3u/1904216/live.m3u8
+#EXTINF:-1 tvg-id="streamed:philadelphia-phillies-vs-milwaukee-brewers-2606509" tvg-name="Philadelphia Phillies vs Milwaukee Brewers" tvg-logo="https://cdn.highfly.to/posters/philadelphia-phillies-vs-milwaukee-brewers-2606509_UTC.webp?v=89213c05" group-title="Baseball",Philadelphia Phillies vs Milwaukee Brewers
+https://papacito.cfd/m3u/1904215/live.m3u8
+#EXTINF:-1 tvg-id="streamed:philadelphia-phillies-vs-milwaukee-brewers-2606509" tvg-name="Philadelphia Phillies vs Milwaukee Brewers" tvg-logo="https://cdn.highfly.to/posters/philadelphia-phillies-vs-milwaukee-brewers-2606509_UTC.webp?v=89213c05" group-title="Baseball",Philadelphia Phillies vs Milwaukee Brewers
+https://papacito.cfd/m3u/1904210/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-washington-nationals-2606510" tvg-name="Detroit Tigers vs Washington Nationals" tvg-logo="https://cdn.highfly.to/posters/detroit-tigers-vs-washington-nationals-2606510_UTC.webp?v=5f926685" group-title="Baseball",Detroit Tigers vs Washington Nationals
+https://papacito.cfd/m3u/1904224/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-washington-nationals-2606510" tvg-name="Detroit Tigers vs Washington Nationals" tvg-logo="https://cdn.highfly.to/posters/detroit-tigers-vs-washington-nationals-2606510_UTC.webp?v=5f926685" group-title="Baseball",Detroit Tigers vs Washington Nationals
+https://papacito.cfd/m3u/1904204/live.m3u8
+#EXTINF:-1 tvg-id="streamed:boston-red-sox-vs-cleveland-guardians-2606511" tvg-name="Boston Red Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/boston-red-sox-vs-cleveland-guardians-2606511_UTC.webp?v=36c97186" group-title="Baseball",Boston Red Sox vs Cleveland Guardians
+https://papacito.cfd/m3u/1904198/live.m3u8
+#EXTINF:-1 tvg-id="streamed:boston-red-sox-vs-cleveland-guardians-2606511" tvg-name="Boston Red Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/boston-red-sox-vs-cleveland-guardians-2606511_UTC.webp?v=36c97186" group-title="Baseball",Boston Red Sox vs Cleveland Guardians
+https://papacito.cfd/m3u/1904202/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-dana-white-s-contender-series" tvg-name="Dana White's Contender Series" tvg-logo="https://cdn.highfly.to/posters/ppv-dana-white-s-contender-series_UTC.webp?v=344b03f4" group-title="Fight",Dana White's Contender Series
+https://papacito.cfd/m3u/1501732/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-dana-white-s-contender-series" tvg-name="Dana White's Contender Series" tvg-logo="https://cdn.highfly.to/posters/ppv-dana-white-s-contender-series_UTC.webp?v=344b03f4" group-title="Fight",Dana White's Contender Series
+https://papacito.cfd/m3u/1501730/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-cincinnati-reds-2606513" tvg-name="Atlanta Braves vs Cincinnati Reds" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-cincinnati-reds-2606513_UTC.webp?v=bc80126c" group-title="Baseball",Atlanta Braves vs Cincinnati Reds
+https://papacito.cfd/m3u/1904196/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-cincinnati-reds-2606513" tvg-name="Atlanta Braves vs Cincinnati Reds" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-cincinnati-reds-2606513_UTC.webp?v=bc80126c" group-title="Baseball",Atlanta Braves vs Cincinnati Reds
+https://papacito.cfd/m3u/1904201/live.m3u8
