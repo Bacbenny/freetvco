@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-22T17:08:24.955Z
+# Generated at 2026-09-22T20:19:24.102Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/f1-3949409_UTC.webp?v=72be9f30a9de692c" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now49499404" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.to/leaf_posters/now49499404_UTC.webp?v=a31213249d44c0af" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
@@ -21,15 +21,21 @@ https://papacito.cfd/m3u/no-389339393/live.m3u8
 https://papacito.cfd/m3u/au/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-3434434" tvg-name="(4K) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-3434434_UTC.webp?v=6e4049a0cfacdc3d" group-title="Football",(4K) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-3434434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-bayern-mancity-220926" tvg-name="Bayern vs Manchester City" tvg-logo="https://cdn.highfly.to/posters/uwcl-bayern-mancity-220926_UTC.webp?v=458f2339" group-title="Football",Bayern vs Manchester City
-https://papacito.cfd/m3u/429938/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-bayern-mancity-220926" tvg-name="Bayern vs Manchester City" tvg-logo="https://cdn.highfly.to/posters/uwcl-bayern-mancity-220926_UTC.webp?v=458f2339" group-title="Football",Bayern vs Manchester City
-https://papacito.cfd/m3u/2162087/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-bayern-mancity-220926" tvg-name="Bayern vs Manchester City" tvg-logo="https://cdn.highfly.to/posters/uwcl-bayern-mancity-220926_UTC.webp?v=458f2339" group-title="Football",Bayern vs Manchester City
-https://papacito.cfd/m3u/1501737/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-inter-hacken-220926" tvg-name="Inter Milan W vs Häcken" tvg-logo="https://cdn.highfly.to/posters/uwcl-inter-hacken-220926_UTC.webp?v=a67135a3" group-title="Football",Inter Milan W vs Häcken
-https://papacito.cfd/m3u/1501736/live.m3u8
 #EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-tampa-bay-rays-2387647" tvg-name="New York Yankees vs Tampa Bay Rays" tvg-logo="https://cdn.highfly.to/posters/new-york-yankees-vs-tampa-bay-rays-2387647_UTC.webp?v=e2337e2f" group-title="Baseball",New York Yankees vs Tampa Bay Rays
 https://papacito.cfd/m3u/1904213/live.m3u8
 #EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-tampa-bay-rays-2387647" tvg-name="New York Yankees vs Tampa Bay Rays" tvg-logo="https://cdn.highfly.to/posters/new-york-yankees-vs-tampa-bay-rays-2387647_UTC.webp?v=e2337e2f" group-title="Baseball",New York Yankees vs Tampa Bay Rays
 https://papacito.cfd/m3u/1904221/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-realmadrid-psg-220926" tvg-name="Real Madrid W vs PSG W" tvg-logo="https://cdn.highfly.to/posters/uwcl-realmadrid-psg-220926_UTC.webp?v=1af6ff63" group-title="Football",Real Madrid W vs PSG W
+https://papacito.cfd/m3u/1562785/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-realmadrid-psg-220926" tvg-name="Real Madrid W vs PSG W" tvg-logo="https://cdn.highfly.to/posters/uwcl-realmadrid-psg-220926_UTC.webp?v=1af6ff63" group-title="Football",Real Madrid W vs PSG W
+https://papacito.cfd/m3u/1501735/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-arsenal-koge-220926" tvg-name="Arsenal W vs Køge" tvg-logo="https://cdn.highfly.to/posters/uwcl-arsenal-koge-220926_UTC.webp?v=417909b9" group-title="Football",Arsenal W vs Køge
+https://papacito.cfd/m3u/429938/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-arsenal-koge-220926" tvg-name="Arsenal W vs Køge" tvg-logo="https://cdn.highfly.to/posters/uwcl-arsenal-koge-220926_UTC.webp?v=417909b9" group-title="Football",Arsenal W vs Køge
+https://papacito.cfd/m3u/2162087/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-arsenal-koge-220926" tvg-name="Arsenal W vs Køge" tvg-logo="https://cdn.highfly.to/posters/uwcl-arsenal-koge-220926_UTC.webp?v=417909b9" group-title="Football",Arsenal W vs Køge
+https://papacito.cfd/m3u/1501733/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-juventus-benfica-220926" tvg-name="Juventus W vs SL Benfica W" tvg-logo="https://cdn.highfly.to/posters/uwcl-juventus-benfica-220926_UTC.webp?v=0c86d586" group-title="Football",Juventus W vs SL Benfica W
+https://papacito.cfd/m3u/1501734/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-juventus-benfica-220926" tvg-name="Juventus W vs SL Benfica W" tvg-logo="https://cdn.highfly.to/posters/uwcl-juventus-benfica-220926_UTC.webp?v=0c86d586" group-title="Football",Juventus W vs SL Benfica W
+https://papacito.cfd/m3u/1688894/live.m3u8
