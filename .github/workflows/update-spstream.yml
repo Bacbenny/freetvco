@@ -1,0 +1,39 @@
+name: Update spstream IPTV playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-spstream:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate spstream.m3u
+        run: node scripts/generate-spstream.mjs
+
+      - name: Commit changed playlist
+        run: |
+          if git diff --quiet -- spstream.m3u; then
+            echo "spstream.m3u is unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add spstream.m3u
+          git commit -m "chore: update spstream IPTV playlist"
+          git push
