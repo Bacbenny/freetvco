@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-23T17:20:33.290Z
+# Generated at 2026-09-23T20:34:56.104Z
 #EXTINF:-1 tvg-id="leaf:f1-3949409" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/f1-3949409_UTC.webp?v=72be9f30a9de692c" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/f1-3949409/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now49499404" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.to/leaf_posters/now49499404_UTC.webp?v=a31213249d44c0af" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
@@ -17,17 +17,21 @@ https://papacito.cfd/m3u/no-389339393/live.m3u8
 https://papacito.cfd/m3u/now-3434434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-33434" tvg-name="(FHD) : SKY SPORTS FOOTBALL" tvg-logo="https://cdn.highfly.to/leaf_posters/now-33434_UTC.webp?v=2f6a7e598f85a46b" group-title="Football",(FHD) : SKY SPORTS FOOTBALL
 https://papacito.cfd/m3u/now-33434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-servette-ollyon-20260923" tvg-name="Servette vs OL Lyonnes" tvg-logo="https://cdn.highfly.to/posters/uwcl-servette-ollyon-20260923_UTC.webp?v=53f2ee85" group-title="Football",Servette vs OL Lyonnes
-https://papacito.cfd/m3u/429938/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-servette-ollyon-20260923" tvg-name="Servette vs OL Lyonnes" tvg-logo="https://cdn.highfly.to/posters/uwcl-servette-ollyon-20260923_UTC.webp?v=53f2ee85" group-title="Football",Servette vs OL Lyonnes
-https://papacito.cfd/m3u/2162087/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-servette-ollyon-20260923" tvg-name="Servette vs OL Lyonnes" tvg-logo="https://cdn.highfly.to/posters/uwcl-servette-ollyon-20260923_UTC.webp?v=53f2ee85" group-title="Football",Servette vs OL Lyonnes
-https://papacito.cfd/m3u/1924722/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-servette-ollyon-20260923" tvg-name="Servette vs OL Lyonnes" tvg-logo="https://cdn.highfly.to/posters/uwcl-servette-ollyon-20260923_UTC.webp?v=53f2ee85" group-title="Football",Servette vs OL Lyonnes
-https://papacito.cfd/m3u/1501737/live.m3u8
-#EXTINF:-1 tvg-id="streamed:uwcl-ohleuven-roma-20260923" tvg-name="OH Leuven vs Roma" tvg-logo="https://cdn.highfly.to/posters/uwcl-ohleuven-roma-20260923_UTC.webp?v=07c38894" group-title="Football",OH Leuven vs Roma
-https://papacito.cfd/m3u/1501736/live.m3u8
 #EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-washington-nationals-2606522" tvg-name="Detroit Tigers vs Washington Nationals" tvg-logo="https://cdn.highfly.to/posters/detroit-tigers-vs-washington-nationals-2606522_UTC.webp?v=76dc227d" group-title="Baseball",Detroit Tigers vs Washington Nationals
 https://papacito.cfd/m3u/1904224/live.m3u8
 #EXTINF:-1 tvg-id="streamed:detroit-tigers-vs-washington-nationals-2606522" tvg-name="Detroit Tigers vs Washington Nationals" tvg-logo="https://cdn.highfly.to/posters/detroit-tigers-vs-washington-nationals-2606522_UTC.webp?v=76dc227d" group-title="Baseball",Detroit Tigers vs Washington Nationals
 https://papacito.cfd/m3u/1904204/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-barcelona-parisfc-20260923" tvg-name="Barcelona vs Paris FC" tvg-logo="https://cdn.highfly.to/posters/uwcl-barcelona-parisfc-20260923_UTC.webp?v=de2225f6" group-title="Football",Barcelona vs Paris FC
+https://papacito.cfd/m3u/1562785/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-barcelona-parisfc-20260923" tvg-name="Barcelona vs Paris FC" tvg-logo="https://cdn.highfly.to/posters/uwcl-barcelona-parisfc-20260923_UTC.webp?v=de2225f6" group-title="Football",Barcelona vs Paris FC
+https://papacito.cfd/m3u/1501735/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-chelsea-austriawien-20260923" tvg-name="Chelsea FC vs Austria Wien" tvg-logo="https://cdn.highfly.to/posters/uwcl-chelsea-austriawien-20260923_UTC.webp?v=dc033000" group-title="Football",Chelsea FC vs Austria Wien
+https://papacito.cfd/m3u/429938/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-chelsea-austriawien-20260923" tvg-name="Chelsea FC vs Austria Wien" tvg-logo="https://cdn.highfly.to/posters/uwcl-chelsea-austriawien-20260923_UTC.webp?v=dc033000" group-title="Football",Chelsea FC vs Austria Wien
+https://papacito.cfd/m3u/2162087/live.m3u8
+#EXTINF:-1 tvg-id="streamed:uwcl-chelsea-austriawien-20260923" tvg-name="Chelsea FC vs Austria Wien" tvg-logo="https://cdn.highfly.to/posters/uwcl-chelsea-austriawien-20260923_UTC.webp?v=dc033000" group-title="Football",Chelsea FC vs Austria Wien
+https://papacito.cfd/m3u/1501734/live.m3u8
+#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-minnesota-twins-2606523" tvg-name="San Francisco Giants vs Minnesota Twins" tvg-logo="https://cdn.highfly.to/posters/san-francisco-giants-vs-minnesota-twins-2606523_UTC.webp?v=d8936f27" group-title="Baseball",San Francisco Giants vs Minnesota Twins
+https://papacito.cfd/m3u/1904211/live.m3u8
+#EXTINF:-1 tvg-id="streamed:san-francisco-giants-vs-minnesota-twins-2606523" tvg-name="San Francisco Giants vs Minnesota Twins" tvg-logo="https://cdn.highfly.to/posters/san-francisco-giants-vs-minnesota-twins-2606523_UTC.webp?v=d8936f27" group-title="Baseball",San Francisco Giants vs Minnesota Twins
+https://papacito.cfd/m3u/1904218/live.m3u8
