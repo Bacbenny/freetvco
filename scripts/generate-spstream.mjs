@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 const fs = require("node:fs");
 const API = "https://sport-stream-resolver-v2.viet-ng228.workers.dev";
 const CATALOG = API + "/sport.json";
