@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-25T18:02:28.627Z
+# Generated at 2026-09-25T21:15:58.343Z
 #EXTINF:-1 tvg-id="leaf:au" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au_UTC.webp?v=1a9a6838ee949d4d" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/au/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au344343443" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au344343443_UTC.webp?v=f973c30f2a963376" group-title="Rugby",AU : FOX SPORTS 502 HD
@@ -25,33 +25,15 @@ https://papacito.cfd/m3u/us-33434/live.m3u8
 https://papacito.cfd/m3u/us-343343/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:georgia-vs-n-ireland-2442745" tvg-name="Georgia vs N.Ireland" tvg-logo="https://cdn.highfly.to/posters/georgia-vs-n-ireland-2442745_UTC.webp?v=5b30ecf0" group-title="Football",Georgia vs N.Ireland
-https://papacito.cfd/m3u/429583/live.m3u8
-#EXTINF:-1 tvg-id="streamed:georgia-vs-n-ireland-2442745" tvg-name="Georgia vs N.Ireland" tvg-logo="https://cdn.highfly.to/posters/georgia-vs-n-ireland-2442745_UTC.webp?v=5b30ecf0" group-title="Football",Georgia vs N.Ireland
-https://papacito.cfd/m3u/325018/live.m3u8
-#EXTINF:-1 tvg-id="streamed:georgia-vs-n-ireland-2442745" tvg-name="Georgia vs N.Ireland" tvg-logo="https://cdn.highfly.to/posters/georgia-vs-n-ireland-2442745_UTC.webp?v=5b30ecf0" group-title="Football",Georgia vs N.Ireland
-https://papacito.cfd/m3u/162171/live.m3u8
-#EXTINF:-1 tvg-id="streamed:armenia-vs-latvia-2475286" tvg-name="Armenia vs Latvia" tvg-logo="https://cdn.highfly.to/posters/armenia-vs-latvia-2475286_UTC.webp?v=f1c34c10" group-title="Football",Armenia vs Latvia
-https://papacito.cfd/m3u/1688739/live.m3u8
-#EXTINF:-1 tvg-id="streamed:armenia-vs-latvia-2475286" tvg-name="Armenia vs Latvia" tvg-logo="https://cdn.highfly.to/posters/armenia-vs-latvia-2475286_UTC.webp?v=f1c34c10" group-title="Football",Armenia vs Latvia
-https://papacito.cfd/m3u/1562918/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-cyprus-u21-vs-romania-u21-20721" tvg-name="Cyprus U21 vs Romania U21" tvg-logo="https://cdn.highfly.to/posters/custom-cyprus-u21-vs-romania-u21-20721_UTC.webp?v=ff9fb2b6" group-title="Football",Cyprus U21 vs Romania U21
-https://papacito.cfd/m3u/842/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-slovakia-u21-vs-republic-of-ireland-u21-20721" tvg-name="Slovakia U21 vs Republic of Ireland U21" tvg-logo="https://cdn.highfly.to/posters/custom-slovakia-u21-vs-republic-of-ireland-u21-20721_UTC.webp?v=899ac111" group-title="Football",Slovakia U21 vs Republic of Ireland U21
-https://papacito.cfd/m3u/588852/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-nigeria-vs-madagascar-20721" tvg-name="Nigeria vs Madagascar" tvg-logo="https://cdn.highfly.to/posters/custom-nigeria-vs-madagascar-20721_UTC.webp?v=0f94b1cb" group-title="Football",Nigeria vs Madagascar
-https://papacito.cfd/m3u/1562725/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-nigeria-vs-madagascar-20721" tvg-name="Nigeria vs Madagascar" tvg-logo="https://cdn.highfly.to/posters/custom-nigeria-vs-madagascar-20721_UTC.webp?v=0f94b1cb" group-title="Football",Nigeria vs Madagascar
-https://papacito.cfd/m3u/1562827/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-togo-vs-burundi-20721" tvg-name="Togo vs Burundi" tvg-logo="https://cdn.highfly.to/posters/custom-togo-vs-burundi-20721_UTC.webp?v=5ae42a5f" group-title="Football",Togo vs Burundi
-https://papacito.cfd/m3u/2162108/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-netherlands-u21-vs-norway-u21-20721" tvg-name="Netherlands U21 vs Norway U21" tvg-logo="https://cdn.highfly.to/posters/custom-netherlands-u21-vs-norway-u21-20721_UTC.webp?v=9b3815b8" group-title="Football",Netherlands U21 vs Norway U21
-https://papacito.cfd/m3u/1551/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-netherlands-u21-vs-norway-u21-20721" tvg-name="Netherlands U21 vs Norway U21" tvg-logo="https://cdn.highfly.to/posters/custom-netherlands-u21-vs-norway-u21-20721_UTC.webp?v=9b3815b8" group-title="Football",Netherlands U21 vs Norway U21
-https://papacito.cfd/m3u/641211/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-havelse-vs-fortuna-k-ln-20721" tvg-name="Havelse vs Fortuna Köln" tvg-logo="https://cdn.highfly.to/posters/custom-havelse-vs-fortuna-k-ln-20721_UTC.webp?v=90991997" group-title="Football",Havelse vs Fortuna Köln
-https://papacito.cfd/m3u/1714047/live.m3u8
 #EXTINF:-1 tvg-id="streamed:boston-red-sox-vs-chicago-cubs-2608282" tvg-name="Boston Red Sox vs Chicago Cubs" tvg-logo="https://cdn.highfly.to/posters/boston-red-sox-vs-chicago-cubs-2608282_UTC.webp?v=cfe592a0" group-title="Baseball",Boston Red Sox vs Chicago Cubs
 https://papacito.cfd/m3u/1904198/live.m3u8
 #EXTINF:-1 tvg-id="streamed:boston-red-sox-vs-chicago-cubs-2608282" tvg-name="Boston Red Sox vs Chicago Cubs" tvg-logo="https://cdn.highfly.to/posters/boston-red-sox-vs-chicago-cubs-2608282_UTC.webp?v=cfe592a0" group-title="Baseball",Boston Red Sox vs Chicago Cubs
 https://papacito.cfd/m3u/1904199/live.m3u8
+#EXTINF:-1 tvg-id="streamed:temple-vs-army-2498822" tvg-name="Temple vs Army" tvg-logo="https://cdn.highfly.to/posters/temple-vs-army-2498822_UTC.webp?v=c1cff6fd" group-title="American Football",Temple vs Army
+https://papacito.cfd/m3u/1239014/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-baltimore-orioles-2608252" tvg-name="New York Yankees vs Baltimore Orioles" tvg-logo="https://cdn.highfly.to/posters/new-york-yankees-vs-baltimore-orioles-2608252_UTC.webp?v=3a345397" group-title="Baseball",New York Yankees vs Baltimore Orioles
+https://papacito.cfd/m3u/1904213/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-yankees-vs-baltimore-orioles-2608252" tvg-name="New York Yankees vs Baltimore Orioles" tvg-logo="https://cdn.highfly.to/posters/new-york-yankees-vs-baltimore-orioles-2608252_UTC.webp?v=3a345397" group-title="Baseball",New York Yankees vs Baltimore Orioles
+https://papacito.cfd/m3u/1904197/live.m3u8
+#EXTINF:-1 tvg-id="streamed:weekly-racing-at-stafford-speedway" tvg-name="Weekly Racing at Stafford Speedway" tvg-logo="https://cdn.highfly.to/posters/weekly-racing-at-stafford-speedway_UTC.webp?v=e14d116d" group-title="Motor Sports",Weekly Racing at Stafford Speedway
+https://papacito.cfd/m3u/1661690/live.m3u8
