@@ -1,12 +1,14 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-25T08:02:35.040Z
+# Generated at 2026-09-25T13:23:47.957Z
 #EXTINF:-1 tvg-id="leaf:au" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au_UTC.webp?v=1a9a6838ee949d4d" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/au/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au344343443" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au344343443_UTC.webp?v=f973c30f2a963376" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au344343443/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-34343434" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-34343434_UTC.webp?v=119484a69cb958c4" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/now-34343434/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-34343434" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-34343434_UTC.webp?v=119484a69cb958c4" group-title="Motor Sports",(FHD) : SKY SPORTS F1
+https://papacito.cfd/m3u/vip-rerrere-4344/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-55454545" tvg-name="(4K) : SKY SPORTS FOOTBALL" tvg-logo="https://cdn.highfly.to/leaf_posters/now-55454545_UTC.webp?v=7545f699ab5969e1" group-title="Football",(4K) : SKY SPORTS FOOTBALL
 https://papacito.cfd/m3u/now-55454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-sky-sports-premier-league" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-premier-league_UTC.webp?v=56011c436a38703d" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
@@ -23,9 +25,15 @@ https://papacito.cfd/m3u/us-33434/live.m3u8
 https://papacito.cfd/m3u/us-343343/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470740" tvg-name="Auckland vs Manawatu" tvg-logo="https://cdn.highfly.to/posters/npc-2470740_UTC.webp?v=6c1dfd12" group-title="Rugby",Auckland vs Manawatu
-https://papacito.cfd/m3u/1966349/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470740" tvg-name="Auckland vs Manawatu" tvg-logo="https://cdn.highfly.to/posters/npc-2470740_UTC.webp?v=6c1dfd12" group-title="Rugby",Auckland vs Manawatu
-https://papacito.cfd/m3u/1966347/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cremona-free-practice-1-worldsbk-1790324400" tvg-name="Cremona — Free Practice 1" tvg-logo="https://cdn.highfly.to/posters/cremona-free-practice-1-worldsbk-1790324400_UTC.webp?v=9e093930" group-title="Other",Cremona — Free Practice 1
+#EXTINF:-1 tvg-id="streamed:1st-qualifying-baku-city-circuit-formula-1-2686" tvg-name="1st Qualifying | Baku City Circuit |" tvg-logo="https://cdn.highfly.to/posters/1st-qualifying-baku-city-circuit-formula-1-2686_UTC.webp?v=21e9ac96" group-title="Motor Sports",1st Qualifying | Baku City Circuit |
 https://papacito.cfd/m3u/1290235/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-senegal-vs-mozambique-20721" tvg-name="Senegal vs Mozambique" tvg-logo="https://cdn.highfly.to/posters/custom-senegal-vs-mozambique-20721_UTC.webp?v=8b9039d9" group-title="Football",Senegal vs Mozambique
+https://papacito.cfd/m3u/1562827/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-senegal-vs-mozambique-20721" tvg-name="Senegal vs Mozambique" tvg-logo="https://cdn.highfly.to/posters/custom-senegal-vs-mozambique-20721_UTC.webp?v=8b9039d9" group-title="Football",Senegal vs Mozambique
+https://papacito.cfd/m3u/1562725/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-tanzania-vs-guinea-bissau-20721" tvg-name="Tanzania vs Guinea-Bissau" tvg-logo="https://cdn.highfly.to/posters/custom-tanzania-vs-guinea-bissau-20721_UTC.webp?v=bc9daabb" group-title="Football",Tanzania vs Guinea-Bissau
+https://papacito.cfd/m3u/1688741/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-tanzania-vs-guinea-bissau-20721" tvg-name="Tanzania vs Guinea-Bissau" tvg-logo="https://cdn.highfly.to/posters/custom-tanzania-vs-guinea-bissau-20721_UTC.webp?v=bc9daabb" group-title="Football",Tanzania vs Guinea-Bissau
+https://papacito.cfd/m3u/386381/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-nk-dinamo-zagreb-2-vs-mladost-dralovi-20721" tvg-name="NK Dinamo Zagreb 2 vs Mladost Ždralovi" tvg-logo="https://cdn.highfly.to/posters/custom-nk-dinamo-zagreb-2-vs-mladost-dralovi-20721_UTC.webp?v=5947081d" group-title="Football",NK Dinamo Zagreb 2 vs Mladost Ždralovi
+https://papacito.cfd/m3u/1562941/live.m3u8
