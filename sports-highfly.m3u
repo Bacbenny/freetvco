@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-26T08:56:15.741Z
+# Generated at 2026-09-26T13:29:33.400Z
 #EXTINF:-1 tvg-id="leaf:au" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au_UTC.webp?v=1a9a6838ee949d4d" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/au/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au344343443" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au344343443_UTC.webp?v=f973c30f2a963376" group-title="Rugby",AU : FOX SPORTS 502 HD
@@ -25,5 +25,19 @@ https://papacito.cfd/m3u/us-33434/live.m3u8
 https://papacito.cfd/m3u/us-343343/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470743" tvg-name="North Harbour vs Otago" tvg-logo="https://cdn.highfly.to/posters/npc-2470743_UTC.webp?v=7a54f507" group-title="Rugby",North Harbour vs Otago
-https://papacito.cfd/m3u/2006133/live.m3u8
+#EXTINF:-1 tvg-id="streamed:urc-lions-leinster-20260926" tvg-name="Lions vs Leinster" tvg-logo="https://cdn.highfly.to/posters/urc-lions-leinster-20260926_UTC.webp?v=03b3da20" group-title="Rugby",Lions vs Leinster
+https://papacito.cfd/m3u/587990/live.m3u8
+#EXTINF:-1 tvg-id="streamed:urc-lions-leinster-20260926" tvg-name="Lions vs Leinster" tvg-logo="https://cdn.highfly.to/posters/urc-lions-leinster-20260926_UTC.webp?v=03b3da20" group-title="Rugby",Lions vs Leinster
+https://papacito.cfd/m3u/588051/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-charlton-athletic-vs-manchester-city-20722" tvg-name="Charlton Athletic vs Manchester City" tvg-logo="https://cdn.highfly.to/posters/custom-charlton-athletic-vs-manchester-city-20722_UTC.webp?v=d5e4d16d" group-title="Football",Charlton Athletic vs Manchester City
+https://papacito.cfd/m3u/429938/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-charlton-athletic-vs-manchester-city-20722" tvg-name="Charlton Athletic vs Manchester City" tvg-logo="https://cdn.highfly.to/posters/custom-charlton-athletic-vs-manchester-city-20722_UTC.webp?v=d5e4d16d" group-title="Football",Charlton Athletic vs Manchester City
+https://papacito.cfd/m3u/2162087/live.m3u8
+#EXTINF:-1 tvg-id="streamed:slovenia-vs-scotland-2475288" tvg-name="Slovenia vs Scotland" tvg-logo="https://cdn.highfly.to/posters/slovenia-vs-scotland-2475288_UTC.webp?v=6b00cb6e" group-title="Football",Slovenia vs Scotland
+https://papacito.cfd/m3u/2162002/live.m3u8
+#EXTINF:-1 tvg-id="streamed:slovenia-vs-scotland-2475288" tvg-name="Slovenia vs Scotland" tvg-logo="https://cdn.highfly.to/posters/slovenia-vs-scotland-2475288_UTC.webp?v=6b00cb6e" group-title="Football",Slovenia vs Scotland
+https://papacito.cfd/m3u/1562584/live.m3u8
+#EXTINF:-1 tvg-id="streamed:slovenia-vs-scotland-2475288" tvg-name="Slovenia vs Scotland" tvg-logo="https://cdn.highfly.to/posters/slovenia-vs-scotland-2475288_UTC.webp?v=6b00cb6e" group-title="Football",Slovenia vs Scotland
+https://papacito.cfd/m3u/1688741/live.m3u8
+#EXTINF:-1 tvg-id="streamed:slovenia-vs-scotland-2475288" tvg-name="Slovenia vs Scotland" tvg-logo="https://cdn.highfly.to/posters/slovenia-vs-scotland-2475288_UTC.webp?v=6b00cb6e" group-title="Football",Slovenia vs Scotland
+https://papacito.cfd/m3u/429585/live.m3u8
