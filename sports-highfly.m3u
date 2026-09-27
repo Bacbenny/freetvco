@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-27T11:12:17.498Z
+# Generated at 2026-09-27T15:44:28.768Z
 #EXTINF:-1 tvg-id="leaf:au-3443434" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-3443434_UTC.webp?v=7404f73b12f6fad2" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-3443434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=7bc14b39ab49407b" group-title="Afl",AU : FOX SPORTS 504 HD
@@ -17,31 +17,13 @@ https://papacito.cfd/m3u/now434340/live.m3u8
 https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-inoue-vs-nasukawa-2" tvg-name="Inoue vs. Nasukawa 2" tvg-logo="https://cdn.highfly.to/posters/ppv-inoue-vs-nasukawa-2_UTC.webp?v=cafb1be1" group-title="Fight",Inoue vs. Nasukawa 2
-https://papacito.cfd/m3u/605787/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-inoue-vs-nasukawa-2" tvg-name="Inoue vs. Nasukawa 2" tvg-logo="https://cdn.highfly.to/posters/ppv-inoue-vs-nasukawa-2_UTC.webp?v=cafb1be1" group-title="Fight",Inoue vs. Nasukawa 2
-https://papacito.cfd/m3u/605889/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-south-africa-vs-australia-20723" tvg-name="South Africa vs Australia" tvg-logo="https://cdn.highfly.to/posters/custom-south-africa-vs-australia-20723_UTC.webp?v=db4832d7" group-title="Cricket",South Africa vs Australia
-https://papacito.cfd/m3u/2161753/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-south-africa-vs-australia-20723" tvg-name="South Africa vs Australia" tvg-logo="https://cdn.highfly.to/posters/custom-south-africa-vs-australia-20723_UTC.webp?v=db4832d7" group-title="Cricket",South Africa vs Australia
-https://papacito.cfd/m3u/1527621/live.m3u8
 #EXTINF:-1 tvg-id="streamed:custom-india-cricket-vs-west-indies-cricket-20723" tvg-name="India Cricket vs West Indies Cricket" tvg-logo="https://cdn.highfly.to/posters/custom-india-cricket-vs-west-indies-cricket-20723_UTC.webp?v=21fc2f27" group-title="Cricket",India Cricket vs West Indies Cricket
 https://papacito.cfd/m3u/324993/live.m3u8
 #EXTINF:-1 tvg-id="streamed:custom-india-cricket-vs-west-indies-cricket-20723" tvg-name="India Cricket vs West Indies Cricket" tvg-logo="https://cdn.highfly.to/posters/custom-india-cricket-vs-west-indies-cricket-20723_UTC.webp?v=21fc2f27" group-title="Cricket",India Cricket vs West Indies Cricket
 https://papacito.cfd/m3u/588010/live.m3u8
-#EXTINF:-1 tvg-id="streamed:italian-superpole-race-2403682" tvg-name="Italian Superpole Race" tvg-logo="https://cdn.highfly.to/posters/italian-superpole-race-2403682_UTC.webp?v=e1226837" group-title="Motor Sports",Italian Superpole Race
-https://papacito.cfd/m3u/2063948/live.m3u8
-#EXTINF:-1 tvg-id="streamed:italian-superpole-race-2403682" tvg-name="Italian Superpole Race" tvg-logo="https://cdn.highfly.to/posters/italian-superpole-race-2403682_UTC.webp?v=e1226837" group-title="Motor Sports",Italian Superpole Race
-https://papacito.cfd/m3u/1930974/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-australia-vs-south-africa-20723" tvg-name="Australia vs South Africa" tvg-logo="https://cdn.highfly.to/posters/custom-australia-vs-south-africa-20723_UTC.webp?v=89f076ff" group-title="Rugby",Australia vs South Africa
-https://papacito.cfd/m3u/1527619/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-australia-vs-south-africa-20723" tvg-name="Australia vs South Africa" tvg-logo="https://cdn.highfly.to/posters/custom-australia-vs-south-africa-20723_UTC.webp?v=89f076ff" group-title="Rugby",Australia vs South Africa
-https://papacito.cfd/m3u/1562707/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-australia-vs-south-africa-20723" tvg-name="Australia vs South Africa" tvg-logo="https://cdn.highfly.to/posters/custom-australia-vs-south-africa-20723_UTC.webp?v=89f076ff" group-title="Rugby",Australia vs South Africa
-https://papacito.cfd/m3u/1535940/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-australia-vs-south-africa-20723" tvg-name="Australia vs South Africa" tvg-logo="https://cdn.highfly.to/posters/custom-australia-vs-south-africa-20723_UTC.webp?v=89f076ff" group-title="Rugby",Australia vs South Africa
-https://papacito.cfd/m3u/1527618/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-australia-vs-south-africa-20723" tvg-name="Australia vs South Africa" tvg-logo="https://cdn.highfly.to/posters/custom-australia-vs-south-africa-20723_UTC.webp?v=89f076ff" group-title="Rugby",Australia vs South Africa
-https://papacito.cfd/m3u/1966356/live.m3u8
 #EXTINF:-1 tvg-id="streamed:custom-england-cricket-vs-sri-lanka-cricket-20723" tvg-name="England Cricket vs Sri Lanka Cricket" tvg-logo="https://cdn.highfly.to/posters/custom-england-cricket-vs-sri-lanka-cricket-20723_UTC.webp?v=e4577766" group-title="Cricket",England Cricket vs Sri Lanka Cricket
 https://papacito.cfd/m3u/1968679/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-real-valladolid-cordoba-20723" tvg-name="Real Valladolid vs Cordoba" tvg-logo="https://cdn.highfly.to/posters/football-real-valladolid-cordoba-20723_UTC.webp?v=ee56e725" group-title="Football",Real Valladolid vs Cordoba
+https://papacito.cfd/m3u/1954590/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-real-valladolid-cordoba-20723" tvg-name="Real Valladolid vs Cordoba" tvg-logo="https://cdn.highfly.to/posters/football-real-valladolid-cordoba-20723_UTC.webp?v=ee56e725" group-title="Football",Real Valladolid vs Cordoba
+https://papacito.cfd/m3u/2004466/live.m3u8
