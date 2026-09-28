@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-28T14:16:57.269Z
+# Generated at 2026-09-28T20:40:03.533Z
 #EXTINF:-1 tvg-id="leaf:now-545445" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-545445_UTC.webp?v=482c84ce8748a929" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/now-545445/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-545454545" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-545454545_UTC.webp?v=e82acf1dd2d0e8a5" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
@@ -9,7 +9,51 @@ https://papacito.cfd/m3u/now-545454545/live.m3u8
 https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now434340" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/now434340_UTC.webp?v=8d9f6d13fd90b135" group-title="Golf",(FHD) : SKY SPORTS GOLF
 https://papacito.cfd/m3u/now434340/live.m3u8
-#EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-sky-sport-1_UTC.webp?v=6bc86146864cba4e" group-title="Rugby",NZ : SKY SPORT 1
-https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-leganes-cd-castellon-20724" tvg-name="Leganes vs CD Castellon" tvg-logo="https://cdn.highfly.to/posters/football-leganes-cd-castellon-20724_UTC.webp?v=3eff656e" group-title="Football",Leganes vs CD Castellon
+https://papacito.cfd/m3u/1954590/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-leganes-cd-castellon-20724" tvg-name="Leganes vs CD Castellon" tvg-logo="https://cdn.highfly.to/posters/football-leganes-cd-castellon-20724_UTC.webp?v=3eff656e" group-title="Football",Leganes vs CD Castellon
+https://papacito.cfd/m3u/2004466/live.m3u8
+#EXTINF:-1 tvg-id="streamed:belgium-vs-france-2442768" tvg-name="Belgium vs France" tvg-logo="https://cdn.highfly.to/posters/belgium-vs-france-2442768_UTC.webp?v=29ba2904" group-title="Football",Belgium vs France
+https://papacito.cfd/m3u/429585/live.m3u8
+#EXTINF:-1 tvg-id="streamed:belgium-vs-france-2442768" tvg-name="Belgium vs France" tvg-logo="https://cdn.highfly.to/posters/belgium-vs-france-2442768_UTC.webp?v=29ba2904" group-title="Football",Belgium vs France
+https://papacito.cfd/m3u/1688741/live.m3u8
+#EXTINF:-1 tvg-id="streamed:belgium-vs-france-2442768" tvg-name="Belgium vs France" tvg-logo="https://cdn.highfly.to/posters/belgium-vs-france-2442768_UTC.webp?v=29ba2904" group-title="Football",Belgium vs France
+https://papacito.cfd/m3u/1939947/live.m3u8
+#EXTINF:-1 tvg-id="streamed:belgium-vs-france-2442768" tvg-name="Belgium vs France" tvg-logo="https://cdn.highfly.to/posters/belgium-vs-france-2442768_UTC.webp?v=29ba2904" group-title="Football",Belgium vs France
+https://papacito.cfd/m3u/2162002/live.m3u8
+#EXTINF:-1 tvg-id="streamed:belgium-vs-france-2442768" tvg-name="Belgium vs France" tvg-logo="https://cdn.highfly.to/posters/belgium-vs-france-2442768_UTC.webp?v=29ba2904" group-title="Football",Belgium vs France
+https://papacito.cfd/m3u/1940138/live.m3u8
+#EXTINF:-1 tvg-id="streamed:n-ireland-vs-hungary-2442770" tvg-name="N.Ireland vs Hungary" tvg-logo="https://cdn.highfly.to/posters/n-ireland-vs-hungary-2442770_UTC.webp?v=a5d2459d" group-title="Football",N.Ireland vs Hungary
+https://papacito.cfd/m3u/1525674/live.m3u8
+#EXTINF:-1 tvg-id="streamed:n-ireland-vs-hungary-2442770" tvg-name="N.Ireland vs Hungary" tvg-logo="https://cdn.highfly.to/posters/n-ireland-vs-hungary-2442770_UTC.webp?v=a5d2459d" group-title="Football",N.Ireland vs Hungary
+https://papacito.cfd/m3u/1940135/live.m3u8
+#EXTINF:-1 tvg-id="streamed:n-ireland-vs-hungary-2442770" tvg-name="N.Ireland vs Hungary" tvg-logo="https://cdn.highfly.to/posters/n-ireland-vs-hungary-2442770_UTC.webp?v=a5d2459d" group-title="Football",N.Ireland vs Hungary
+https://papacito.cfd/m3u/1939944/live.m3u8
+#EXTINF:-1 tvg-id="streamed:n-ireland-vs-hungary-2442770" tvg-name="N.Ireland vs Hungary" tvg-logo="https://cdn.highfly.to/posters/n-ireland-vs-hungary-2442770_UTC.webp?v=a5d2459d" group-title="Football",N.Ireland vs Hungary
+https://papacito.cfd/m3u/1562917/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sweden-vs-poland-2442771" tvg-name="Sweden vs Poland" tvg-logo="https://cdn.highfly.to/posters/sweden-vs-poland-2442771_UTC.webp?v=88926510" group-title="Football",Sweden vs Poland
+https://papacito.cfd/m3u/1940136/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sweden-vs-poland-2442771" tvg-name="Sweden vs Poland" tvg-logo="https://cdn.highfly.to/posters/sweden-vs-poland-2442771_UTC.webp?v=88926510" group-title="Football",Sweden vs Poland
+https://papacito.cfd/m3u/429583/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sweden-vs-poland-2442771" tvg-name="Sweden vs Poland" tvg-logo="https://cdn.highfly.to/posters/sweden-vs-poland-2442771_UTC.webp?v=88926510" group-title="Football",Sweden vs Poland
+https://papacito.cfd/m3u/1562544/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sweden-vs-poland-2442771" tvg-name="Sweden vs Poland" tvg-logo="https://cdn.highfly.to/posters/sweden-vs-poland-2442771_UTC.webp?v=88926510" group-title="Football",Sweden vs Poland
+https://papacito.cfd/m3u/325018/live.m3u8
+#EXTINF:-1 tvg-id="streamed:romania-vs-bosnia-herzegovina-2442772" tvg-name="Romania vs Bosnia-Herzegovina" tvg-logo="https://cdn.highfly.to/posters/romania-vs-bosnia-herzegovina-2442772_UTC.webp?v=96864011" group-title="Football",Romania vs Bosnia-Herzegovina
+https://papacito.cfd/m3u/1939948/live.m3u8
+#EXTINF:-1 tvg-id="streamed:romania-vs-bosnia-herzegovina-2442772" tvg-name="Romania vs Bosnia-Herzegovina" tvg-logo="https://cdn.highfly.to/posters/romania-vs-bosnia-herzegovina-2442772_UTC.webp?v=96864011" group-title="Football",Romania vs Bosnia-Herzegovina
+https://papacito.cfd/m3u/1562583/live.m3u8
+#EXTINF:-1 tvg-id="streamed:romania-vs-bosnia-herzegovina-2442772" tvg-name="Romania vs Bosnia-Herzegovina" tvg-logo="https://cdn.highfly.to/posters/romania-vs-bosnia-herzegovina-2442772_UTC.webp?v=96864011" group-title="Football",Romania vs Bosnia-Herzegovina
+https://papacito.cfd/m3u/1940126/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-t-rkiye-vs-italy" tvg-name="Türkiye vs. Italy" tvg-logo="https://cdn.highfly.to/posters/ppv-t-rkiye-vs-italy_UTC.webp?v=548bb8d4" group-title="Football",Türkiye vs. Italy
+https://papacito.cfd/m3u/1562919/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-t-rkiye-vs-italy" tvg-name="Türkiye vs. Italy" tvg-logo="https://cdn.highfly.to/posters/ppv-t-rkiye-vs-italy_UTC.webp?v=548bb8d4" group-title="Football",Türkiye vs. Italy
+https://papacito.cfd/m3u/1940137/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-t-rkiye-vs-italy" tvg-name="Türkiye vs. Italy" tvg-logo="https://cdn.highfly.to/posters/ppv-t-rkiye-vs-italy_UTC.webp?v=548bb8d4" group-title="Football",Türkiye vs. Italy
+https://papacito.cfd/m3u/1562584/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-t-rkiye-vs-italy" tvg-name="Türkiye vs. Italy" tvg-logo="https://cdn.highfly.to/posters/ppv-t-rkiye-vs-italy_UTC.webp?v=548bb8d4" group-title="Football",Türkiye vs. Italy
+https://papacito.cfd/m3u/1939946/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-tunisia-botswana-20724" tvg-name="Tunisia vs Botswana" tvg-logo="https://cdn.highfly.to/posters/football-tunisia-botswana-20724_UTC.webp?v=e6672e5f" group-title="Football",Tunisia vs Botswana
+https://papacito.cfd/m3u/1562828/live.m3u8
