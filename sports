@@ -1,0 +1,40 @@
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTINF:0 group-title="Спорт" tvg-id="7255" tvg-logo="http://epg.one/img/7255.png" tvg-rec="0",Eleven Sports 1 4K PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/20068/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6586" tvg-logo="http://epg.one/img/6586.png" tvg-rec="0",V Sport Ultra HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/19163/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/6566/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2506/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/6564/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6507" tvg-logo="http://epg.one/img/6507.png" tvg-rec="0",TNT Sports 4 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/19054/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4569" tvg-logo="http://epg.one/img/4569.png" tvg-rec="3",Sky Sports Premier League HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/9334/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4570" tvg-logo="http://epg.one/img/4570.png" tvg-rec="3",Sky Sports Football HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/9289/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4571" tvg-logo="http://epg.one/img/4571.png" tvg-rec="3",Sky Sports Main Event HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/9308/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="9051" tvg-logo="http://epg.one/img/9051.png" tvg-rec="3",Sky Sports News HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/9314/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4573" tvg-logo="http://epg.one/img/4573.png" tvg-rec="3",Sky Sports Mix HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/9310/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="3",Sky Sports Golf HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/9293/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2915" tvg-logo="http://epg.one/img/2915.png" tvg-rec="0",DAZN 1 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/19158/index.m3u8
+#EXTINF:0 group-title="Португалия | Portugal" tvg-id="2916" tvg-logo="http://epg.one/img/2916.png" tvg-rec="3",DAZN 2 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2532/index.m3u8
+#EXTINF:0 group-title="Португалия | Portugal" tvg-id="9508" tvg-rec="0",DAZN 3 HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31956/index.m3u8
+#EXTINF:0 group-title="Португалия | Portugal" tvg-id="9501" tvg-rec="0",DAZN 4 HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31957/index.m3u8
+#EXTINF:0 group-title="Португалия | Portugal" tvg-id="9502" tvg-rec="0",DAZN 5 HD
+#EXTINF:0 group-title="Нидерланды | Netherlands" tvg-id="2943" tvg-logo="http://epg.one/img/2943.png" tvg-rec="3",Ziggo Sport 3 HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2559/index.m3u8
+#EXTINF:0 group-title="Нидерланды | Netherlands" tvg-id="2944" tvg-logo="http://epg.one/img/2944.png" tvg-rec="3",Ziggo Sport HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2560/index.m3u8
+#EXTINF:0 group-title="Нидерланды | Netherlands" tvg-id="2945" tvg-logo="http://epg.one/img/2945.png" tvg-rec="3",Ziggo Sport 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2561/index.m3u8
