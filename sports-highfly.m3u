@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-29T06:24:43.128Z
+# Generated at 2026-09-29T13:12:07.579Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=682d978bccd40cfd" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
@@ -13,9 +13,21 @@ https://papacito.cfd/m3u/now-545445/live.m3u8
 https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now434340" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/now434340_UTC.webp?v=8d9f6d13fd90b135" group-title="Golf",(FHD) : SKY SPORTS GOLF
 https://papacito.cfd/m3u/now434340/live.m3u8
-#EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-sky-sport-1_UTC.webp?v=6bc86146864cba4e" group-title="Rugby",NZ : SKY SPORT 1
-https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
+#EXTINF:-1 tvg-id="leaf:nz-s454545" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-s454545_UTC.webp?v=ff38f50289ed16ac" group-title="Rugby",NZ : SKY SPORT 1
+https://papacito.cfd/m3u/nz-s454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US: ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=b92814130bb996a4" group-title="Sports",US: ESPN
-https://papacito.cfd/m3u/us-espn-hd/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-burundi-algeria-20725" tvg-name="Burundi vs Algeria" tvg-logo="https://cdn.highfly.to/posters/football-burundi-algeria-20725_UTC.webp?v=33006d42" group-title="Football",Burundi vs Algeria
+https://papacito.cfd/m3u/1562827/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-burundi-algeria-20725" tvg-name="Burundi vs Algeria" tvg-logo="https://cdn.highfly.to/posters/football-burundi-algeria-20725_UTC.webp?v=33006d42" group-title="Football",Burundi vs Algeria
+https://papacito.cfd/m3u/1940123/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-ethiopia-senegal-20725" tvg-name="Ethiopia vs Senegal" tvg-logo="https://cdn.highfly.to/posters/football-ethiopia-senegal-20725_UTC.webp?v=dfc765c2" group-title="Football",Ethiopia vs Senegal
+https://papacito.cfd/m3u/1562826/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-ethiopia-senegal-20725" tvg-name="Ethiopia vs Senegal" tvg-logo="https://cdn.highfly.to/posters/football-ethiopia-senegal-20725_UTC.webp?v=dfc765c2" group-title="Football",Ethiopia vs Senegal
+https://papacito.cfd/m3u/1940131/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-lesotho-morocco-20725" tvg-name="Lesotho vs Morocco" tvg-logo="https://cdn.highfly.to/posters/football-lesotho-morocco-20725_UTC.webp?v=a56b7e5b" group-title="Football",Lesotho vs Morocco
+https://papacito.cfd/m3u/418118/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-mozambique-sudan-20725" tvg-name="Mozambique vs Sudan" tvg-logo="https://cdn.highfly.to/posters/football-mozambique-sudan-20725_UTC.webp?v=aac0e30a" group-title="Football",Mozambique vs Sudan
+https://papacito.cfd/m3u/788079/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-south-sudan-egypt-20725" tvg-name="South Sudan vs Egypt" tvg-logo="https://cdn.highfly.to/posters/football-south-sudan-egypt-20725_UTC.webp?v=53ccf24d" group-title="Football",South Sudan vs Egypt
+https://papacito.cfd/m3u/1562825/live.m3u8
