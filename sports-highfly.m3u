@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-29T00:45:13.905Z
+# Generated at 2026-09-29T06:24:43.128Z
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-502-hd" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-502-hd_UTC.webp?v=682d978bccd40cfd" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-fox-sports-502-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
@@ -19,11 +19,3 @@ https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
 https://papacito.cfd/m3u/us-3443434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US: ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=b92814130bb996a4" group-title="Sports",US: ESPN
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
-#EXTINF:-1 tvg-id="streamed:live-event_monday-night-raw-live-stream" tvg-name="Monday Night RAW" tvg-logo="https://cdn.highfly.to/posters/live-event_monday-night-raw-live-stream_UTC.webp?v=b1fa7273" group-title="Fight",Monday Night RAW
-https://papacito.cfd/m3u/605787/live.m3u8
-#EXTINF:-1 tvg-id="streamed:live-event_monday-night-raw-live-stream" tvg-name="Monday Night RAW" tvg-logo="https://cdn.highfly.to/posters/live-event_monday-night-raw-live-stream_UTC.webp?v=b1fa7273" group-title="Fight",Monday Night RAW
-https://papacito.cfd/m3u/605889/live.m3u8
-#EXTINF:-1 tvg-id="streamed:chicago-bears-vs-philadelphia-eagles-2475421" tvg-name="Chicago Bears vs Philadelphia Eagles" tvg-logo="https://cdn.highfly.to/posters/chicago-bears-vs-philadelphia-eagles-2475421_UTC.webp?v=46f840fc" group-title="American Football",Chicago Bears vs Philadelphia Eagles
-https://papacito.cfd/m3u/430266/live.m3u8
-#EXTINF:-1 tvg-id="streamed:chicago-bears-vs-philadelphia-eagles-2475421" tvg-name="Chicago Bears vs Philadelphia Eagles" tvg-logo="https://cdn.highfly.to/posters/chicago-bears-vs-philadelphia-eagles-2475421_UTC.webp?v=46f840fc" group-title="American Football",Chicago Bears vs Philadelphia Eagles
-https://papacito.cfd/m3u/1239023/live.m3u8
