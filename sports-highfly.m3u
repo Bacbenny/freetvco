@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-30T07:41:31.300Z
+# Generated at 2026-09-30T14:24:51.102Z
 #EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
@@ -21,3 +21,9 @@ https://papacito.cfd/m3u/now434340/live.m3u8
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-india-cricket-vs-west-indies-cricket-20726" tvg-name="India Cricket vs West Indies Cricket" tvg-logo="https://cdn.highfly.to/posters/custom-india-cricket-vs-west-indies-cricket-20726_UTC.webp?v=c79674a5" group-title="Football",India Cricket vs West Indies Cricket
+https://papacito.cfd/m3u/852137/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-india-cricket-vs-west-indies-cricket-20726" tvg-name="India Cricket vs West Indies Cricket" tvg-logo="https://cdn.highfly.to/posters/custom-india-cricket-vs-west-indies-cricket-20726_UTC.webp?v=c79674a5" group-title="Football",India Cricket vs West Indies Cricket
+https://papacito.cfd/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:custom-south-africa-cricket-vs-australia-cricket-20726" tvg-name="South Africa Cricket vs Australia Cricket" tvg-logo="https://cdn.highfly.to/posters/custom-south-africa-cricket-vs-australia-cricket-20726_UTC.webp?v=fb40af29" group-title="Football",South Africa Cricket vs Australia Cricket
+https://papacito.cfd/m3u/2161753/live.m3u8
