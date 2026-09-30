@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-09-30T19:33:39.271Z
+# Generated at 2026-09-30T23:20:42.176Z
 #EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
@@ -21,29 +21,25 @@ https://papacito.cfd/m3u/now434340/live.m3u8
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-eritrea-vs-south-africa-20726" tvg-name="Eritrea vs South Africa" tvg-logo="https://cdn.highfly.to/posters/custom-eritrea-vs-south-africa-20726_UTC.webp?v=d564d91f" group-title="Football",Eritrea vs South Africa
-https://papacito.cfd/m3u/1874267/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-eritrea-vs-south-africa-20726" tvg-name="Eritrea vs South Africa" tvg-logo="https://cdn.highfly.to/posters/custom-eritrea-vs-south-africa-20726_UTC.webp?v=d564d91f" group-title="Football",Eritrea vs South Africa
-https://papacito.cfd/m3u/1940094/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-philadelphia-phillies-2610872" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-philadelphia-phillies-2610872_UTC.webp?v=1b5bb883" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
-https://papacito.cfd/m3u/588012/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-philadelphia-phillies-2610872" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-philadelphia-phillies-2610872_UTC.webp?v=1b5bb883" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
-https://papacito.cfd/m3u/1820471/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-philadelphia-phillies-2610872" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-philadelphia-phillies-2610872_UTC.webp?v=1b5bb883" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
-https://papacito.cfd/m3u/500454/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-philadelphia-phillies-2610872" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-philadelphia-phillies-2610872_UTC.webp?v=1b5bb883" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
-https://papacito.cfd/m3u/1820259/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-philadelphia-phillies-2610872" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-philadelphia-phillies-2610872_UTC.webp?v=1b5bb883" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
-https://papacito.cfd/m3u/1820042/live.m3u8
 #EXTINF:-1 tvg-id="streamed:boylesports-world-grand-prix-round-2-day-2-2610698" tvg-name="BoyleSports World Grand Prix Round 2 Day 2" tvg-logo="https://cdn.highfly.to/posters/boylesports-world-grand-prix-round-2-day-2-2610698_UTC.webp?v=aca9319b" group-title="Darts",BoyleSports World Grand Prix Round 2 Day 2
 https://papacito.cfd/m3u/1527639/live.m3u8
 #EXTINF:-1 tvg-id="streamed:boylesports-world-grand-prix-round-2-day-2-2610698" tvg-name="BoyleSports World Grand Prix Round 2 Day 2" tvg-logo="https://cdn.highfly.to/posters/boylesports-world-grand-prix-round-2-day-2-2610698_UTC.webp?v=aca9319b" group-title="Darts",BoyleSports World Grand Prix Round 2 Day 2
 https://papacito.cfd/m3u/1968680/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-ol-lyonnes-vs-chelsea" tvg-name="OL Lyonnes vs. Chelsea" tvg-logo="https://cdn.highfly.to/posters/ppv-ol-lyonnes-vs-chelsea_UTC.webp?v=7caae8e8" group-title="Football",OL Lyonnes vs. Chelsea
-https://papacito.cfd/m3u/1562785/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-ol-lyonnes-vs-chelsea" tvg-name="OL Lyonnes vs. Chelsea" tvg-logo="https://cdn.highfly.to/posters/ppv-ol-lyonnes-vs-chelsea_UTC.webp?v=7caae8e8" group-title="Football",OL Lyonnes vs. Chelsea
-https://papacito.cfd/m3u/2003571/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-ol-lyonnes-vs-chelsea" tvg-name="OL Lyonnes vs. Chelsea" tvg-logo="https://cdn.highfly.to/posters/ppv-ol-lyonnes-vs-chelsea_UTC.webp?v=7caae8e8" group-title="Football",OL Lyonnes vs. Chelsea
-https://papacito.cfd/m3u/1501734/live.m3u8
-#EXTINF:-1 tvg-id="streamed:custom-portugal-u21-vs-gibraltar-u21-20726" tvg-name="Portugal U21 vs Gibraltar U21" tvg-logo="https://cdn.highfly.to/posters/custom-portugal-u21-vs-gibraltar-u21-20726_UTC.webp?v=78d9a22e" group-title="Football",Portugal U21 vs Gibraltar U21
-https://papacito.cfd/m3u/386507/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-astros-vs-chicago-white-sox-2610873" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/houston-astros-vs-chicago-white-sox-2610873_UTC.webp?v=034379dd" group-title="Baseball",Houston Astros vs Chicago White Sox
+https://papacito.cfd/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-astros-vs-chicago-white-sox-2610873" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/houston-astros-vs-chicago-white-sox-2610873_UTC.webp?v=034379dd" group-title="Baseball",Houston Astros vs Chicago White Sox
+https://papacito.cfd/m3u/1820471/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-astros-vs-chicago-white-sox-2610873" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/houston-astros-vs-chicago-white-sox-2610873_UTC.webp?v=034379dd" group-title="Baseball",Houston Astros vs Chicago White Sox
+https://papacito.cfd/m3u/414066/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-astros-vs-chicago-white-sox-2610873" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/houston-astros-vs-chicago-white-sox-2610873_UTC.webp?v=034379dd" group-title="Baseball",Houston Astros vs Chicago White Sox
+https://papacito.cfd/m3u/500452/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-astros-vs-chicago-white-sox-2610873" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/houston-astros-vs-chicago-white-sox-2610873_UTC.webp?v=034379dd" group-title="Baseball",Houston Astros vs Chicago White Sox
+https://papacito.cfd/m3u/414070/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-astros-vs-chicago-white-sox-2610873" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/houston-astros-vs-chicago-white-sox-2610873_UTC.webp?v=034379dd" group-title="Baseball",Houston Astros vs Chicago White Sox
+https://papacito.cfd/m3u/498806/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-astros-vs-chicago-white-sox-2610873" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/houston-astros-vs-chicago-white-sox-2610873_UTC.webp?v=034379dd" group-title="Baseball",Houston Astros vs Chicago White Sox
+https://papacito.cfd/m3u/1940080/live.m3u8
+#EXTINF:-1 tvg-id="streamed:washington-mystics-vs-atlanta-dream-2610974" tvg-name="Washington Mystics vs Atlanta Dream" tvg-logo="https://cdn.highfly.to/posters/washington-mystics-vs-atlanta-dream-2610974_UTC.webp?v=37c09d1f" group-title="Basketball",Washington Mystics vs Atlanta Dream
+https://papacito.cfd/m3u/1970969/live.m3u8
+#EXTINF:-1 tvg-id="streamed:washington-mystics-vs-atlanta-dream-2610974" tvg-name="Washington Mystics vs Atlanta Dream" tvg-logo="https://cdn.highfly.to/posters/washington-mystics-vs-atlanta-dream-2610974_UTC.webp?v=37c09d1f" group-title="Basketball",Washington Mystics vs Atlanta Dream
+https://papacito.cfd/m3u/1970973/live.m3u8
