@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-01T16:36:28.406Z
+# Generated at 2026-10-01T21:31:43.902Z
 #EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
@@ -21,19 +21,7 @@ https://papacito.cfd/m3u/now434340/live.m3u8
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-3443434" tvg-name="US : ESPN" tvg-logo="https://cdn.highfly.to/leaf_posters/us-3443434_UTC.webp?v=501584e237ebde7c" group-title="Sports",US : ESPN
 https://papacito.cfd/m3u/us-3443434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-greece-u21-latvia-u21-20727" tvg-name="Greece U21 vs Latvia U21" tvg-logo="https://cdn.highfly.to/posters/football-greece-u21-latvia-u21-20727_UTC.webp?v=33a7babb" group-title="Football",Greece U21 vs Latvia U21
-https://papacito.cfd/m3u/842953/live.m3u8
-#EXTINF:-1 tvg-id="streamed:azerbaijan-vs-liechtenstein-2442780" tvg-name="Azerbaijan vs Liechtenstein" tvg-logo="https://cdn.highfly.to/posters/azerbaijan-vs-liechtenstein-2442780_UTC.webp?v=44d89546" group-title="Football",Azerbaijan vs Liechtenstein
-https://papacito.cfd/m3u/429583/live.m3u8
-#EXTINF:-1 tvg-id="streamed:azerbaijan-vs-liechtenstein-2442780" tvg-name="Azerbaijan vs Liechtenstein" tvg-logo="https://cdn.highfly.to/posters/azerbaijan-vs-liechtenstein-2442780_UTC.webp?v=44d89546" group-title="Football",Azerbaijan vs Liechtenstein
-https://papacito.cfd/m3u/325018/live.m3u8
-#EXTINF:-1 tvg-id="streamed:azerbaijan-vs-liechtenstein-2442780" tvg-name="Azerbaijan vs Liechtenstein" tvg-logo="https://cdn.highfly.to/posters/azerbaijan-vs-liechtenstein-2442780_UTC.webp?v=44d89546" group-title="Football",Azerbaijan vs Liechtenstein
-https://papacito.cfd/m3u/619642/live.m3u8
-#EXTINF:-1 tvg-id="streamed:azerbaijan-vs-liechtenstein-2442780" tvg-name="Azerbaijan vs Liechtenstein" tvg-logo="https://cdn.highfly.to/posters/azerbaijan-vs-liechtenstein-2442780_UTC.webp?v=44d89546" group-title="Football",Azerbaijan vs Liechtenstein
-https://papacito.cfd/m3u/1688739/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-north-macedonia-u21-montenegro-u21-20727" tvg-name="North Macedonia U21 vs Montenegro U21" tvg-logo="https://cdn.highfly.to/posters/football-north-macedonia-u21-montenegro-u21-20727_UTC.webp?v=b3be3a7d" group-title="Football",North Macedonia U21 vs Montenegro U21
-https://papacito.cfd/m3u/1460565/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-armenia-u21-italy-u21-20727" tvg-name="Armenia U21 vs Italy U21" tvg-logo="https://cdn.highfly.to/posters/football-armenia-u21-italy-u21-20727_UTC.webp?v=56f3e3b7" group-title="Football",Armenia U21 vs Italy U21
-https://papacito.cfd/m3u/285435/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-armenia-u21-italy-u21-20727" tvg-name="Armenia U21 vs Italy U21" tvg-logo="https://cdn.highfly.to/posters/football-armenia-u21-italy-u21-20727_UTC.webp?v=56f3e3b7" group-title="Football",Armenia U21 vs Italy U21
-https://papacito.cfd/m3u/284568/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-2026-world-grand-prix-day-4" tvg-name="2026 World Grand Prix | Day 4" tvg-logo="https://cdn.highfly.to/posters/ppv-2026-world-grand-prix-day-4_UTC.webp?v=48df6782" group-title="Darts",2026 World Grand Prix | Day 4
+https://papacito.cfd/m3u/1527639/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-2026-world-grand-prix-day-4" tvg-name="2026 World Grand Prix | Day 4" tvg-logo="https://cdn.highfly.to/posters/ppv-2026-world-grand-prix-day-4_UTC.webp?v=48df6782" group-title="Darts",2026 World Grand Prix | Day 4
+https://papacito.cfd/m3u/1290241/live.m3u8
