@@ -1,47 +1,63 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-03T07:15:25.212Z
-#EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Rugby",AU : FOX SPORTS 502 HD
+# Generated at 2026-10-03T12:41:40.018Z
+#EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
-#EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Sports",CA : TSN 1
+#EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
 https://papacito.cfd/m3u/ca-tsn-1/live.m3u8
-#EXTINF:-1 tvg-id="leaf:ca-tsn-5" tvg-name="CA : TSN 5" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Sports",CA : TSN 5
+#EXTINF:-1 tvg-id="leaf:ca-tsn-5" tvg-name="CA : TSN 5" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-5_UTC.webp?v=0edd62e010b1083a" group-title="Sports",CA : TSN 5
 https://papacito.cfd/m3u/ca-tsn-5/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="leaf:es-dazn-f1" tvg-name="TV : DAZN F1" tvg-logo="https://cdn.highfly.to/leaf_posters/es-dazn-f1_UTC.webp?v=602693ed03256cb1" group-title="Motor Sports",TV : DAZN F1
+https://papacito.cfd/m3u/es-dazn-f1/live.m3u8
+#EXTINF:-1 tvg-id="leaf:es-dazn-f1" tvg-name="TV : DAZN F1" tvg-logo="https://cdn.highfly.to/leaf_posters/es-dazn-f1_UTC.webp?v=602693ed03256cb1" group-title="Motor Sports",TV : DAZN F1
+https://papacito.cfd/m3u/tv-dazn-f1/live.m3u8
+#EXTINF:-1 tvg-id="leaf:it-sky-sport-f1" tvg-name="IT : SKY SPORT F1" tvg-logo="https://cdn.highfly.to/leaf_posters/it-sky-sport-f1_UTC.webp?v=7332be25378f9e50" group-title="Motor Sports",IT : SKY SPORT F1
+https://papacito.cfd/m3u/it-sky-sport-f1/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-234243234234/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-4224234" tvg-name="(FHD) : SKY SPORTS FOOTBALL" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Football",(FHD) : SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="leaf:now-4224234" tvg-name="(FHD) : SKY SPORTS FOOTBALL" tvg-logo="https://cdn.highfly.to/leaf_posters/now-4224234_UTC.webp?v=81694ca7241e944c" group-title="Football",(FHD) : SKY SPORTS FOOTBALL
 https://papacito.cfd/m3u/now-4224234/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-545445" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Motor Sports",(FHD) : SKY SPORTS F1
+#EXTINF:-1 tvg-id="leaf:now-545445" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-545445_UTC.webp?v=482c84ce8748a929" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/now-545445/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-545445" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Motor Sports",(FHD) : SKY SPORTS F1
+#EXTINF:-1 tvg-id="leaf:now-545445" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-545445_UTC.webp?v=482c84ce8748a929" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/vip-4343477/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-sky-sports-tennis" tvg-name="(FHD) : SKY SPORTS TENNIS" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
+#EXTINF:-1 tvg-id="leaf:now-sky-sports-tennis" tvg-name="(FHD) : SKY SPORTS TENNIS" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-tennis_UTC.webp?v=0ea453f3d9baede5" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
 https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now434340" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Golf",(FHD) : SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="leaf:now434340" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/now434340_UTC.webp?v=8d9f6d13fd90b135" group-title="Golf",(FHD) : SKY SPORTS GOLF
 https://papacito.cfd/m3u/now434340/live.m3u8
-#EXTINF:-1 tvg-id="leaf:nz-s454545" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Rugby",NZ : SKY SPORT 1
+#EXTINF:-1 tvg-id="leaf:nz-s454545" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-s454545_UTC.webp?v=ff38f50289ed16ac" group-title="Rugby",NZ : SKY SPORT 1
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-big-ten-network-hd" tvg-name="US : BIG TEN NETWORK HD" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Football",US : BIG TEN NETWORK HD
-https://papacito.cfd/m3u/us-big-ten-network-hd/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Sports",US : ESPN HD
+#EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-08-cardenas-v-timko-ppv-08" tvg-name="Cardenas v Timko" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Fight",Cardenas v Timko
-https://papacito.cfd/m3u/605779/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-08-cardenas-v-timko-ppv-08" tvg-name="Cardenas v Timko" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Fight",Cardenas v Timko
-https://papacito.cfd/m3u/1855344/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-08-cardenas-v-timko-ppv-08" tvg-name="Cardenas v Timko" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Fight",Cardenas v Timko
-https://papacito.cfd/m3u/605881/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cricket-pakistan-india-20729" tvg-name="Pakistan vs India" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Cricket",Pakistan vs India
+#EXTINF:-1 tvg-id="streamed:cricket-india-west-indies-20729" tvg-name="India vs West Indies" tvg-logo="https://cdn.highfly.to/posters/cricket-india-west-indies-20729_UTC.webp?v=6ef52e51" group-title="Cricket",India vs West Indies
 https://papacito.cfd/m3u/852137/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cricket-pakistan-india-20729" tvg-name="Pakistan vs India" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Cricket",Pakistan vs India
-https://papacito.cfd/m3u/324993/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470750" tvg-name="Waikato vs Tasman" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Rugby",Waikato vs Tasman
-https://papacito.cfd/m3u/2006097/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470750" tvg-name="Waikato vs Tasman" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Rugby",Waikato vs Tasman
-https://papacito.cfd/m3u/1968680/live.m3u8
-#EXTINF:-1 tvg-id="streamed:npc-2470750" tvg-name="Waikato vs Tasman" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Rugby",Waikato vs Tasman
-https://papacito.cfd/m3u/1966350/live.m3u8
-#EXTINF:-1 tvg-id="streamed:rally-italia-sardegna-ss9-coiluna-loelle-1-world-rally-championship-1791011460" tvg-name="Rally Italia Sardegna — SS9 - Coiluna - Loelle 1" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Motor Sports",Rally Italia Sardegna — SS9 - Coiluna - Loelle 1
-https://papacito.cfd/m3u/1527611/live.m3u8
-#EXTINF:-1 tvg-id="streamed:rally-italia-sardegna-ss9-coiluna-loelle-1-world-rally-championship-1791011460" tvg-name="Rally Italia Sardegna — SS9 - Coiluna - Loelle 1" tvg-logo="https://cdn.highfly.to/maintenance.png" group-title="Motor Sports",Rally Italia Sardegna — SS9 - Coiluna - Loelle 1
-https://papacito.cfd/m3u/1878350/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-india-west-indies-20729" tvg-name="India vs West Indies" tvg-logo="https://cdn.highfly.to/posters/cricket-india-west-indies-20729_UTC.webp?v=6ef52e51" group-title="Cricket",India vs West Indies
+https://papacito.cfd/m3u/588011/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-chesterfield-tranmere-rovers-20729" tvg-name="Chesterfield vs Tranmere Rovers" tvg-logo="https://cdn.highfly.to/posters/football-chesterfield-tranmere-rovers-20729_UTC.webp?v=c65fcd4a" group-title="Football",Chesterfield vs Tranmere Rovers
+https://papacito.cfd/m3u/1527639/live.m3u8
+#EXTINF:-1 tvg-id="streamed:urc-lions-ospreys-20729" tvg-name="Lions vs Ospreys" tvg-logo="https://cdn.highfly.to/posters/urc-lions-ospreys-20729_UTC.webp?v=58e7ec1d" group-title="Rugby",Lions vs Ospreys
+https://papacito.cfd/m3u/587989/live.m3u8
+#EXTINF:-1 tvg-id="streamed:urc-lions-ospreys-20729" tvg-name="Lions vs Ospreys" tvg-logo="https://cdn.highfly.to/posters/urc-lions-ospreys-20729_UTC.webp?v=58e7ec1d" group-title="Rugby",Lions vs Ospreys
+https://papacito.cfd/m3u/1562519/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-manchester-united-liverpool-20729" tvg-name="Manchester United vs Liverpool" tvg-logo="https://cdn.highfly.to/posters/football-manchester-united-liverpool-20729_UTC.webp?v=d7e1a93e" group-title="Football",Manchester United vs Liverpool
+https://papacito.cfd/m3u/500452/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-manchester-united-liverpool-20729" tvg-name="Manchester United vs Liverpool" tvg-logo="https://cdn.highfly.to/posters/football-manchester-united-liverpool-20729_UTC.webp?v=d7e1a93e" group-title="Football",Manchester United vs Liverpool
+https://papacito.cfd/m3u/414070/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-manchester-united-liverpool-20729" tvg-name="Manchester United vs Liverpool" tvg-logo="https://cdn.highfly.to/posters/football-manchester-united-liverpool-20729_UTC.webp?v=d7e1a93e" group-title="Football",Manchester United vs Liverpool
+https://papacito.cfd/m3u/1831693/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-manchester-united-liverpool-20729" tvg-name="Manchester United vs Liverpool" tvg-logo="https://cdn.highfly.to/posters/football-manchester-united-liverpool-20729_UTC.webp?v=d7e1a93e" group-title="Football",Manchester United vs Liverpool
+https://papacito.cfd/m3u/1968676/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-fiorentina-sassuolo-20729" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://cdn.highfly.to/posters/football-fiorentina-sassuolo-20729_UTC.webp?v=d491c5e6" group-title="Football",Fiorentina vs Sassuolo
+https://papacito.cfd/m3u/429583/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-fiorentina-sassuolo-20729" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://cdn.highfly.to/posters/football-fiorentina-sassuolo-20729_UTC.webp?v=d491c5e6" group-title="Football",Fiorentina vs Sassuolo
+https://papacito.cfd/m3u/325018/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-fiorentina-sassuolo-20729" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://cdn.highfly.to/posters/football-fiorentina-sassuolo-20729_UTC.webp?v=d491c5e6" group-title="Football",Fiorentina vs Sassuolo
+https://papacito.cfd/m3u/621412/live.m3u8
+#EXTINF:-1 tvg-id="streamed:rally-italia-sardegna-ss11-lerno-monti-di-al-2-world-rally-championship-1791030660" tvg-name="Rally Italia Sardegna — SS11 - Lerno - Monti di Alá 2" tvg-logo="https://cdn.highfly.to/posters/rally-italia-sardegna-ss11-lerno-monti-di-al-2-world-rally-championship-1791030660_UTC.webp?v=9d27372f" group-title="Motor Sports",Rally Italia Sardegna — SS11 - Lerno - Monti di Alá 2
+https://papacito.cfd/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:finland-vs-albania-2442796" tvg-name="Finland vs Albania" tvg-logo="https://cdn.highfly.to/posters/finland-vs-albania-2442796_UTC.webp?v=5e9c3952" group-title="Football",Finland vs Albania
+https://papacito.cfd/m3u/429585/live.m3u8
+#EXTINF:-1 tvg-id="streamed:finland-vs-albania-2442796" tvg-name="Finland vs Albania" tvg-logo="https://cdn.highfly.to/posters/finland-vs-albania-2442796_UTC.webp?v=5e9c3952" group-title="Football",Finland vs Albania
+https://papacito.cfd/m3u/2162002/live.m3u8
+#EXTINF:-1 tvg-id="streamed:finland-vs-albania-2442796" tvg-name="Finland vs Albania" tvg-logo="https://cdn.highfly.to/posters/finland-vs-albania-2442796_UTC.webp?v=5e9c3952" group-title="Football",Finland vs Albania
+https://papacito.cfd/m3u/1688739/live.m3u8
