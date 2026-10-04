@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-04T14:31:28.541Z
+# Generated at 2026-10-04T18:19:48.327Z
 #EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
@@ -9,6 +9,14 @@ https://papacito.cfd/m3u/ca-tsn-1/live.m3u8
 https://papacito.cfd/m3u/ca-tsn-5/live.m3u8
 #EXTINF:-1 tvg-id="leaf:es-dazn-f1" tvg-name="ES : DAZN F1" tvg-logo="https://cdn.highfly.to/leaf_posters/es-dazn-f1_UTC.webp?v=7ec872e281bd4463" group-title="Sports",ES : DAZN F1
 https://papacito.cfd/m3u/es-dazn-f1/live.m3u8
+#EXTINF:-1 tvg-id="leaf:nfl-redzone-oct-4-13-00-tsn-36" tvg-name="US : NFL REDZONE" tvg-logo="https://cdn.highfly.to/leaf_posters/nfl-redzone-oct-4-13-00-tsn-36_UTC.webp?v=7879c872e214741a" group-title="American Football",US : NFL REDZONE
+https://papacito.cfd/m3u/nfl-redzone-oct-4-13-00-tsn-36/live.m3u8
+#EXTINF:-1 tvg-id="leaf:nfl-redzone-oct-4-13-00-tsn-36" tvg-name="US : NFL REDZONE" tvg-logo="https://cdn.highfly.to/leaf_posters/nfl-redzone-oct-4-13-00-tsn-36_UTC.webp?v=7879c872e214741a" group-title="American Football",US : NFL REDZONE
+https://papacito.cfd/m3u/now-sky-sports-mix/live.m3u8
+#EXTINF:-1 tvg-id="leaf:nfl-redzone-oct-4-13-00-tsn-36" tvg-name="US : NFL REDZONE" tvg-logo="https://cdn.highfly.to/leaf_posters/nfl-redzone-oct-4-13-00-tsn-36_UTC.webp?v=7879c872e214741a" group-title="American Football",US : NFL REDZONE
+https://papacito.cfd/m3u/us-nfl-redzone/live.m3u8
+#EXTINF:-1 tvg-id="leaf:nfl-redzone-oct-4-13-00-tsn-36" tvg-name="US : NFL REDZONE" tvg-logo="https://cdn.highfly.to/leaf_posters/nfl-redzone-oct-4-13-00-tsn-36_UTC.webp?v=7879c872e214741a" group-title="American Football",US : NFL REDZONE
+https://papacito.cfd/m3u/vip-sky-sports-mix/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-234243234234/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
@@ -25,53 +33,93 @@ https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
-#EXTINF:-1 tvg-id="streamed:azerbaijan-vs-lithuania-2442801" tvg-name="Azerbaijan vs Lithuania" tvg-logo="https://cdn.highfly.to/posters/azerbaijan-vs-lithuania-2442801_UTC.webp?v=2b3aab12" group-title="Football",Azerbaijan vs Lithuania
-https://papacito.cfd/m3u/429585/live.m3u8
-#EXTINF:-1 tvg-id="streamed:azerbaijan-vs-lithuania-2442801" tvg-name="Azerbaijan vs Lithuania" tvg-logo="https://cdn.highfly.to/posters/azerbaijan-vs-lithuania-2442801_UTC.webp?v=2b3aab12" group-title="Football",Azerbaijan vs Lithuania
-https://papacito.cfd/m3u/2162002/live.m3u8
-#EXTINF:-1 tvg-id="streamed:azerbaijan-vs-lithuania-2442801" tvg-name="Azerbaijan vs Lithuania" tvg-logo="https://cdn.highfly.to/posters/azerbaijan-vs-lithuania-2442801_UTC.webp?v=2b3aab12" group-title="Football",Azerbaijan vs Lithuania
-https://papacito.cfd/m3u/1688741/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-everton-vs-birmingham-city" tvg-name="Everton vs. Birmingham City" tvg-logo="https://cdn.highfly.to/posters/ppv-everton-vs-birmingham-city_UTC.webp?v=28d3c9e2" group-title="Football",Everton vs. Birmingham City
-https://papacito.cfd/m3u/2006127/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-everton-vs-birmingham-city" tvg-name="Everton vs. Birmingham City" tvg-logo="https://cdn.highfly.to/posters/ppv-everton-vs-birmingham-city_UTC.webp?v=28d3c9e2" group-title="Football",Everton vs. Birmingham City
-https://papacito.cfd/m3u/1501734/live.m3u8
 #EXTINF:-1 tvg-id="streamed:ppv-west-ham-united-vs-chelsea" tvg-name="West Ham United vs. Chelsea" tvg-logo="https://cdn.highfly.to/posters/ppv-west-ham-united-vs-chelsea_UTC.webp?v=41a6a76c" group-title="Football",West Ham United vs. Chelsea
 https://papacito.cfd/m3u/1536899/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-milan-w-juventus-w-20730" tvg-name="Milan W vs Juventus W" tvg-logo="https://cdn.highfly.to/posters/football-milan-w-juventus-w-20730_UTC.webp?v=24b8c4e6" group-title="Football",Milan W vs Juventus W
-https://papacito.cfd/m3u/1562610/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-milan-w-juventus-w-20730" tvg-name="Milan W vs Juventus W" tvg-logo="https://cdn.highfly.to/posters/football-milan-w-juventus-w-20730_UTC.webp?v=24b8c4e6" group-title="Football",Milan W vs Juventus W
-https://papacito.cfd/m3u/1884288/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-tottenham-w-london-city-lionesses-20730" tvg-name="Tottenham W vs London City Lionesses" tvg-logo="https://cdn.highfly.to/posters/football-tottenham-w-london-city-lionesses-20730_UTC.webp?v=47a871b7" group-title="Football",Tottenham W vs London City Lionesses
-https://papacito.cfd/m3u/429938/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-tottenham-w-london-city-lionesses-20730" tvg-name="Tottenham W vs London City Lionesses" tvg-logo="https://cdn.highfly.to/posters/football-tottenham-w-london-city-lionesses-20730_UTC.webp?v=47a871b7" group-title="Football",Tottenham W vs London City Lionesses
+#EXTINF:-1 tvg-id="streamed:football-barcelona-w-realmadrid-w-20261004" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://cdn.highfly.to/posters/football-barcelona-w-realmadrid-w-20261004_UTC.webp?v=8273751f" group-title="Football",Barcelona vs Real Madrid
+https://papacito.cfd/m3u/1714050/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-barcelona-w-realmadrid-w-20261004" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://cdn.highfly.to/posters/football-barcelona-w-realmadrid-w-20261004_UTC.webp?v=8273751f" group-title="Football",Barcelona vs Real Madrid
+https://papacito.cfd/m3u/2133298/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-barcelona-w-realmadrid-w-20261004" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://cdn.highfly.to/posters/football-barcelona-w-realmadrid-w-20261004_UTC.webp?v=8273751f" group-title="Football",Barcelona vs Real Madrid
+https://papacito.cfd/m3u/1954601/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kosovo-vs-austria-2442802" tvg-name="Kosovo vs Austria" tvg-logo="https://cdn.highfly.to/posters/kosovo-vs-austria-2442802_UTC.webp?v=52b2495e" group-title="Football",Kosovo vs Austria
+https://papacito.cfd/m3u/429585/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kosovo-vs-austria-2442802" tvg-name="Kosovo vs Austria" tvg-logo="https://cdn.highfly.to/posters/kosovo-vs-austria-2442802_UTC.webp?v=52b2495e" group-title="Football",Kosovo vs Austria
+https://papacito.cfd/m3u/2162002/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kosovo-vs-austria-2442802" tvg-name="Kosovo vs Austria" tvg-logo="https://cdn.highfly.to/posters/kosovo-vs-austria-2442802_UTC.webp?v=52b2495e" group-title="Football",Kosovo vs Austria
+https://papacito.cfd/m3u/1688739/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kosovo-vs-austria-2442802" tvg-name="Kosovo vs Austria" tvg-logo="https://cdn.highfly.to/posters/kosovo-vs-austria-2442802_UTC.webp?v=52b2495e" group-title="Football",Kosovo vs Austria
+https://papacito.cfd/m3u/1939915/live.m3u8
+#EXTINF:-1 tvg-id="streamed:malta-vs-andorra-2475300" tvg-name="Malta vs Andorra" tvg-logo="https://cdn.highfly.to/posters/malta-vs-andorra-2475300_UTC.webp?v=31b3b63c" group-title="Football",Malta vs Andorra
+https://papacito.cfd/m3u/1688735/live.m3u8
+#EXTINF:-1 tvg-id="streamed:malta-vs-andorra-2475300" tvg-name="Malta vs Andorra" tvg-logo="https://cdn.highfly.to/posters/malta-vs-andorra-2475300_UTC.webp?v=31b3b63c" group-title="Football",Malta vs Andorra
+https://papacito.cfd/m3u/439211/live.m3u8
+#EXTINF:-1 tvg-id="streamed:malta-vs-andorra-2475300" tvg-name="Malta vs Andorra" tvg-logo="https://cdn.highfly.to/posters/malta-vs-andorra-2475300_UTC.webp?v=31b3b63c" group-title="Football",Malta vs Andorra
+https://papacito.cfd/m3u/1939916/live.m3u8
+#EXTINF:-1 tvg-id="streamed:buffalo-bills-vs-new-england-patriots-2475424" tvg-name="Buffalo Bills vs New England Patriots" tvg-logo="https://cdn.highfly.to/posters/buffalo-bills-vs-new-england-patriots-2475424_UTC.webp?v=2fbf59ca" group-title="American Football",Buffalo Bills vs New England Patriots
+https://papacito.cfd/m3u/430013/live.m3u8
+#EXTINF:-1 tvg-id="streamed:buffalo-bills-vs-new-england-patriots-2475424" tvg-name="Buffalo Bills vs New England Patriots" tvg-logo="https://cdn.highfly.to/posters/buffalo-bills-vs-new-england-patriots-2475424_UTC.webp?v=2fbf59ca" group-title="American Football",Buffalo Bills vs New England Patriots
+https://papacito.cfd/m3u/430007/live.m3u8
+#EXTINF:-1 tvg-id="streamed:buffalo-bills-vs-new-england-patriots-2475424" tvg-name="Buffalo Bills vs New England Patriots" tvg-logo="https://cdn.highfly.to/posters/buffalo-bills-vs-new-england-patriots-2475424_UTC.webp?v=2fbf59ca" group-title="American Football",Buffalo Bills vs New England Patriots
+https://papacito.cfd/m3u/405521/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-bears-vs-new-york-jets-2475425" tvg-name="Chicago Bears vs New York Jets" tvg-logo="https://cdn.highfly.to/posters/chicago-bears-vs-new-york-jets-2475425_UTC.webp?v=5b78121d" group-title="American Football",Chicago Bears vs New York Jets
+https://papacito.cfd/m3u/429437/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-bears-vs-new-york-jets-2475425" tvg-name="Chicago Bears vs New York Jets" tvg-logo="https://cdn.highfly.to/posters/chicago-bears-vs-new-york-jets-2475425_UTC.webp?v=5b78121d" group-title="American Football",Chicago Bears vs New York Jets
+https://papacito.cfd/m3u/429404/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-bears-vs-new-york-jets-2475425" tvg-name="Chicago Bears vs New York Jets" tvg-logo="https://cdn.highfly.to/posters/chicago-bears-vs-new-york-jets-2475425_UTC.webp?v=5b78121d" group-title="American Football",Chicago Bears vs New York Jets
+https://papacito.cfd/m3u/429354/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-bears-vs-new-york-jets-2475425" tvg-name="Chicago Bears vs New York Jets" tvg-logo="https://cdn.highfly.to/posters/chicago-bears-vs-new-york-jets-2475425_UTC.webp?v=5b78121d" group-title="American Football",Chicago Bears vs New York Jets
+https://papacito.cfd/m3u/429524/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cincinnati-bengals-vs-jacksonville-jaguars-2475426" tvg-name="Cincinnati Bengals vs Jacksonville Jaguars" tvg-logo="https://cdn.highfly.to/posters/cincinnati-bengals-vs-jacksonville-jaguars-2475426_UTC.webp?v=3a201b34" group-title="American Football",Cincinnati Bengals vs Jacksonville Jaguars
+https://papacito.cfd/m3u/430091/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cincinnati-bengals-vs-jacksonville-jaguars-2475426" tvg-name="Cincinnati Bengals vs Jacksonville Jaguars" tvg-logo="https://cdn.highfly.to/posters/cincinnati-bengals-vs-jacksonville-jaguars-2475426_UTC.webp?v=3a201b34" group-title="American Football",Cincinnati Bengals vs Jacksonville Jaguars
+https://papacito.cfd/m3u/429992/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cincinnati-bengals-vs-jacksonville-jaguars-2475426" tvg-name="Cincinnati Bengals vs Jacksonville Jaguars" tvg-logo="https://cdn.highfly.to/posters/cincinnati-bengals-vs-jacksonville-jaguars-2475426_UTC.webp?v=3a201b34" group-title="American Football",Cincinnati Bengals vs Jacksonville Jaguars
+https://papacito.cfd/m3u/429957/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cincinnati-bengals-vs-jacksonville-jaguars-2475426" tvg-name="Cincinnati Bengals vs Jacksonville Jaguars" tvg-logo="https://cdn.highfly.to/posters/cincinnati-bengals-vs-jacksonville-jaguars-2475426_UTC.webp?v=3a201b34" group-title="American Football",Cincinnati Bengals vs Jacksonville Jaguars
+https://papacito.cfd/m3u/430041/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-arizona-cardinals-2475427" tvg-name="New York Giants vs Arizona Cardinals" tvg-logo="https://cdn.highfly.to/posters/new-york-giants-vs-arizona-cardinals-2475427_UTC.webp?v=127d26a6" group-title="American Football",New York Giants vs Arizona Cardinals
+https://papacito.cfd/m3u/429909/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-arizona-cardinals-2475427" tvg-name="New York Giants vs Arizona Cardinals" tvg-logo="https://cdn.highfly.to/posters/new-york-giants-vs-arizona-cardinals-2475427_UTC.webp?v=127d26a6" group-title="American Football",New York Giants vs Arizona Cardinals
+https://papacito.cfd/m3u/429985/live.m3u8
+#EXTINF:-1 tvg-id="streamed:new-york-giants-vs-arizona-cardinals-2475427" tvg-name="New York Giants vs Arizona Cardinals" tvg-logo="https://cdn.highfly.to/posters/new-york-giants-vs-arizona-cardinals-2475427_UTC.webp?v=127d26a6" group-title="American Football",New York Giants vs Arizona Cardinals
+https://papacito.cfd/m3u/430051/live.m3u8
+#EXTINF:-1 tvg-id="streamed:philadelphia-eagles-vs-los-angeles-rams-2475428" tvg-name="Philadelphia Eagles vs Los Angeles Rams" tvg-logo="https://cdn.highfly.to/posters/philadelphia-eagles-vs-los-angeles-rams-2475428_UTC.webp?v=77d47bc8" group-title="American Football",Philadelphia Eagles vs Los Angeles Rams
+https://papacito.cfd/m3u/429441/live.m3u8
+#EXTINF:-1 tvg-id="streamed:philadelphia-eagles-vs-los-angeles-rams-2475428" tvg-name="Philadelphia Eagles vs Los Angeles Rams" tvg-logo="https://cdn.highfly.to/posters/philadelphia-eagles-vs-los-angeles-rams-2475428_UTC.webp?v=77d47bc8" group-title="American Football",Philadelphia Eagles vs Los Angeles Rams
+https://papacito.cfd/m3u/429489/live.m3u8
+#EXTINF:-1 tvg-id="streamed:philadelphia-eagles-vs-los-angeles-rams-2475428" tvg-name="Philadelphia Eagles vs Los Angeles Rams" tvg-logo="https://cdn.highfly.to/posters/philadelphia-eagles-vs-los-angeles-rams-2475428_UTC.webp?v=77d47bc8" group-title="American Football",Philadelphia Eagles vs Los Angeles Rams
 https://papacito.cfd/m3u/1527635/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-tottenham-w-london-city-lionesses-20730" tvg-name="Tottenham W vs London City Lionesses" tvg-logo="https://cdn.highfly.to/posters/football-tottenham-w-london-city-lionesses-20730_UTC.webp?v=47a871b7" group-title="Football",Tottenham W vs London City Lionesses
-https://papacito.cfd/m3u/2006128/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-tottenham-w-london-city-lionesses-20730" tvg-name="Tottenham W vs London City Lionesses" tvg-logo="https://cdn.highfly.to/posters/football-tottenham-w-london-city-lionesses-20730_UTC.webp?v=47a871b7" group-title="Football",Tottenham W vs London City Lionesses
-https://papacito.cfd/m3u/1501733/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-aston-villa-w-crystal-palace-w-20730" tvg-name="Aston Villa W vs Crystal Palace W" tvg-logo="https://cdn.highfly.to/posters/football-aston-villa-w-crystal-palace-w-20730_UTC.webp?v=e7105489" group-title="Football",Aston Villa W vs Crystal Palace W
-https://papacito.cfd/m3u/2006129/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-aston-villa-w-crystal-palace-w-20730" tvg-name="Aston Villa W vs Crystal Palace W" tvg-logo="https://cdn.highfly.to/posters/football-aston-villa-w-crystal-palace-w-20730_UTC.webp?v=e7105489" group-title="Football",Aston Villa W vs Crystal Palace W
-https://papacito.cfd/m3u/1501736/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-brighton-w-charlton-w-20730" tvg-name="Brighton W vs Charlton W" tvg-logo="https://cdn.highfly.to/posters/football-brighton-w-charlton-w-20730_UTC.webp?v=6b083658" group-title="Football",Brighton W vs Charlton W
-https://papacito.cfd/m3u/1527621/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-brighton-w-charlton-w-20730" tvg-name="Brighton W vs Charlton W" tvg-logo="https://cdn.highfly.to/posters/football-brighton-w-charlton-w-20730_UTC.webp?v=6b083658" group-title="Football",Brighton W vs Charlton W
-https://papacito.cfd/m3u/2006130/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-brighton-w-charlton-w-20730" tvg-name="Brighton W vs Charlton W" tvg-logo="https://cdn.highfly.to/posters/football-brighton-w-charlton-w-20730_UTC.webp?v=6b083658" group-title="Football",Brighton W vs Charlton W
-https://papacito.cfd/m3u/1501735/live.m3u8
-#EXTINF:-1 tvg-id="streamed:washington-commanders-vs-indianapolis-colts-2475423" tvg-name="Washington Commanders vs Indianapolis Colts" tvg-logo="https://cdn.highfly.to/posters/washington-commanders-vs-indianapolis-colts-2475423_UTC.webp?v=ef8d5728" group-title="American Football",Washington Commanders vs Indianapolis Colts
-https://papacito.cfd/m3u/429403/live.m3u8
-#EXTINF:-1 tvg-id="streamed:washington-commanders-vs-indianapolis-colts-2475423" tvg-name="Washington Commanders vs Indianapolis Colts" tvg-logo="https://cdn.highfly.to/posters/washington-commanders-vs-indianapolis-colts-2475423_UTC.webp?v=ef8d5728" group-title="American Football",Washington Commanders vs Indianapolis Colts
-https://papacito.cfd/m3u/430309/live.m3u8
-#EXTINF:-1 tvg-id="streamed:washington-commanders-vs-indianapolis-colts-2475423" tvg-name="Washington Commanders vs Indianapolis Colts" tvg-logo="https://cdn.highfly.to/posters/washington-commanders-vs-indianapolis-colts-2475423_UTC.webp?v=ef8d5728" group-title="American Football",Washington Commanders vs Indianapolis Colts
-https://papacito.cfd/m3u/162136/live.m3u8
-#EXTINF:-1 tvg-id="streamed:washington-commanders-vs-indianapolis-colts-2475423" tvg-name="Washington Commanders vs Indianapolis Colts" tvg-logo="https://cdn.highfly.to/posters/washington-commanders-vs-indianapolis-colts-2475423_UTC.webp?v=ef8d5728" group-title="American Football",Washington Commanders vs Indianapolis Colts
-https://papacito.cfd/m3u/1527619/live.m3u8
-#EXTINF:-1 tvg-id="streamed:washington-commanders-vs-indianapolis-colts-2475423" tvg-name="Washington Commanders vs Indianapolis Colts" tvg-logo="https://cdn.highfly.to/posters/washington-commanders-vs-indianapolis-colts-2475423_UTC.webp?v=ef8d5728" group-title="American Football",Washington Commanders vs Indianapolis Colts
-https://papacito.cfd/m3u/1031378/live.m3u8
-#EXTINF:-1 tvg-id="streamed:washington-commanders-vs-indianapolis-colts-2475423" tvg-name="Washington Commanders vs Indianapolis Colts" tvg-logo="https://cdn.highfly.to/posters/washington-commanders-vs-indianapolis-colts-2475423_UTC.webp?v=ef8d5728" group-title="American Football",Washington Commanders vs Indianapolis Colts
-https://papacito.cfd/m3u/1290231/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-03-motoplayground-race-ponca-city-ppv-03" tvg-name="MotoPlayground Race Ponca City ⭐" tvg-logo="https://cdn.highfly.to/posters/ppv-event-03-motoplayground-race-ponca-city-ppv-03_UTC.webp?v=e7d01a07" group-title="Motor Sports",MotoPlayground Race Ponca City ⭐
-https://papacito.cfd/m3u/605785/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-03-motoplayground-race-ponca-city-ppv-03" tvg-name="MotoPlayground Race Ponca City ⭐" tvg-logo="https://cdn.highfly.to/posters/ppv-event-03-motoplayground-race-ponca-city-ppv-03_UTC.webp?v=e7d01a07" group-title="Motor Sports",MotoPlayground Race Ponca City ⭐
-https://papacito.cfd/m3u/605887/live.m3u8
+#EXTINF:-1 tvg-id="streamed:philadelphia-eagles-vs-los-angeles-rams-2475428" tvg-name="Philadelphia Eagles vs Los Angeles Rams" tvg-logo="https://cdn.highfly.to/posters/philadelphia-eagles-vs-los-angeles-rams-2475428_UTC.webp?v=77d47bc8" group-title="American Football",Philadelphia Eagles vs Los Angeles Rams
+https://papacito.cfd/m3u/1290239/live.m3u8
+#EXTINF:-1 tvg-id="streamed:tampa-bay-buccaneers-vs-green-bay-packers-2475429" tvg-name="Tampa Bay Buccaneers vs Green Bay Packers" tvg-logo="https://cdn.highfly.to/posters/tampa-bay-buccaneers-vs-green-bay-packers-2475429_UTC.webp?v=ecff696c" group-title="American Football",Tampa Bay Buccaneers vs Green Bay Packers
+https://papacito.cfd/m3u/429481/live.m3u8
+#EXTINF:-1 tvg-id="streamed:tampa-bay-buccaneers-vs-green-bay-packers-2475429" tvg-name="Tampa Bay Buccaneers vs Green Bay Packers" tvg-logo="https://cdn.highfly.to/posters/tampa-bay-buccaneers-vs-green-bay-packers-2475429_UTC.webp?v=ecff696c" group-title="American Football",Tampa Bay Buccaneers vs Green Bay Packers
+https://papacito.cfd/m3u/429496/live.m3u8
+#EXTINF:-1 tvg-id="streamed:tampa-bay-buccaneers-vs-green-bay-packers-2475429" tvg-name="Tampa Bay Buccaneers vs Green Bay Packers" tvg-logo="https://cdn.highfly.to/posters/tampa-bay-buccaneers-vs-green-bay-packers-2475429_UTC.webp?v=ecff696c" group-title="American Football",Tampa Bay Buccaneers vs Green Bay Packers
+https://papacito.cfd/m3u/429386/live.m3u8
+#EXTINF:-1 tvg-id="streamed:baltimore-ravens-vs-tennessee-titans-2475430" tvg-name="Baltimore Ravens vs Tennessee Titans" tvg-logo="https://cdn.highfly.to/posters/baltimore-ravens-vs-tennessee-titans-2475430_UTC.webp?v=50ee9511" group-title="American Football",Baltimore Ravens vs Tennessee Titans
+https://papacito.cfd/m3u/430079/live.m3u8
+#EXTINF:-1 tvg-id="streamed:baltimore-ravens-vs-tennessee-titans-2475430" tvg-name="Baltimore Ravens vs Tennessee Titans" tvg-logo="https://cdn.highfly.to/posters/baltimore-ravens-vs-tennessee-titans-2475430_UTC.webp?v=50ee9511" group-title="American Football",Baltimore Ravens vs Tennessee Titans
+https://papacito.cfd/m3u/429978/live.m3u8
+#EXTINF:-1 tvg-id="streamed:baltimore-ravens-vs-tennessee-titans-2475430" tvg-name="Baltimore Ravens vs Tennessee Titans" tvg-logo="https://cdn.highfly.to/posters/baltimore-ravens-vs-tennessee-titans-2475430_UTC.webp?v=50ee9511" group-title="American Football",Baltimore Ravens vs Tennessee Titans
+https://papacito.cfd/m3u/1562691/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-texans-vs-dallas-cowboys-2475431" tvg-name="Houston Texans vs Dallas Cowboys" tvg-logo="https://cdn.highfly.to/posters/houston-texans-vs-dallas-cowboys-2475431_UTC.webp?v=1af0f609" group-title="American Football",Houston Texans vs Dallas Cowboys
+https://papacito.cfd/m3u/429450/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-texans-vs-dallas-cowboys-2475431" tvg-name="Houston Texans vs Dallas Cowboys" tvg-logo="https://cdn.highfly.to/posters/houston-texans-vs-dallas-cowboys-2475431_UTC.webp?v=1af0f609" group-title="American Football",Houston Texans vs Dallas Cowboys
+https://papacito.cfd/m3u/429427/live.m3u8
+#EXTINF:-1 tvg-id="streamed:houston-texans-vs-dallas-cowboys-2475431" tvg-name="Houston Texans vs Dallas Cowboys" tvg-logo="https://cdn.highfly.to/posters/houston-texans-vs-dallas-cowboys-2475431_UTC.webp?v=1af0f609" group-title="American Football",Houston Texans vs Dallas Cowboys
+https://papacito.cfd/m3u/1239032/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-red-wings-vs-winnipeg-jets-2591519" tvg-name="Detroit Red Wings vs Winnipeg Jets" tvg-logo="https://cdn.highfly.to/posters/detroit-red-wings-vs-winnipeg-jets-2591519_UTC.webp?v=55dc14c8" group-title="Hockey",Detroit Red Wings vs Winnipeg Jets
+https://papacito.cfd/m3u/1562980/live.m3u8
+#EXTINF:-1 tvg-id="streamed:detroit-red-wings-vs-winnipeg-jets-2591519" tvg-name="Detroit Red Wings vs Winnipeg Jets" tvg-logo="https://cdn.highfly.to/posters/detroit-red-wings-vs-winnipeg-jets-2591519_UTC.webp?v=55dc14c8" group-title="Hockey",Detroit Red Wings vs Winnipeg Jets
+https://papacito.cfd/m3u/1538115/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-gotham-fc-angel-city-fc-20730" tvg-name="Gotham FC vs Angel City FC" tvg-logo="https://cdn.highfly.to/posters/football-gotham-fc-angel-city-fc-20730_UTC.webp?v=9b04eea8" group-title="Football",Gotham FC vs Angel City FC
+https://papacito.cfd/m3u/588011/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-gotham-fc-angel-city-fc-20730" tvg-name="Gotham FC vs Angel City FC" tvg-logo="https://cdn.highfly.to/posters/football-gotham-fc-angel-city-fc-20730_UTC.webp?v=9b04eea8" group-title="Football",Gotham FC vs Angel City FC
+https://papacito.cfd/m3u/430266/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-dream-vs-new-york-liberty-2611763" tvg-name="Atlanta Dream vs New York Liberty" tvg-logo="https://cdn.highfly.to/posters/atlanta-dream-vs-new-york-liberty-2611763_UTC.webp?v=e0345de8" group-title="Basketball",Atlanta Dream vs New York Liberty
+https://papacito.cfd/m3u/812594/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-dream-vs-new-york-liberty-2611763" tvg-name="Atlanta Dream vs New York Liberty" tvg-logo="https://cdn.highfly.to/posters/atlanta-dream-vs-new-york-liberty-2611763_UTC.webp?v=e0345de8" group-title="Basketball",Atlanta Dream vs New York Liberty
+https://papacito.cfd/m3u/1970969/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-morocco-mali-20730" tvg-name="Morocco vs Mali" tvg-logo="https://cdn.highfly.to/posters/football-morocco-mali-20730_UTC.webp?v=9b1740c9" group-title="Football",Morocco vs Mali
+https://papacito.cfd/m3u/1659176/live.m3u8
