@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-05T13:33:11.651Z
+# Generated at 2026-10-05T21:18:52.564Z
 #EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=883c8d9eb3585c1c" group-title="Sports",CA : TSN 1
@@ -21,3 +21,9 @@ https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-deportivo-riestra-central-cordoba-sde-20731" tvg-name="Deportivo Riestra vs Central Cordoba SdE" tvg-logo="https://cdn.highfly.to/posters/football-deportivo-riestra-central-cordoba-sde-20731_UTC.webp?v=7216124c" group-title="Football",Deportivo Riestra vs Central Cordoba SdE
+https://papacito.cfd/m3u/1997245/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cleveland-guardians-vs-chicago-white-sox-2611751" tvg-name="Cleveland Guardians vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/cleveland-guardians-vs-chicago-white-sox-2611751_UTC.webp?v=33002be8" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
+https://papacito.cfd/m3u/1904200/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cleveland-guardians-vs-chicago-white-sox-2611751" tvg-name="Cleveland Guardians vs Chicago White Sox" tvg-logo="https://cdn.highfly.to/posters/cleveland-guardians-vs-chicago-white-sox-2611751_UTC.webp?v=33002be8" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
+https://papacito.cfd/m3u/1904202/live.m3u8
