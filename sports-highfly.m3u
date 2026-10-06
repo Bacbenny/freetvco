@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-06T08:18:14.725Z
+# Generated at 2026-10-06T15:22:35.964Z
 #EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=7bc14b39ab49407b" group-title="Afl",AU : FOX SPORTS 504 HD
@@ -21,11 +21,27 @@ https://papacito.cfd/m3u/now-s343434/live.m3u8
 https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
 #EXTINF:-1 tvg-id="leaf:nz-s454545" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-s454545_UTC.webp?v=ff38f50289ed16ac" group-title="Rugby",NZ : SKY SPORT 1
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
+#EXTINF:-1 tvg-id="leaf:uk-tnt-sports-1" tvg-name="UK : TNT SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/uk-tnt-sports-1_UTC.webp?v=65f8af5ad9ea48ea" group-title="Baseball",UK : TNT SPORTS 1
+https://papacito.cfd/m3u/uk-tnt-sports-1/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-02-wwe-monday-night-raw-ppv-02" tvg-name="WWE Monday Night RAW 🔥" tvg-logo="https://cdn.highfly.to/posters/ppv-event-02-wwe-monday-night-raw-ppv-02_UTC.webp?v=d8fb18dc" group-title="Fight",WWE Monday Night RAW 🔥
-https://papacito.cfd/m3u/605786/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-02-wwe-monday-night-raw-ppv-02" tvg-name="WWE Monday Night RAW 🔥" tvg-logo="https://cdn.highfly.to/posters/ppv-event-02-wwe-monday-night-raw-ppv-02_UTC.webp?v=d8fb18dc" group-title="Fight",WWE Monday Night RAW 🔥
-https://papacito.cfd/m3u/1855358/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-event-02-wwe-monday-night-raw-ppv-02" tvg-name="WWE Monday Night RAW 🔥" tvg-logo="https://cdn.highfly.to/posters/ppv-event-02-wwe-monday-night-raw-ppv-02_UTC.webp?v=d8fb18dc" group-title="Fight",WWE Monday Night RAW 🔥
-https://papacito.cfd/m3u/605888/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-india-westindies-t20-20261006" tvg-name="India vs West Indies" tvg-logo="https://cdn.highfly.to/posters/cricket-india-westindies-t20-20261006_UTC.webp?v=e210bc94" group-title="Cricket",India vs West Indies
+https://papacito.cfd/m3u/324993/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-india-westindies-t20-20261006" tvg-name="India vs West Indies" tvg-logo="https://cdn.highfly.to/posters/cricket-india-westindies-t20-20261006_UTC.webp?v=e210bc94" group-title="Cricket",India vs West Indies
+https://papacito.cfd/m3u/1968680/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-azerbaijan-u21-gibraltar-u21-20732" tvg-name="Azerbaijan U21 vs Gibraltar U21" tvg-logo="https://cdn.highfly.to/posters/football-azerbaijan-u21-gibraltar-u21-20732_UTC.webp?v=6779394b" group-title="Football",Azerbaijan U21 vs Gibraltar U21
+https://papacito.cfd/m3u/619642/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kazakhstan-vs-faroe-islands-2442815" tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://cdn.highfly.to/posters/kazakhstan-vs-faroe-islands-2442815_UTC.webp?v=da91e4c7" group-title="Football",Kazakhstan vs Faroe Islands
+https://papacito.cfd/m3u/429585/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kazakhstan-vs-faroe-islands-2442815" tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://cdn.highfly.to/posters/kazakhstan-vs-faroe-islands-2442815_UTC.webp?v=da91e4c7" group-title="Football",Kazakhstan vs Faroe Islands
+https://papacito.cfd/m3u/2162002/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kazakhstan-vs-faroe-islands-2442815" tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://cdn.highfly.to/posters/kazakhstan-vs-faroe-islands-2442815_UTC.webp?v=da91e4c7" group-title="Football",Kazakhstan vs Faroe Islands
+https://papacito.cfd/m3u/1688739/live.m3u8
+#EXTINF:-1 tvg-id="streamed:kazakhstan-vs-faroe-islands-2442815" tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://cdn.highfly.to/posters/kazakhstan-vs-faroe-islands-2442815_UTC.webp?v=da91e4c7" group-title="Football",Kazakhstan vs Faroe Islands
+https://papacito.cfd/m3u/441418/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-india-uruguay-20732" tvg-name="India vs Uruguay" tvg-logo="https://cdn.highfly.to/posters/football-india-uruguay-20732_UTC.webp?v=84ecb46c" group-title="Football",India vs Uruguay
+https://papacito.cfd/m3u/1688741/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-india-uruguay-20732" tvg-name="India vs Uruguay" tvg-logo="https://cdn.highfly.to/posters/football-india-uruguay-20732_UTC.webp?v=84ecb46c" group-title="Football",India vs Uruguay
+https://papacito.cfd/m3u/1680800/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-india-uruguay-20732" tvg-name="India vs Uruguay" tvg-logo="https://cdn.highfly.to/posters/football-india-uruguay-20732_UTC.webp?v=84ecb46c" group-title="Football",India vs Uruguay
+https://papacito.cfd/m3u/1683599/live.m3u8
