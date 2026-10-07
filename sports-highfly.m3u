@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-07T17:31:26.870Z
+# Generated at 2026-10-07T22:13:11.476Z
 #EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=7bc14b39ab49407b" group-title="Afl",AU : FOX SPORTS 504 HD
@@ -23,9 +23,39 @@ https://papacito.cfd/m3u/now-sky-sports-news-hq/live.m3u8
 https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
 #EXTINF:-1 tvg-id="leaf:nz-s454545" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-s454545_UTC.webp?v=ff38f50289ed16ac" group-title="Rugby",NZ : SKY SPORT 1
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-cbs-sports-usa" tvg-name="US : CBS SPORTS" tvg-logo="https://cdn.highfly.to/leaf_posters/us-cbs-sports-usa_UTC.webp?v=28c413dfe619f6e4" group-title="Sports",US : CBS SPORTS
-https://papacito.cfd/m3u/us-cbs-sports-usa/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-fox-sports-1" tvg-name="US : FOX SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/us-fox-sports-1_UTC.webp?v=c1ef56b0a4e9196f" group-title="Sports",US : FOX SPORTS 1
 https://papacito.cfd/m3u/us-fox-sports-1/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-white-sox-vs-cleveland-guardians-2611754" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/chicago-white-sox-vs-cleveland-guardians-2611754_UTC.webp?v=c3ac4c65" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+https://papacito.cfd/m3u/588012/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-white-sox-vs-cleveland-guardians-2611754" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/chicago-white-sox-vs-cleveland-guardians-2611754_UTC.webp?v=c3ac4c65" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+https://papacito.cfd/m3u/325803/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-white-sox-vs-cleveland-guardians-2611754" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/chicago-white-sox-vs-cleveland-guardians-2611754_UTC.webp?v=c3ac4c65" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+https://papacito.cfd/m3u/498682/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-white-sox-vs-cleveland-guardians-2611754" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/chicago-white-sox-vs-cleveland-guardians-2611754_UTC.webp?v=c3ac4c65" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+https://papacito.cfd/m3u/762779/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-white-sox-vs-cleveland-guardians-2611754" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/chicago-white-sox-vs-cleveland-guardians-2611754_UTC.webp?v=c3ac4c65" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+https://papacito.cfd/m3u/1290337/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-white-sox-vs-cleveland-guardians-2611754" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/chicago-white-sox-vs-cleveland-guardians-2611754_UTC.webp?v=c3ac4c65" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+https://testleaf.papacito.cfd/m3u/30567/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-white-sox-vs-cleveland-guardians-2611754" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://cdn.highfly.to/posters/chicago-white-sox-vs-cleveland-guardians-2611754_UTC.webp?v=c3ac4c65" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+https://testleaf.papacito.cfd/m3u/45475/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-los-angeles-dodgers-2615431" tvg-name="Atlanta Braves vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-los-angeles-dodgers-2615431_UTC.webp?v=07630f67" group-title="Baseball",Atlanta Braves vs Los Angeles Dodgers
+https://papacito.cfd/m3u/2162003/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-los-angeles-dodgers-2615431" tvg-name="Atlanta Braves vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-los-angeles-dodgers-2615431_UTC.webp?v=07630f67" group-title="Baseball",Atlanta Braves vs Los Angeles Dodgers
+https://papacito.cfd/m3u/588011/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-los-angeles-dodgers-2615431" tvg-name="Atlanta Braves vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-los-angeles-dodgers-2615431_UTC.webp?v=07630f67" group-title="Baseball",Atlanta Braves vs Los Angeles Dodgers
+https://papacito.cfd/m3u/498806/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-los-angeles-dodgers-2615431" tvg-name="Atlanta Braves vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-los-angeles-dodgers-2615431_UTC.webp?v=07630f67" group-title="Baseball",Atlanta Braves vs Los Angeles Dodgers
+https://papacito.cfd/m3u/762778/live.m3u8
+#EXTINF:-1 tvg-id="streamed:atlanta-braves-vs-los-angeles-dodgers-2615431" tvg-name="Atlanta Braves vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/atlanta-braves-vs-los-angeles-dodgers-2615431_UTC.webp?v=07630f67" group-title="Baseball",Atlanta Braves vs Los Angeles Dodgers
+https://testleaf.papacito.cfd/m3u/30566/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-internacional-corinthians-20733" tvg-name="Internacional vs Corinthians" tvg-logo="https://cdn.highfly.to/posters/football-internacional-corinthians-20733_UTC.webp?v=54a8b652" group-title="Football",Internacional vs Corinthians
+https://papacito.cfd/m3u/439219/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-internacional-corinthians-20733" tvg-name="Internacional vs Corinthians" tvg-logo="https://cdn.highfly.to/posters/football-internacional-corinthians-20733_UTC.webp?v=54a8b652" group-title="Football",Internacional vs Corinthians
+https://papacito.cfd/m3u/1680800/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-internacional-corinthians-20733" tvg-name="Internacional vs Corinthians" tvg-logo="https://cdn.highfly.to/posters/football-internacional-corinthians-20733_UTC.webp?v=54a8b652" group-title="Football",Internacional vs Corinthians
+https://papacito.cfd/m3u/1683599/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-remo-gremio-20733" tvg-name="Remo vs Gremio" tvg-logo="https://cdn.highfly.to/posters/football-remo-gremio-20733_UTC.webp?v=a87c9792" group-title="Football",Remo vs Gremio
+https://papacito.cfd/m3u/439217/live.m3u8
