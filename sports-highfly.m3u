@@ -1,39 +1,67 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-09T08:09:53.910Z
-#EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD | Finals Footy on Fox" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD | Finals Footy on Fox
+# Generated at 2026-10-09T15:26:02.214Z
+#EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD | No Program Information Available" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD | No Program Information Available
 https://papacito.cfd/m3u/au-1312313123/live.m3u8
-#EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU : FOX SPORTS 504 HD | Trading Day" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=7bc14b39ab49407b" group-title="Afl",AU : FOX SPORTS 504 HD | Trading Day
+#EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU : FOX SPORTS 504 HD | AFLW" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=7bc14b39ab49407b" group-title="Afl",AU : FOX SPORTS 504 HD | AFLW
 https://papacito.cfd/m3u/au-fox-sports-504-hd/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1 | SportsCentre" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=393b476c7218fab0" group-title="Sports",CA : TSN 1 | SportsCentre
 https://papacito.cfd/m3u/ca-tsn-1/live.m3u8
-#EXTINF:-1 tvg-id="leaf:ca-tsn-5" tvg-name="CA : TSN 5 | SportsCentre" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-5_UTC.webp?v=3c15df8ad316142e" group-title="Sports",CA : TSN 5 | SportsCentre
+#EXTINF:-1 tvg-id="leaf:ca-tsn-5" tvg-name="CA : TSN 5 | Live: Formula 1 Racing" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-5_UTC.webp?v=3c15df8ad316142e" group-title="Sports",CA : TSN 5 | Live: Formula 1 Racing
 https://papacito.cfd/m3u/ca-tsn-5/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE | Premier League Best Goals" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE | Premier League Best Goals
+#EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE | Total Football" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE | Total Football
 https://papacito.cfd/m3u/now-234243234234/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE | Premier League Best Goals" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE | Premier League Best Goals
+#EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE | Total Football" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE | Total Football
 https://papacito.cfd/m3u/now-545454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-545445" tvg-name="(FHD) : SKY SPORTS F1 | Formula 1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-545445_UTC.webp?v=482c84ce8748a929" group-title="Motor Sports",(FHD) : SKY SPORTS F1 | Formula 1
 https://papacito.cfd/m3u/now-545445/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-s343434" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/now-s343434_UTC.webp?v=8a44901be322a9d3" group-title="Golf",(FHD) : SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="leaf:now-s343434" tvg-name="(FHD) : SKY SPORTS GOLF | Open de España, DP World Tour Golf" tvg-logo="https://cdn.highfly.to/leaf_posters/now-s343434_UTC.webp?v=8a44901be322a9d3" group-title="Golf",(FHD) : SKY SPORTS GOLF | Open de España, DP World Tour Golf
 https://papacito.cfd/m3u/now-s343434/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-sky-sports-news-hq" tvg-name="(FHD) : SKY SPORTS NEWS HQ | Sky Sports Breakfast" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-news-hq_UTC.webp?v=3492bee60b35ec7b" group-title="Sports",(FHD) : SKY SPORTS NEWS HQ | Sky Sports Breakfast
+#EXTINF:-1 tvg-id="leaf:now-sky-sports-news-hq" tvg-name="(FHD) : SKY SPORTS NEWS HQ | Total Football" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-news-hq_UTC.webp?v=3492bee60b35ec7b" group-title="Sports",(FHD) : SKY SPORTS NEWS HQ | Total Football
 https://papacito.cfd/m3u/now-sky-sports-news-hq/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-sky-sports-racing" tvg-name="(FHD) : SKY SPORTS RACING | Sky Sports Breakfast" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-racing_UTC.webp?v=348d77586f4bd72a" group-title="Sports",(FHD) : SKY SPORTS RACING | Sky Sports Breakfast
+#EXTINF:-1 tvg-id="leaf:now-sky-sports-racing" tvg-name="(FHD) : SKY SPORTS RACING | Raceday" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-racing_UTC.webp?v=348d77586f4bd72a" group-title="Sports",(FHD) : SKY SPORTS RACING | Raceday
 https://papacito.cfd/m3u/now-sky-sports-racing/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-sky-sports-tennis" tvg-name="(FHD) : SKY SPORTS TENNIS" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-tennis_UTC.webp?v=0ea453f3d9baede5" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
+#EXTINF:-1 tvg-id="leaf:now-sky-sports-tennis" tvg-name="(FHD) : SKY SPORTS TENNIS | Live Tennis: ATP Shanghai Masters 2026" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky-sports-tennis_UTC.webp?v=0ea453f3d9baede5" group-title="Tennis",(FHD) : SKY SPORTS TENNIS | Live Tennis: ATP Shanghai Masters 2026
 https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
-#EXTINF:-1 tvg-id="leaf:nz-s454545" tvg-name="NZ : SKY SPORT 1 | Rugby: Hilux NPC" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-s454545_UTC.webp?v=ff38f50289ed16ac" group-title="Rugby",NZ : SKY SPORT 1 | Rugby: Hilux NPC
+#EXTINF:-1 tvg-id="leaf:nz-s454545" tvg-name="NZ : SKY SPORT 1 | FIA Formula One World Championship" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-s454545_UTC.webp?v=ff38f50289ed16ac" group-title="Rugby",NZ : SKY SPORT 1 | FIA Formula One World Championship
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD | Live: SportsCenter" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD | Live: SportsCenter
+#EXTINF:-1 tvg-id="leaf:prime-f1-tv" tvg-name="PRIME : F1 TV ᴿᴬᵂ" tvg-logo="https://cdn.highfly.to/leaf_posters/prime-f1-tv_UTC.webp?v=78852abbea113c28" group-title="Motor Sports",PRIME : F1 TV ᴿᴬᵂ
+https://papacito.cfd/m3u/prime-f1-tv/live.m3u8
+#EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD | Live: Get Up" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD | Live: Get Up
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-fox-sports-1" tvg-name="US : FOX SPORTS 1 | MLB Baseball" tvg-logo="https://cdn.highfly.to/leaf_posters/us-fox-sports-1_UTC.webp?v=c1ef56b0a4e9196f" group-title="Sports",US : FOX SPORTS 1 | MLB Baseball
+#EXTINF:-1 tvg-id="leaf:us-fox-sports-1" tvg-name="US : FOX SPORTS 1 | Live: Wake Up Barstool" tvg-logo="https://cdn.highfly.to/leaf_posters/us-fox-sports-1_UTC.webp?v=c1ef56b0a4e9196f" group-title="Sports",US : FOX SPORTS 1 | Live: Wake Up Barstool
 https://papacito.cfd/m3u/us-fox-sports-1/live.m3u8
 #EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d1" tvg-name="South Africa vs Australia - 1st Test Day 1" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d1_UTC.webp?v=00ac8ab2" group-title="Cricket",South Africa vs Australia - 1st Test Day 1
 https://papacito.cfd/m3u/now-3443434/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d1" tvg-name="South Africa vs Australia - 1st Test Day 1" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d1_UTC.webp?v=00ac8ab2" group-title="Cricket",South Africa vs Australia - 1st Test Day 1
-https://papacito.cfd/m3u/2161753/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d1" tvg-name="South Africa vs Australia - 1st Test Day 1" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d1_UTC.webp?v=00ac8ab2" group-title="Cricket",South Africa vs Australia - 1st Test Day 1
-https://papacito.cfd/m3u/441307/live.m3u8
 #EXTINF:-1 tvg-id="streamed:singapore-grand-prix-practice-1-2408192" tvg-name="Singapore Grand Prix Practice 1" tvg-logo="https://cdn.highfly.to/posters/singapore-grand-prix-practice-1-2408192_UTC.webp?v=abeff920" group-title="Motor Sports",Singapore Grand Prix Practice 1
 https://papacito.cfd/m3u/1290235/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dallas-mavericks-vs-houston-rockets-2548854" tvg-name="Dallas Mavericks vs Houston Rockets" tvg-logo="https://cdn.highfly.to/posters/dallas-mavericks-vs-houston-rockets-2548854_UTC.webp?v=0379e469" group-title="Basketball",Dallas Mavericks vs Houston Rockets
+https://papacito.cfd/m3u/607602/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dallas-mavericks-vs-houston-rockets-2548854" tvg-name="Dallas Mavericks vs Houston Rockets" tvg-logo="https://cdn.highfly.to/posters/dallas-mavericks-vs-houston-rockets-2548854_UTC.webp?v=0379e469" group-title="Basketball",Dallas Mavericks vs Houston Rockets
+https://papacito.cfd/m3u/2161907/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dallas-mavericks-vs-houston-rockets-2548854" tvg-name="Dallas Mavericks vs Houston Rockets" tvg-logo="https://cdn.highfly.to/posters/dallas-mavericks-vs-houston-rockets-2548854_UTC.webp?v=0379e469" group-title="Basketball",Dallas Mavericks vs Houston Rockets
+https://papacito.cfd/m3u/1097797/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dallas-mavericks-vs-houston-rockets-2548854" tvg-name="Dallas Mavericks vs Houston Rockets" tvg-logo="https://cdn.highfly.to/posters/dallas-mavericks-vs-houston-rockets-2548854_UTC.webp?v=0379e469" group-title="Basketball",Dallas Mavericks vs Houston Rockets
+https://papacito.cfd/m3u/1413075/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-india-wi-2ndt20-20735" tvg-name="India vs West Indies - 2nd T20I" tvg-logo="https://cdn.highfly.to/posters/cricket-india-wi-2ndt20-20735_UTC.webp?v=6d6ecf6c" group-title="Cricket",India vs West Indies - 2nd T20I
+https://papacito.cfd/m3u/324993/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-india-wi-2ndt20-20735" tvg-name="India vs West Indies - 2nd T20I" tvg-logo="https://cdn.highfly.to/posters/cricket-india-wi-2ndt20-20735_UTC.webp?v=6d6ecf6c" group-title="Cricket",India vs West Indies - 2nd T20I
+https://papacito.cfd/m3u/852145/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-al-kholood-al-qadsiah-20735" tvg-name="Al Kholood vs Al Qadsiah" tvg-logo="https://cdn.highfly.to/posters/football-al-kholood-al-qadsiah-20735_UTC.webp?v=a02ca32e" group-title="Football",Al Kholood vs Al Qadsiah
+https://papacito.cfd/m3u/429584/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-bodrumspor-keci-reng-c-20735" tvg-name="Bodrumspor vs Keciörengücü" tvg-logo="https://cdn.highfly.to/posters/football-bodrumspor-keci-reng-c-20735_UTC.webp?v=dcc25a7f" group-title="Football",Bodrumspor vs Keciörengücü
+https://papacito.cfd/m3u/652778/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-sivasspor-pendikspor-20735" tvg-name="Sivasspor vs Pendikspor" tvg-logo="https://cdn.highfly.to/posters/football-sivasspor-pendikspor-20735_UTC.webp?v=8f6fc3f2" group-title="Football",Sivasspor vs Pendikspor
+https://papacito.cfd/m3u/1966387/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-pak-sl-1stt20-20735" tvg-name="Pakistan vs Sri Lanka - 1st T20I" tvg-logo="https://cdn.highfly.to/posters/cricket-pak-sl-1stt20-20735_UTC.webp?v=8763e25d" group-title="Cricket",Pakistan vs Sri Lanka - 1st T20I
+https://papacito.cfd/m3u/2161753/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-pak-sl-1stt20-20735" tvg-name="Pakistan vs Sri Lanka - 1st T20I" tvg-logo="https://cdn.highfly.to/posters/cricket-pak-sl-1stt20-20735_UTC.webp?v=8763e25d" group-title="Cricket",Pakistan vs Sri Lanka - 1st T20I
+https://testleaf.papacito.cfd/m3u/2151485/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-al-fateh-al-ahli-20735" tvg-name="Al Fateh vs Al-Ahli" tvg-logo="https://cdn.highfly.to/posters/football-al-fateh-al-ahli-20735_UTC.webp?v=92db3b98" group-title="Football",Al Fateh vs Al-Ahli
+https://papacito.cfd/m3u/429585/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-al-fateh-al-ahli-20735" tvg-name="Al Fateh vs Al-Ahli" tvg-logo="https://cdn.highfly.to/posters/football-al-fateh-al-ahli-20735_UTC.webp?v=92db3b98" group-title="Football",Al Fateh vs Al-Ahli
+https://papacito.cfd/m3u/1688741/live.m3u8
+#EXTINF:-1 tvg-id="streamed:estoril-superpole-supersport-world-championship-1791558000" tvg-name="Estoril — Superpole" tvg-logo="https://cdn.highfly.to/posters/estoril-superpole-supersport-world-championship-1791558000_UTC.webp?v=923921c9" group-title="Other",Estoril — Superpole
+https://papacito.cfd/m3u/588011/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-corvinul-hunedoara-voluntari-20735" tvg-name="Corvinul Hunedoara vs Voluntari" tvg-logo="https://cdn.highfly.to/posters/football-corvinul-hunedoara-voluntari-20735_UTC.webp?v=c9b99bf6" group-title="Football",Corvinul Hunedoara vs Voluntari
+https://papacito.cfd/m3u/1562920/live.m3u8
