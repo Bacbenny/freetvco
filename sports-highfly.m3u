@@ -1,12 +1,18 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-12T03:05:18.724Z
+# Generated at 2026-10-12T11:10:28.687Z
+#EXTINF:-1 tvg-id="leaf:au-1312313123" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-1312313123_UTC.webp?v=20d1590bd22e891e" group-title="Rugby",AU : FOX SPORTS 502 HD
+https://papacito.cfd/m3u/au-1312313123/live.m3u8
+#EXTINF:-1 tvg-id="leaf:au-fox-sports-504-hd" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-sports-504-hd_UTC.webp?v=7bc14b39ab49407b" group-title="Afl",AU : FOX SPORTS 504 HD
+https://papacito.cfd/m3u/au-fox-sports-504-hd/live.m3u8
+#EXTINF:-1 tvg-id="leaf:ca-tsn-1" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-1_UTC.webp?v=393b476c7218fab0" group-title="Sports",CA : TSN 1
+https://papacito.cfd/m3u/ca-tsn-1/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-tsn-5" tvg-name="CA : TSN 5" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-tsn-5_UTC.webp?v=3c15df8ad316142e" group-title="Sports",CA : TSN 5
 https://papacito.cfd/m3u/ca-tsn-5/live.m3u8
+#EXTINF:-1 tvg-id="leaf:es-dazn-f1" tvg-name="ES : DAZN F1" tvg-logo="https://cdn.highfly.to/leaf_posters/es-dazn-f1_UTC.webp?v=7ec872e281bd4463" group-title="Motor Sports",ES : DAZN F1
+https://papacito.cfd/m3u/es-dazn-f1/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
 https://papacito.cfd/m3u/now-234243234234/live.m3u8
-#EXTINF:-1 tvg-id="leaf:now-234243234234" tvg-name="(FHD) : SKY SPORTS PREMIER LEAGUE" tvg-logo="https://cdn.highfly.to/leaf_posters/now-234243234234_UTC.webp?v=6802206407f3d51a" group-title="Football",(FHD) : SKY SPORTS PREMIER LEAGUE
-https://papacito.cfd/m3u/now-545454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-545445" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-545445_UTC.webp?v=482c84ce8748a929" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/now-545445/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-s343434" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/now-s343434_UTC.webp?v=8a44901be322a9d3" group-title="Golf",(FHD) : SKY SPORTS GOLF
@@ -17,39 +23,7 @@ https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
 https://papacito.cfd/m3u/nz-s454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-espn-hd" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-espn-hd_UTC.webp?v=c9c5371fff41eb70" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-espn-hd/live.m3u8
-#EXTINF:-1 tvg-id="leaf:us-fox-sports-1" tvg-name="US : FOX SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/us-fox-sports-1_UTC.webp?v=c1ef56b0a4e9196f" group-title="Sports",US : FOX SPORTS 1
-https://papacito.cfd/m3u/us-fox-sports-1/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-tna-bound-for-glory" tvg-name="TNA Bound for Glory" tvg-logo="https://cdn.highfly.to/posters/ppv-tna-bound-for-glory_UTC.webp?v=cdd0adfa" group-title="Fight",TNA Bound for Glory
-https://papacito.cfd/m3u/1855357/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-tna-bound-for-glory" tvg-name="TNA Bound for Glory" tvg-logo="https://cdn.highfly.to/posters/ppv-tna-bound-for-glory_UTC.webp?v=cdd0adfa" group-title="Fight",TNA Bound for Glory
-https://papacito.cfd/m3u/605887/live.m3u8
-#EXTINF:-1 tvg-id="streamed:ppv-tna-bound-for-glory" tvg-name="TNA Bound for Glory" tvg-logo="https://cdn.highfly.to/posters/ppv-tna-bound-for-glory_UTC.webp?v=cdd0adfa" group-title="Fight",TNA Bound for Glory
-https://papacito.cfd/m3u/1855429/live.m3u8
-#EXTINF:-1 tvg-id="streamed:milwaukee-brewers-vs-los-angeles-dodgers-2616723" tvg-name="Milwaukee Brewers vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/milwaukee-brewers-vs-los-angeles-dodgers-2616723_UTC.webp?v=99c53f95" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
-https://papacito.cfd/m3u/500449/live.m3u8
-#EXTINF:-1 tvg-id="streamed:milwaukee-brewers-vs-los-angeles-dodgers-2616723" tvg-name="Milwaukee Brewers vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/milwaukee-brewers-vs-los-angeles-dodgers-2616723_UTC.webp?v=99c53f95" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
-https://papacito.cfd/m3u/429584/live.m3u8
-#EXTINF:-1 tvg-id="streamed:milwaukee-brewers-vs-los-angeles-dodgers-2616723" tvg-name="Milwaukee Brewers vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/milwaukee-brewers-vs-los-angeles-dodgers-2616723_UTC.webp?v=99c53f95" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
-https://papacito.cfd/m3u/1044084/live.m3u8
-#EXTINF:-1 tvg-id="streamed:milwaukee-brewers-vs-los-angeles-dodgers-2616723" tvg-name="Milwaukee Brewers vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/milwaukee-brewers-vs-los-angeles-dodgers-2616723_UTC.webp?v=99c53f95" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
-https://papacito.cfd/m3u/429404/live.m3u8
-#EXTINF:-1 tvg-id="streamed:milwaukee-brewers-vs-los-angeles-dodgers-2616723" tvg-name="Milwaukee Brewers vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/milwaukee-brewers-vs-los-angeles-dodgers-2616723_UTC.webp?v=99c53f95" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
-https://papacito.cfd/m3u/1904208/live.m3u8
-#EXTINF:-1 tvg-id="streamed:milwaukee-brewers-vs-los-angeles-dodgers-2616723" tvg-name="Milwaukee Brewers vs Los Angeles Dodgers" tvg-logo="https://cdn.highfly.to/posters/milwaukee-brewers-vs-los-angeles-dodgers-2616723_UTC.webp?v=99c53f95" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
-https://papacito.cfd/m3u/1904210/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-falcons-vs-baltimore-ravens-2475451" tvg-name="Atlanta Falcons vs Baltimore Ravens" tvg-logo="https://cdn.highfly.to/posters/atlanta-falcons-vs-baltimore-ravens-2475451_UTC.webp?v=b53bd310" group-title="American Football",Atlanta Falcons vs Baltimore Ravens
-https://papacito.cfd/m3u/ca-tsn-1/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-falcons-vs-baltimore-ravens-2475451" tvg-name="Atlanta Falcons vs Baltimore Ravens" tvg-logo="https://cdn.highfly.to/posters/atlanta-falcons-vs-baltimore-ravens-2475451_UTC.webp?v=b53bd310" group-title="American Football",Atlanta Falcons vs Baltimore Ravens
-https://papacito.cfd/m3u/1820249/live.m3u8
-#EXTINF:-1 tvg-id="streamed:atlanta-falcons-vs-baltimore-ravens-2475451" tvg-name="Atlanta Falcons vs Baltimore Ravens" tvg-logo="https://cdn.highfly.to/posters/atlanta-falcons-vs-baltimore-ravens-2475451_UTC.webp?v=b53bd310" group-title="American Football",Atlanta Falcons vs Baltimore Ravens
-https://papacito.cfd/m3u/1820471/live.m3u8
-#EXTINF:-1 tvg-id="streamed:denver-nuggets-vs-chicago-bulls-2601640" tvg-name="Denver Nuggets vs Chicago Bulls" tvg-logo="https://cdn.highfly.to/posters/denver-nuggets-vs-chicago-bulls-2601640_UTC.webp?v=b6f87973" group-title="Basketball",Denver Nuggets vs Chicago Bulls
-https://papacito.cfd/m3u/325085/live.m3u8
-#EXTINF:-1 tvg-id="streamed:denver-nuggets-vs-chicago-bulls-2601640" tvg-name="Denver Nuggets vs Chicago Bulls" tvg-logo="https://cdn.highfly.to/posters/denver-nuggets-vs-chicago-bulls-2601640_UTC.webp?v=b6f87973" group-title="Basketball",Denver Nuggets vs Chicago Bulls
-https://papacito.cfd/m3u/436544/live.m3u8
-#EXTINF:-1 tvg-id="streamed:denver-nuggets-vs-chicago-bulls-2601640" tvg-name="Denver Nuggets vs Chicago Bulls" tvg-logo="https://cdn.highfly.to/posters/denver-nuggets-vs-chicago-bulls-2601640_UTC.webp?v=b6f87973" group-title="Basketball",Denver Nuggets vs Chicago Bulls
-https://papacito.cfd/m3u/1413078/live.m3u8
-#EXTINF:-1 tvg-id="streamed:pumas-unam-vs-cruz-azul-2487550" tvg-name="Pumas UNAM vs Cruz Azul" tvg-logo="https://cdn.highfly.to/posters/pumas-unam-vs-cruz-azul-2487550_UTC.webp?v=f70b7dfe" group-title="Football",Pumas UNAM vs Cruz Azul
-https://papacito.cfd/m3u/2161767/live.m3u8
-#EXTINF:-1 tvg-id="streamed:pumas-unam-vs-cruz-azul-2487550" tvg-name="Pumas UNAM vs Cruz Azul" tvg-logo="https://cdn.highfly.to/posters/pumas-unam-vs-cruz-azul-2487550_UTC.webp?v=f70b7dfe" group-title="Football",Pumas UNAM vs Cruz Azul
-https://papacito.cfd/m3u/2095510/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d4" tvg-name="South Africa vs Australia - 1st Test Day 4" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d4_UTC.webp?v=03fc66ab" group-title="Cricket",South Africa vs Australia - 1st Test Day 4
+https://papacito.cfd/m3u/1527625/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d4" tvg-name="South Africa vs Australia - 1st Test Day 4" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d4_UTC.webp?v=03fc66ab" group-title="Cricket",South Africa vs Australia - 1st Test Day 4
+https://papacito.cfd/m3u/324993/live.m3u8
