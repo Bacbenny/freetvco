@@ -1,12 +1,10 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-13T09:37:51.599Z
+# Generated at 2026-10-13T17:15:09.976Z
 #EXTINF:-1 tvg-id="leaf:343434" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/343434_UTC.webp?v=08fbc1d267ae17b5" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/343434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:34us-3443" tvg-name="US : FOX SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/34us-3443_UTC.webp?v=99c5bde2236497e3" group-title="Sports",US : FOX SPORTS 1
 https://papacito.cfd/m3u/34us-3443/live.m3u8
-#EXTINF:-1 tvg-id="leaf:au-fox-45454545" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-45454545_UTC.webp?v=017fd16128f6351f" group-title="Rugby",AU : FOX SPORTS 502 HD
-https://papacito.cfd/m3u/au-fox-45454545/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-343434" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-343434_UTC.webp?v=5f0b78f1721f7d7b" group-title="Sports",CA : TSN 1
 https://papacito.cfd/m3u/ca-343434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:ca-3443554" tvg-name="CA : TSN 5" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-3443554_UTC.webp?v=29e576eb1ab600da" group-title="Sports",CA : TSN 5
@@ -25,7 +23,13 @@ https://papacito.cfd/m3u/nz-sk343434/live.m3u8
 https://papacito.cfd/m3u/uk-343434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:uk-tnt-sports-2" tvg-name="(FHD) : TNT SPORTS 2" tvg-logo="https://cdn.highfly.to/leaf_posters/uk-tnt-sports-2_UTC.webp?v=5af1d8b107488b63" group-title="Sports",(FHD) : TNT SPORTS 2
 https://papacito.cfd/m3u/uk-tnt-sports-2/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d5" tvg-name="South Africa vs Australia - 1st Test Day 5" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d5_UTC.webp?v=d850729d" group-title="Cricket",South Africa vs Australia - 1st Test Day 5
+#EXTINF:-1 tvg-id="streamed:lens-vs-sporting-cp-2594564" tvg-name="Lens vs Sporting CP" tvg-logo="https://cdn.highfly.to/posters/lens-vs-sporting-cp-2594564_UTC.webp?v=7b5fcf25" group-title="Football",Lens vs Sporting CP
+https://papacito.cfd/m3u/429938/live.m3u8
+#EXTINF:-1 tvg-id="streamed:lens-vs-sporting-cp-2594564" tvg-name="Lens vs Sporting CP" tvg-logo="https://cdn.highfly.to/posters/lens-vs-sporting-cp-2594564_UTC.webp?v=7b5fcf25" group-title="Football",Lens vs Sporting CP
+https://papacito.cfd/m3u/1562637/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sabah-baku-vs-slavia-prague-2594678" tvg-name="Sabah Baku vs Slavia Prague" tvg-logo="https://cdn.highfly.to/posters/sabah-baku-vs-slavia-prague-2594678_UTC.webp?v=eae32963" group-title="Football",Sabah Baku vs Slavia Prague
+https://papacito.cfd/m3u/1324773/live.m3u8
+#EXTINF:-1 tvg-id="streamed:sabah-baku-vs-slavia-prague-2594678" tvg-name="Sabah Baku vs Slavia Prague" tvg-logo="https://cdn.highfly.to/posters/sabah-baku-vs-slavia-prague-2594678_UTC.webp?v=eae32963" group-title="Football",Sabah Baku vs Slavia Prague
+https://papacito.cfd/m3u/1819073/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d5" tvg-name="South Africa vs Australia - 1st Test Day 5" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d5_UTC.webp?v=280d5520" group-title="Cricket",South Africa vs Australia - 1st Test Day 5
 https://papacito.cfd/m3u/now-3434344545/live.m3u8
-#EXTINF:-1 tvg-id="streamed:cricket-sa-aus-t1d5" tvg-name="South Africa vs Australia - 1st Test Day 5" tvg-logo="https://cdn.highfly.to/posters/cricket-sa-aus-t1d5_UTC.webp?v=d850729d" group-title="Cricket",South Africa vs Australia - 1st Test Day 5
-https://papacito.cfd/m3u/324993/live.m3u8
