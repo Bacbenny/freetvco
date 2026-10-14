@@ -1,25 +1,23 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-14T05:36:15.808Z
-#EXTINF:-1 tvg-id="streamed:los-angeles-lakers-vs-golden-state-warriors-2601647" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://cdn.highfly.to/posters/los-angeles-lakers-vs-golden-state-warriors-2601647_UTC.webp?v=d82dcc5e" group-title="Basketball",Los Angeles Lakers vs Golden State Warriors
-https://papacito.cfd/m3u/616097/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-lakers-vs-golden-state-warriors-2601647" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://cdn.highfly.to/posters/los-angeles-lakers-vs-golden-state-warriors-2601647_UTC.webp?v=d82dcc5e" group-title="Basketball",Los Angeles Lakers vs Golden State Warriors
-https://papacito.cfd/m3u/2161835/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-lakers-vs-golden-state-warriors-2601647" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://cdn.highfly.to/posters/los-angeles-lakers-vs-golden-state-warriors-2601647_UTC.webp?v=d82dcc5e" group-title="Basketball",Los Angeles Lakers vs Golden State Warriors
-https://papacito.cfd/m3u/1239048/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-lakers-vs-golden-state-warriors-2601647" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://cdn.highfly.to/posters/los-angeles-lakers-vs-golden-state-warriors-2601647_UTC.webp?v=d82dcc5e" group-title="Basketball",Los Angeles Lakers vs Golden State Warriors
-https://papacito.cfd/m3u/1413078/live.m3u8
-#EXTINF:-1 tvg-id="streamed:sacramento-kings-vs-portland-trail-blazers-2601648" tvg-name="Sacramento Kings vs Portland Trail Blazers" tvg-logo="https://cdn.highfly.to/posters/sacramento-kings-vs-portland-trail-blazers-2601648_UTC.webp?v=baed77f1" group-title="Basketball",Sacramento Kings vs Portland Trail Blazers
-https://papacito.cfd/m3u/1820216/live.m3u8
-#EXTINF:-1 tvg-id="streamed:sacramento-kings-vs-portland-trail-blazers-2601648" tvg-name="Sacramento Kings vs Portland Trail Blazers" tvg-logo="https://cdn.highfly.to/posters/sacramento-kings-vs-portland-trail-blazers-2601648_UTC.webp?v=baed77f1" group-title="Basketball",Sacramento Kings vs Portland Trail Blazers
-https://papacito.cfd/m3u/1820197/live.m3u8
-#EXTINF:-1 tvg-id="streamed:sacramento-kings-vs-portland-trail-blazers-2601648" tvg-name="Sacramento Kings vs Portland Trail Blazers" tvg-logo="https://cdn.highfly.to/posters/sacramento-kings-vs-portland-trail-blazers-2601648_UTC.webp?v=baed77f1" group-title="Basketball",Sacramento Kings vs Portland Trail Blazers
-https://papacito.cfd/m3u/1413077/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-kings-vs-edmonton-oilers-2591588" tvg-name="Los Angeles Kings vs Edmonton Oilers" tvg-logo="https://cdn.highfly.to/posters/los-angeles-kings-vs-edmonton-oilers-2591588_UTC.webp?v=25c90741" group-title="Hockey",Los Angeles Kings vs Edmonton Oilers
-https://papacito.cfd/m3u/414070/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-kings-vs-edmonton-oilers-2591588" tvg-name="Los Angeles Kings vs Edmonton Oilers" tvg-logo="https://cdn.highfly.to/posters/los-angeles-kings-vs-edmonton-oilers-2591588_UTC.webp?v=25c90741" group-title="Hockey",Los Angeles Kings vs Edmonton Oilers
-https://papacito.cfd/m3u/498806/live.m3u8
-#EXTINF:-1 tvg-id="streamed:los-angeles-kings-vs-edmonton-oilers-2591588" tvg-name="Los Angeles Kings vs Edmonton Oilers" tvg-logo="https://cdn.highfly.to/posters/los-angeles-kings-vs-edmonton-oilers-2591588_UTC.webp?v=25c90741" group-title="Hockey",Los Angeles Kings vs Edmonton Oilers
-https://papacito.cfd/m3u/605182/live.m3u8
-#EXTINF:-1 tvg-id="streamed:san-jose-sharks-vs-boston-bruins-2591589" tvg-name="San Jose Sharks vs Boston Bruins" tvg-logo="https://cdn.highfly.to/posters/san-jose-sharks-vs-boston-bruins-2591589_UTC.webp?v=3fa5d225" group-title="Hockey",San Jose Sharks vs Boston Bruins
-https://papacito.cfd/m3u/325020/live.m3u8
+# Generated at 2026-10-14T10:49:12.597Z
+#EXTINF:-1 tvg-id="leaf:au-fox-3434343" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-3434343_UTC.webp?v=b819f9c5064415d8" group-title="Afl",AU : FOX SPORTS 504 HD
+https://papacito.cfd/m3u/au-fox-3434343/live.m3u8
+#EXTINF:-1 tvg-id="leaf:au-fox-34434" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-34434_UTC.webp?v=cf73b0d1c3952760" group-title="Rugby",AU : FOX SPORTS 502 HD
+https://papacito.cfd/m3u/au-fox-34434/live.m3u8
+#EXTINF:-1 tvg-id="leaf:ca-34343344" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-34343344_UTC.webp?v=612bdd602c634882" group-title="Sports",CA : TSN 1
+https://papacito.cfd/m3u/ca-34343344/live.m3u8
+#EXTINF:-1 tvg-id="leaf:ca-t34343443" tvg-name="CA : TSN 5" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-t34343443_UTC.webp?v=5d065cc8975c438d" group-title="Sports",CA : TSN 5
+https://papacito.cfd/m3u/ca-t34343443/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-334434" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/now-334434_UTC.webp?v=3a59496b7394cc42" group-title="Golf",(FHD) : SKY SPORTS GOLF
+https://papacito.cfd/m3u/now-334434/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-343333" tvg-name="US : FOX SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-343333_UTC.webp?v=2d1701a19bab8c37" group-title="Sports",US : FOX SPORTS 1
+https://papacito.cfd/m3u/now-343333/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-344343" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-344343_UTC.webp?v=b9e28a51701efd01" group-title="Motor Sports",(FHD) : SKY SPORTS F1
+https://papacito.cfd/m3u/now-344343/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-s34434" tvg-name="(FHD) : SKY SPORTS TENNIS" tvg-logo="https://cdn.highfly.to/leaf_posters/now-s34434_UTC.webp?v=ba7aae33892e4960" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
+https://papacito.cfd/m3u/now-s34434/live.m3u8
+#EXTINF:-1 tvg-id="leaf:uk-232323" tvg-name="UK : TNT SPORTS 2" tvg-logo="https://cdn.highfly.to/leaf_posters/uk-232323_UTC.webp?v=541835994d256458" group-title="Sports",UK : TNT SPORTS 2
+https://papacito.cfd/m3u/uk-232323/live.m3u8
+#EXTINF:-1 tvg-id="leaf:uk-t3434334" tvg-name="UK : TNT SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/uk-t3434334_UTC.webp?v=b80cc692f19825a5" group-title="Sports",UK : TNT SPORTS 1
+https://papacito.cfd/m3u/uk-t3434334/live.m3u8
