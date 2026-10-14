@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-14T19:51:19.408Z
+# Generated at 2026-10-14T22:49:53.280Z
 #EXTINF:-1 tvg-id="leaf:au-fox-3434343" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-3434343_UTC.webp?v=b819f9c5064415d8" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/au-fox-3434343/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-34434" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-34434_UTC.webp?v=cf73b0d1c3952760" group-title="Rugby",AU : FOX SPORTS 502 HD
@@ -29,61 +29,5 @@ https://papacito.cfd/m3u/uk-232323/live.m3u8
 https://papacito.cfd/m3u/uk-t3434334/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-388383" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-388383_UTC.webp?v=a26dc952bd4f35da" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-388383/live.m3u8
-#EXTINF:-1 tvg-id="streamed:basketball-anadolu-efes-sk-bayern-m-nchen-basketball-20740" tvg-name="Anadolu Efes SK vs Bayern München Basketball" tvg-logo="https://cdn.highfly.to/posters/basketball-anadolu-efes-sk-bayern-m-nchen-basketball-20740_UTC.webp?v=dfbf38c4" group-title="Basketball",Anadolu Efes SK vs Bayern München Basketball
-https://papacito.cfd/m3u/1562900/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-norwich-city-southampton-20740" tvg-name="Norwich City vs Southampton" tvg-logo="https://cdn.highfly.to/posters/football-norwich-city-southampton-20740_UTC.webp?v=6ccdc0e0" group-title="Football",Norwich City vs Southampton
-https://papacito.cfd/m3u/2113617/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-norwich-city-southampton-20740" tvg-name="Norwich City vs Southampton" tvg-logo="https://cdn.highfly.to/posters/football-norwich-city-southampton-20740_UTC.webp?v=6ccdc0e0" group-title="Football",Norwich City vs Southampton
-https://papacito.cfd/m3u/2113612/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-queens-park-rangers-derby-county-20740" tvg-name="Queens Park Rangers vs Derby County" tvg-logo="https://cdn.highfly.to/posters/football-queens-park-rangers-derby-county-20740_UTC.webp?v=698f0c91" group-title="Football",Queens Park Rangers vs Derby County
-https://papacito.cfd/m3u/2113608/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-queens-park-rangers-derby-county-20740" tvg-name="Queens Park Rangers vs Derby County" tvg-logo="https://cdn.highfly.to/posters/football-queens-park-rangers-derby-county-20740_UTC.webp?v=698f0c91" group-title="Football",Queens Park Rangers vs Derby County
-https://papacito.cfd/m3u/1810034/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-portsmouth-sheffield-united-20740" tvg-name="Portsmouth vs Sheffield United" tvg-logo="https://cdn.highfly.to/posters/football-portsmouth-sheffield-united-20740_UTC.webp?v=be822751" group-title="Football",Portsmouth vs Sheffield United
-https://papacito.cfd/m3u/2113616/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-portsmouth-sheffield-united-20740" tvg-name="Portsmouth vs Sheffield United" tvg-logo="https://cdn.highfly.to/posters/football-portsmouth-sheffield-united-20740_UTC.webp?v=be822751" group-title="Football",Portsmouth vs Sheffield United
-https://papacito.cfd/m3u/2113613/live.m3u8
-#EXTINF:-1 tvg-id="streamed:basketball-paris-basketball-virtus-pallacanestro-bologna-20740" tvg-name="Paris Basketball vs Virtus Pallacanestro Bologna" tvg-logo="https://cdn.highfly.to/posters/basketball-paris-basketball-virtus-pallacanestro-bologna-20740_UTC.webp?v=913186ba" group-title="Basketball",Paris Basketball vs Virtus Pallacanestro Bologna
-https://papacito.cfd/m3u/1562985/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-city-vs-paris-saint-germain-2594547" tvg-name="Manchester City vs Paris Saint-Germain" tvg-logo="https://cdn.highfly.to/posters/manchester-city-vs-paris-saint-germain-2594547_UTC.webp?v=ec20a15a" group-title="Football",Manchester City vs Paris Saint-Germain
-https://papacito.cfd/m3u/1562525/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-city-vs-paris-saint-germain-2594547" tvg-name="Manchester City vs Paris Saint-Germain" tvg-logo="https://cdn.highfly.to/posters/manchester-city-vs-paris-saint-germain-2594547_UTC.webp?v=ec20a15a" group-title="Football",Manchester City vs Paris Saint-Germain
-https://papacito.cfd/m3u/1562626/live.m3u8
-#EXTINF:-1 tvg-id="streamed:manchester-city-vs-paris-saint-germain-2594547" tvg-name="Manchester City vs Paris Saint-Germain" tvg-logo="https://cdn.highfly.to/posters/manchester-city-vs-paris-saint-germain-2594547_UTC.webp?v=ec20a15a" group-title="Football",Manchester City vs Paris Saint-Germain
-https://testleaf.papacito.cfd/m3u/79486/live.m3u8
-#EXTINF:-1 tvg-id="streamed:aston-villa-vs-fenerbah-e-2594553" tvg-name="Aston Villa vs Fenerbahçe" tvg-logo="https://cdn.highfly.to/posters/aston-villa-vs-fenerbah-e-2594553_UTC.webp?v=b4c76a15" group-title="Football",Aston Villa vs Fenerbahçe
-https://papacito.cfd/m3u/1562703/live.m3u8
-#EXTINF:-1 tvg-id="streamed:aston-villa-vs-fenerbah-e-2594553" tvg-name="Aston Villa vs Fenerbahçe" tvg-logo="https://cdn.highfly.to/posters/aston-villa-vs-fenerbah-e-2594553_UTC.webp?v=b4c76a15" group-title="Football",Aston Villa vs Fenerbahçe
-https://papacito.cfd/m3u/1562632/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bod--glimt-vs-borussia-dortmund-2594600" tvg-name="Bodø/Glimt vs Borussia Dortmund" tvg-logo="https://cdn.highfly.to/posters/bod--glimt-vs-borussia-dortmund-2594600_UTC.webp?v=84f4bc38" group-title="Football",Bodø/Glimt vs Borussia Dortmund
-https://papacito.cfd/m3u/429938/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bod--glimt-vs-borussia-dortmund-2594600" tvg-name="Bodø/Glimt vs Borussia Dortmund" tvg-logo="https://cdn.highfly.to/posters/bod--glimt-vs-borussia-dortmund-2594600_UTC.webp?v=84f4bc38" group-title="Football",Bodø/Glimt vs Borussia Dortmund
-https://papacito.cfd/m3u/2162087/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bod--glimt-vs-borussia-dortmund-2594600" tvg-name="Bodø/Glimt vs Borussia Dortmund" tvg-logo="https://cdn.highfly.to/posters/bod--glimt-vs-borussia-dortmund-2594600_UTC.webp?v=84f4bc38" group-title="Football",Bodø/Glimt vs Borussia Dortmund
-https://papacito.cfd/m3u/1290345/live.m3u8
-#EXTINF:-1 tvg-id="streamed:bod--glimt-vs-borussia-dortmund-2594600" tvg-name="Bodø/Glimt vs Borussia Dortmund" tvg-logo="https://cdn.highfly.to/posters/bod--glimt-vs-borussia-dortmund-2594600_UTC.webp?v=84f4bc38" group-title="Football",Bodø/Glimt vs Borussia Dortmund
-https://papacito.cfd/m3u/1562911/live.m3u8
-#EXTINF:-1 tvg-id="streamed:roma-vs-real-madrid-2594609" tvg-name="Roma vs Real Madrid" tvg-logo="https://cdn.highfly.to/posters/roma-vs-real-madrid-2594609_UTC.webp?v=52a9345a" group-title="Football",Roma vs Real Madrid
-https://papacito.cfd/m3u/2161767/live.m3u8
-#EXTINF:-1 tvg-id="streamed:roma-vs-real-madrid-2594609" tvg-name="Roma vs Real Madrid" tvg-logo="https://cdn.highfly.to/posters/roma-vs-real-madrid-2594609_UTC.webp?v=52a9345a" group-title="Football",Roma vs Real Madrid
-https://papacito.cfd/m3u/1562987/live.m3u8
-#EXTINF:-1 tvg-id="streamed:real-betis-vs-porto-2594633" tvg-name="Real Betis vs Porto" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-porto-2594633_UTC.webp?v=dcbe0b85" group-title="Football",Real Betis vs Porto
-https://papacito.cfd/m3u/1290344/live.m3u8
-#EXTINF:-1 tvg-id="streamed:real-betis-vs-porto-2594633" tvg-name="Real Betis vs Porto" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-porto-2594633_UTC.webp?v=dcbe0b85" group-title="Football",Real Betis vs Porto
-https://papacito.cfd/m3u/1688733/live.m3u8
-#EXTINF:-1 tvg-id="streamed:real-betis-vs-porto-2594633" tvg-name="Real Betis vs Porto" tvg-logo="https://cdn.highfly.to/posters/real-betis-vs-porto-2594633_UTC.webp?v=dcbe0b85" group-title="Football",Real Betis vs Porto
-https://papacito.cfd/m3u/1562984/live.m3u8
-#EXTINF:-1 tvg-id="streamed:shakhtar-donetsk-vs-aek-athens-2594637" tvg-name="Shakhtar Donetsk vs AEK Athens" tvg-logo="https://cdn.highfly.to/posters/shakhtar-donetsk-vs-aek-athens-2594637_UTC.webp?v=d67c464c" group-title="Football",Shakhtar Donetsk vs AEK Athens
-https://papacito.cfd/m3u/993052/live.m3u8
-#EXTINF:-1 tvg-id="streamed:shakhtar-donetsk-vs-aek-athens-2594637" tvg-name="Shakhtar Donetsk vs AEK Athens" tvg-logo="https://cdn.highfly.to/posters/shakhtar-donetsk-vs-aek-athens-2594637_UTC.webp?v=d67c464c" group-title="Football",Shakhtar Donetsk vs AEK Athens
-https://papacito.cfd/m3u/1290342/live.m3u8
-#EXTINF:-1 tvg-id="streamed:slovan-bratislava-vs-stuttgart-2594659" tvg-name="Slovan Bratislava vs Stuttgart" tvg-logo="https://cdn.highfly.to/posters/slovan-bratislava-vs-stuttgart-2594659_UTC.webp?v=a06398d4" group-title="Football",Slovan Bratislava vs Stuttgart
-https://papacito.cfd/m3u/1562982/live.m3u8
-#EXTINF:-1 tvg-id="streamed:slovan-bratislava-vs-stuttgart-2594659" tvg-name="Slovan Bratislava vs Stuttgart" tvg-logo="https://cdn.highfly.to/posters/slovan-bratislava-vs-stuttgart-2594659_UTC.webp?v=a06398d4" group-title="Football",Slovan Bratislava vs Stuttgart
-https://papacito.cfd/m3u/1290343/live.m3u8
-#EXTINF:-1 tvg-id="streamed:slovan-bratislava-vs-stuttgart-2594659" tvg-name="Slovan Bratislava vs Stuttgart" tvg-logo="https://cdn.highfly.to/posters/slovan-bratislava-vs-stuttgart-2594659_UTC.webp?v=a06398d4" group-title="Football",Slovan Bratislava vs Stuttgart
-https://papacito.cfd/m3u/1819071/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-lincoln-city-west-ham-united-20740" tvg-name="Lincoln City vs West Ham United" tvg-logo="https://cdn.highfly.to/posters/football-lincoln-city-west-ham-united-20740_UTC.webp?v=e06c4c14" group-title="Football",Lincoln City vs West Ham United
-https://papacito.cfd/m3u/1527635/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-lincoln-city-west-ham-united-20740" tvg-name="Lincoln City vs West Ham United" tvg-logo="https://cdn.highfly.to/posters/football-lincoln-city-west-ham-united-20740_UTC.webp?v=e06c4c14" group-title="Football",Lincoln City vs West Ham United
-https://papacito.cfd/m3u/1290239/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-sarmiento-river-plate-20740" tvg-name="Sarmiento vs River Plate" tvg-logo="https://cdn.highfly.to/posters/football-sarmiento-river-plate-20740_UTC.webp?v=4f893f7e" group-title="Football",Sarmiento vs River Plate
+https://papacito.cfd/m3u/1997245/live.m3u8
