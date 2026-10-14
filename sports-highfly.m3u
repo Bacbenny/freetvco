@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-14T10:49:12.597Z
+# Generated at 2026-10-14T15:37:56.303Z
 #EXTINF:-1 tvg-id="leaf:au-fox-3434343" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-3434343_UTC.webp?v=b819f9c5064415d8" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/au-fox-3434343/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-34434" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-34434_UTC.webp?v=cf73b0d1c3952760" group-title="Rugby",AU : FOX SPORTS 502 HD
@@ -15,9 +15,19 @@ https://papacito.cfd/m3u/now-334434/live.m3u8
 https://papacito.cfd/m3u/now-343333/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-344343" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-344343_UTC.webp?v=b9e28a51701efd01" group-title="Motor Sports",(FHD) : SKY SPORTS F1
 https://papacito.cfd/m3u/now-344343/live.m3u8
+#EXTINF:-1 tvg-id="leaf:now-s3434434" tvg-name="(FHD) : SKY SPORTS NEWS HQ" tvg-logo="https://cdn.highfly.to/leaf_posters/now-s3434434_UTC.webp?v=1f26094cedb58795" group-title="Sports",(FHD) : SKY SPORTS NEWS HQ
+https://papacito.cfd/m3u/now-s3434434/live.m3u8
 #EXTINF:-1 tvg-id="leaf:now-s34434" tvg-name="(FHD) : SKY SPORTS TENNIS" tvg-logo="https://cdn.highfly.to/leaf_posters/now-s34434_UTC.webp?v=ba7aae33892e4960" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
 https://papacito.cfd/m3u/now-s34434/live.m3u8
+#EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-sky-sport-1_UTC.webp?v=6bc86146864cba4e" group-title="Rugby",NZ : SKY SPORT 1
+https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
 #EXTINF:-1 tvg-id="leaf:uk-232323" tvg-name="UK : TNT SPORTS 2" tvg-logo="https://cdn.highfly.to/leaf_posters/uk-232323_UTC.webp?v=541835994d256458" group-title="Sports",UK : TNT SPORTS 2
 https://papacito.cfd/m3u/uk-232323/live.m3u8
-#EXTINF:-1 tvg-id="leaf:uk-t3434334" tvg-name="UK : TNT SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/uk-t3434334_UTC.webp?v=b80cc692f19825a5" group-title="Sports",UK : TNT SPORTS 1
-https://papacito.cfd/m3u/uk-t3434334/live.m3u8
+#EXTINF:-1 tvg-id="leaf:us-388383" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-388383_UTC.webp?v=a26dc952bd4f35da" group-title="Sports",US : ESPN HD
+https://papacito.cfd/m3u/us-388383/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-manchester-city-youth-paris-saint-germain-academy-20740" tvg-name="Manchester City Youth vs Paris Saint-Germain Academy" tvg-logo="https://cdn.highfly.to/posters/football-manchester-city-youth-paris-saint-germain-academy-20740_UTC.webp?v=b379f860" group-title="Football",Manchester City Youth vs Paris Saint-Germain Academy
+https://papacito.cfd/m3u/588010/live.m3u8
+#EXTINF:-1 tvg-id="streamed:football-manchester-city-youth-paris-saint-germain-academy-20740" tvg-name="Manchester City Youth vs Paris Saint-Germain Academy" tvg-logo="https://cdn.highfly.to/posters/football-manchester-city-youth-paris-saint-germain-academy-20740_UTC.webp?v=b379f860" group-title="Football",Manchester City Youth vs Paris Saint-Germain Academy
+https://papacito.cfd/m3u/1562911/live.m3u8
+#EXTINF:-1 tvg-id="streamed:basketball-hapoel-tel-aviv-bc-besiktas-basketbol-20740" tvg-name="Hapoel Tel Aviv BC vs Besiktas Basketbol" tvg-logo="https://cdn.highfly.to/posters/basketball-hapoel-tel-aviv-bc-besiktas-basketbol-20740_UTC.webp?v=4fcec8db" group-title="Basketball",Hapoel Tel Aviv BC vs Besiktas Basketbol
+https://papacito.cfd/m3u/1562986/live.m3u8
