@@ -27,11 +27,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/9293/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/19158/index.m3u8
 #EXTINF:0 group-title="SportUK" tvg-id="2916" tvg-logo="http://epg.one/img/2916.png" tvg-rec="3",DAZN 2 FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2532/index.m3u8
-#EXTINF:0 group-title="SportUK" tvg-id="9508" tvg-rec="0",DAZN 3 HD
+#EXTINF:0 group-title="SportUK" tvg-id="9508" tvg-logo="http://epg.one/img/2917.png" tvg-rec="0",DAZN 3 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31956/index.m3u8
-#EXTINF:0 group-title="SportUK" tvg-id="9501" tvg-rec="0",DAZN 4 HD
+#EXTINF:0 group-title="SportUK" tvg-id="9501" tvg-logo="http://epg.one/img/2918.png" tvg-rec="0",DAZN 4 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31957/index.m3u8
-#EXTINF:0 group-title="SportUK" tvg-id="9502" tvg-rec="0",DAZN 5 HD
+#EXTINF:0 group-title="SportUK" tvg-id="9502" tvg-logo="http://epg.one/img/2919.png" tvg-rec="0",DAZN 5 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31958/index.m3u8
 #EXTINF:0 group-title="SportUK" tvg-id="2944" tvg-logo="http://epg.one/img/2944.png" tvg-rec="3",Ziggo Sport HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2560/index.m3u8
@@ -39,3 +39,19 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2560/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2561/index.m3u8
 #EXTINF:0 group-title="SportUK" tvg-id="2943" tvg-logo="http://epg.one/img/2943.png" tvg-rec="3",Ziggo Sport 3 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/2559/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11430" tvg-rec="0",Sport TV+ FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31941/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11045" tvg-rec="0",Sport TV 1 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31942/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11431" tvg-rec="0",Sport TV 2 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31943/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11432" tvg-rec="0",Sport TV 3 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31944/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11433" tvg-rec="0",Sport TV 4 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31945/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11434" tvg-rec="0",Sport TV 5 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31946/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11435" tvg-logo="http://epg.one/img/11435.png" tvg-rec="0",Sport TV 6 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31947/index.m3u8
+#EXTINF:0 group-title="SportUK" tvg-id="11436" tvg-logo="http://epg.one/img/11436.png" tvg-rec="0",Sport TV 7 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9XRHZ7MZ9PNWS6/31948/index.m3u8
