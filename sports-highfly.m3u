@@ -1,6 +1,6 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-14T22:49:53.280Z
+# Generated at 2026-10-15T01:06:00.092Z
 #EXTINF:-1 tvg-id="leaf:au-fox-3434343" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-3434343_UTC.webp?v=b819f9c5064415d8" group-title="Afl",AU : FOX SPORTS 504 HD
 https://papacito.cfd/m3u/au-fox-3434343/live.m3u8
 #EXTINF:-1 tvg-id="leaf:au-fox-34434" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-34434_UTC.webp?v=cf73b0d1c3952760" group-title="Rugby",AU : FOX SPORTS 502 HD
@@ -29,5 +29,93 @@ https://papacito.cfd/m3u/uk-232323/live.m3u8
 https://papacito.cfd/m3u/uk-t3434334/live.m3u8
 #EXTINF:-1 tvg-id="leaf:us-388383" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-388383_UTC.webp?v=a26dc952bd4f35da" group-title="Sports",US : ESPN HD
 https://papacito.cfd/m3u/us-388383/live.m3u8
-#EXTINF:-1 tvg-id="streamed:football-sarmiento-river-plate-20740" tvg-name="Sarmiento vs River Plate" tvg-logo="https://cdn.highfly.to/posters/football-sarmiento-river-plate-20740_UTC.webp?v=4f893f7e" group-title="Football",Sarmiento vs River Plate
-https://papacito.cfd/m3u/1997245/live.m3u8
+#EXTINF:-1 tvg-id="streamed:missouri-state-vs-kennesaw-state-2499009" tvg-name="Missouri State vs Kennesaw State" tvg-logo="https://cdn.highfly.to/posters/missouri-state-vs-kennesaw-state-2499009_UTC.webp?v=0285999d" group-title="American Football",Missouri State vs Kennesaw State
+https://papacito.cfd/m3u/429938/live.m3u8
+#EXTINF:-1 tvg-id="streamed:missouri-state-vs-kennesaw-state-2499009" tvg-name="Missouri State vs Kennesaw State" tvg-logo="https://cdn.highfly.to/posters/missouri-state-vs-kennesaw-state-2499009_UTC.webp?v=0285999d" group-title="American Football",Missouri State vs Kennesaw State
+https://papacito.cfd/m3u/2162087/live.m3u8
+#EXTINF:-1 tvg-id="streamed:boston-celtics-vs-charlotte-hornets-2548861" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="https://cdn.highfly.to/posters/boston-celtics-vs-charlotte-hornets-2548861_UTC.webp?v=2ddda7b9" group-title="Basketball",Boston Celtics vs Charlotte Hornets
+https://papacito.cfd/m3u/1413080/live.m3u8
+#EXTINF:-1 tvg-id="streamed:boston-celtics-vs-charlotte-hornets-2548861" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="https://cdn.highfly.to/posters/boston-celtics-vs-charlotte-hornets-2548861_UTC.webp?v=2ddda7b9" group-title="Basketball",Boston Celtics vs Charlotte Hornets
+https://papacito.cfd/m3u/1820217/live.m3u8
+#EXTINF:-1 tvg-id="streamed:boston-celtics-vs-charlotte-hornets-2548861" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="https://cdn.highfly.to/posters/boston-celtics-vs-charlotte-hornets-2548861_UTC.webp?v=2ddda7b9" group-title="Basketball",Boston Celtics vs Charlotte Hornets
+https://papacito.cfd/m3u/1820198/live.m3u8
+#EXTINF:-1 tvg-id="streamed:miami-heat-vs-brooklyn-nets-2548862" tvg-name="Miami Heat vs Brooklyn Nets" tvg-logo="https://cdn.highfly.to/posters/miami-heat-vs-brooklyn-nets-2548862_UTC.webp?v=76e423d9" group-title="Basketball",Miami Heat vs Brooklyn Nets
+https://papacito.cfd/m3u/325036/live.m3u8
+#EXTINF:-1 tvg-id="streamed:washington-capitals-vs-montreal-canadiens-2591590" tvg-name="Washington Capitals vs Montreal Canadiens" tvg-logo="https://cdn.highfly.to/posters/washington-capitals-vs-montreal-canadiens-2591590_UTC.webp?v=1f9fdd57" group-title="Hockey",Washington Capitals vs Montreal Canadiens
+https://papacito.cfd/m3u/587989/live.m3u8
+#EXTINF:-1 tvg-id="streamed:washington-capitals-vs-montreal-canadiens-2591590" tvg-name="Washington Capitals vs Montreal Canadiens" tvg-logo="https://cdn.highfly.to/posters/washington-capitals-vs-montreal-canadiens-2591590_UTC.webp?v=1f9fdd57" group-title="Hockey",Washington Capitals vs Montreal Canadiens
+https://papacito.cfd/m3u/324969/live.m3u8
+#EXTINF:-1 tvg-id="streamed:washington-capitals-vs-montreal-canadiens-2591590" tvg-name="Washington Capitals vs Montreal Canadiens" tvg-logo="https://cdn.highfly.to/posters/washington-capitals-vs-montreal-canadiens-2591590_UTC.webp?v=1f9fdd57" group-title="Hockey",Washington Capitals vs Montreal Canadiens
+https://papacito.cfd/m3u/605196/live.m3u8
+#EXTINF:-1 tvg-id="streamed:inter-miami-vs-new-york-city-fc-2407128" tvg-name="Inter Miami vs New York City FC" tvg-logo="https://cdn.highfly.to/posters/inter-miami-vs-new-york-city-fc-2407128_UTC.webp?v=c03376c6" group-title="Football",Inter Miami vs New York City FC
+https://papacito.cfd/m3u/1021722/live.m3u8
+#EXTINF:-1 tvg-id="streamed:inter-miami-vs-new-york-city-fc-2407128" tvg-name="Inter Miami vs New York City FC" tvg-logo="https://cdn.highfly.to/posters/inter-miami-vs-new-york-city-fc-2407128_UTC.webp?v=c03376c6" group-title="Football",Inter Miami vs New York City FC
+https://papacito.cfd/m3u/605393/live.m3u8
+#EXTINF:-1 tvg-id="streamed:columbus-crew-vs-charlotte-fc-2407129" tvg-name="Columbus Crew vs Charlotte FC" tvg-logo="https://cdn.highfly.to/posters/columbus-crew-vs-charlotte-fc-2407129_UTC.webp?v=b57df339" group-title="Football",Columbus Crew vs Charlotte FC
+https://papacito.cfd/m3u/605391/live.m3u8
+#EXTINF:-1 tvg-id="streamed:columbus-crew-vs-charlotte-fc-2407129" tvg-name="Columbus Crew vs Charlotte FC" tvg-logo="https://cdn.highfly.to/posters/columbus-crew-vs-charlotte-fc-2407129_UTC.webp?v=b57df339" group-title="Football",Columbus Crew vs Charlotte FC
+https://papacito.cfd/m3u/1021726/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fc-cincinnati-vs-new-england-revolution-2407130" tvg-name="FC Cincinnati vs New England Revolution" tvg-logo="https://cdn.highfly.to/posters/fc-cincinnati-vs-new-england-revolution-2407130_UTC.webp?v=c10ca282" group-title="Football",FC Cincinnati vs New England Revolution
+https://papacito.cfd/m3u/605392/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fc-cincinnati-vs-new-england-revolution-2407130" tvg-name="FC Cincinnati vs New England Revolution" tvg-logo="https://cdn.highfly.to/posters/fc-cincinnati-vs-new-england-revolution-2407130_UTC.webp?v=c10ca282" group-title="Football",FC Cincinnati vs New England Revolution
+https://papacito.cfd/m3u/1021723/live.m3u8
+#EXTINF:-1 tvg-id="streamed:toronto-fc-vs-orlando-city-2407131" tvg-name="Toronto FC vs Orlando City" tvg-logo="https://cdn.highfly.to/posters/toronto-fc-vs-orlando-city-2407131_UTC.webp?v=7b137092" group-title="Football",Toronto FC vs Orlando City
+https://papacito.cfd/m3u/1021727/live.m3u8
+#EXTINF:-1 tvg-id="streamed:toronto-fc-vs-orlando-city-2407131" tvg-name="Toronto FC vs Orlando City" tvg-logo="https://cdn.highfly.to/posters/toronto-fc-vs-orlando-city-2407131_UTC.webp?v=7b137092" group-title="Football",Toronto FC vs Orlando City
+https://papacito.cfd/m3u/1970668/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cf-montr-al-vs-atlanta-united-2407132" tvg-name="CF Montréal vs Atlanta United" tvg-logo="https://cdn.highfly.to/posters/cf-montr-al-vs-atlanta-united-2407132_UTC.webp?v=116519fb" group-title="Football",CF Montréal vs Atlanta United
+https://papacito.cfd/m3u/605388/live.m3u8
+#EXTINF:-1 tvg-id="streamed:cf-montr-al-vs-atlanta-united-2407132" tvg-name="CF Montréal vs Atlanta United" tvg-logo="https://cdn.highfly.to/posters/cf-montr-al-vs-atlanta-united-2407132_UTC.webp?v=116519fb" group-title="Football",CF Montréal vs Atlanta United
+https://papacito.cfd/m3u/1021724/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dc-united-vs-new-york-red-bulls-2407133" tvg-name="DC United vs New York Red Bulls" tvg-logo="https://cdn.highfly.to/posters/dc-united-vs-new-york-red-bulls-2407133_UTC.webp?v=c026bb01" group-title="Football",DC United vs New York Red Bulls
+https://papacito.cfd/m3u/605389/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dc-united-vs-new-york-red-bulls-2407133" tvg-name="DC United vs New York Red Bulls" tvg-logo="https://cdn.highfly.to/posters/dc-united-vs-new-york-red-bulls-2407133_UTC.webp?v=c026bb01" group-title="Football",DC United vs New York Red Bulls
+https://papacito.cfd/m3u/1021725/live.m3u8
+#EXTINF:-1 tvg-id="streamed:los-angeles-dodgers-vs-milwaukee-brewers-2616725" tvg-name="Los Angeles Dodgers vs Milwaukee Brewers" tvg-logo="https://cdn.highfly.to/posters/los-angeles-dodgers-vs-milwaukee-brewers-2616725_UTC.webp?v=65f8d5b8" group-title="Baseball",Los Angeles Dodgers vs Milwaukee Brewers
+https://papacito.cfd/m3u/498806/live.m3u8
+#EXTINF:-1 tvg-id="streamed:los-angeles-dodgers-vs-milwaukee-brewers-2616725" tvg-name="Los Angeles Dodgers vs Milwaukee Brewers" tvg-logo="https://cdn.highfly.to/posters/los-angeles-dodgers-vs-milwaukee-brewers-2616725_UTC.webp?v=65f8d5b8" group-title="Baseball",Los Angeles Dodgers vs Milwaukee Brewers
+https://papacito.cfd/m3u/431198/live.m3u8
+#EXTINF:-1 tvg-id="streamed:los-angeles-dodgers-vs-milwaukee-brewers-2616725" tvg-name="Los Angeles Dodgers vs Milwaukee Brewers" tvg-logo="https://cdn.highfly.to/posters/los-angeles-dodgers-vs-milwaukee-brewers-2616725_UTC.webp?v=65f8d5b8" group-title="Baseball",Los Angeles Dodgers vs Milwaukee Brewers
+https://papacito.cfd/m3u/429584/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dallas-mavericks-vs-new-orleans-pelicans-2601649" tvg-name="Dallas Mavericks vs New Orleans Pelicans" tvg-logo="https://cdn.highfly.to/posters/dallas-mavericks-vs-new-orleans-pelicans-2601649_UTC.webp?v=d5bd5a8c" group-title="Basketball",Dallas Mavericks vs New Orleans Pelicans
+https://papacito.cfd/m3u/616097/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dallas-mavericks-vs-new-orleans-pelicans-2601649" tvg-name="Dallas Mavericks vs New Orleans Pelicans" tvg-logo="https://cdn.highfly.to/posters/dallas-mavericks-vs-new-orleans-pelicans-2601649_UTC.webp?v=d5bd5a8c" group-title="Basketball",Dallas Mavericks vs New Orleans Pelicans
+https://papacito.cfd/m3u/2161907/live.m3u8
+#EXTINF:-1 tvg-id="streamed:dallas-mavericks-vs-new-orleans-pelicans-2601649" tvg-name="Dallas Mavericks vs New Orleans Pelicans" tvg-logo="https://cdn.highfly.to/posters/dallas-mavericks-vs-new-orleans-pelicans-2601649_UTC.webp?v=d5bd5a8c" group-title="Basketball",Dallas Mavericks vs New Orleans Pelicans
+https://papacito.cfd/m3u/1413076/live.m3u8
+#EXTINF:-1 tvg-id="streamed:milwaukee-bucks-vs-chicago-bulls-2601650" tvg-name="Milwaukee Bucks vs Chicago Bulls" tvg-logo="https://cdn.highfly.to/posters/milwaukee-bucks-vs-chicago-bulls-2601650_UTC.webp?v=c7890eaa" group-title="Basketball",Milwaukee Bucks vs Chicago Bulls
+https://papacito.cfd/m3u/436544/live.m3u8
+#EXTINF:-1 tvg-id="streamed:milwaukee-bucks-vs-chicago-bulls-2601650" tvg-name="Milwaukee Bucks vs Chicago Bulls" tvg-logo="https://cdn.highfly.to/posters/milwaukee-bucks-vs-chicago-bulls-2601650_UTC.webp?v=c7890eaa" group-title="Basketball",Milwaukee Bucks vs Chicago Bulls
+https://papacito.cfd/m3u/1413078/live.m3u8
+#EXTINF:-1 tvg-id="streamed:minnesota-timberwolves-vs-detroit-pistons-2601651" tvg-name="Minnesota Timberwolves vs Detroit Pistons" tvg-logo="https://cdn.highfly.to/posters/minnesota-timberwolves-vs-detroit-pistons-2601651_UTC.webp?v=4ec8a6bf" group-title="Basketball",Minnesota Timberwolves vs Detroit Pistons
+https://papacito.cfd/m3u/1413077/live.m3u8
+#EXTINF:-1 tvg-id="streamed:minnesota-timberwolves-vs-detroit-pistons-2601651" tvg-name="Minnesota Timberwolves vs Detroit Pistons" tvg-logo="https://cdn.highfly.to/posters/minnesota-timberwolves-vs-detroit-pistons-2601651_UTC.webp?v=4ec8a6bf" group-title="Basketball",Minnesota Timberwolves vs Detroit Pistons
+https://papacito.cfd/m3u/607597/live.m3u8
+#EXTINF:-1 tvg-id="streamed:san-antonio-spurs-vs-phoenix-suns-2601652" tvg-name="San Antonio Spurs vs Phoenix Suns" tvg-logo="https://cdn.highfly.to/posters/san-antonio-spurs-vs-phoenix-suns-2601652_UTC.webp?v=99af50f7" group-title="Basketball",San Antonio Spurs vs Phoenix Suns
+https://papacito.cfd/m3u/1413079/live.m3u8
+#EXTINF:-1 tvg-id="streamed:san-antonio-spurs-vs-phoenix-suns-2601652" tvg-name="San Antonio Spurs vs Phoenix Suns" tvg-logo="https://cdn.highfly.to/posters/san-antonio-spurs-vs-phoenix-suns-2601652_UTC.webp?v=99af50f7" group-title="Basketball",San Antonio Spurs vs Phoenix Suns
+https://papacito.cfd/m3u/616091/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-aew-wednesday-night-dynamite" tvg-name="AEW Wednesday Night Dynamite" tvg-logo="https://cdn.highfly.to/posters/ppv-aew-wednesday-night-dynamite_UTC.webp?v=62b61585" group-title="Fight",AEW Wednesday Night Dynamite
+https://papacito.cfd/m3u/325803/live.m3u8
+#EXTINF:-1 tvg-id="streamed:ppv-aew-wednesday-night-dynamite" tvg-name="AEW Wednesday Night Dynamite" tvg-logo="https://cdn.highfly.to/posters/ppv-aew-wednesday-night-dynamite_UTC.webp?v=62b61585" group-title="Fight",AEW Wednesday Night Dynamite
+https://papacito.cfd/m3u/414141/live.m3u8
+#EXTINF:-1 tvg-id="streamed:colorado-avalanche-vs-dallas-stars-2591591" tvg-name="Colorado Avalanche vs Dallas Stars" tvg-logo="https://cdn.highfly.to/posters/colorado-avalanche-vs-dallas-stars-2591591_UTC.webp?v=5b219e96" group-title="Hockey",Colorado Avalanche vs Dallas Stars
+https://papacito.cfd/m3u/325799/live.m3u8
+#EXTINF:-1 tvg-id="streamed:colorado-avalanche-vs-dallas-stars-2591591" tvg-name="Colorado Avalanche vs Dallas Stars" tvg-logo="https://cdn.highfly.to/posters/colorado-avalanche-vs-dallas-stars-2591591_UTC.webp?v=5b219e96" group-title="Hockey",Colorado Avalanche vs Dallas Stars
+https://papacito.cfd/m3u/587990/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fc-dallas-vs-seattle-sounders-2407134" tvg-name="FC Dallas vs Seattle Sounders" tvg-logo="https://cdn.highfly.to/posters/fc-dallas-vs-seattle-sounders-2407134_UTC.webp?v=56458f3f" group-title="Football",FC Dallas vs Seattle Sounders
+https://papacito.cfd/m3u/605383/live.m3u8
+#EXTINF:-1 tvg-id="streamed:fc-dallas-vs-seattle-sounders-2407134" tvg-name="FC Dallas vs Seattle Sounders" tvg-logo="https://cdn.highfly.to/posters/fc-dallas-vs-seattle-sounders-2407134_UTC.webp?v=56458f3f" group-title="Football",FC Dallas vs Seattle Sounders
+https://papacito.cfd/m3u/1970657/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-fire-vs-philadelphia-union-2407135" tvg-name="Chicago Fire vs Philadelphia Union" tvg-logo="https://cdn.highfly.to/posters/chicago-fire-vs-philadelphia-union-2407135_UTC.webp?v=33e95a9c" group-title="Football",Chicago Fire vs Philadelphia Union
+https://papacito.cfd/m3u/1970659/live.m3u8
+#EXTINF:-1 tvg-id="streamed:chicago-fire-vs-philadelphia-union-2407135" tvg-name="Chicago Fire vs Philadelphia Union" tvg-logo="https://cdn.highfly.to/posters/chicago-fire-vs-philadelphia-union-2407135_UTC.webp?v=33e95a9c" group-title="Football",Chicago Fire vs Philadelphia Union
+https://papacito.cfd/m3u/605385/live.m3u8
+#EXTINF:-1 tvg-id="streamed:st--louis-city-sc-vs-vancouver-whitecaps-2407136" tvg-name="St. Louis City SC vs Vancouver Whitecaps" tvg-logo="https://cdn.highfly.to/posters/st--louis-city-sc-vs-vancouver-whitecaps-2407136_UTC.webp?v=a0c48cb6" group-title="Football",St. Louis City SC vs Vancouver Whitecaps
+https://papacito.cfd/m3u/605386/live.m3u8
+#EXTINF:-1 tvg-id="streamed:st--louis-city-sc-vs-vancouver-whitecaps-2407136" tvg-name="St. Louis City SC vs Vancouver Whitecaps" tvg-logo="https://cdn.highfly.to/posters/st--louis-city-sc-vs-vancouver-whitecaps-2407136_UTC.webp?v=a0c48cb6" group-title="Football",St. Louis City SC vs Vancouver Whitecaps
+https://papacito.cfd/m3u/1970661/live.m3u8
+#EXTINF:-1 tvg-id="streamed:nashville-sc-vs-sporting-kansas-city-2407137" tvg-name="Nashville SC vs Sporting Kansas City" tvg-logo="https://cdn.highfly.to/posters/nashville-sc-vs-sporting-kansas-city-2407137_UTC.webp?v=247a3eef" group-title="Football",Nashville SC vs Sporting Kansas City
+https://papacito.cfd/m3u/1970655/live.m3u8
+#EXTINF:-1 tvg-id="streamed:nashville-sc-vs-sporting-kansas-city-2407137" tvg-name="Nashville SC vs Sporting Kansas City" tvg-logo="https://cdn.highfly.to/posters/nashville-sc-vs-sporting-kansas-city-2407137_UTC.webp?v=247a3eef" group-title="Football",Nashville SC vs Sporting Kansas City
+https://papacito.cfd/m3u/605382/live.m3u8
