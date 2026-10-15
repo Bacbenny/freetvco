@@ -1,37 +1,35 @@
 #EXTM3U
 # Generated from https://sports.highfly.dev/manifest.json
-# Generated at 2026-10-15T11:50:03.071Z
+# Generated at 2026-10-15T15:56:38.267Z
 #EXTINF:-1 tvg-id="leaf:au-f343434" tvg-name="AU : FOX SPORTS 504 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-f343434_UTC.webp?v=1aef3c145dca0ac6" group-title="Afl",AU : FOX SPORTS 504 HD
-https://papacito.cfd/m3u/au-f343434/live.m3u8
+https://papacito.cfd/m3u/au-f343434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiYXUtZjM0MzQzNCIsImlhdCI6MTc5MjA3OTYyNywiZXhwIjoxNzkyMTA4NDI3LCJpcCI6IjUyLjE2NS4xMDEuMTk2In0.1DcJQdvi7dnt5zVDlYJX6ySjAquvoxV5Ic04obCEFrA
 #EXTINF:-1 tvg-id="leaf:au-fox-34434" tvg-name="AU : FOX SPORTS 502 HD" tvg-logo="https://cdn.highfly.to/leaf_posters/au-fox-34434_UTC.webp?v=cf73b0d1c3952760" group-title="Rugby",AU : FOX SPORTS 502 HD
-https://papacito.cfd/m3u/au-fox-34434/live.m3u8
+https://papacito.cfd/m3u/au-fox-34434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiYXUtZm94LTM0NDM0IiwiaWF0IjoxNzkyMDc5NjI3LCJleHAiOjE3OTIxMDg0MjcsImlwIjoiNTIuMTY1LjEwMS4xOTYifQ.2sCIcgkzGn9knKrkgr60Cyrs_0bIsFYBpnBuIysVREk
 #EXTINF:-1 tvg-id="leaf:ca-34343344" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-34343344_UTC.webp?v=612bdd602c634882" group-title="Sports",CA : TSN 1
-https://papacito.cfd/m3u/ca-34343344/live.m3u8
+https://papacito.cfd/m3u/ca-34343344/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiY2EtMzQzNDMzNDQiLCJpYXQiOjE3OTIwNzk2MjgsImV4cCI6MTc5MjEwODQyOCwiaXAiOiI1Mi4xNjUuMTAxLjE5NiJ9.JZZc4OWoenNi_rYLgRg-dnTHJnLO6YQ3tQVX3AhMRG4
 #EXTINF:-1 tvg-id="leaf:ca-34343344" tvg-name="CA : TSN 1" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-34343344_UTC.webp?v=612bdd602c634882" group-title="Sports",CA : TSN 1
-https://papacito.cfd/m3u/ca-343434/live.m3u8
+https://papacito.cfd/m3u/ca-343434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiY2EtMzQzNDM0IiwiaWF0IjoxNzkyMDc5NjI4LCJleHAiOjE3OTIxMDg0MjgsImlwIjoiNTIuMTY1LjEwMS4xOTYifQ.Kiibx4haaHS3YjBzrN-obQYF_LxBOQCZyIm28gGESyI
 #EXTINF:-1 tvg-id="leaf:ca-t34343443" tvg-name="CA : TSN 5" tvg-logo="https://cdn.highfly.to/leaf_posters/ca-t34343443_UTC.webp?v=5d065cc8975c438d" group-title="Sports",CA : TSN 5
-https://papacito.cfd/m3u/ca-t34343443/live.m3u8
+https://papacito.cfd/m3u/ca-t34343443/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiY2EtdDM0MzQzNDQzIiwiaWF0IjoxNzkyMDc5NjI5LCJleHAiOjE3OTIxMDg0MjksImlwIjoiNTIuMTY1LjEwMS4xOTYifQ.rUElL_CpeLH0uqfgg06lWK_MAP-SrPoqm8x5kNt1FSY
 #EXTINF:-1 tvg-id="leaf:now-334434" tvg-name="(FHD) : SKY SPORTS GOLF" tvg-logo="https://cdn.highfly.to/leaf_posters/now-334434_UTC.webp?v=3a59496b7394cc42" group-title="Golf",(FHD) : SKY SPORTS GOLF
-https://papacito.cfd/m3u/now-334434/live.m3u8
+https://papacito.cfd/m3u/now-334434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LTMzNDQzNCIsImlhdCI6MTc5MjA3OTYyOSwiZXhwIjoxNzkyMTA4NDI5LCJpcCI6IjUyLjE2NS4xMDEuMTk2In0.0KrZvStHdvhAtCxTguIe7xfxL9MV4DJ627zbxsl8nfU
 #EXTINF:-1 tvg-id="leaf:now-343333" tvg-name="US : FOX SPORTS 1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-343333_UTC.webp?v=2d1701a19bab8c37" group-title="Sports",US : FOX SPORTS 1
-https://papacito.cfd/m3u/now-343333/live.m3u8
+https://papacito.cfd/m3u/now-343333/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LTM0MzMzMyIsImlhdCI6MTc5MjA3OTYzMCwiZXhwIjoxNzkyMTA4NDMwLCJpcCI6IjUyLjE2NS4xMDEuMTk2In0.KKRWauSCPpnBNqgi3IjrovWEXnUs2tDYNPhuaXiQwKk
 #EXTINF:-1 tvg-id="leaf:now-3434343" tvg-name="(FHD) : TNT SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-3434343_UTC.webp?v=126b4964015e12fa" group-title="Sports",(FHD) : TNT SPORT 1
-https://papacito.cfd/m3u/now-3434343/live.m3u8
+https://papacito.cfd/m3u/now-3434343/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LTM0MzQzNDMiLCJpYXQiOjE3OTIwNzk2MzAsImV4cCI6MTc5MjEwODQzMCwiaXAiOiI1Mi4xNjUuMTAxLjE5NiJ9.v17YGbwiot632jm_e3LrhhkHe6GvR6PPRKNBgjzC9Rw
 #EXTINF:-1 tvg-id="leaf:now-344343" tvg-name="(FHD) : SKY SPORTS F1" tvg-logo="https://cdn.highfly.to/leaf_posters/now-344343_UTC.webp?v=b9e28a51701efd01" group-title="Motor Sports",(FHD) : SKY SPORTS F1
-https://papacito.cfd/m3u/now-344343/live.m3u8
+https://papacito.cfd/m3u/now-344343/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LTM0NDM0MyIsImlhdCI6MTc5MjA3OTYzMSwiZXhwIjoxNzkyMTA4NDMxLCJpcCI6IjUyLjE2NS4xMDEuMTk2In0.l6dNZmst3aNCMKf7Bj4NGESXtJWR1A2haN5F5EwSDSE
 #EXTINF:-1 tvg-id="leaf:now-s34434" tvg-name="(FHD) : SKY SPORTS TENNIS" tvg-logo="https://cdn.highfly.to/leaf_posters/now-s34434_UTC.webp?v=ba7aae33892e4960" group-title="Tennis",(FHD) : SKY SPORTS TENNIS
-https://papacito.cfd/m3u/now-s34434/live.m3u8
+https://papacito.cfd/m3u/now-s34434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LXMzNDQzNCIsImlhdCI6MTc5MjA3OTYzMiwiZXhwIjoxNzkyMTA4NDMyLCJpcCI6IjUyLjE2NS4xMDEuMTk2In0.379E_oax4IBzBdTevnBfuU1a_TDIwkZIl6HWR2luQ-Q
 #EXTINF:-1 tvg-id="leaf:now-sky3434" tvg-name="(FHD) : SKY SPORTS CRICKET" tvg-logo="https://cdn.highfly.to/leaf_posters/now-sky3434_UTC.webp?v=a1af3a4f541af5a0" group-title="Cricket",(FHD) : SKY SPORTS CRICKET
-https://papacito.cfd/m3u/now-sky3434/live.m3u8
+https://papacito.cfd/m3u/now-sky3434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LXNreTM0MzQiLCJpYXQiOjE3OTIwNzk2NDQsImV4cCI6MTc5MjEwODQ0NCwiaXAiOiI1Mi4xNjUuMTAxLjE5NiJ9._OfxHikj1rMgUTI8H4XkfSTFd9phHtTZin3q03ZAqEw
 #EXTINF:-1 tvg-id="leaf:now-t3434434" tvg-name="(FHD) : TNT SPORT 2" tvg-logo="https://cdn.highfly.to/leaf_posters/now-t3434434_UTC.webp?v=e0306837b5469c5d" group-title="Sports",(FHD) : TNT SPORT 2
-https://papacito.cfd/m3u/now-t3434434/live.m3u8
+https://papacito.cfd/m3u/now-t3434434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LXQzNDM0NDM0IiwiaWF0IjoxNzkyMDc5NjU1LCJleHAiOjE3OTIxMDg0NTUsImlwIjoiNTIuMTY1LjEwMS4xOTYifQ.ZJfdro7XTJj-ZbmHdJAccLrHTE6BMLsc8UV2Xocmp8I
 #EXTINF:-1 tvg-id="leaf:now434343434" tvg-name="(FHD) : SKY SPORTS NEWS HQ" tvg-logo="https://cdn.highfly.to/leaf_posters/now434343434_UTC.webp?v=e6fbee680a063a1c" group-title="Sports",(FHD) : SKY SPORTS NEWS HQ
-https://papacito.cfd/m3u/now434343434/live.m3u8
+https://papacito.cfd/m3u/now434343434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93NDM0MzQzNDM0IiwiaWF0IjoxNzkyMDc5NjU2LCJleHAiOjE3OTIxMDg0NTYsImlwIjoiNTIuMTY1LjEwMS4xOTYifQ.JGSbEbRPC8HxwBkZ9alkEI5UQYIy9RXtSn9gpeR1jZk
 #EXTINF:-1 tvg-id="leaf:nz-sky-sport-1" tvg-name="NZ : SKY SPORT 1" tvg-logo="https://cdn.highfly.to/leaf_posters/nz-sky-sport-1_UTC.webp?v=6bc86146864cba4e" group-title="Rugby",NZ : SKY SPORT 1
-https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8
+https://papacito.cfd/m3u/nz-sky-sport-1/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibnotc2t5LXNwb3J0LTEiLCJpYXQiOjE3OTIwNzk2NjcsImV4cCI6MTc5MjEwODQ2NywiaXAiOiI1Mi4xNjUuMTAxLjE5NiJ9.VXQ5vfXqVQgUJnikqwH2LdSFM-hGoHleGOPcJXq7oyM
 #EXTINF:-1 tvg-id="leaf:us-388383" tvg-name="US : ESPN HD" tvg-logo="https://cdn.highfly.to/leaf_posters/us-388383_UTC.webp?v=a26dc952bd4f35da" group-title="Sports",US : ESPN HD
-https://papacito.cfd/m3u/us-388383/live.m3u8
+https://papacito.cfd/m3u/us-388383/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoidXMtMzg4MzgzIiwiaWF0IjoxNzkyMDc5NjY4LCJleHAiOjE3OTIxMDg0NjgsImlwIjoiNTIuMTY1LjEwMS4xOTYifQ.MAXM35J1NiuljehIF7dgI2qulIxCEwG-V9_sUx_g2ps
 #EXTINF:-1 tvg-id="leaf:us-454545" tvg-name="US : TENNIS CHANNEL" tvg-logo="https://cdn.highfly.to/leaf_posters/us-454545_UTC.webp?v=9efa40834bc8668f" group-title="Tennis",US : TENNIS CHANNEL
-https://papacito.cfd/m3u/us-454545/live.m3u8
-#EXTINF:-1 tvg-id="streamed:rugby-australia-new-zealand-rlwc-20741" tvg-name="Australia vs New Zealand" tvg-logo="https://cdn.highfly.to/posters/rugby-australia-new-zealand-rlwc-20741_UTC.webp?v=04443ddf" group-title="Rugby",Australia vs New Zealand
-https://papacito.cfd/m3u/587989/live.m3u8
+https://papacito.cfd/m3u/us-454545/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoidXMtNDU0NTQ1IiwiaWF0IjoxNzkyMDc5Njc5LCJleHAiOjE3OTIxMDg0NzksImlwIjoiNTIuMTY1LjEwMS4xOTYifQ._QnJo4dft3YBPvv28ZC70PRgBb4UlFybpIf8bTgPBEM
